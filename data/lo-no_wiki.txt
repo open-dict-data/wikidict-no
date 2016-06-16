@@ -1,0 +1,1256 @@
+ທະວີບອາຟະລິກ	Afrika
+ປະເທດຍີ່ປຸ່ນ	Japan
+ທະວີບອາເມລິກາໃຕ້	Sør-Amerika
+ປະເທດນອກແວດ	Norge
+ປະເທດອັງກິດ	England
+ປະເທດເອກົດ	Skottland
+ປະເທດການ	Wales
+ປະເທດອຽກລັງ	Irland
+ປະເທດຮົງກະລີ	Ungarn
+ປະເທດແອສະປາຍ	Spania
+ສະຫະລັດອາເມລິກາ	USA
+ປະເທດແບນຊິກ	Belgia
+ປະເທດລູກຊຳບວກ	Luxembourg
+ໂລກ	Jorden
+ປະເທດແຟງລັງ	Finland
+ປະເທດຊູແອດ	Sverige
+ປະເທດດານມາກ	Danmark
+ປະເທດໂປໂລຍ	Polen
+ປະເທດລີຕົວນີ	Litauen
+ປະເທດອິຕາລີ	Italia
+ປະເທດສະວິດ	Sveits
+ປະເທດໂອຕະລິດ	Østerrike
+ປະເທດກະແລັດ	Hellas
+ປະເທດຕວກກີ	Tyrkia
+ເບຍ	Øl
+ປະເທດປອກຕຸຍການ	Portugal
+ທະວີບເອີລົບ	Europa
+ອາຊີ	Asia
+ທະວີບອາເມລິກາເໜືອ	Nord-Amerika
+ທະວີບອັງຕາກຕິກ	Antarktika
+ວິກິພີເດຍ	Wikipedia
+ປະເທດໂຮນລັງ	Nederland
+ຄອມພິວເຕີ	Datamaskin
+ອິນເຕີເນັດ	Internett
+ບາຣັກ ໂອບາມາ	Barack Obama
+ປະເທດອູຣູກວາຍ	Uruguay
+ຈັກພິມ	Skriver
+ລອນດອນ	London
+ປາລີ	Paris
+ແອນດຣອຍດ໌	Android
+ກູໂກລ	Google
+ປະເທດເມັກຊິກ	Mexico
+ມະຫາສະໝຸດອັດລັງຕິກ	Atlanterhavet
+ມະຫາສະໝຸດປາຊີຟິກ	Stillehavet
+ວັນຈັນ	Mandag
+ເດືອນມັງກອນ	Januar
+ກຸມພາ	Februar
+ມີນາ	Mars (måned)
+ເມສາ	April
+ພຶດສະພາ	Mai
+ມິຖຸນາ	Juni
+ກໍລະກົດ	Juli
+ສິງຫາ	August
+ກັນຍາ	September
+ຕຸລາ	Oktober
+ພະຈິກ	November
+ທັນວາ	Desember
+ວັນອັງຄານ	Tirsdag
+ວັນພຸດ	Onsdag
+ວັນພະຫັດ	Torsdag
+ວັນສຸກ	Fredag
+ວັນເສົາ	Lørdag
+ວັນອາທິດ	Søndag
+ປະເທດຝະລັ່ງ	Frankrike
+ໝາ	Tamhund
+ສະຫະລາຊະອານາຈັກ	Storbritannia
+ແມວ	Tamkatt
+ປະເທດຈີນ	Folkerepublikken Kina
+ພາສາຝະລັ່ງ	Fransk
+ປະເທດບະເຣຊິນ	Brasil
+ປະເທດລັດເຊຍ	Russland
+ຮູບຈັດຕຸລັດ	Kvadrat
+ທະເລ	Hav
+ແຂວງເກແບັກ	Québec
+ປະເທດເຢຍລະມັນ	Tyskland
+ປະເທດບີເອໂລລຸດ	Hviterussland
+ປະເທດອີສະລັງ	Island
+ປະເທດແອສະໂຕນີ	Estland
+ຍົນ	Fly
+ຮູບສີ່ແຈສາກ	Rektangel
+ມຸມສາກ	Rettvinklet
+ປະເທດແລດໂຕນີ	Latvia
+ປະເທດອູກະແລນ	Ukraina
+ສາທາລະນະລັດແຊັກ	Tsjekkia
+ປະເທດສະໂລວາກີ	Slovakia
+ປະເທດສະໂລເວນີ	Slovenia
+ປະເທດລູມານີ	Romania
+ປະເທດບູນກາລີ	Bulgaria
+ປະເທດມາເຊດວນ	Republikken Makedonia
+ປະເທດກະໂລອາຊີ	Kroatia
+ປະເທດບົດສະນີແຮກເຊໂກວີນ	Bosnia-Hercegovina
+ປະເທດອາແຊກບາຍຊັງ	Aserbajdsjan
+ປະເທດອັງດອກ	Andorra
+ປະເທດຊີບ	Republikken Kypros
+ປະເທດເຊອັອກຊີ	Georgia
+ປະເທດມານ	Malta
+ປະເທດໂມນາໂກ	Monaco
+ປະເທດແຊັງມາແລງ	San Marino
+ຫໍແອບແຟນ	Eiffeltårnet
+ຄີບອດ	Tastatur
+ປະເທດອິນໂດເນເຊຍ	Indonesia
+ໂທລະພາບ	Fjernsyn
+ປະເທດຈີເລ	Chile
+ພຣະເຢຊູ	Jesus Kristus
+ປະຫວັດສາດ	Historie
+ພາສາ	Språk
+ລະບອບຜະເດັດການ	Diktatur
+ບິກແບງ	Big Bang
+ດາຣາສາດ	Astronomi
+ປະເທດສິງກະໂປ	Singapore
+ວິທະຍາສາດ	Vitenskap
+ມົງເລອານ	Montréal
+ປະເທດລິກເຕນສະຕາຍ	Liechtenstein
+ກິລາ	Sport
+ອາໂດນ ຮິດແລ	Adolf Hitler
+ເຟດບຸກ	Facebook
+ສົງຄາມໂລກຄັ້ງທີສອງ	Andre verdenskrig
+ໂມງ	Klokke (ur)
+ອຸບຸນຕູ	Ubuntu (operativsystem)
+ຄະນິດສາດ	Matematikk
+ພາສາລາແຕັງ	Latin
+ປະເທດອາກເມນີ	Armenia
+ປະເທດແຊກບີ	Serbia
+ດວງຈັນ	Månen
+ປະເທດອົດສະຕະຣາລີ	Australia
+ວັດຖຸວິທະຍາ	Fysikk
+ປະເທດອາກຊັງຕິນ	Argentina
+ໂທລະຄົມມະນາຄົມ	Telekommunikasjon
+ປະເທດເປຣູ	Peru
+ຊີວະສາດ	Biologi
+ປະເທດກຳປູເຈຍ	Kambodsja
+ໄດໂນເສົາ	Dinosaurer
+ສາສະໜາອິສະລາມ	Islam
+ຈິດ	Sinn
+ສັນຕິພາບ	Fred
+ກາບກອນ	Poesi
+ຈັກກະພັດນາໂປເລອົງທີ 1	Napoléon Bonaparte
+ປີແສງ	Lysår
+ໂອເຊອານີ	Oseania
+ລະບົບສຸລິຍະ	Solsystemet
+ປຶ້ມ	Bok
+ມື້	Dag
+ປີ	År
+ອົກຊີແຊນ	Oksygen
+ດົນຕີ	Musikk
+ພາສາອິຕາລີ	Italiensk
+ອາລູມິນຽມ	Aluminium
+ປະເທດນູແວນເຊລັງ	New Zealand
+ປະເທດປາປົວຊີນູແວນກີເນ	Papua Ny-Guinea
+ປະເທດເວເນຊູເອລາ	Venezuela
+ສັດ	Dyr
+ປະເທດຊູຣີນາມ	Surinam
+ປະເທດປາຣາກວາຍ	Paraguay
+ປະເທດກຸຍຢານ	Guyana
+ສິລະປະ	Kunst
+ປະເທດເອກົວເຕີ	Ecuador
+ປະເທດໂກລົມບີ	Colombia
+ພຸດທະສາສະໜາ	Buddhisme
+ປະເທດໂບລີວີ	Bolivia
+ປະເທດກົວເຕມາລາ	Guatemala
+ປະເທດອີຣານ	Iran
+ປະເທດກົດສະຕາລິກາ	Costa Rica
+ປະເທດລາວ	Laos
+ທະວີບອາເມລິກາ	Amerika
+ງົວ	Storfe
+ປະເທດມາເລເຊຍ	Malaysia
+ປະເທດມຽນມາ	Myanmar
+ປະລາຕົງ	Platon
+ຢູທູບ	YouTube
+ປະເທດໄທ	Thailand
+ລົດໄຟ	Jernbanetog
+ປະເທດຫວຽດນາມ	Vietnam
+ປະເທດເກົາຫຼີໃຕ້	Sør-Korea
+ປະເທດບັງກະລາເທດ	Bangladesh
+ປະເທດອັງໂກລາ	Angola
+ທະວິດເຕີ	Twitter
+ປະເທດບູໄນ	Brunei
+ປະເທດຟີລິບປິນ	Filippinene
+ປັກກິ່ງ	Beijing
+ວິວັດທະນາການ	Evolusjon
+ສະຫະປະຊາຊາດ	De forente nasjoner
+ທໍລະນີສາດ	Geologi
+ພູມສາດ	Geografi
+ສີ	Farge
+ຄຳນາມ	Substantiv
+ປະເທດໂກໂຊໂວ	Kosovo
+ໝວດ:ມູນຖານ	Kategori:Kategorier
+ລະດູໜາວ	Vinter
+ລະດູບານໃໝ່	Vår
+ລະດູຮ້ອນ	Sommer
+ລະດູໃບໄມ້ຫຼົ່ນ	Høst
+ພາສາແອສະປາໂຍນ	Spansk
+ໝາກໄມ້	Frukt
+ເງິນ	Penger
+ລັດນີວຢອກ	New York (delstat)
+Uetersen	Uetersen
+Microsoft Windows	Microsoft Windows
+ໄທບີຣຽສ	Tiberius
+ລົດ	Bil
+ບອກໂດ	Bordeaux
+ໂຕກຽວ	Tokyo
+ບາກເຊໂລນ	Barcelona
+ກາໂຕລິກ	Katolisisme
+ພະຄຳພີ	Bibelen
+ພະນົມເປັນ	Phnom Penh
+ພາສາອັງກິດ	Engelsk
+ບາງກອກ	Bangkok
+ດົງເຮີຍ	Dong Hoi
+ໂກຣິສໂກໂວລາ	Końskowola
+ປີ 2009	2009
+ປີ 2008	2008
+ອາຫານ	Mat
+XML	XML
+ການປະຕິວັດອຸດສາຫະກຳ	Den industrielle revolusjon
+ໄມໂຄຼຊອຟທ໌	Microsoft
+ຄູໂຣ	Kurów
+ເຄມີສາດ	Kjemi
+14 ກຸມພາ	14. februar
+22 ມີນາ	22. mars
+16 ເມສາ	16. april
+ອາໂນນ ຊວາເຊເນກເກີ	Arnold Schwarzenegger
+19 ກໍລະກົດ	19. juli
+ເຕະບານ	Fotball
+ໄອໂຟນ	IPhone
+ເຮືອດຳນ້ຳ	Undervannsbåt
+ໄມເຄິ້ນ ແຈັກຊັ້ນ	Michael Jackson
+ພະລາຊະວັງແວກໄຊ	Slottet i Versailles
+ມະຫາວິຫານນົດ-ດາມ	Notre-Dame
+ໝວດ:ແມ່ແບບ	Kategori:Maler
+ແມ່ນ້ຳອາມາຊົນ	Amazonas
+ໂຮງຮຽນ	Skole
+ມະຫາວິທະຍາໄລ	Universitet
+ວິກິພີເດຍ:Sandbox	Wikipedia:Sandkasse
+ວິກິພີເດຍ:ເລີ່ມຕົ້ນ	Wikipedia:Introduksjon
+ເຮືອນ	Hus
+ທະວີບອົດສະຕະຣາລີ	Australia (kontinent)
+ຮາດແວ	Maskinvare
+ພຶດຊະຄະນິດ	Algebra
+ສະໜາມບິນດົງເຮີຍ	Dong Hoi lufthavn
+ອາວະກາດ	Ytre rom
+ປ່າໄມ້	Skog
+ຂົງຈື້	Konfucius
+ມາຣິລິນ ມອນໂຣ	Marilyn Monroe
+ໝວດ:ຄະນິດສາດ	Kategori:Matematikk
+ເອີໂລ	Euro
+ທະເລເມດີແຕກລາເນ	Middelhavet
+ຄິດຕະສາສະໜາ	Kristendom
+Windows 8	Windows 8
+ເຂົ້າຈ້າວ	Ris
+ທະວີບ	Kontinent
+ສັດປີກ	Fugler
+ນະຄອນຫຼວງ	Hovedstad
+ພາສາປອກຕຸຍການ	Portugisisk
+ເດືອນ	Måned
+1949	1949
+ຕາກດີກະລາດາ	Bjørnedyr
+ພາສາຍີ່ປຸ່ນ	Japansk
+ໜ້າຈໍ	Skjerm (monitor)
+ສາລານຸກົມ	Encyklopedi
+ໜ້າຫຼັກ	Portal:Forside
+ຊີພີຢູ	CPU
+ເຣົາເຕີຣ໌	Ruter (IT)
+ໂຕຕ້ານໄຟຟ້າ	Motstand (resistor)
+ທຣານຊິສເຕີ	Transistor
+ເບດບອນ	Baseball
+ບານບ້ວງ	Basketball
+ກິລາໂອແລມປິກ	Olympiske leker
+ລົດເມ	Buss
+ແຄວ້ນກາຕາໂລຍ	Catalonia
+ການຮ່ວມເພດ	Samleie
+ປັດຊະຍາ	Filosofi
+ຈິມິ ເຮນດຣິກຊ໌	Jimi Hendrix
+ໝວດ:Candidates for speedy deletion	Kategori:Sider som er foreslått raskt slettet
+ອະນາທິປະໄຕ	Anarkisme
+ລັດທິທຶນນິຍົມ	Kapitalisme
+ເວັບເບຣົາວ໌ເຊີຣ໌	Nettleser
+Boeing 737	Boeing 737
+ໝວດ:ດາຣາສາດ	Kategori:Astronomi
+ການປະຕິວັດຝະລັ່ງ	Den franske revolusjon
+ຮັກຮ່ວມເພດ	Homofili
+ອາຫານຝະລັ່ງ	Det franske kjøkken
+ໂຮແມ	Homer
+ພາສາກາຕາລັງ	Katalansk
+ອະເທວະນິຍົມ	Ateisme
+ຫໍສະໝຸດ	Bibliotek
+ນິເວດສາດ	Økologi
+ການເມືອງ	Politikk
+ລະບອບປະຊາທິປະໄຕ	Demokrati
+ໂລກາພິວັດ	Globalisering
+ແຊນ	Gen
+ລັດຖະບານ	Regjering
+ຄວາມສວຍງາມ	Skjønnhet
+ລາຊາທິປະໄຕ	Monarki
+ລັດ	Stat
+ດັງ	Nese
+ເພງ	Sang
+ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ	Pattedyr
+ໂລຊີຊີແອນ	Programvare
+ອາເດແອັນ	DNA
+ແອສະແປດ	Art
+ພາສາລັດເຊຍ	Russisk
+ລັດຖະທຳມະນູນ	Konstitusjon
+ສະມາຄົມປະຊາຊາດແຫ່ງອາຊີຕາເວັນອອກສຽງໃຕ້	Association of Southeast Asian Nations
+ກອງທືນການເງີນລະຫວ່າງປະເທດ	Det internasjonale pengefondet
+ພາສາສະວາຮີລີ	Swahili
+ພາສາຈີນ	Kinesisk
+ທຳມະຊາດ	Natur
+ນ້ຳດື່ມ	Drikkevann
+ພາສາລູມານີ	Rumensk
+ສຶກສາສາດ	Pedagogikk
+ແຮ່ທາດ	Mineral
+ເຊັນ	Zen
+ເມົາສ໌	Datamus
+ປະໂລເຕອິນ	Protein
+ພະຍຸໂທຣນາໂດ	Tornado
+ໄຕມຸມ	Trigonometri
+ເລຂາຄະນິດ	Geometri
+ໄວຍະກອນ	Grammatikk
+ນິນເທັນໂດ	Nintendo
+ເສດຖະສາດ	Samfunnsøkonomi
+ທຶນ	Kapital
+ເງິນຕາ	Valuta
+ເຢນ	Japansk yen
+ອຸດສາຫະກຳ	Industri
+ພາສີ	Skatt
+ພາສາສາດ	Lingvistikk
+ຄຳ (ພາສາສາດ)	Ord
+ໂຕໜັງສືເກຣັກ	Det greske alfabetet
+ວັນນະຄະດີ	Litteratur
+ໝວດ:ປະເທດຝະລັ່ງ	Kategori:Frankrike
+ໝວດ:ດົນຕີ	Kategori:Musikk
+ໝວດ:ວັນນະຄະດີ	Kategori:Litteratur
+ຂັ້ນຕອນວິທີ	Algoritme
+ການສຶກສາ	Utdannelse
+ຄອບຄົວ	Familie
+ກາເຟ	Kaffe
+ນົມ	Melk
+ສົງຄາມເຢັນ	Den kalde krigen
+ຊຽງໄຮ້	Shanghai
+ອິນເຕີຣ໌ເນັຕ ໂປຣໂຕໂຄລ	Internet Protocol
+ໄບຕ໌	Byte
+ບິຕ	Bit
+ຄວາມຮູ້	Kunnskap
+ສາສະໜາພາມ	Hinduisme
+ປະລະມະນູ	Atom
+ພາສາກະເລັກ	Gresk
+ລະບົບປະຕິບັດການ	Operativsystem
+ອີແມລ	E-post
+ສາສະໜາ	Religion
+ພາສາເກົາຫຼີ	Koreansk
+ຕຶກແອັມພາຍສະເຕດ	Empire State Building
+ອະນຸສາວະລີເທພີເສລີພາບ	Frihetsgudinnen
+ພາສາລາວ	Laotisk
+ພາສາໄທ	Thai
+ສາສະໜາຊູດາ	Jødedom
+ພາສາການ	Walisisk
+ສາສະໜາຊິກ	Sikhisme
+ຈອນ ເມນາດ ເຄນ	John Maynard Keynes
+ວຽງຈັນ	Vientiane
+ພຶຕິກຳ	Atferd
+ອາລົມ	Følelser
+ຈິຕະວິທະຍາ	Psykologi
+ຄວາມຄຶດ	Tanke
+ມະຫາສະໝຸດ	Verdenshav
+ຈະລິຍະທຳ	Etikk
+ຍານວິທະຍາ	Erkjennelsesteori
+ເຈດຈຳນົງເສລີ	Fri vilje
+ແກນກາງ	Kjerne (operativsystem)
+ສົມເດັດພະລາຊິນີນາດເອລີຊາແບັດທີ 2 ແຫ່ງສະຫະລາຊະອານາຈັກ	Elisabeth II av Storbritannia
+ຄວາມທຸກຍາກ	Fattigdom
+ຕາລາງທາດ	Periodesystemet
+ເດິນຟິນໜູ	Niser
+ກົກໄມ້	Tre
+ເນີຍແຂງ	Ost
+ຜັກ	Grønnsak
+ໂຣບົດ	Robot
+ເຕັກໂນໂລຊີ	Teknologi
+ກົນຈັກ	Maskin
+ວິສະວະກຳ	Ingeniørvitenskap
+ສານສົນເທດ	Informasjon
+ໜັງສືພິມ	Avis
+ໂທລະສັບ	Telefon
+ວັດທະນະທຳ	Kultur
+ຫມາຍເລກໄອພີ	IP-adresse
+ແພດສາດ	Medisin
+ອົງກອນນິຕິບັນຍັດ	Lovgivende makt
+ຫ້ຽນ	Troll (Internett)
+ສົມຜົນ	Ligning (matematikk)
+ຕຳລາ (ຄະນິດສາດ)	Funksjon (matematikk)
+ກະລູຊິດ	Karbohydrat
+ຮອກມົນ	Hormon
+ເກມ	Spill
+ຂອງຫຼິ້ນ	Leketøy
+ຮູບເງົາ	Film
+ລົດຖີບ	Sykkel
+ກຳປັ່ນ	Skip
+ກະສິກຳ	Landbruk
+ລາຍຊື່ໜ່ວຍນັບເວລາ	Tid
+ເຈ້ຍ	Papir
+ປະລາສະຕິກ	Plast
+ເນື້ອທີ່	Areal
+ຈຳນວນ	Tall
+ຈຳນວນສົນ	Komplekst tall
+ແມັດ	Meter
+ຈິຕະກຳ	Malerkunst
+ນັກອາວະກາດ	Romfarer
+ການຖ່າຍຮູບ	Fotografi
+ການຟ້ອນລຳ	Dans
+ເອເລັກໂຕຣນິກ	Elektronikk
+ສ່ວນປະກອບເອເລັກໂຕຣນິກ	Elektrisk komponent
+ດີອົດ	Diode
+ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ	Informasjons- og kommunikasjonsteknologi
+ຮ້ານອາຫານ	Restaurant
+ອາຊີຕາເວັນອອກສຽງໃຕ້	Sørøst-Asia
+ບະລັງແນດ	Snøhvit (eventyr)
+ຊັງດີຢົງ	Askepott
+ປະຕິທິນ	Kalender
+ເຂດເວລາ	Tidssone
+ສຸຂະພາບ	Helse
+ເອດສ໌	Aids
+ສະຖາປັດຕະຍະກຳ	Arkitektur
+ຂົວ	Bro
+ເຂົ້າໜົມມາກາຣົງ	Makroner
+ສະຖິຕິສາດ	Statistikk
+ຈຳນວນຖ້ວນ	Heltall
+ເຂື່ອນສາມຜາ	De tre kløfters demning
+ຍຸກແສງສະຫວ່າງ	Opplysningstiden
+ສະໄໝກາງ	Middelalderen
+ລວມຍອດຜະລິດຕະພັນພາຍໃນ	Bruttonasjonalprodukt
+ແຟຊັ້ນ	Mote
+ລູກຄິດ	Abakus (kuleramme)
+ຄາບສະໝຸດອີເບລີ	Den iberiske halvøy
+ຈຳນວນຈິງ	Reelt tall
+ໝາກຟະແລດ	Hagejordbær
+ໝາກກ້ຽງ	Appelsin
+ພາສາຈ້ວງ	Zhuang (språk)
+ພາສານາວາເທິນ	Nahuatl
+ສິ່ງແວດລ້ອມສໍາລັບການພັດທະນາແບບຮວບຮວມ	Integrert utviklingsmiljø
+ພາສາອາຣັບ	Arabisk
+ພາສາອົກຊີຕັງ	Oksitansk
+ນາຍົກລັດຖະມົນຕີ	Premierminister
+ສໍດຳ	Blyant
+ໂຕະ	Bord (møbel)
+ແທັງເກີ	Tankskip
+ກວາງຄໍຍາວ	Sjiraff
+ພາສາເຊ	C (programmeringsspråk)
+ວິກິພີເດຍ:ບົດຄວາມດີເດັ່ນ	Wikipedia:Utmerkede artikler
+ວິກິພີເດຍ:Village pump	Wikipedia:Tinget
+ກວ່າງໂຈວ	Guangzhou
+ໂຮງໜໍ	Sykehus
+ການສົມລົດເພດດຽວກັນ	Likekjønnet ekteskap
+ໂທລະສັບມືຖື	Mobiltelefon
+ລົດສະນິຍົມທາງເພດ	Seksuell orientering
+ງົວປ່າອາເມລິກາ	Bison
+ບານເຕະໂລກ	Verdensmesterskapet i fotball
+ຍາຈາງ	Nha Trang
+ສາທາລະນະສົມບັດ	Offentlig eiendom
+ກຸ່ມພາສາໂລມັງ	Romanske språk
+ຮູບສາມແຈ	Trekant
+ຈຳນວນທຳມະຊາດ	Naturlig tall
+ສັດທະອັກສອນສາກົນ	Det internasjonale fonetiske alfabetet
+ສະມາດໂຟນ	Smarttelefon
+ພິກັດພູມສາດ	Geografiske koordinater
+ເກີບ	Sko
+ເສລີພາບໃນການເວົ້າ	Ytringsfrihet
+ສວນສາທາລະນະ	Park
+ສັບປະດາ	Ukedager
+ຜັກທຽມ	Hvitløk
+ມະນຸດສາດ	Antropologi
+ເອແດມບວກ	Edinburgh
+កោះ	Øy
+ພາສາລັດຖະການ	Offisielt språk
+ບູຮານວິທະຍາ	Arkeologi
+ອຸດທະຍານແຫ່ງຊາດຟົງ ງາ-ເຄ ບັງ	Phong Nha-Ke Bang nasjonalpark
+ແຂວງກວາງບິນ	Quang Binh (provins)
+ເສັ້ນສູນສູດ	Ekvator
+ປະໂລແຕສະຕັງ	Protestantisme
+ວັດຈະນານຸກົມ	Ordbok
+ເພງຊາດ	Nasjonalsang
+ຄຳກຳມະ	Verb
+ພາສາແຟໂລ	Færøysk
+ສັດກິນຊີ້ນ	Rovpattedyr
+ເກາະຊີແລນ	Sjælland
+ເຮືອຂ້າມຟາກ	Ferje
+Józef Gosławski	Józef Gosławski
+ການຂັບລຳ	Vokalist
+ເສັ້ນຜົມ	Hår
+ວິຊາຊີບ	Profesjon
+ຜົນຕຳລາ	Derivasjon
+ບລອກ	Blogg
+ນົກແກ້ວ	Papegøyefugler
+ຊື່ໂດເມນ	Domenenavn
+ມ້າລາຍ	Sebra
+ເລກມາຕະຖານສາກົນປະຈຳປຶ້ມ	ISBN
+ພາສາຈາໂມໂລ	Chamorro (språk)
+ພາສາເຈໂລກີ	Cherokesisk
+ຈິຕະນິຍົມ	Idealisme
+ເສັ້ນຂະໜານ	Breddegrad
+ໝວດ:ພາສາໂປແກມ	Kategori:Programmeringsspråk
+ຈັດສະຕິນ ບີເບີ	Justin Bieber
+ກຸ່ມພາສາໄທ-ກະໄດ	Tai-kadai-språk
+ເນີຍ	Smør
+ເທວະວິທະຍາ	Teologi
+ນ້ຳຕົກຕາດນີອາກາລາ	Niagarafallene
+ໂຫລາສາດ	Astrologi
+ຫົງ	Svaner
+ຫົນທາງ	Vei
+ເຮລີກົບແຕ	Helikopter
+ລົດຈັກ	Motorsykkel
+ມ້າແມ່ນ້ຳ	Vanlig flodhest
+ສັງຄົມສາດ	Samfunnsvitenskap
+ແຫຼມ	Halvøy
+ລະຫັດໂທລະສັບລະຫວ່າງປະເທດ	Landsnumre for telefon
+ຟົວກາ	Gåselever
+ມົນທົນ	Provins
+ໝາກຫຸ່ງ	Papaya
+ວິຕາມິນ	Vitamin
+ເວັບໄຊຕ໌	Nettsted
+ກວາງອູດ	Elg
+ເສືອອາເມລິກາ	Jaguar
+ສະພາ	Parlament
+ສະພາວະເງິນເຟີ້	Inflasjon
+ເຮືອ	Båt
+ໂປລີເນຊີ	Polynesia
+ດຽນບຽນຟູ	Dien Bien Phu
+ໝີໄຮ້ຫາງ	Koala
+ເສັ້ນແວງ	Lengdegrad
+ສະຫັດສະວັດ	Millennium
+ຊ້າງຂົນຍາວ	Mammuter
+ອອງ ຊານ ຊຸຈີ	Aung San Suu Kyi
+ໄຂ້ຫວັດຫມູ	Svineinfluensa
+ເສິນຫຼົງ	Jackie Chan
+ເອກະລາດ	Uavhengighet
+ມະຣິວຸລ	Mariupol
+ມະຫາປີລະມິດ ແຫ່ງ ກິຊາ	Kheopspyramiden
+ISO 4217	ISO 4217
+ຕະຫຼາດ	Marked
+ກະໂລໂມຊົມ	Kromosom
+ມັນດ້າງ	Søtpotet
+ພະຍັນຊະນະ	Konsonant
+ນ້ຳຕົກຕາດຄອນພະເພັງ	Mekongfossen
+ຟີລຳ	Rekke (biologi)
+ພະເຈົ້າຮົງລີທີ 8 ແຫ່ງອັງກິດ	Henrik VIII av England
+ຂ່າວ	Nyhet
+ດັດສະນີການພັດທະນາມະນຸດ	HDI
+ເສດຖະສາດຈຸນລະພາກ	Mikroøkonomi
+ສັດລ້ຽງ	Kjæledyr
+ເລເຈບ ໄຕຢິບ ແອໂດກັນ	Recep Tayyip Erdoğan
+ນໍ້າມັນເຊື້ອໄຟ	Bensin
+ເສດຖະສາດມະຫາພາກ	Makroøkonomi
+ສະໜວນກາຊາ	Gazastripen
+ເຄື່ອງດື່ມ	Drikke
+ປະໂລກະລຳ ແອງຟອກມາຕິກ	Dataprogram
+ຍານອາວະກາດ	Romskip
+ເຈັນນິເຟີຣ໌ ໂລເປສ	Jennifer Lopez
+ມີດຕັດ	Saks
+ຊ້າງທະເລ	Hvalross
+ຕຶກ	Bygning
+ແມ່ນ້ຳຂອງ	Mekong
+ວາລະສານ	Tidsskrift
+ສານ	Domstol
+Rupiah ອິນໂດເນເຊຍ	Indonesisk rupiah
+ປະໂຫຍກ	Setning (grammatikk)
+.la	.la
+ສວນລອຍຟ້າບາບິລອນ	Babylons hengende hager
+ໝາແຜງ	Hyenefamilien
+ພິ່ນອິ່ນ	Pinyin
+ເຊື້ອໄຟ	Drivstoff
+ອູດແກະໃຫຍ່	Lama
+ຄວາຍ	Vannbøffel
+Long Thanh International Airport	Long Thanh internasjonale lufthavn
+ນ້ຳມັນ	Olje
+ວິນຍານນິຍົມ	Animisme
+ບໍລິການຂໍ້ຄວາມສັ້ນ	Short Message Service
+ເຮືອນຄົວ	Kjøkken
+ຮັກຮ່ວມສອງເພດ	Bifili
+ເອສົບ	Æsop
+ສິ່ງແວດລ້ອມ	Miljø
+ໂກແລສະເຕໂລນ	Kolesterol
+ສະຫະພັນທະລັດ	Føderasjon
+ໄຂ້ຫວັດນົກ	Fugleinfluensa
+ມາຕຣິກ	Matrise
+ຕຳນານ	Legende
+ເທວາທິປະໄຕ	Teokrati
+ຂົວໂກນເດນເກດ	Golden Gate Bridge
+ໝາກສຸກ ໝາກໃສ	Vannkopper
+ທ່າເຮືອ	Havn
+Vaishnavism	Vaishnavisme
+ໝາກມີ້	Jackfrukt
+ທຸງຊາດລາວ	Laos' flagg
+ໃບສະຫຼຸບຊັບສົມບັດ	Balanse (økonomi)
+ສາຍການບິນ	Flyselskap
+ເສດຖະສາດສາກົນ	Internasjonal økonomi
+ວັນກຳມະກອນສາກົນ	Arbeidernes internasjonale kampdag
+ລາດາ	Radar
+ແມ່ແບບ:Commonscat	Mal:Commonscat
+ຈັກກະວັດແອສະປາຍ	Imperium
+ມະຫາຍານ	Mahayana
+ກະສວຍອາວະກາດ	Romferge
+ການທ່ອງທ່ຽວ	Turisme
+ຕູ້ໄປສະນີ	Innleveringspostkasse
+Visual Basic .NET	Visual Basic .NET
+ໝວດ:ລັດຖະບານ	Kategori:Myndigheter
+ໝວດ:ຄວາມຮັກ	Kategori:Kjærlighet
+ສະຖານີລົດໄຟ	Jernbanestasjon
+ພາສາເຮົາຊາ	Hausa
+ຈູມມະລີ ໄຊຍະສອນ	Choummaly Sayasone
+ຫງວຽນເຕິນຢຸງ	Nguyễn Tấn Dũng
+ຍິ່ງລັກ ຊິນນະວັດ	Yingluck Shinawatra
+ກ້ອງດິຈິຕອນ	Digitalkamera
+ອັດຕາແລກປ່ຽນ	Valutakurs
+ທະນາຄານກາງ	Sentralbank
+ການຜັງເມືອງ	Byplanlegging
+ຮອບບິດ (ປຶ້ມ)	Hobbiten
+ຄະນາທິປະໄຕ	Oligarki
+ບານເຕະໂລກ 2014	VM i fotball 2014
+ການແຍກໃຊ້ອຳນາດ	Maktfordelingsprinsippet
+ໝາກກ້ຽງໃຫຍ່	Pomelo
+ວົງຈອນພອນ	Mungofamilien
+ວິສະວະກຳໂລຊີຊີແອນ	Programvareutvikling
+ອູດແກະ	Alpakka
+ຄວາມກົດອາກາດ	Atmosfærisk trykk
+ບ່ວງ	Skje
+ໄມ້ຖູ່	Spisepinner
+ກຳລັງຊື້ທຽບຖານ	Kjøpekraftsparitet
+ເຄື່ອງໝາຍວັກ	Tegnsetting
+ຕັກຊີ	Drosje
+ຄຳອຸທານ	Interjeksjon
+ພຽງພອນເໝັນ	Stinkdyrfamilien
+ເຊລີນ້າ ໂກເມຊ	Selena Gomez
+ໂຮງງານ	Fabrikk
+ບານເຕະທີມຊາດບະເລຊິນ	Brasils herrelandslag i fotball
+ບານໂປໂລຍ	Polenball
+ຕຳລາໄຕມຸມ	Trigonometriske funksjoner
+ຄຣິສຕະຈັກເຊເວັນເດ ແອັດເວັນຕິສ	Syvendedags Adventistsamfunnet
+PAL	PAL
+ອຳນາດຕຸລາການ	Dømmende makt
+ຄວາມສະເໝີພາກທາງເພດ	Kjønnslikestilling
+ລັດທິ	Doktrine
+ກະລັງກັງຢົງ	Grand Canyon
+ແມ່ນ້ຳເຈົ້າພະຍາ	Chao Phraya
+ຊຸບເປີຄອມພິວເຕີ	Superdatamaskin
+ໂຄງສ້າງພື້ນຖານ	Infrastruktur
+ໜູລ້າງນ້ຳ	Vanlig vaskebjørn
+ຕົ້ນໂຣສ ເມຣີ	Rosmarin
+ປະເທດທີ່ບໍ່ມີທາງອອກສູ່ທະເລ	Liste over verdens innlandsstater
+ເວັກເຕີ	Vektorrom
+ປຶ້ມເອເລັກໂຕຣນິກ	E-bok
+ພາສີມູນຄ່າເພີ່ມ	Merverdiavgift
+ພະເຈົ້າເອດູອາກທີ 3 ແຫ່ງອັງກິດ	Edvard III av England
+Mikoyan MiG-29	Mikojan-Gurevitsj MiG-29
+ການພັດທະນາແບບຍືນຍົງ	Bærekraftig utvikling
+ອ່າວໄທ	Siambukten
+ການວາງແຜນຊັບພະຍາກອນຂອງອົງກອນ	Enterprise resource planning
+ນິກາຍເຖຣະວາດ	Theravada
+ໂທລະພາບຄວາມລະອຽດສູງ	High Definition TV
+ທຸງຊາດໄທ	Thailands flagg
+ດຸນການຊຳລະ	Betalingsbalanse
+ການຊອກຄ່າເໝາະສົມ (ຄະນິດສາດ)	Optimering
+ລະດູແລ້ງ	Tørketid
+Phu Quoc	Phú Quốc
+ປະເທດລາວໃນໂອລິມປິກລະດູຮ້ອນ 2008	Laos under Sommer-OL 2008
+ວິກິພີເດຍ:ຂໍໃຫ້ຂະຫຍາຍ	Hjelp:Redigering
+Leopard 2	Leopard 2
+ວົງຜື	Halvgrasfamilien
+ເດຈາວູ	Déjà vu
+Eurocopter Tiger	Eurocopter Tiger
+ເສດຖະກິດ	Økonomi
+ເອໂຄໂນເມທຣິກ	Økonometri
+ລາຄາ	Pris (økonomi)
+ມະຫາວິທະຍາໄລເອແດມບວກ	University of Edinburgh
+ສຳປະສິດຈິນີ	Gini-koeffisient
+ກາຕະລີນແຫ່ງອາລາກົງ	Katarina av Aragon
+ໝາກເຜັດ	Paprikaslekta
+ບິກ	Penn
+ໝາກກ້າຍ	Kokebanan
+ທືນສັບພະຍາກອນມະນຸດ	Menneskelig kapital
+ການສະໜອງ ແລະ ຄວາມຕ້ອງການ	Tilbud og etterspørsel
+ຊອດໄຂ່ແດງ	Majones
+ENIAC	ENIAC
+ຊຸດຈຳນວນ	Rekke (matematikk)
+ພັດທະຍາ	Pattaya
+ດອກເບ້ຍ	Rente
+ຫຸ່ນຍົນສາດ	Robotikk
+Boeing AH-64 Apache	Boeing AH-64 Apache
+ອຸປະຕິເຫດ	Ulykke
+ຢາງລຶບ	Viskelær
+ເຂື່ອນຮູເວີ	Hooverdammen
+ນູເມລິກ	Digital informasjon
+ລະບົບມາດຕະຖານຄຳ	Gullstandard
+Sukhoi Su-27	Sukhoj Su-27
+ການບັນເທີງ	Underholdning
+កាំ	Radius
+ມະຫາວິຫານແຊັງໂປນ	St. Pauls katedral
+ຍິວວິທະຍາໄລຂອງເຢຣູຊາເລັມ	Det hebraiske universitetet i Jerusalem
+ມະຫາວິທະຍາໄລແຄລິຟໍເນຍ ລອດແອນເຈລິດ	University of California, Los Angeles
+ຊັງຕີແມັດ	Centimeter
+ມິລີແມັດ	Millimeter
+ມິໂກຣແມັດ	Mikrometer
+ເສດຖະກິດຕົກຕໍ່າ	Resesjon
+ເມນເຟຣມ	Stormaskin
+ບໍ່ນ້ຳຮ້ອນ	Varm kilde
+ເນັຕບຸກ	NettPC
+ນະໂຍບາຍເງິນຕາ	Pengepolitikk
+ນາໂນແມັດ	Nanometer
+ການຄ້າສາກົນ	Internasjonal handel
+ຈອຍສະຕິກ	Joystick
+ລົດໂຮງໝໍ	Ambulanse
+ຈັງຫວັດພູເກັດ	Phuket (provins)
+ເສັ້ນສະແດງ	Funksjonsgrafen
+ສູດເຮລົງ	Herons formel
+ຕົ້ນທຶນໂອກາດ	Alternativkostnad
+ວົງເຫງັນ	Snikekattfamilien
+ນະໂຍບາຍການເງິນ	Finanspolitikk
+ເຄື່ອງໝາຍຊາດຂອງໄທ	Thailands riksvåpen
+ຕຳລາເສັ້ນຊື່	Lineær funksjon
+ປະຊາທິປະໄຕແບບມີຜູ້ແທນ	Representativt demokrati
+ທະນາຄານພັດທະນາອາຊີ	Den asiatiske utviklingsbanken
+ເນີຍແຂງລົກຟອກ	Roquefort
+ເມືອງຫຼວງພະບາງ	Luang Prabang
+ສົມເດັດພະລາຊາທິບະດີເຟລີເປທີ 6 ແຫ່ງແອສະປາຍ	Felipe VI av Spania
+ວັນນະຍຸດ	Tonespråk
+ການຊົມໃຊ້	Konsum
+ປິໂກແມັດ	Picometer
+ກະຊວງ	Ministerium
+ຈອງ	Øse
+ລົດພະລັງງານໄຟຟ້າ	Elbil
+ຫີນະຍານ	Hinayana
+Dassault Mirage 2000	Dassault Mirage 2000
+ເງີນກີບລາວ	Laotisk kip
+ເດຊີແມັດ	Desimeter
+ເຄື່ອງໝາຍຊາດລາວ	Laos' riksvåpen
+ທໍ	Tor (anonymitetsnettverk)
+ໂທລະພາບແບບດິຈິຕໍລ໌	Digital-TV
+ຕານ ສ່ວຍ	Than Shwe
+ປະໂລແວງ	Provins (by)
+Sukhoi Su-30	Sukhoj Su-30
+ຈັງຫວັດຊົນບຸລີ	Chonburi (provins)
+ແວງກາແບກເນໂຊວີຍົງ	Cabernet sauvignon
+ເພງຊາດໄທ	Phleng Chat
+ອາຊີອາຕິກ	Den mongoloide rase
+กงสุล	Konsul (diplomati)
+ລົດອັກຄີໄຟ	Brannbil
+ເຟັມໂຕແມັດ	Femtometer
+ການທົດສອບສົມມຸດຕິຖານສະຖິຕິ	Hypotesetest
+ປັດໃຈການຜະລິດ	Produksjonsfaktor
+ວາຈົກ	Diatese
+ຜູ້ຊົມ	Publikum
+ພຶດຊະຄະນິດພື້ນຖານ	Elementær algebra
+ແບບຈຳລອງ IS/LM	IS/LM-modellen
+ຟຣີແລນເຊີຣ	Frilanser
+ຄວາມໄດ້ປຽບທຽບຖານ	Komparative fortrinn
+ພຣະໄຕຣປິດົກ	Palikanonen
+ນັກໂທດການເມືອງ	Politisk fange
+າເປັນ	Anggun
+ຄວາມຍືດຍຸ່ນ	Priselastisitet
+ຈັງຫວັດຊຽງໃໝ່	Chiang Mai (provins)
+ຈັງຫວັດສົງຂາ	Songkhla (provins)
+ຊາຍບອກ	Kyborg
+ຈັງຫວັດສະຕູນ	Satun (provins)
+ອັກສອນໄທ	Thai-skrift
+ຈັງຫວັດຊຽງຮາຍ	Chiang Rai (provins)
+ຈັງຫວັດກະບີ່	Krabi (provins)
+ຈັງຫວັດປັດຕານີ	Pattani (provins)
+ຈັງຫວັດລະນອງ	Ranong (provins)
+T-80	T-80
+ຈັງຫວັດພິຈິດ	Phichit (provins)
+ຈັງຫວັດນະຄອນສະຫວັນ	Nakhon Sawan (provins)
+ຈັງຫວັດສຸລາດທານີ	Surat Thani (provins)
+ຈັງຫວັດລຳປາງ	Lampang (provins)
+ຈັງຫວັດເພັດຊະບູນ	Phetchabun (provins)
+ຈັງຫວັດລຳພູນ	Lamphun (provins)
+ຈັງຫວັດຕາດ	Trat (provins)
+ຈັງຫວັດນົນທະບຸລີ	Nonthaburi (provins)
+ຈັງຫວັດຍະລາ	Yala (provins)
+ປະທານປະເທດ ແຫ່ງ ສປປ ລາວ	Liste over Japans statsministre
+ຈັງຫວັດອຳນາດຈະເລີນ	Amnat Charoen (provins)
+ຈັງຫວັດອ່າງທອງ	Ang Thong (provins)
+ຈັງຫວັດຕັງ	Trang (provins)
+ຈັງຫວັດພັດທະລຸງ	Phattalung (provins)
+ຈັງຫວັດພະເຍົາ	Phayao (provins)
+ຈັງຫວັດປະຈວບຄີລີຂັນ	Prachuap Khiri Khan (provins)
+ຈັງຫວັດອຸໄທທານີ	Uthai Thani (provins)
+ຈັງຫວັດແພ່	Phrae (provins)
+ຈັງຫວັດນະຄອນສີທຳມະລາດ	Nakhon Si Thammarat (provins)
+ຈັງຫວັດຊຸມພອນ	Chumphon (provins)
+ຈັງຫວັດນ່ານ	Nan (provins)
+ຈັງຫວັດເພັດຊະບຸລີ	Phetchaburi (provins)
+ອ໋າວຢາຍ	Áo dài
+ລາຍຊື່ປະເທດລຽງຕາມພື້ນທີ່	Liste over verdens stater etter areal
+ຈັງຫວັດໜອງບົວລຳພູ	Nongbua Lamphu (provins)
+ຈັງຫວັດແມ່ຮ່ອງສອນ	Mae Hong Son (provins)
+ລັດວິສາຫະກິດ	Statlig selskap
+ຈັງຫວັດນະລາທິວາດ	Narathiwat (provins)
+ຈັງຫວັດສະໝຸດປາການ	Samut Prakan (provins)
+ຈັງຫວັດນະຄອນລາຊະສີມາ	Nakhon Ratchasima (provins)
+ຈັງຫວັດສຸພັນບຸລີ	Suphan Buri (provins)
+ຈັງຫວັດພັງງາ	Phang Nga (provins)
+ຈັງຫວັດອຸຕະລະດິດ	Uttaradit (provins)
+ຈັງຫວັດກຳແພງເພັດ	Kamphaeng Phet (provins)
+ລະຄັງກຳປັນ	Skipsklokke
+Externality	Eksternaliteter
+ຈັງຫວັດໄຊຍະພູມ	Chaiyaphum (provins)
+ຈັງຫວັດເລີຍ	Loei (provins)
+ຈັງຫວັດການຈະນະບຸລີ	Kanchanaburi (provins)
+ຈັງຫວັດຕາກ	Tak (provins)
+ຈັງຫວັດພິສະນຸໂລກ	Phitsanulok (provins)
+AIDC F-CK-1 Ching-kuo	AIDC Ching-Kuo
+ຂົວເອີລັນ	Ölandsbroen
+ແຂວງສາລະວັນ	Saravane (provins)
+ຄັງສຳຮອງເງິນຕາຕ່າງປະເທດ	Valutareserve
+ຜູ້ໂດຍສານ	Passasjer
+ສົມເດັດພະເຈົ້າກຸງທົນບຸລີ	Taksin
+ໄກສອນ ພົມວິຫານ	Kaysone Phomvihane
+ສຸພານຸວົງ	Souphanouvong
+ຈັງຫວັດປາຈີນບຸລີ	Prachinburi (provins)
+ອຳນາດບໍລິຫານ	Etat
+ຈັງຫວັດບຸລີລຳ	Buriram (provins)
+ຈັງຫວັດຂອນແກ່ນ	Khon Kaen (provins)
+ຈັງຫວັດຈັນທະບຸລີ	Chanthaburi (provins)
+ຈັງຫວັດໜອງຄາຍ	Nong Khai (provins)
+ຄົມມະນາຄົມ	Transportmiddel
+ຈັງຫວັດສະໝຸດສາຄອນ	Samut Sakhon (provins)
+ຈັງຫວັດສິງບຸລີ	Sing Buri (provins)
+ຈັງຫວັດນະຄອນປະຖົມ	Nakhon Pathom (provins)
+ແຂວງຜົ້ງສາລີ	Phongsali (provins)
+ແຂວງບໍ່ແກ້ວ	Bokeo (provins)
+ແຂວງຈໍາປາສັກ	Champasack (provins)
+ຈັງຫວັດສະເຊີງເຊົາ	Chachoengsao (provins)
+ຈັງຫວັດມຸກດາຫານ	Mukdahan (provins)
+ຈັງຫວັດລະຍອງ	Rayong (provins)
+ຈັງຫວັດລາຊະບຸລີ	Ratchaburi (provins)
+ຈັງຫວັດລົບບຸລີ	Lop Buri (provins)
+ຈັງຫວັດສະລະບຸລີ	Saraburi (provins)
+ອາຍແກັສແຫຼວ	LPG
+ສະຫະພາບໂທລະຄົມມະນາຄົມ	Den internasjonale telekommunikasjonsunion
+ເຈົ້າສີສະຫວ່າງວັດທະນາ	Savang Vatthana
+ໜູຮັກ ພູມສະຫວັນ	Nouhak Phoumsavanh
+ຈັງຫວັດອຸດອນທານີ	Udon Thani (provins)
+ຈັງຫວັດສຸລິນ	Surin (provins)
+ຈັງຫວັດສີສະເກດ	Sisaket (provins)
+ຈັງຫວັດສຸໂຂໄທ	Sukhothai (provins)
+ຈັງຫວັດສະແກ້ວ	Sa Kaeo (provins)
+ຈັງຫວັດສະກົນນະຄອນ	Sakon Nakhon (provins)
+ຈັງຫວັດກາລະສິນ	Kalasin (provins)
+ເມືອງປາກເຊ	Pakse
+ການກໍ່ສ້າງ	Bygge- og anleggsnæringen
+Henri Mouhot	Henri Mouhot
+ແອຣ໌ເອເຊຍ	AirAsia
+ສົມເດັດພະສັນຕະປາປາຟຣັງຊົວ	Frans (pave)
+ຈັງຫວັດສະໝຸດສົງຄາມ	Samut Songkhram (provins)
+ຈັງຫວັດປະທຸມທານີ	Pathum Thani (provins)
+ຈັງຫວັດໄຊນາດ	Chainat (provins)
+ແຂວງໄຊຍະບູລີ	Sainyabuli (provins)
+ໝາກຂີ້ຫູດ	Kaffirlime
+ແຂວງສະຫວັນນະເຂດ	Savannakhet (provins)
+ແຂວງຊຽງຂວາງ	Xieng Khouang
+ແຂວງອຸດົມໄຊ	Udomxai (provins)
+ຈັງຫວັດນະຄອນນາຍົກ	Nakhon Nayok (provins)
+ຈັງຫວັດນະຄອນພະນົມ	Nakhon Phanom (provins)
+ຈັງຫວັດມະຫາສາລະຄາມ	Maha Sarakham (provins)
+ຈັງຫວັດພະນະຄອນສີອະຍຸທະຍາ	Ayutthaya (provins)
+ສະໜາມບິນສາກົນເຕິນເຊິນເຍິດ	Tan Son Nhat internasjonale lufthavn
+ປ່ອງຢ້ຽມປີ 2000	Windows 2000
+ການຈັດການລູກຄ້າສໍາພັນ	Kunderelasjonshåndtering
+Sukhoi Superjet 100	Sukhoj Superjet 100
+7 ສິ່ງມະຫັດສະຈັນ	Verdens syv underverker
+ໂສມງາມກັບເຈົ້າຊາຍອະສູນ	Skjønnheten og udyret
+ແຂວງຫົວພັນ	Hua Phan (provins)
+ແຂວງອັດຕະປື	Attapeu (provins)
+ອົງການ ຄວບຄຸມໄພສຸກເສີນລັດຖະບານກາງ	Federal Emergency Management Agency
+ຈັງຫວັດຍະໂສທອນ	Yasothon (provins)
+ແຂວງຄຳມ່ວນ	Khammuan (provins)
+ແຂວງເຊກອງ	Sekong (provins)
+ການຄ້າ	Handel
+ຈຳນວນອະປົກກະຕິ	Irrasjonalt tall
+ຄວາມລົ້ມເຫຼວຂອງຕະຫຼາດ	Markedssvikt
+ກາເຟອຽກລັງ	Irish coffee
+ເພງຊາດລາວ	Pheng Xat Lao
+ໜູຖົງຊາຍ	Wallaby
+ຈັງຫວັດຮ້ອຍເອັດ	Roi Et (provins)
+ໝັງກາຕູນ	Vitsetegning
+ຈັງຫວັດອຸບົນລາຊະທານີ	Ubon Ratchathani (provins)
+ເອັນຣິໂຄ ເລັດຕາ	Enrico Letta
+Squadron (ການບິນ)	Skvadron
+Pilatus PC-7	Pilatus PC-7 Turbo Trainer
+ລິງລົມ	Dovenlori
+ລາຍຊື່ປະເທດຮຽງຕາມຈຳນວນປະຊາກອນ	Liste over verdens stater etter befolkningsstørrelse
+7 ສິ່່ງມະຫັດສະຈັນຂອງໂລກ	Verdens sju nye underverk
+ຄຳຂວັນປະຈຳຊາດ	Nasjonale mottoer
+ແຂວງວຽງຈັນ	Vientiane (provins)
+ໄຮ້ເພດ	Aseksualitet
+ໂຈດຊິງລາງວັນມິເລນຽມ	Millenniumprisproblem
+ການຜະລິດ, ຕົ້ນທຶນ ແລະ ລາຄາ	Produksjon
+ໄທໃຫຍ່	Shan
+ກະເທີຍ	Kathoey
+ເນີຍແຂງຟ້າແກ່	Blåmuggost
+ແຂວງຫຼວງພະບາງ	Luang Prabang (provins)
+ເມືອງໄກສອນ ພົມວິຫານ	Savannakhet
+ການບິນລາວ	Lao Airlines
+ອາຊີໃຕ້	Sør-Asia
+ສະໜາມບິນສາກົນເຫຼ້າສຸດ	Da Nang internasjonale lufthavn
+ເຂົ້າຈີ່ປາເຕ້	Paté
+ກິໂລແມັດ	Kilometer
+ທິດສະດີຜູ້ຊົມໃຊ້	Konsumentteori
+ອານາຈັກອະຍຸທະຍາ	Kongedømmet Ayutthaya
+ຄອມພິວເຕີຣ໌ນ້ອຍຕໍ່ເດັກນ້ອຍຫນຶ່ງຄົນ	OLPC
+ປະລິມານເງິນ	Pengemengde
+ເຮັກໂຕແມັດ	Hektometer
+McDonnell Douglas F-15E Strike Eagle	Boeing F-15 Strike Eagle
+ເດກາແມັດ	Dekameter
+ອານາຈັກລ້ານຊ້າງ	Lan Xang
+VietJet Air	VietJet Air
+ກິກາແມັດ	Gigameter
+ຈຸລາລົງກອນມະຫາວິທະຍາໄລ	Chulalongkornuniversitetet
+ຊ່ວຍເຫຼືອ:ເນື້ອໃນ	Hjelp:Portal
+List of ISO 639-1 codes	Liste over ISO 639-1-koder
+ແຂວງຫຼວງນໍ້າທາ	Luang Namtha (provins)
+ເຄື່ອງເຮັດເຂົ້າຈີ່	Brødbakemaskin
+ຈັງຫວັດບຶງການ	Bungkan (provins)
+ວັງວຽງ	Vang Vieng
+ທ່າແຂກ	Thakhek
+ຮັກຕ່າງເພດ	Heterofili
+ສີລ	Sila
+ເມກາແມັດ	Megameter
+ក	Khmer-skrift
+ມະຫາວິທະຍາໄລພາສາຕ່າງປະເທດປັກກິ່ງ	Beijings fremmedspråksuniversitet
+ຈຳນວນປົກກະຕິ	Rasjonalt tall
+ເດີ່ນຍົນ	Flyplass
+ລະບອບການປົກຄອງ	Styreform
+ພຣະໄຕປິດົກ	Tripitaka
+​Vishnu Purana​	Vishnu-Purana
+ທົງໄຊ ແມກອິນໄຕ	Bird Thongchai McIntyre
+ໝວດ:ປະເທດເຢັຽລະມັນ	Kategori:Tyskland
+ໝວດ:ສະຫະລັດອາເມລິກາ	Kategori:USA
+ໝວດ:ປະເທດການາດາ	Kategori:Canada
+ໝວດ:ສະຫະລາຊະອານາຈັກ	Kategori:Storbritannia
+ໝວດ:ປະເທດແອສະປາຍ	Kategori:Spania
+ໝວດ:ປະເທດຍີ່ປຸ່ນ	Kategori:Japan
+ໝວດ:ປະເທດເກົາຫຼີໃຕ້	Kategori:Sør-Korea
+ໝວດ:ປະເທດໄທ	Kategori:Thailand
+ໝວດ:ປະເທດຫວຽດນາມ	Kategori:Vietnam
+ໝວດ:ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ	Kategori:Pattedyr
+ໝວດ:ພືດ	Kategori:Planter
+ໝວດ:ວັດຖຸວິທະຍາ	Kategori:Fysikk
+ໝວດ:ຊີວະສາດ	Kategori:Biologi
+ໝວດ:ປະຫວັດສາດ	Kategori:Historie
+ໝວດ:ພູມສາດ	Kategori:Geografi
+ໝວດ:ສັງຄົມ	Kategori:Samfunn
+ໝວດ:ສາສະໜາ	Kategori:Religion
+ໝວດ:ກິລາ	Kategori:Sport
+ໝວດ:ສາດ	Kategori:Vitenskap
+ໝວດ:ສະຫະປະຊາຊາດ	Kategori:FN
+ໝວດ:ຮູບເງົາ	Kategori:Film
+ໝວດ:ມໍລະດົກໂລກ	Kategori:Verdensarven
+ໝວດ:ໂລກ	Kategori:Jorden
+ໝວດ:ຂໍ້ມູນຂ່າວສານ	Kategori:Informasjon
+ລາຍໄດ້	Inntekt
+Airbus A318	Airbus A318
+ອົງສາຖານສິບ	Desimalgrader
+ອັກສອນລາວ	Laotisk skrift
+ໝວດ:ນິເວດສາດ	Kategori:Økologi
+ໝວດ:ພຸດທະສາສະໜາ	Kategori:Buddhisme
+ໝວດ:ຄຣິສຕະສາດສະໜາ	Kategori:Kristendom
+ໝວດ:ສາສະໜາອິສະລາມ	Kategori:Islam
+ໂພຊະນາການ	Ernæring
+ດັດຊະນີ (ເສດຖະກິດ)	Indeks
+ມະຫາວິທະຍາໄລເສສວນ	Sichuanuniversitetet
+ແຂວງບໍລິຄຳໄຊ	Bolikhamsai (provins)
+ສິນຄ້າ (ທຸລະກິດ)	Produkt (økonomi)
+ລັດອິດສະລາມອີຣັກແລະເຣເວນທ໌	Den islamske staten Irak og Levanten
+ເຂື່ອນນ້ຳເທີນ 2	Nam Theun II vannkraftverk
+ການຈັດການ	Ledelse
+ໝວດ:ວັດທະນະທຳ	Kategori:Kultur
+ໝວດ:ຄວາມຮູ້	Kategori:Kunnskap
+ໝວດ:ທະວີບ	Kategori:Kontinenter
+ໝວດ:ທໍລະນີສາດ	Kategori:Geologi
+ໝວດ:ພາສາ: ເຮືອບິນ	Kategori:Luftfartøyer
+ຮູດີສ	Houthis
+ລະດູຝົນ	Regntid
+ໝວດ:ນັກສະແດງ	Kategori:Skuespillere
+ແມ່ແບບ:Tl	Mal:Mal
+ໝວດ:ປະເທດ	Kategori:Land
+ໝວດ:ເສດຖະສາດ	Kategori:Nasjonaløkonomi
+ວິກິພີເດຍ:ຜູ້ບໍລິຫານ	Wikipedia:Administratorer
+ໝວດ:ອາຊີບ	Kategori:Beskjeftigelser
+ໝວດ:ເວລາ	Kategori:Tid
+ໝວດ:ທຳມະຊາດ	Kategori:Natur
+ໝວດ:ອິນເຕີເນັດ	Kategori:Internett
+ໝວດ:ວັດສະດຸ	Kategori:Materialer
+ໝວດ:ແພດສາດ	Kategori:Medisin
+ໝວດ:ການເມືອງ	Kategori:Politikk
+ໝວດ:ການສຶກສາ	Kategori:Utdanning
+ໝວດ:ສິລະປະ	Kategori:Kunst
+ໝວດ:ຊອຟແວ	Kategori:Programvare
+ແມ່ແບບ:Bot	Mal:Bot
+ປະເທດການາດາ	Canada
+ໝວດ:ບົດຄວາມດີເດັ່ນ	Kategori:Utmerkede artikler
+ແມ່ແບບ:Flagicon	Mal:Flagicon
+ໝວດ:ເອີລົບ	Kategori:Europa
+ແມ່ແບບ:ຄູ່ມືການໃຊ້ງານ	Mal:Dokumentasjon
+ໝວດ:ຜູ້ໃຊ້ແບ່ງຕາມພາສາ	Kategori:Wikipedia-brukere etter språk
+ວິກິພີເດຍ:ຫ້າຫຼັກການ	Wikipedia:Fem søyler
+ໝວດ:ແນວປະຕິບັດວິກິພີເດຍ	Kategori:Anbefalte regler og retningslinjer
+ວິກິພີເດຍ:ກ່ອງຜູ້ໃຊ້	Wikipedia:Brukerbokser
+ທຸລະກິດ	Næringsliv
+ແມ່ແບບ:Softredirect	Mal:Softredirect
+ແມ່ແບບ:ລຶບ	Mal:Hurtigsletting
+ໝວດ:ພາສາ: ເຕັກໂນໂລຊີ	Kategori:Teknologi
+ໝວດ:ພັນທຸສາດ	Kategori:Genetikk
+ໝວດ:ພາສາ	Kategori:Språk
+ໝວດ:ໄວຍາກອນ	Kategori:Grammatikk
+ໝວດ:ປະຕິທິນ	Kategori:Kalendere
+ໝວດ:ວິກິພີເດຍ	Kategori:Wikipedia
+ວິກິພີເດຍ:ຂໍ້ປະຕິເສດຄວາມຮັບຜິດຊອບ	Wikipedia:Generelle forbehold
+ໝວດ:Pages with broken file links	Kategori:Sider med brutte fillenker
+ແມ່ແບບ:Navbox	Mal:Navboks
+ໜູຖົງ	Kenguruer
+ໝວດ:ພາສາໝາຍ	Kategori:Markeringsspråk
+ການບໍລິຫານ	Forvaltning
+ໝວດ:ການບຳລຸງຮັກສາວິກິພີເດຍ	Kategori:Wikipedia-vedlikehold
+ແມ່ແບບ:!	Mal:!
+ໝວດ:ແມ່ແບບທຸງ	Kategori:Flaggmaler
+ແມ່ແບບ:Tnavbar	Mal:Tnavbar
+ແມ່ແບບ:Fontie	Mal:Unicode
+ແມ່ແບບ:Clear	Mal:Clear
+ແມ່ແບບ:Col-begin	Mal:Col-begin
+ແມ່ແບບ:Col-end	Mal:Col-end
+ໝວດ:ອາຟຣິກກາ	Kategori:Afrika
+ໝວດ:ປຶ້ມ	Kategori:Bøker
+ແມ່ແບບ:Babel-3	Mal:Babel-3
+ແມ່ແບບ:ບາເບລ	Mal:Babel
+ແມ່ແບບ:Commons	Mal:Commons
+ແມ່ແບບ:Reflist	Mal:Referanser
+ວິກິພີເດຍ:ການອ້າງອີງແຫຼ່ງທີ່ມາ	Wikipedia:Bruk av kilder
+ວິກິພີເດຍ:ຊອກຫາ	Hjelp:Søking
+ແມ່ແບບ:Stub	Mal:Stubb
+ແມ່ແບບ:User eo-1	Mal:Bruker eo-1
+ແມ່ແບບ:User de	Mal:Bruker de
+ແມ່ແບບ:User de-1	Mal:Bruker de-1
+ແມ່ແບບ:User es	Mal:Bruker es
+ແມ່ແບບ:User de-3	Mal:Bruker de-3
+ແມ່ແບບ:User en-3	Mal:Bruker en-3
+ແມ່ແບບ:User en-1	Mal:Bruker en-1
+ແມ່ແບບ:User en-2	Mal:Bruker en-2
+ແມ່ແບບ:User en-4	Mal:Bruker en-4
+ແມ່ແບບ:User en	Mal:Bruker en
+ແມ່ແບບ:User de-2	Mal:Bruker de-2
+ແມ່ແບບ:User fr-1	Mal:Bruker fr-1
+ແມ່ແບບ:User ja-4	Mal:Bruker ja-4
+ແມ່ແບບ:User ja	Mal:Bruker ja
+ແມ່ແບບ:User ja-1	Mal:Bruker ja-1
+ແມ່ແບບ:User fr	Mal:Bruker fr
+ໝວດ:ອາຊີ	Kategori:Asia
+ແມ່ແບບ:Esoteric	Mal:Komplisert mal
+ໝວດ:ປະເທດມາເລເຊຍ	Kategori:Malaysia
+ແມ່ແບບ:Mod	Mal:Mod
+ແມ່ແບບ:User es-2	Mal:Bruker es-2
+ແມ່ແບບ:ຍິນດີຕ້ອນຮັບ	Mal:Reg-velkommen
+ແມ່ແບບ:Sisterprojects	Mal:Søsterprosjekt
+ໝວດ:ດວງຈັນ	Kategori:Månen
+ໝວດ:ພາສາສາດ	Kategori:Lingvistikk
+ແມ່ແບບ:ດັດແກ້	Mal:Rediger
+ໝວດ:User fr-1	Kategori:Bruker fr-1
+ແມ່ແບບ:Country showdata	Mal:Country showdata
+ແມ່ແບບ:Image label	Mal:Image label
+ແມ່ແບບ:ປັບປຸງການອ້າງອີງ	Mal:Refforbedre
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ລຸ່ມ	Mal:Brukerboksbunn
+ແມ່ແບບ:ຂໍ້ມູນປະເທດ	Mal:Infoboks land2
+ແມ່ແບບ:Px	Mal:Px
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ເທິງ	Mal:Brukerbokstopp
+ແມ່ແບບ:Infobox Political party	Mal:Infoboks parti
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ນັກມວຢ	Mal:Infoboks bokser
+ແມ່ແບບ:Infobox ບໍລິສັດ	Mal:Infoboks firma
+ແມ່ແບບ:ປ້າຍບົດຄວາມດີເດັ່ນ	Mal:Utmerket
+ແມ່ແບບ:Infobox ຈັກກະພັດໂຣມັນ	Mal:Infoboks monark
+ໝວດ:ປາລີ	Kategori:Paris
+ໝວດ:User en	Kategori:Bruker en
+ໝວດ:User zh	Kategori:Bruker zh
+ໝວດ:User en-2	Kategori:Bruker en-2
+ແມ່ແບບ:Infobox	Mal:Infoboks
+ແມ່ແບບ:User zh	Mal:Bruker zh
+ໝວດ:ອັກສອນ	Kategori:Alfabeter
+ໝວດ:ພາສາ: ບິນ	Kategori:Luftfart
+ໝວດ:ຄຳແລະວະລີ	Kategori:Ord og uttrykk
+ໝວດ:ອາຫານແລະເຄື່ອງດື່ມ	Kategori:Mat og drikke
+ແມ່ແບບ:Pp-template	Mal:Beskyttet side
+ແມ່ແບບ:ວິກິວັດຈະນານຸກົມ	Mal:Wiktionary
+ແມ່ແບບ:Languageicon	Mal:Språkikon
+ແມ່ແບບ:Babel-4	Mal:Babel-4
+ແມ່ແບບ:Babel-2	Mal:Babel-2
+ແມ່ແບບ:User ru	Mal:Bruker ru
+ໝວດ:ອະເມລິກາ	Kategori:Amerika
+ໝວດ:ເຂົ້າຈີ່	Kategori:Brød
+ແມ່ແບບ:ກັບສາງ	Mal:Arkiv
+ວິກິພີເດຍ:ຂ້ອຄວາມຂວງ GNU Free Documentation License	Wikipedia:GNU FDL
+ແມ່ແບບ:Sisterlinks	Mal:Søsterlenker
+ແມ່ແບບ:Border	Mal:Border
+ແມ່ແບບ:Fmbox	Mal:Fmbox
+ໝວດ:ພາສາທະຫານ	Kategori:Militærvesen
+ແມ່ແບບ:Increase	Mal:Økning
+ແມ່ແບບ:Tlx	Mal:Malp
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ຄັ່ນ	Mal:Brukerboksbryt
+ໝວດ:ແຫຼ່ງນ້ຳ	Kategori:Vannmasser
+ແມ່ແບບ:ຕ້ອງການອ້າງອີງ	Mal:Kildeløs
+ໝວດ:ສະໜາມບິນໃນຫວຽດນາມ	Kategori:Flyplasser i Vietnam
+ແມ່ແບບ:Image label small	Mal:Image label small
+ໝວດ:ພະມະຫາກະສັດອັງກິດ	Kategori:Engelske monarker
+ໝວດ:ສານອາຫານ	Kategori:Næringsstoffer
+ແມ່ແບບ:SUL Box	Mal:SUL-boks
+ໝວດ:ພາຫະນະການທະຫານ	Kategori:Militære kjøretøyer
+ໝວດ:ວິທະຍາສາດສຸຂະພາບ	Kategori:Helsevitenskap
+ໝວດ:ໂທລະສັບມືຖື	Kategori:Mobiltelefoner
+ໝວດ:ພາສາ: ເຮືອບິນທະຫານ	Kategori:Militære fly
+ແມ່ແບບ:Lang-en	Mal:Lang-en
+ໝວດ:ເນີຍແຂງ	Kategori:Ost
+ແມ່ແບບ:Lower	Mal:Senke
+ໝວດ:ສະຖາປັດຕະຍະກຳ	Kategori:Arkitektur
+ໝວດ:ລົດໄຟ	Kategori:Jernbane
+ແມ່ແບບ:Interwiki	Mal:InterWiki
+ໝວດ:ໂພຊະນາການ	Kategori:Ernæring
+ແມ່ແບບ:ບໍ່ເປັນກາງ	Mal:Objektivitet
+ແມ່ແບບ:Dmoz	Mal:Dmoz
+ໝວດ:ເມືອງໃນແຂວງເກແບັກ	Kategori:Byer i Québec
+ໝວດ:User eo	Kategori:Bruker eo
+ໝວດ:User fr	Kategori:Bruker fr
+ໝວດ:User ja	Kategori:Bruker ja
+ໝວດ:User th	Kategori:Bruker th
+ໝວດ:User ja-2	Kategori:Bruker ja-2
+ໝວດ:User fr-N	Kategori:Bruker fr-N
+ໝວດ:ແຂວງກວາງບິນ	Kategori:Quang Binh
+ໝວດ:User en-3	Kategori:Bruker en-3
+ໝວດ:User en-N	Kategori:Bruker en-N
+ໝວດ:User eo-1	Kategori:Bruker eo-1
+ໝວດ:User es	Kategori:Bruker es
+ແມ່ແບບ:EU	Mal:EU-bunn
+ໝວດ:User es-2	Kategori:Bruker es-2
+ໝວດ:User es-3	Kategori:Bruker es-3
+ແມ່ແບບ:Cite encyclopedia	Mal:Kilde oppslagsverk
+ໝວດ:ສິລະປິນ	Kategori:Kunstnere
+ໝວດ:ເວັບໄຊຕ໌	Kategori:Nettsteder
+ໝວດ:User ko	Kategori:Bruker ko
+ໝວດ:User ko-1	Kategori:Bruker ko-1
+ໝວດ:ພາສາວັນນະຍຸດ	Kategori:Tonespråk
+ໝວດ:ເມືອງໃນປະເທດຝະລັ່ງ	Kategori:Byer i Frankrike
+ແມ່ແບບ:Wikivoyage	Mal:Wikivoyage
+ໝວດ:ວັນນະຄະດີເດັກນ້ອຍ	Kategori:Barnelitteratur
+ແມ່ແບບ:ພາສາທາງການຂອງສະຫະປະຊາຊາດ	Mal:FNs offisielle språk
+ແມ່ແບບ:ຮູບຫຼາຍແຈ	Mal:Polygoner
+ໝວດ:ທະເລ	Kategori:Hav
+ໝວດ:ປະເທດອັງກິດ	Kategori:England
+ໝວດ:ນັກສະແດງແບ່ງຕາມສັນຊາດ	Kategori:Skuespillere etter nasjonalitet
+ໝວດ:ລະບົບສຸລິຍະ	Kategori:Solsystemet
+ຊ່ວຍເຫຼືອ:ຫ້ອງສາງ	Hjelp:Arkivering
+ໝວດ:ອຸດສາຫະກຳ	Kategori:Industri
+ໝວດ:ນ້ຳ	Kategori:Vann
+ໝວດ:ສັດກິນຊີ້ນ	Kategori:Rovdyr
+ໝວດ:ແຂວງ	Kategori:Laos' provinser
+ໝວດ:ເຮລີກົບແຕ	Kategori:Helikoptre
+ໝວດ:ນັກຮ້ອງການາດາ	Kategori:Canadiske sangere
+ແມ່ແບບ:User cs	Mal:User cs
+ແມ່ແບບ:User es-3	Mal:Bruker es-3
+ໝວດ:User ru	Kategori:Bruker ru
+ໝວດ:User ru-3	Kategori:Bruker ru-3
+ໝວດ:User th-N	Kategori:Bruker th-N
+ແມ່ແບບ:Lang	Mal:Språk
+ເສືອ	Store katter
+ໝວດ:ຊາວພະມ້າ	Kategori:Burmesere
+ໝວດ:ມະນຸດ	Kategori:Mennesker
+ແມ່ແບບ:ບົດຄວາມຫຼັກ	Mal:Utdypende artikkel
+ແມ່ແບບ:ໃຜກ່າວ	Mal:Hvem
+ໝວດ:ວົງເສືອແລະແມວ	Kategori:Kattedyr
+ໝວດ:ສະກຸນເງິນ	Kategori:Valuta
+ໝວດ:ແມ່ນ້ຳ	Kategori:Elver
+ໝວດ:ແມ່ນ້ຳໃນປະເທດບະເລຊິນ	Kategori:Elver i Brasil
+ໝວດ:ແມ່ນ້ຳໃນປະເທດເປລູ	Kategori:Elver i Peru
+ໝວດ:ນັກຮ້ອງແບ່ງຕາມສັນຊາດ	Kategori:Sangere etter nasjonalitet
+ໝວດ:User zh-1	Kategori:Bruker zh-1
+ໝວດ:User zh-3	Kategori:Bruker zh-3
+ໝວດ:ພະມະຫາກະສັດໄທ	Kategori:Thailandske konger
+ໝວດ:ຊັບສິນທາງປັນຍາ	Kategori:Immaterialrett
+ໝວດ:ນັກສະແດງຈີນ	Kategori:Kinesiske skuespillere
+ໝວດ:ປະທານປະເທດລາວ	Kategori:Laotiske presidenter
+ໝວດ:ຈັງຫວັດໃນປະເທດໄທ	Kategori:Thailands provinser
+ໝວດ:ຊາວໄທ	Kategori:Thailendere
+ໝວດ:ນັກຮ້ອງຈີນ	Kategori:Kinesiske sangere
+ໝວດ:ນິກາຍໃນສາສະໜາຄິດ	Kategori:Kristne samfunn
+ໝວດ:ແມ່ນ້ຳໃນປະເທດໂກລົມບີ	Kategori:Elver i Colombia
+ໝວດ:ປະເທດລາວ	Kategori:Laos
+ວິກິພີເດຍ:ຕ້ອງການອ້າງອີງ	Hjelp:Trenger referanse
+ໝວດ:ຜັກ	Kategori:Grønnsaker
+ໝວດ:ໝາກໄມ້	Kategori:Frukt
+ໝວດ:ພາສາໃນປະເທດລາວ	Kategori:Språk i Laos
+ໝວດ:ພາສາຄອມພິວເຕີ	Kategori:Dataspråk
+ໝວດ:ພາສາລາແຕັງ	Kategori:Latin
+ໝວດ:ມໍລະດົກໂລກໃນປະເທດຝະລັ່ງ	Kategori:Verdensarven i Frankrike
+ໝວດ:ມະນຸດສາດ	Kategori:Antropologi
+ໝວດ:ລົດສະນິຍົມທາງເພດ	Kategori:Seksuell orientering
+ໝວດ:ລະບົບປະຕິບັດການ	Kategori:Operativsystemer
+ໝວດ:ລະດູ	Kategori:Årstid
+ໝວດ:ແຮ່ທາດສາດ	Kategori:Mineralogi
+ໝວດ:ວິທີໃຊ້ວິກິພີເດຍ	Kategori:Wikipedia how-to
+ໝວດ:ສັດ	Kategori:Dyr
+ໝວດ:ສັດທະສາດ	Kategori:Fonetikk
+ໝວດ:ປະໂລເຕອິນ	Kategori:Proteiner
+ໝວດ:ເຄື່ອງໝາຍວັກ	Kategori:Tegn
+ໝວດ:ເພງ	Kategori:Sanger
+ໝວດ:ນະຄອນຫຼວງ	Kategori:Hovedsteder
+ໝວດ:ເມືອງໃນລາວ	Kategori:Byer i Laos
+ໝວດ:ເອດສ໌	Kategori:Hiv/aids
+ໝວດ:ໄດໂນເສົາ	Kategori:Dinosaurer
+ໝວດ:ກຸ່ມພາສາໂລມັງ	Kategori:Romanske språk
+ໝວດ:ພາສາ: ການຂົນສົ່ງ	Kategori:Transport
+ໝວດ:ການຟ້ອນລຳ	Kategori:Dans
+ໝວດ:ກະລູຊິດ	Kategori:Karbohydrater
+ໝວດ:ປະເພດຄຳເວົ້າ	Kategori:Ordklasser
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ພາສາ	Mal:Infoboks språk
+ໝວດ:ກາເຟ	Kategori:Kaffe
+ໝວດ:ພາສາອິຕາລີ	Kategori:Italiensk
+ໝວດ:ພາສາແອສະປາໂຍນ	Kategori:Spansk
+ໝວດ:ພາສາໃນປະເທດໄທ	Kategori:Språk i Thailand
+ໝວດ:ຍານພາຫະນະ	Kategori:Kjøretøyer
+ໝວດ:ລົດ	Kategori:Biler
+ໝວດ:Tanks	Kategori:Stridsvogner
+ແມ່ແບບ:ລາຍການຫ້ອງສາງ	Mal:Arkivliste
+ໝວດ:ພາສາໃນປະເທດຫວຽດນາມ	Kategori:Språk i Vietnam
+ໝວດ:ອາຫານຝະລັ່ງ	Kategori:Fransk mat og drikke
+ໝວດ:ເນີຍແຂງຝະລັ່ງ	Kategori:Franske oster
+ການບໍລິການ	Tjeneste
+ໝວດ:ສະໄໝກາງ	Kategori:Middelalderen
+ໝວດ:ສຸຂະພາບ	Kategori:Helse
+ໝວດ:ເສດຖະສາດມະຫາພາກ	Kategori:Makroøkonomi
+ໝວດ:ພາສາ:ສາຍການບິນ	Kategori:Passasjerfly
+ໝວດ:ແຂວງເກແບັກ	Kategori:Québec
+ໝວດ:ພາສາປືນໃຫຍ່	Kategori:Artilleri
+ໝວດ:ຂົວ	Kategori:Broer
+ໝວດ:ພາສາກາຕາລັງ	Kategori:Katalansk
+ສິດທິເດັກ	Barnerett
+ໝວດ:ເອແດມບວກ	Kategori:City of Edinburgh
+ໝວດ:ພະລັງງານ	Kategori:Energi
+ໝວດ:ລິກຂະສິດ	Kategori:Opphavsrett
+ໝວດ:ພາສາຝະລັ່ງ	Kategori:Fransk
+ຊ່ວຍເຫຼືອ:ເຈ້ຍກ່າຍ	Wikipedia:Jukselapp
+ໝວດ:ມົງເລອານ	Kategori:Montréal
+ໝວດ:ໂທລະສັບ	Kategori:Telefoni
+ໝວດ:ໜ່ວຍນັບເວລາ	Kategori:Tidsenheter
+ໝວດ:ວິທະຍາສາດປະຍຸກ	Kategori:Anvendt vitenskap
+ແມ່ແບບ:Image label begin	Mal:Image label begin
+ໝວດ:ພາສາກໍາລັງທາງອາກາດ	Kategori:Flyvåpen
+ໝວດ:User en-1	Kategori:Bruker en-1
+ໝວດ:ນັກສະແດງອາເມລິກັນ	Kategori:Skuespillere fra USA
+ແມ່ແບບ:Infobox file format	Mal:Infoboks filformat
+ພິເສດ:ການດັດແກ້ຫຼ້າສຸດ	Spesial:Siste endringer
+Module:Coordinates	Modul:Coordinates
+ສາຍການບິນມາເລເຊຍທຽ່ວບິນMH370	Malaysia Airlines Flight 370
+ອຸປະຕິເຫດເຮືອເຊໂວລຫລົ່ມ	Fergekantringen i Sør-Korea i 2014

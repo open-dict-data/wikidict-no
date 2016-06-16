@@ -1,0 +1,7414 @@
+ਅਫ਼ਰੀਕਾ	Afrika
+ਜਪਾਨ	Japan
+ਦੱਖਣੀ ਅਮਰੀਕਾ	Sør-Amerika
+ਨਾਰਵੇ	Norge
+ਇੰਗਲੈਂਡ	England
+ਸਕਾਟਲੈਂਡ	Skottland
+ਵੇਲਜ਼	Wales
+ਉੱਤਰੀ ਆਇਰਲੈਂਡ	Nord-Irland
+ਆਇਰਲੈਂਡ ਗਣਰਾਜ	Irland
+ਹੰਗਰੀ	Ungarn
+ਸਪੇਨ	Spania
+ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ	USA
+ਬੈਲਜੀਅਮ	Belgia
+ਲਕਸਮਬਰਗ	Luxembourg
+ਧਰਤੀ	Jorden
+ਜੀਵਨ	Liv
+ਮੌਤ	Død
+ਮਨੁੱਖ	Menneske
+ਖ਼ੁਸ਼ੀ	Lykke
+ਜਾਰਜ ਵਾਸ਼ਿੰਗਟਨ	George Washington
+ਇਮੈਜਿਨ (ਗੀਤ)	Imagine (sang)
+ਫ਼ਿਨਲੈਂਡ	Finland
+ਸਵੀਡਨ	Sverige
+ਡੈੱਨਮਾਰਕ	Danmark
+ਪੋਲੈਂਡ	Polen
+ਲਿਥੁਆਨੀਆ	Litauen
+ਇਟਲੀ	Italia
+ਸਵਿਟਜ਼ਰਲੈਂਡ	Sveits
+ਆਸਟਰੀਆ	Østerrike
+ਯੂਨਾਨ	Hellas
+ਤੁਰਕੀ	Tyrkia
+ਪੁਰਤਗਾਲ	Portugal
+ਯੂਰਪ	Europa
+ਏਸ਼ੀਆ	Asia
+ਉੱਤਰੀ ਅਮਰੀਕਾ	Nord-Amerika
+ਅੰਟਾਰਕਟਿਕਾ	Antarktika
+ਵਿਕੀਪੀਡੀਆ	Wikipedia
+ਨੀਦਰਲੈਂਡ	Nederland
+ਸ਼ਿਸ਼ਨ	Penis
+ਨਿਊਯਾਰਕ ਸ਼ਹਿਰ	New York
+ਵਾਸ਼ਿੰਗਟਨ, ਡੀ.ਸੀ.	Washington, D.C.
+ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ	San Francisco
+ਬਰਲਿਨ	Berlin
+ਲਾਸ ਐਂਜਲਸ	Los Angeles
+ਕੰਪਿਊਟਰ	Datamaskin
+ਬਰਨ	Bern
+ਜਨੇਵਾ	Genève
+ਜ਼ਿਊਰਿਖ	Zürich
+ਇੰਟਰਨੈੱਟ	Internett
+ਬਰਾਕ ਓਬਾਮਾ	Barack Obama
+ਉਰੂਗੁਏ	Uruguay
+ਲੰਡਨ	London
+ਕਾਹਿਰਾ	Kairo
+ਸਿਰਦਰਦ	Hodepine
+ਸਿਕੰਦਰੀਆ	Alexandria
+ਸੇਬ	Epleslekten
+ਪੈਰਿਸ	Paris
+ਅਬਰਾਹਮ ਲਿੰਕਨ	Abraham Lincoln
+ਐਂਡ੍ਰਾਇਡ (ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ)	Android
+ਗੂਗਲ	Google
+ਮੈਕਸੀਕੋ	Mexico
+ਅੰਧ ਮਹਾਂਸਾਗਰ	Atlanterhavet
+ਪ੍ਰਸ਼ਾਂਤ ਮਹਾਂਸਾਗਰ	Stillehavet
+ਕੈਲੀਫ਼ੋਰਨੀਆ	California
+ਬੌਸਟਨ	Boston
+ਸੋਮਵਾਰ	Mandag
+ਵਿਸਥਾਰ	Rom (fysikk)
+ਜਨਵਰੀ	Januar
+ਫ਼ਰਵਰੀ	Februar
+ਮਾਰਚ	Mars (måned)
+ਮੰਗਲ (ਗ੍ਰਹਿ)	Mars (planet)
+ਮਾਰਸ	Mars (gud)
+ਕੀਨੀਆ	Kenya
+ਇਥੋਪੀਆ	Etiopia
+ਰਾਜਾ	Monark
+ਘਾਨਾ	Ghana
+ਅਪ੍ਰੈਲ	April
+ਮਈ	Mai
+ਜੂਨ	Juni
+ਜੁਲਾਈ	Juli
+ਅਗਸਤ	August
+ਸਤੰਬਰ	September
+ਅਕਤੂਬਰ	Oktober
+ਨਵੰਬਰ	November
+ਦਸੰਬਰ	Desember
+ਮੰਗਲਵਾਰ	Tirsdag
+ਬੁੱਧਵਾਰ	Onsdag
+ਵੀਰਵਾਰ	Torsdag
+ਸ਼ੁੱਕਰਵਾਰ	Fredag
+ਸ਼ਨਿੱਚਰਵਾਰ	Lørdag
+ਐਤਵਾਰ	Søndag
+ਫ਼ਰਾਂਸ	Frankrike
+ਏਸਪੇਰਾਂਤੋ	Esperanto
+ਕੁੱਤਾ	Tamhund
+ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ	Storbritannia
+ਬਿੱਲੀ	Tamkatt
+ਚੀਨ ਲੋਕ ਗਣਰਾਜ	Folkerepublikken Kina
+ਫ਼ਰਾਂਸੀਸੀ ਭਾਸ਼ਾ	Fransk
+ਵਿਕਸ਼ਨਰੀ	Wiktionary
+ਮੱਛੀ	Fisk
+ਈਥੇਨੋਲ	Etanol
+ਬ੍ਰਾਜ਼ੀਲ	Brasil
+ਅਲਕੋਹਲ	Alkoholer
+ਫਰਾਂਸੋਆ ਔਲਾਂਦ	François Hollande
+ਰੂਸ	Russland
+ਪ੍ਰਕਾਸ਼ੀ ਤੰਦ	Fiberoptikk
+ਸਮੁੰਦਰ	Hav
+ਕਾਲ਼ਾ ਸਮੁੰਦਰ	Svartehavet
+ਪਾਈ	Pi
+ਪਾਈ (ਅੱਖਰ)	Pi (bokstav)
+ਟੋਰਾਂਟੋ	Toronto
+ਅਲਾਬਾਮਾ	Alabama
+ਸਾਓ ਪਾਉਲੋ	São Paulo
+ਕੇਬੈਕ	Québec
+ਪੀਜ਼ਾ	Pizza
+ਵਿਕੀਮੀਡੀਆ ਫ਼ਾਊਂਡੇਸ਼ਨ	Wikimedia Foundation
+ਜਿੰਮੀ ਵੇਲਸ	Jimmy Wales
+ਜਰਮਨੀ	Tyskland
+ਬੇਲਾਰੂਸ	Hviterussland
+ਜਰਮਨ ਭਾਸ਼ਾ	Tysk
+ਆਈਸਲੈਂਡ	Island
+ਪਰਮਾਤਮਾ	Gud
+ਇਸਤੋਨੀਆ	Estland
+ਸ਼ਨੀ (ਗ੍ਰਹਿ)	Saturn
+ਹਵਾਈ ਜਹਾਜ਼	Fly
+ਜੰਗ	Krig
+੧ (ਅੰਕ)	1 (tall)
+੨ (ਅੰਕ)	2 (tall)
+੩ (ਅੰਕ)	3 (tall)
+੪ (ਅੰਕ)	4 (tall)
+੫ (ਅੰਕ)	5 (tall)
+ਸਿਫ਼ਰ (ਅੰਕ)	Null
+ਸਟੀਵਨ ਹਾਰਪਰ	Stephen Harper
+ਜਾਰਜ ਵਾਕਰ ਬੁਸ਼	George W. Bush
+ਲਾਤਵੀਆ	Latvia
+ਯੂਕਰੇਨ	Ukraina
+ਚੈੱਕ ਗਣਰਾਜ	Tsjekkia
+ਸਲੋਵਾਕੀਆ	Slovakia
+ਸਲੋਵੇਨੀਆ	Slovenia
+ਵਿਲਨਸ	Vilnius
+ਮੋਲਦੋਵਾ	Moldova
+ਰੋਮਾਨੀਆ	Romania
+ਬੁਲਗਾਰੀਆ	Bulgaria
+ਰੋਮ	Roma
+ਮਕਦੂਨੀਆ ਗਣਰਾਜ	Republikken Makedonia
+ਅਲਬਾਨੀਆ	Albania
+ਗਰੀਨਲੈਂਡ	Grønland
+ਕ੍ਰੋਏਸ਼ੀਆ	Kroatia
+ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ	Bosnia-Hercegovina
+ਨੂਕ	Nuuk
+ਅਜ਼ਰਬਾਈਜਾਨ	Aserbajdsjan
+ਅੰਡੋਰਾ	Andorra
+ਸਾਇਪ੍ਰਸ	Republikken Kypros
+ਜਾਰਜੀਆ (ਦੇਸ਼)	Georgia
+ਕਜ਼ਾਖ਼ਸਤਾਨ	Kasakhstan
+ਮਾਲਟਾ	Malta
+ਮੋਨਾਕੋ	Monaco
+ਮੋਂਟੇਨੇਗਰੋ	Montenegro
+ਵੈਟੀਕਨ ਸ਼ਹਿਰ	Vatikanstaten
+ਸਾਨ ਮਰੀਨੋ	San Marino
+ਬਰੱਸਲਸ (ਸ਼ਹਿਰ)	Brussel
+ਕਿਊਬਾ	Cuba
+ਬੇਲੀਜ਼	Belize
+ਆਈਫ਼ਲ ਟਾਵਰ	Eiffeltårnet
+ਬਾਰਬਾਡੋਸ	Barbados
+ਫ਼ੌਕਸਵੈਗਨ	Volkswagen
+ਇਨਟੈੱਲ	Intel
+ਜਾਵਾ (ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ)	Java (programmeringsspråk)
+ਇੰਡੋਨੇਸ਼ੀਆ	Indonesia
+ਵੋਲਫ਼ਗਾਂਗ ਆਮਾਡੇਅਸ ਮੋਜ਼ਾਰਟ	Wolfgang Amadeus Mozart
+ਲੁਡਵਿਗ ਵਾਨ ਬੀਥੋਵਨ	Ludwig van Beethoven
+ਤੁਰਕ ਭਾਸ਼ਾ	Tyrkisk
+ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ	Sør-Afrika
+ਅਲਜੀਰੀਆ	Algerie
+ਉਜ਼ਬੇਕਿਸਤਾਨ	Usbekistan
+ਤਾਸ਼ਕੰਤ	Tasjkent
+ਵਾਰਸਾ	Warszawa
+ਵਾਈਨ	Vin
+ਪਾਣੀ	Vann
+ਚਮੜਾ	Lær
+ਲੱਕੜ	Treverk
+ਟੀਵੀ	Fjernsyn
+ਫ਼ਾਹਸ਼ ਰਚਨਾ	Pornografi
+ਕਲੌਦ ਮੋਨੇ	Claude Monet
+ਡਿਏਗੋ ਵੇਲਾਕਿਉਜ	Diego Velázquez
+ਚੀਲੇ	Chile
+ਈਸਾ ਮਸੀਹ	Jesus Kristus
+ਗੈਲੀਲਿਓ ਗੈਲੀਲੀ	Galileo Galilei
+ਬੁੱਧ (ਗ੍ਰਹਿ)	Merkur
+ਇਤਿਹਾਸ	Historie
+ਐਪਲ	Apple
+ਭਾਸ਼ਾ	Språk
+ਪਿਆਰ	Kjærlighet
+ਤਾਨਾਸ਼ਾਹੀ	Diktatur
+ਅਕਾਸ਼ਗੰਗਾ	Galakse
+ਬ੍ਰਹਿਸਪਤ (ਗ੍ਰਹਿ)	Jupiter
+ਮਿਸ਼ੇਲ ਬਾਚੇਲੇਤ	Michelle Bachelet
+ਮਿਲਕੀ ਵੇ	Melkeveien
+ਮਹਾਂ ਧਮਾਕਾ	Big Bang
+ਯੁਰੇਨਸ (ਗ੍ਰਹਿ)	Uranus
+ਅੰਗਰੇਜ਼ੀ ਵਿਕੀਪੀਡੀਆ	Wikipedia på engelsk
+ਵਰੁਣ (ਗ੍ਰਹਿ)	Neptun (planet)
+ਤਾਰਾ ਵਿਗਿਆਨ	Astronomi
+ਸਿੰਗਾਪੁਰ	Singapore
+ਵਿਗਿਆਨ	Vitenskap
+ਪਲੂਟੋ	Pluto
+ਮਾਂਟਰੀਆਲ	Montréal
+ਆਜ਼ਾਦ ਸਾਫ਼ਟਵੇਅਰ	Fri programvare
+ਕੁਆਰੀ ਮਰੀਅਮ	Jomfru Maria
+ਲੀਖਟਨਸ਼ਟਾਈਨ	Liechtenstein
+ਖੇਡ	Sport
+ਕੈਂਬਰਿਜ	Cambridge
+ਅਡੋਲਫ ਹਿਟਲਰ	Adolf Hitler
+ਫ਼ੇਸਬੁੱਕ	Facebook
+ਵਿਕੀਲੀਕਸ	WikiLeaks
+ਪਹਿਲੀ ਸੰਸਾਰ ਜੰਗ	Første verdenskrig
+ਦੂਜੀ ਸੰਸਾਰ ਜੰਗ	Andre verdenskrig
+ਕਲਨ	Köln
+ਭ੍ਰਿਸ਼ਟਾਚਾਰ	Korrupsjon
+ਘੜੀ	Klokke (ur)
+ਉਬੁੰਟੂ (ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ)	Ubuntu (operativsystem)
+ਸਕੋਪੀਏ	Skopje
+ਹਿਸਾਬ	Matematikk
+ਬਹਿਰੀਨ	Bahrain
+ਅਰਮੀਨੀਆ	Armenia
+ਕੀਲਾਕਾਰ ਲਿਪੀ	Kileskrift
+ਹਿਗਜ਼ ਬੋਸੌਨ	Higgs-boson
+ਸਰਬੀਆ	Serbia
+ਚੰਦਰਮਾ	Månen
+ਇਸਤਾਨਬੁਲ	Istanbul
+ਆਸਟਰੇਲੀਆ	Australia
+ਬਾਬ ਮਾਰਲੇ	Bob Marley
+ਭੌਤਿਕ ਵਿਗਿਆਨ	Fysikk
+ਅਰਜਨਟੀਨਾ	Argentina
+ਪੇਰੂ	Peru
+ਜੀਵ ਵਿਗਿਆਨ	Biologi
+ਉੱਡਣ ਤਸ਼ਤਰੀ	Uidentifisert flygende objekt
+ਉੱਤਰੀ ਕੋਰੀਆ	Nord-Korea
+ਕੰਬੋਡੀਆ	Kambodsja
+ਪਸ਼ੂ ਅਧਿਕਾਰ	Dyrerettigheter
+ਕੁਰਾਨ	Koranen
+ਡਾਈਨੋਸੌਰ	Dinosaurer
+ਜੰਤੂ ਵਿਗਿਆਨ	Zoologi
+ਇਸਲਾਮ	Islam
+ਲਿਊਬਲਿਆਨਾ	Ljubljana
+ਬਨਸਪਤੀ ਵਿਗਿਆਨ	Botanikk
+ਦੇਨੀ ਦਿਦਰੋ	Denis Diderot
+ਅਮਨ	Fred
+ਇਨਸਾਈਕਲੋਪੀਡੀਆ ਬ੍ਰਿਟੈਨਿਕਾ	Encyclopædia Britannica
+ਲਿਓਂ	Lyon
+ਯੂਰਪੀ ਸੰਘ	Den europeiske union
+ਇੰਟਰਨੈੱਟ ਅਰਕਾਈਵ	Internet Archive
+ਰੋਨ-ਆਲਪ	Rhône-Alpes
+ਵਰਲਡ ਵਾਈਡ ਵੈੱਬ	World Wide Web
+ਔਰਤ	Kvinne
+ਸੋਫ਼ੀਆ	Sofia
+ਦੌਨ ਕੀਖ਼ੋਤੇ	Don Quijote
+ਕਵਿਤਾ	Poesi
+ਆਰਥਰ ਰਿੰਬੋ	Arthur Rimbaud
+ਨਿੰਬੂ	Sitron
+ਸ਼ਾਰਲ ਬੌਦੇਲੈਰ	Charles Baudelaire
+ਸਤੇਂਦਾਲ	Stendhal
+ਐਮਿਲ ਜ਼ੋਲਾ	Émile Zola
+ਮਾਊਂਟ ਐਵਰੈਸਟ	Mount Everest
+ਅੰਗ ਵਿਗਿਆਨ	Anatomi
+ਸ਼ਹਿਰ	By
+ਨਪੋਲੀਅਨ	Napoléon Bonaparte
+ਤਾਰਾ	Stjerne
+ਸੂਰਜ	Solen
+ਪ੍ਰਕਾਸ਼-ਸਾਲ	Lysår
+ਪਿੰਡ	Landsby
+ਵਿਕਤੋਰ ਊਗੋ	Victor Hugo
+ਓਸ਼ੇਨੀਆ	Oseania
+ਜੂਜ਼ੈੱਪੇ ਗਾਰੀਬਾਲਦੀ	Giuseppe Garibaldi
+ਅਥਲੈਟਿਕਸ	Friidrett
+ਸੂਰਜ ਮੰਡਲ	Solsystemet
+ਬਾਲਟਿਕ ਸਮੁੰਦਰ	Østersjøen
+ਸ਼ਾਂਜ਼-ਏਲੀਜ਼ੇ	Avenue des Champs-Élysées
+ਹਾਈਡਰੋਜਨ	Hydrogen
+ਹੀਲੀਅਮ	Helium
+ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼	Wikimedia Commons
+ਐਂਜਿਲਾ ਮੇਰਕਲ	Angela Merkel
+ਲਿਥੀਅਮ	Litium
+ਬੇਰਿਲੀਅਮ	Beryllium
+ਕਿਤਾਬ	Bok
+ਦਿਨ	Dag
+ਪੂਰਬੀ ਤਿਮੋਰ	Øst-Timor
+ਰਾਤ	Natt
+ਸਾਲ	År
+ਸਦੀ	Århundre
+ਰਾਈਨ ਦਰਿਆ	Rhinen
+ਓਸਲੋ	Oslo
+ਬੌਨ	Bonn
+ਬਲੈਕ ਹੋਲ	Sort hull
+ਲਿਸਬਨ	Lisboa
+ਰੋਨ ਦਰਿਆ	Rhône
+ਦੁਬਈ	Dubai
+ਲਿਓਨਲ ਮੈਸੀ	Lionel Messi
+ਬੋਰਾਨ	Bor (grunnstoff)
+ਕਾਰਬਨ	Karbon
+ਵੋਲਗਾ ਦਰਿਆ	Volga
+ਨਾਈਟਰੋਜਨ	Nitrogen
+ਆਕਸੀਜਨ	Oksygen
+ਇੰਟਰ ਮਿਲਣ	Inter
+ਗ੍ਰਹਿ	Planet
+ਸੰਗੀਤ	Musikk
+ਵੈਨਿਸ	Venezia
+ਲੀਲ	Lille
+ਮਾਸਕੋ	Moskva
+ਫ਼ਲੋਰੀਨ	Fluor
+ਇਤਾਲਵੀ ਭਾਸ਼ਾ	Italiensk
+ਨੀਆਨ	Neon
+ਚੀਵਾਵਾ (ਰਾਜ)	Chihuahua (delstat)
+ਸੇਂਟ ਪੀਟਰਸਬਰਗ	St. Petersburg
+ਚਾਡ	Tsjad
+ਸੋਡੀਅਮ	Natrium
+ਉੱਤਰ	Nord
+ਮੈਗਨੀਸ਼ੀਅਮ	Magnesium
+ਐਲਮੀਨੀਅਮ	Aluminium
+ਨਿਊਜ਼ੀਲੈਂਡ	New Zealand
+ਦੱਖਣ	Sør
+ਭਾਰਤ	India
+ਸਿਲੀਕਾਨ	Silisium
+ਫ਼ਰਾਂਸੀਅਮ	Francium
+ਤੁਵਾਲੂ	Tuvalu
+ਫ਼ਾਸਫ਼ੋਰਸ	Fosfor
+ਲੋਹਾ	Jern
+ਟੋਂਗਾ	Tonga
+ਪੱਛਮ	Vest
+ਗੰਧਕ	Svovel
+ਸਮੋਆ	Samoa
+ਪੂਰਬ	Øst
+ਸੋਲੋਮਨ ਟਾਪੂ	Salomonøyene
+ਵਨੁਆਤੂ	Vanuatu
+ਮੋਲੀਏਰ	Molière
+ਕਲੋਰੀਨ	Klor
+ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ	Papua Ny-Guinea
+ਵਿਲੀਅਮ ਸ਼ੇਕਸਪੀਅਰ	William Shakespeare
+ਪਲਾਊ	Palau
+ਆਰਗਾਨ	Argon
+ਨਾਉਰੂ	Nauru
+ਫ਼ਾਇਰਫ਼ੌਕਸ	Mozilla Firefox
+ਪਰੀ ਕਥਾ	Eventyr
+ਮਾਈਕ੍ਰੋਨੇਸ਼ੀਆ ਦੇ ਸੰਘੀ ਰਾਜ	Mikronesiaføderasjonen
+ਪੋਟਾਸ਼ੀਅਮ	Kalium
+ਓਲੰਪੀਕ ਲਿਉਨੇ	Olympique Lyonnais
+ਕੈਲਸ਼ੀਅਮ	Kalsium
+ਸਿੱਕਾ	Bly
+ਮਾਰਸ਼ਲ ਟਾਪੂ	Marshalløyene
+ਕਿਰੀਬਾਸ	Kiribati
+ਮੰਗੋਲੀਆ	Mongolia
+ਫ਼ਿਜੀ	Fiji
+ਸਕੈਂਡੀਅਮ	Scandium
+ਟਾਈਟੇਨੀਅਮ	Titan (grunnstoff)
+ਵੈਨੇਜ਼ੁਐਲਾ	Venezuela
+ਸ਼ਤਰੰਜ	Sjakk
+ਚੰਗੇਜ਼ ਖ਼ਾਨ	Djengis Khan
+ਵੈਨੇਡੀਅਮ	Vanadium
+ਮੇਨ	Maine
+ਕਰੋਮੀਅਮ	Krom
+ਘੋੜਾ	Hest
+ਅਮਸਤੱਰਦਮ	Amsterdam
+ਹਥਿਆਰ	Våpen
+ਜੰਤੂ	Dyr
+ਸੂਰੀਨਾਮ	Surinam
+ਮੈਂਗਨੀਜ਼	Mangan
+ਪੈਰਾਗੁਏ	Paraguay
+ਗੁਇਆਨਾ	Guyana
+ਕਲਾ	Kunst
+ਏਕੁਆਦੋਰ	Ecuador
+ਰੀਨੀਅਮ	Rhenium
+ਕੋਲੰਬੀਆ	Colombia
+ਕੋਬਾਲਟ	Kobolt
+ਟੰਗਸਟਨ	Wolfram
+ਨਿਕਲ	Nikkel
+ਬੁੱਧ ਧਰਮ	Buddhisme
+ਬੋਲੀਵੀਆ	Bolivia
+ਓਸਮੀਅਮ	Osmium
+ਤਾਂਬਾ	Kobber
+ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ	Trinidad og Tobago
+ਬੂਟਾ	Planter
+ਸੇਂਟ ਵਿਨਸੈਂਟ ਅਤੇ ਗ੍ਰੇਨਾਡੀਨਜ਼	Saint Vincent og Grenadinene
+ਜਿਸਤ	Sink
+ਨਿਊ ਹੈਂਪਸ਼ਰ	New Hampshire
+ਸੇਂਟ ਲੂਸੀਆ	Saint Lucia
+ਲਿਓਨਾਰਦੋ ਦਾ ਵਿੰਚੀ	Leonardo da Vinci
+ਸੇਂਟ ਕਿਟਸ ਅਤੇ ਨੇਵਿਸ	Saint Kitts og Nevis
+ਉੱਲੀ	Sopper
+ਦਾਰੀਓ ਫ਼ੋ	Dario Fo
+ਜਮੈਕਾ	Jamaica
+ਗ੍ਰੇਨਾਡਾ	Grenada
+ਮੈਸਾਚੂਸਟਸ	Massachusetts
+ਗੁਆਤੇਮਾਲਾ	Guatemala
+ਬਹਾਮਾਸ	Bahamas
+ਕਨੈਟੀਕਟ	Connecticut
+ਐਂਟੀਗੁਆ ਅਤੇ ਬਰਬੂਡਾ	Antigua og Barbuda
+ਹਵਾਈ	Hawaii
+ਹਾਂਡੂਰਾਸ	Honduras
+ਡੋਮਿਨਿਕਾ	Dominica
+ਜਰਸੀ	Jersey
+ਡੋਮਿਨਿਕਾਈ ਗਣਰਾਜ	Den dominikanske republikk
+ਆਰਕਟਿਕ ਮਹਾਂਸਾਗਰ	Nordishavet
+ਹੈਤੀ	Haiti
+ਸਾਲਵਾਦੋਰ	El Salvador
+ਇਰਾਨ	Iran
+ਇਰਾਕ	Irak
+ਅਲਾਸਕਾ	Alaska
+ਸਿਆਣਪ	Visdom
+ਕੋਸਤਾ ਰੀਕਾ	Costa Rica
+ਇਜ਼ਰਾਇਲ	Israel
+ਪਨਾਮਾ	Panama
+ਯਮਨ	Jemen
+ਵਿਸ਼ਾਣੂ	Virus
+ਪੋਲਿਸ਼ ਭਾਸ਼ਾ	Polsk
+ਜਾਰਡਨ	Jordan
+ਨਿਕਾਰਾਗੁਆ	Nicaragua
+ਫ਼ਲੌਰਿਡਾ	Florida
+ਕਿਰਗਿਜ਼ਸਤਾਨ	Kirgisistan
+ਐਰੀਜ਼ੋਨਾ	Arizona
+ਕੁਵੈਤ	Kuwait
+ਲਾਉਸ	Laos
+ਲਿਬਨਾਨ	Libanon
+ਔਰੇਗਨ	Oregon
+ਮਾਲਦੀਵ	Maldivene
+ਅਮਰੀਕਾ (ਮਹਾਂ-ਮਹਾਂਦੀਪ)	Amerika
+ਯੂਟਾ	Utah
+ਮਲੇਸ਼ੀਆ	Malaysia
+ਮਿਖਾਇਲ ਬੁਲਗਾਕੋਵ	Mikhail Bulgakov
+ਮਿਆਂਮਾਰ	Myanmar
+ਨੇਪਾਲ	Nepal
+ਉਮਾਨ	Oman
+ਪਾਕਿਸਤਾਨ	Pakistan
+ਕਤਰ	Qatar
+ਗੇਂਦ-ਛਿੱਕਾ	Tennis
+ਸਾਊਦੀ ਅਰਬ	Saudi-Arabia
+ਸ੍ਰੀਲੰਕਾ	Sri Lanka
+ਜੋਸਿਫ਼ ਸਟਾਲਿਨ	Josef Stalin
+ਸੀਰੀਆ	Syria
+ਅਫਲਾਤੂਨ	Platon
+ਗੈਲੀਅਮ	Gallium
+ਤਾਜਿਕਸਤਾਨ	Tadsjikistan
+ਤਾਇਵਾਨ	Republikken Kina
+ਯੂਟਿਊਬ	YouTube
+ਜਰਮੇਨੀਅਮ	Germanium
+ਅਰਸਤੂ	Aristoteles
+ਥਾਈਲੈਂਡ	Thailand
+ਸੰਖੀਆ	Arsen
+ਮੇਰਿਲ ਸਟਰੀਪ	Meryl Streep
+ਤੁਰਕਮੇਨਸਤਾਨ	Turkmenistan
+ਅਬਾਕਾਨ	Abakan
+ਸਿਲੀਨੀਅਮ	Selen
+ਇਰੀਡੀਅਮ	Iridium
+ਸੰਯੁਕਤ ਅਰਬ ਇਮਰਾਤ	De forente arabiske emirater
+ਬ੍ਰੋਮੀਨ	Brom
+ਪਲੈਟੀਨਮ	Platina
+ਵੀਅਤਨਾਮ	Vietnam
+ਚਾਰਲੀ ਚੈਪਲਿਨ	Charlie Chaplin
+ਦੱਖਣੀ ਕੋਰੀਆ	Sør-Korea
+ਕ੍ਰਿਪਟਾਨ	Krypton
+ਅਫਗਾਨਿਸਤਾਨ	Afghanistan
+ਗੰਗਨਮ ਸਟਾਈਲ	Gangnam Style
+ਰੁਬੀਡੀਅਮ	Rubidium
+ਸੋਨਾ	Gull
+ਸੁਏਸ ਨਹਿਰ	Suezkanalen
+ਵਿਗਿਆਨੀ	Naturviter
+ਬੰਗਲਾਦੇਸ਼	Bangladesh
+ਫ਼ਰੈਂਜ਼ ਕਾਫ਼ਕਾ	Franz Kafka
+ਹੋਰਹੇ ਲੂਈਸ ਬੋਰਗੇਸ	Jorge Luis Borges
+ਮਾਲੀ	Mali
+ਸੁਕਰਾਤ	Sokrates
+ਵੋਲਗਾਗਰਾਡ	Volgograd
+ਅੰਗੋਲਾ	Angola
+ਭੂਟਾਨ	Bhutan
+ਟਵਿਟਰ	Twitter
+ਬਰੂਨਾਈ	Brunei
+ਤਨਜ਼ਾਨੀਆ	Tanzania
+ਪਾਰਾ	Kvikksølv
+ਫਿਲੀਪੀਨਜ਼	Filippinene
+ਮੱਧ ਅਫਰੀਕੀ ਗਣਰਾਜ	Den sentralafrikanske republikk
+ਥੈਲੀਅਮ	Thallium
+ਆਇਜ਼ਕ ਨਿਊਟਨ	Isaac Newton
+ਅਲਬਰਟ ਆਈਨਸਟਾਈਨ	Albert Einstein
+ਸਟਰੌਂਸ਼ਮ	Strontium
+ਬਿਸਮਥ	Vismut
+ਪੀਲ਼ਾ (ਰੰਗ)	Gul
+ਮਿਕਦਾਰ ਮਕੈਨਕੀ	Kvantemekanikk
+ਟੋਗੋ	Togo
+ਤੁਨੀਸੀਆ	Tunisia
+ਜ਼ਾਂਬੀਆ	Zambia
+ਜ਼ਿੰਬਾਬਵੇ	Zimbabwe
+ਬੀਜਿੰਗ	Beijing
+ਦੱਖਣੀ ਸੁਡਾਨ	Sør-Sudan
+ਬੇਨਿਨ	Benin
+ਬੋਤਸਵਾਨਾ	Botswana
+ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ	Burkina Faso
+ਬੁਰੂੰਡੀ	Burundi
+ਕਾਮਾਰੋਸ	Komorene
+ਕਾਂਗੋ ਗਣਰਾਜ	Republikken Kongo
+ਓਬ ਦਰਿਆ	Ob
+ਕਾਂਗੋ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ	Den demokratiske republikken Kongo
+ਸਾਨ ਆਂਤੋਨੀਓ	San Antonio
+ਜਿਬੂਤੀ	Djibouti
+ਮੀਮ	Mem
+ਪੋਲੋਨੀਅਮ	Polonium
+ਬਾਈਆਨ	Bayern
+ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ	Ekvatorial-Guinea
+ਬਾਡਨ-ਵਰਟਮਬਰਕ	Baden-Württemberg
+ਇਰੀਤਰੀਆ	Eritrea
+ਨਵੀਂ ਦਿੱਲੀ	New Delhi
+ਫ਼ਿਓਦਰ ਦਾਸਤੋਵਸਕੀ	Fjodor Dostojevskij
+ਤਬੀਲਿਸੀ	Tbilisi
+ਐਸਟਾਟੀਨ	Astat
+ਗਬਾਨ	Gabon
+ਮੋਹਨਦਾਸ ਕਰਮਚੰਦ ਗਾਂਧੀ	Mahatma Gandhi
+ਕੌਮਿਕਸ	Tegneserie
+ਗਾਂਬੀਆ	Gambia
+ਗਿਨੀ	Guinea
+ਗਿਨੀ-ਬਿਸਾਊ	Guinea-Bissau
+ਦੰਦ ਖੰਡ ਤਟ	Elfenbenskysten
+ਕੈਮਰੂਨ	Kamerun
+ਕੇਪ ਵਰਦੇ	Kapp Verde
+ਲਿਸੋਥੋ	Lesotho
+ਲਾਈਬੇਰੀਆ	Liberia
+ਲੀਬੀਆ	Libya
+ਮਾਦਾਗਾਸਕਰ	Madagaskar
+ਮਲਾਵੀ	Malawi
+ਸ਼ਟੁੱਟਗਾਟ	Stuttgart
+ਮੌਰੀਤਾਨੀਆ	Mauritania
+ਮਾਰੀਸ਼ਸ	Mauritius
+ਮੋਰਾਕੋ	Marokko
+ਮੋਜ਼ੈਂਬੀਕ	Mosambik
+ਨਮੀਬੀਆ	Namibia
+ਨਾਈਜਰ	Niger
+ਨਾਈਜੀਰੀਆ	Nigeria
+ਚਾਰਲਸ ਡਾਰਵਿਨ	Charles Darwin
+ਯੁਗਾਂਡਾ	Uganda
+ਰਵਾਂਡਾ	Rwanda
+ਜ਼ਰਕੋਨੀਅਮ	Zirkonium
+ਸਾਓ ਤੋਮੇ ਅਤੇ ਪ੍ਰਿੰਸੀਪੀ	São Tomé og Príncipe
+ਸੇਨੇਗਲ	Senegal
+ਸੇਸ਼ੈਲ	Seychellene
+ਕਾਰਲ ਲੀਨੀਅਸ	Carl von Linné
+ਸਿਏਰਾ ਲਿਓਨ	Sierra Leone
+ਸੋਮਾਲੀਆ	Somalia
+ਨਿਓਬੀਅਮ	Niob
+ਜਵਾਹਰ ਲਾਲ ਨਹਿਰੂ	Jawaharlal Nehru
+ਜੂਲੀਅਸ ਸੀਜ਼ਰ	Julius Cæsar
+ਸੁਡਾਨ	Sudan
+ਸਵਾਜ਼ੀਲੈਂਡ	Swaziland
+ਸਤਰੰਗੀ ਪੀਂਘ	Regnbue
+ਮੋਲਿਬਡੇਨਮ	Molybden
+ਟੈਕਨੀਸ਼ੀਅਮ	Technetium
+ਹਾਮਬੁਰਕ	Hamburg
+ਨਰਿੰਦਰ ਮੋਦੀ	Narendra Modi
+ਇਮਿਊਨ ਸਿਸਟਮ	Immunforsvar
+ਗੁਜਰਾਤ	Gujarat
+ਓਂਟਾਰੀਓ ਝੀਲ	Ontariosjøen
+ਵਿਕਾਸਵਾਦ	Evolusjon
+ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ	De forente nasjoner
+ਸੁਪੀਰੀਅਰ ਝੀਲ	Lake Superior
+ਦਾਂਤੇ ਆਲੀਗੀਏਰੀ	Dante Alighieri
+ਭੂਗਰਭ ਵਿਗਿਆਨ	Geologi
+ਅਹਿਮਦਾਬਾਦ	Ahmedabad
+ਭੂਗੋਲ	Geografi
+ਦਿਲ	Hjerte
+ਦਿਮਾਗ਼	Hjerne
+ਰੰਗ	Farge
+ਬਰੇਕਿੰਗ ਬੈਡ	Breaking Bad
+ਨਾਂਵ	Substantiv
+ਪ੍ਰਾਗ	Praha
+ਰ੍ਹੋਡੀਅਮ	Rhodium
+ਨੀਲਾ	Blå
+ਪੈਲੇਡੀਅਮ	Palladium
+ਚਾਂਦੀ	Sølv
+ਕੈਡਮੀਅਮ	Kadmium
+ਇੰਡੀਅਮ	Indium
+ਟੀਨ	Tinn (grunnstoff)
+ਯੂਰੇਨੀਅਮ	Uran
+ਐਂਟੀਮਨੀ	Antimon
+ਟੈਲੂਰੀਅਮ	Tellur
+ਪਲੂਟੋਨੀਅਮ	Plutonium
+ਆਇਓਡੀਨ	Jod
+ਜ਼ੀਨਾਨ	Xenon
+﻿ਐਨੀਮੇ	Anime
+ਸੀਜ਼ੀਅਮ	Cesium
+ਬਿਜਲਈ ਚਾਰਜ	Elektrisk ladning
+ਬੇਰੀਅਮ	Barium
+ਹਾਫ਼ਨੀਅਮ	Hafnium
+ਟੈਂਟਲਮ	Tantal
+ਰੇਡੀਅਮ	Radium
+ਰੇਡਾਨ	Radon
+ਲੋਰੈਨ	Lorraine
+ਅਲਸਾਸ	Alsace
+ਇੰਦਰਾ ਗਾਂਧੀ	Indira Gandhi
+ਮਰਕਰੀ	Merkur (gud)
+ਓਵੈਰਨੀ	Auvergne
+ਮੁੰਬਈ	Mumbai
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਅਥਲੈਟਿਕਸ ਸੰਘ ਪ੍ਰੀਸ਼ਦ	IAAF
+ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼	Andhra Pradesh
+ਅਰੁਨਾਚਲ ਪ੍ਰਦੇਸ਼	Arunachal Pradesh
+ਅਸਾਮ	Assam
+ਬਿਹਾਰ	Bihar
+ਮਿਸ਼ੀਗਨ	Michigan
+ਛੱਤੀਸਗੜ੍ਹ	Chhattisgarh
+ਮਿਸ਼ੀਗਨ ਝੀਲ	Michigansjøen
+ਗੋਆ	Goa
+ਬਰਗੰਡੀ	Bourgogne
+ਹਰਿਆਣਾ	Haryana
+ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼	Himachal Pradesh
+ਆਕੀਤੈਨ	Aquitaine
+ਜੰਮੂ ਅਤੇ ਕਸ਼ਮੀਰ	Jammu og Kashmir
+ਪੁਇਰਤੋ ਰੀਕੋ	Puerto Rico
+ਝਾਰਖੰਡ	Jharkhand
+ਕਰਨਾਟਕ	Karnataka
+ਕੇਰਲਾ	Kerala
+ਮੱਧ ਪ੍ਰਦੇਸ਼	Madhya Pradesh
+ਉਸੈਨ ਬੋਲਟ	Usain Bolt
+ਲਿਮੂਜ਼ੈਂ	Limousin
+ਮਹਾਂਰਾਸ਼ਟਰ	Maharashtra
+ਮਨੀਪੁਰ	Manipur
+ਮੇਘਾਲਿਆ	Meghalaya
+ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ	Nordrhein-Westfalen
+ਹੈੱਸਨ	Hessen
+ਜ਼ਾਰਲਾਂਡ	Saarland
+ਜ਼ਾਕਸਨ	Sachsen
+ਜਾਨ ਲੈਨਨ	John Lennon
+ਇਲੀਨਾਏ	Illinois
+ਉੱਤਰੀ ਡਕੋਟਾ	Nord-Dakota
+ਬ੍ਰਾਂਡਨਬੁਰਕ	Brandenburg
+ਬਰੇਮਨ (ਰਾਜ)	Bremen
+ਲੋਂਬਾਰਦੀਆ	Lombardia
+ਦੱਖਣੀ ਡਕੋਟਾ	Sør-Dakota
+ਮੋਂਟਾਨਾ	Montana
+ਵਾਇਓਮਿੰਗ	Wyoming
+ਪੀਏਮੋਂਤੇ	Piemonte
+ਜੇਰੂਸਲਮ	Jerusalem
+ਆਇਡਾਹੋ	Idaho
+ਆਓਸਤਾ ਘਾਟੀ	Aostadalen
+ਵਾਸ਼ਿੰਗਟਨ (ਰਾਜ)	Washington
+ਰੂਥੇਨੀਅਮ	Rutherfordium
+ਨਵਾਡਾ	Nevada
+ਡਾਨ (ਦਰਿਆ)	Don
+ਹਿੰਦ ਮਹਾਂਸਾਗਰ	Indiahavet
+ਵੈਨੇਤੋ	Veneto
+ਕੋਸੋਵੋ ਗਣਰਾਜ	Kosovo
+ਕਰੀਬੀਆਈ ਸਮੁੰਦਰ	Det karibiske hav
+ਕੋਫ਼ੀ ਅੰਨਾਨ	Kofi Annan
+ਲਿਗੂਰੀਆ	Liguria
+ਕੋਲੋਰਾਡੋ	Colorado
+ਏਮੀਲੀਆ-ਰੋਮਾਞਾ	Emilia-Romagna
+ਕੋਲੋਰਾਡੋ ਦਰਿਆ	Colorado (elv)
+ਫਰਾਦਾਰੀਕ ਸ਼ੋਪੁਹ	Frédéric Chopin
+ਤੋਸਕਾਨਾ	Toscana
+ਮਾਰਕੇ	Marche
+ਅੰਬਰੀਆ	Umbria
+ਲਾਤਸੀਓ	Latium
+ਆਬਰੂਤਸੋ	Abruzzo
+ਐਪਨਾਈਨ ਪਹਾੜ	Appenninene
+ਐਲਪ	Alpene
+ਕਾਰਪਾਤੀ ਪਹਾੜ	Karpatene
+ਬਲੇਸ ਪਾਸਕਾਲ	Blaise Pascal
+ਸ਼ਿਕਾਗੋ	Chicago
+ਦ ਬੀਟਲਜ਼	The Beatles
+ਸਿਆਲ	Vinter
+ਸਦਾਮ ਹੁਸੈਨ	Saddam Hussein
+ਸਪੇਨੀ ਭਾਸ਼ਾ	Spansk
+ਮੋਂਤੇਵੀਦਿਓ	Montevideo
+ਯੋਹਾਨ ਸੇਬਾਸਤੀਅਨ ਬਾਖ਼	Johann Sebastian Bach
+ਪਿਟਸਬਰਗ	Pittsburgh
+ਓਪੇਰਾ	Opera
+ਫ਼ਿਲਾਡੈਲਫ਼ੀਆ	Philadelphia
+ਕੋਲਕਾਤਾ	Kolkata
+ਚੇਨਈ	Chennai
+ਦਿੱਲੀ	Delhi
+ਢਾਕਾ	Dhaka
+ਬੰਗਲੌਰ	Bangalore
+ਪੱਛਮੀ ਬੰਗਾਲ	Vest-Bengal
+ਮੱਕੜੀ	Edderkopper
+ਆਰਥਰੋਪੋਡ	Leddyr
+ਹੈਦਰਾਬਾਦ, ਭਾਰਤ	Hyderabad
+ਇਸਲਾਮਾਬਾਦ	Islamabad
+ਤ੍ਰਿਪੁਰਾ	Tripura
+ਫਲ	Frukt
+ਮੁਦਰਾ	Penger
+ਵਰਜਿਨੀਆ	Virginia
+ਪੱਛਮੀ ਵਰਜਿਨੀਆ	Vest-Virginia
+ਹਿਊਰਾਨ ਝੀਲ	Huronsjøen
+ਨਿਊ ਯਾਰਕ	New York (delstat)
+ਰੋਡ ਟਾਪੂ	Rhode Island
+ਮੈਰੀਲੈਂਡ	Maryland
+ਡੇਲਾਵੇਅਰ	Delaware
+ਵਲਾਦੀਮੀਰ ਲੈਨਿਨ	Vladimir Lenin
+ਯੂਰਪੀਅਮ	Europium
+ਓਹਾਇਓ	Ohio
+ਵਰਜਿਲ	Vergil
+ਨਿਕੋਲੋ ਮੈਕਿਆਵੇਲੀ	Niccolò Machiavelli
+ਪੈੱਨਸਿਲਵੇਨੀਆ	Pennsylvania
+ਜਿਓਵਾਨੀ ਬੋਕਾਸੀਓ	Giovanni Boccaccio
+ਲੁਈਗੀ ਪਿਰਾਂਦੋਲੋ	Luigi Pirandello
+ਆਗਸਟਸ ਕੈਸਰ	Augustus
+ਨਿਊ ਜਰਸੀ	New Jersey
+ਜਿਬਰਾਲਟਰ	Gibraltar
+ਫ਼ਿਨੀ ਭਾਸ਼ਾ	Finsk
+ਇੰਡੀਆਨਾ	Indiana
+ਨੋਕੀਆ	Nokia (selskap)
+ਕਾਰ	Bil
+ਜੁਵੇਂਟਸ ਫੁੱਟਬਾਲ ਕਲੱਬ	Juventus
+ਤਰਾਜਾਨ	Trajan
+ਰਾਜਰ ਫੈਡਰਰ	Roger Federer
+ਜਾਰਜੀਆ (ਅਮਰੀਕੀ ਰਾਜ)	Georgia (USA)
+ਜ਼ਾਗਰਬ	Zagreb
+ਰਾਜਸਥਾਨ	Rajasthan
+ਕਾਂਪਾਨੀਆ	Campania
+ਟੈਕਸਸ	Texas
+ਤਾਮਿਲ ਨਾਡੂ	Tamil Nadu
+ਪੂਲੀਆ	Puglia
+ਬਾਜ਼ਿਲੀਕਾਤਾ	Basilicata
+ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ	Nord-Carolina
+ਦੱਖਣੀ ਕੈਰੋਲੀਨਾ	Sør-Carolina
+ਯੂ. ਸੀ. ਸੰਪਦੋਰੀਆ	UC Sampdoria
+ਕਾਲਾਬਰੀਆ	Calabria
+ਸਿਚੀਲੀਆ	Sicilia
+ਮਨੀਲਾ	Manila
+ਸਾਰਦੇਞਾ	Sardinia
+ਲੁਆਰ ਦਰਿਆ	Loire
+ਸੈਨ ਦਰਿਆ	Seine
+ਬੋਰਦੋ	Bordeaux
+ਬੁਏਨਸ ਆਇਰਸ	Buenos Aires
+ਮੈਕਸੀਕੋ ਸ਼ਹਿਰ	Mexico by
+ਟੋਕੀਓ	Tokyo
+ਲਾ ਪਾਸ	La Paz
+ਬਾਰਸੀਲੋਨਾ	Barcelona
+ਮਿਸੀਸਿੱਪੀ	Mississippi
+ਮਿੱਸੀਸਿੱਪੀ ਦਰਿਆ	Mississippi (elv)
+ਉੱਤਰ ਪ੍ਰਦੇਸ਼	Uttar Pradesh
+ਉੱਤਰਾਖੰਡ	Uttarakhand
+ਮਿਜ਼ੋਰਮ	Mizoram
+ਸਿੱਕਮ	Sikkim
+ਟੈਨੇਸੀ	Tennessee
+ਰਾਬਰਟ ਲੂਈ ਸਟੀਵਨਸਨ	Robert Louis Stevenson
+ਨਾਗਪੁਰ	Nagpur
+ਅਬੀਜਾਨ	Abidjan
+ਅਬੂ ਧਾਬੀ	Abu Dhabi (by)
+ਅਸਤਾਨਾ	Astana
+ਨਿਊ ਮੈਕਸੀਕੋ	New Mexico
+ਐਥਨਜ਼	Athen
+ਮਿਨੇਸੋਟਾ	Minnesota
+ਬਗ਼ਦਾਦ	Bagdad
+ਕਾਰਾਕਾਸ	Caracas
+ਵਿਸਕਾਂਸਨ	Wisconsin
+ਪੁਣੇ	Pune
+ਏ.ਸੀ. ਮਿਲਣ	AC Milan
+ਆਇਓਵਾ	Iowa
+ਨਬਰਾਸਕਾ	Nebraska
+ਗੁਆਤੇਮਾਲਾ ਸ਼ਹਿਰ	Guatemala by
+ਕਾਂਸਸ	Kansas
+ਹਵਾਨਾ	Havanna
+ਤਮਾਕੂ	Tobakk
+ਹਿੰਦੀ ਭਾਸ਼ਾ	Hindi
+ਮਰਾਠੀ ਭਾਸ਼ਾ	Marathi
+ਗਣੇਸ਼	Ganesha
+ਮਿਜ਼ੂਰੀ	Missouri
+ਲੂਈਜ਼ੀਆਨਾ	Louisiana
+ਲੂਗੀ ਗੇਲਵੈਨੀ	Luigi Galvani
+ਨਾਗਾਲੈਂਡ	Nagaland
+ਕਿੰਟਕੀ	Kentucky
+ਆਰਕੰਸਾ	Arkansas
+ਨੀਲ ਆਰਮਸਟਰਾਂਗ	Neil Armstrong
+ਉਰਦੂ ਭਾਸ਼ਾ	Urdu
+ਏਦੀਥ ਪੀਆਫ	Édith Piaf
+ਓਕਲਾਹੋਮਾ	Oklahoma
+ਦਨੂਬ ਦਰਿਆ	Donau
+ਰੂਆ ਦਰਿਆ	Ruhr
+ਉੱਤਰੀ ਸਮੁੰਦਰ	Nordsjøen
+ਹੈਨੋਫ਼ਾ	Hannover
+ਮਿਊਨਿਖ	München
+ਵਾਲੀਬਾਲ	Volleyball
+ਵਿਆਨਾ	Wien
+ਕੋਪਨਹੈਗਨ	København
+ਸਟਾਕਹੋਮ	Stockholm
+ਹੈਲਸਿੰਕੀ	Helsingfors
+ਡਬਲਿਨ	Dublin
+ਰੇਕੀਆਵਿਕ	Reykjavík
+ਤਾਲਿਨ	Tallinn
+ਰੀਗਾ	Riga
+ਲੁਈਸ ਆਰਮਸਟਰਾਂਗ	Louis Armstrong
+ਬ੍ਰਾਤਿਸਲਾਵਾ	Bratislava
+ਬੁਦਾਪੈਸਤ	Budapest
+ਫ਼ਰਾਂਕਫ਼ੁਰਟ	Frankfurt am Main
+ਲਕਸਮਬਰਗ (ਸ਼ਹਿਰ)	Luxembourg (by)
+ਫ਼ਾਦੁਤਸ	Vaduz
+ਬਾਈਬਲ	Bibelen
+ਪਨਾਮ ਪੈਨ	Phnom Penh
+ਹੋ ਚੀ ਮਿਨ ਸ਼ਹਿਰ	Ho Chi Minh-byen
+ਇਟਰੀਅਮ	Ytterbium
+ਲੁਟੀਸ਼ੀਅਮ	Lutetium
+ਹਨੋਈ	Hanoi
+ਅੰਗਰੇਜ਼ੀ ਭਾਸ਼ਾ	Engelsk
+ਬੈਂਕਾਕ	Bangkok
+ਅੰਡੋਰਾ ਲਾ ਵੇਲਾ	Andorra la Vella
+ਕੁਆਲਾ ਲੁੰਪੁਰ	Kuala Lumpur
+ਤਾਈਪੇ	Taipei
+ਕਾਂਸੇਪਸਿਉਂ	Concepción
+ਬਰਕੀਲੀਅਮ	Berkelium
+ਕੀਵ	Kiev
+ਓਂਟਾਰੀਓ	Ontario
+ਓਲਿਵਰ ਗਿਰੌਦ	Olivier Giroud
+ਓਟਾਵਾ	Ottawa
+ਜੂਬਾ	Juba
+ਮਾਨੀਟੋਬਾ	Manitoba
+ਐਲਬਰਟਾ	Alberta
+ਨੋਵਾ ਸਕੋਸ਼ਾ	Nova Scotia
+ਯੇਰਵਾਨ	Jerevan
+ਕਞ੍ਸ੍ਕਵਲਾ	Końskowola
+ਦਾਰ ਅਸ ਸਲਾਮ	Dar-es-Salaam
+ਖ਼ਰਤੂਮ	Khartoum
+ਨਿਊ ਬਰੰਸਵਿਕ	New Brunswick
+ਫ਼ਾਰਮੂਲਾ ਵਨ	Formel 1
+ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ	Britisk Columbia
+ਪ੍ਰਿੰਸ ਐਡਵਰਡ ਟਾਪੂ	Prince Edward Island
+ਜੈਰਲੌਂ ਸਟੇਡੀਅਮ	Stade de Gerland
+2000	2000
+2003	2003
+੨੦੦੨	2002
+2001	2001
+ਸਸਕਾਚਵਾਨ	Saskatchewan
+੨੦੧੨	2012
+੨੦੧੧	2011
+੨੦੧੦	2010
+੨੦੦੯	2009
+ਕਾਰਬਨ ਡਾਈਆਕਸਾਈਡ	Karbondioksid
+੨੦੧੫	2015
+ਨਿਊਫ਼ੰਡਲੈਂਡ ਅਤੇ ਲਾਬਰਾਡੋਰ	Newfoundland og Labrador
+੨੦੦੮	2008
+ਉੱਤਰ-ਪੱਛਮੀ ਰਾਜਖੇਤਰ	Nordvestterritoriene
+ਯੂਕੋਨ	Yukon
+੨੦੦੪	2004
+੨੦੦੫	2005
+੨੦੦੬	2006
+ਨੂਨਾਵੁਤ	Nunavut
+੨੦੦੭	2007
+੧੯੦੦	1900
+੧੯੦੧	1901
+੧੯੦੨	1902
+੧੯੦੩	1903
+੧੯੦੪	1904
+1905	1905
+1907	1907
+੧੯੦੬	1906
+ਏਸੀਐਫ ਫਿਓਰੇਂਟੀਨਾ	ACF Fiorentina
+1908	1908
+੧੯੦੯	1909
+1992	1992
+੧੯੯੧	1991
+1990	1990
+੧੯੯੩	1993
+ਐੱਸਨ	Essen
+1994	1994
+੧੯੯੫	1995
+1996	1996
+ਜੇਨੋਵਾ ਸੀ. ਐੱਫ਼. ਸੀ.	Genoa CFC
+1910	1910
+1911	1911
+1912	1912
+ਲਾਈਪਸਿਸ਼	Leipzig
+੧੯੧੩	1913
+੧੯੧੪	1914
+1915	1915
+੧੯੧੬	1916
+੧੯੯੭	1997
+1998	1998
+੧੯੯੯	1999
+1917	1917
+੧੯੧੮	1918
+ਭੋਜਨ	Mat
+ਐਡਮੰਟਨ	Edmonton
+ਸੱਪ	Slanger
+ਰਿਜਾਇਨਾ	Regina (Saskatchewan)
+ਸ਼ਾਰਲਟਟਾਊਨ	Charlottetown
+ਵਿਕਟੋਰੀਆ, ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ	Victoria (Britisk Columbia)
+ਵਿਨੀਪੈਗ	Winnipeg
+ਹੈਲੀਫ਼ੈਕਸ, ਨੋਵਾ ਸਕੋਸ਼ਾ	Halifax (Nova Scotia)
+ਕੇਬੈਕ ਸ਼ਹਿਰ	Québec (by)
+੧ ਜਨਵਰੀ	1. januar
+੨ ਜਨਵਰੀ	2. januar
+ਸੁਭਾਸ਼ ਚੰਦਰ ਬੋਸ	Subhas Chandra Bose
+੧੯੨੦	1920
+3 ਜਨਵਰੀ	3. januar
+1919	1919
+੧੯੨੧	1921
+1922	1922
+੪ ਜਨਵਰੀ	4. januar
+1923	1923
+1924	1924
+ਲੈਨਿਨਗ੍ਰਾਦ ਓਬਲਾਸਤ	Leningrad oblast
+5 ਜਨਵਰੀ	5. januar
+ਆਰੀਕਾ	Arica
+੬ ਜਨਵਰੀ	6. januar
+ਬਿਜਲਾਣੂ	Elektron
+7 ਜਨਵਰੀ	7. januar
+੮ ਜਨਵਰੀ	8. januar
+੯ ਜਨਵਰੀ	9. januar
+੧੦ ਜਨਵਰੀ	10. januar
+੧੧ ਜਨਵਰੀ	11. januar
+12 ਜਨਵਰੀ	12. januar
+੧੩ ਜਨਵਰੀ	13. januar
+ਬਰਮਿੰਘਮ	Birmingham
+੧੪ ਜਨਵਰੀ	14. januar
+15 ਜਨਵਰੀ	15. januar
+16 ਜਨਵਰੀ	16. januar
+17 ਜਨਵਰੀ	17. januar
+18 ਜਨਵਰੀ	18. januar
+੧੯ ਜਨਵਰੀ	19. januar
+੨੦ ਜਨਵਰੀ	20. januar
+ਸਨਅਤੀ ਇਨਕਲਾਬ	Den industrielle revolusjon
+ਬੈਨਜ਼ੀਨ	Benzen
+21 ਜਨਵਰੀ	21. januar
+੨੨ ਜਨਵਰੀ	22. januar
+੨੩ ਜਨਵਰੀ	23. januar
+ਰੋਮਨ ਸਮਰਾਜ	Det romerske keiserriket
+੨੪ ਜਨਵਰੀ	24. januar
+25 ਜਨਵਰੀ	25. januar
+ਮਿੰਸਕ	Minsk
+26 ਜਨਵਰੀ	26. januar
+੨੭ ਜਨਵਰੀ	27. januar
+੨੮ ਜਨਵਰੀ	28. januar
+੨੯ ਜਨਵਰੀ	29. januar
+੩੦ ਜਨਵਰੀ	30. januar
+੩੧ ਜਨਵਰੀ	31. januar
+ਪ੍ਰੋਟਾਨ	Proton
+2 ਦਸੰਬਰ	2. desember
+੧ ਦਸੰਬਰ	1. desember
+੩ ਦਸੰਬਰ	3. desember
+੭ ਦਸੰਬਰ	7. desember
+5 ਦਸੰਬਰ	5. desember
+8 ਦਸੰਬਰ	8. desember
+੧੦ ਦਸੰਬਰ	10. desember
+6 ਦਸੰਬਰ	6. desember
+੯ ਦਸੰਬਰ	9. desember
+੪ ਦਸੰਬਰ	4. desember
+੧ ਫ਼ਰਵਰੀ	1. februar
+੨ ਫ਼ਰਵਰੀ	2. februar
+੩ ਫ਼ਰਵਰੀ	3. februar
+ਕੂਰੋਫ	Kurów
+੪ ਫ਼ਰਵਰੀ	4. februar
+੫ ਫ਼ਰਵਰੀ	5. februar
+6 ਫ਼ਰਵਰੀ	6. februar
+7 ਫ਼ਰਵਰੀ	7. februar
+8 ਫ਼ਰਵਰੀ	8. februar
+੯ ਫ਼ਰਵਰੀ	9. februar
+੧੦ ਫ਼ਰਵਰੀ	10. februar
+ਰਸਾਇਣ ਵਿਗਿਆਨ	Kjemi
+14 ਫ਼ਰਵਰੀ	14. februar
+13 ਫ਼ਰਵਰੀ	13. februar
+੧੫ ਫ਼ਰਵਰੀ	15. februar
+11 ਫ਼ਰਵਰੀ	11. februar
+12 ਫ਼ਰਵਰੀ	12. februar
+ਰੋਬਿਨ ਵੈਨ ਪਰਸੀ	Robin van Persie
+੧੯ ਫ਼ਰਵਰੀ	19. februar
+੧੭ ਫ਼ਰਵਰੀ	17. februar
+੧੬ ਫ਼ਰਵਰੀ	16. februar
+18 ਫ਼ਰਵਰੀ	18. februar
+੨੦ ਫ਼ਰਵਰੀ	20. februar
+ਅਬਿਜਲਕਣ	Nøytron
+੨੧ ਫ਼ਰਵਰੀ	21. februar
+੨੨ ਫ਼ਰਵਰੀ	22. februar
+੨੩ ਫ਼ਰਵਰੀ	23. februar
+੨੪ ਫ਼ਰਵਰੀ	24. februar
+25 ਫ਼ਰਵਰੀ	25. februar
+੨੬ ਫ਼ਰਵਰੀ	26. februar
+੨੭ ਫ਼ਰਵਰੀ	27. februar
+੨੮ ਫ਼ਰਵਰੀ	28. februar
+੧੧ ਦਸੰਬਰ	11. desember
+੨੯ ਫ਼ਰਵਰੀ	29. februar
+੧੨ ਦਸੰਬਰ	12. desember
+੧੩ ਦਸੰਬਰ	13. desember
+14 ਦਸੰਬਰ	14. desember
+੧੫ ਦਸੰਬਰ	15. desember
+2 ਮਾਰਚ	2. mars
+3 ਮਾਰਚ	3. mars
+5 ਮਾਰਚ	5. mars
+1 ਮਾਰਚ	1. mars
+7 ਮਾਰਚ	7. mars
+੮ ਮਾਰਚ	8. mars
+4 ਮਾਰਚ	4. mars
+੧੦ ਮਾਰਚ	10. mars
+੧੧ ਮਾਰਚ	11. mars
+6 ਮਾਰਚ	6. mars
+੧੩ ਮਾਰਚ	13. mars
+9 ਮਾਰਚ	9. mars
+੧੨ ਮਾਰਚ	12. mars
+੧੫ ਮਾਰਚ	15. mars
+੧੪ ਮਾਰਚ	14. mars
+ਸੀ++	C++
+ਲੂਣ ਦਾ ਤਿਜ਼ਾਬ	Saltsyre
+੧੬ ਦਸੰਬਰ	16. desember
+੧੭ ਦਸੰਬਰ	17. desember
+16 ਮਾਰਚ	16. mars
+੧੭ ਮਾਰਚ	17. mars
+੧੮ ਮਾਰਚ	18. mars
+੧੯ ਮਾਰਚ	19. mars
+1989	1989
+1988	1988
+੨੦ ਮਾਰਚ	20. mars
+੧੯੮੭	1987
+੧੯੮੬	1986
+੧੯੮੫	1985
+1984	1984
+੨੧ ਮਾਰਚ	21. mars
+੧੯੮੩	1983
+੨੨ ਮਾਰਚ	22. mars
+1982	1982
+੧੯੮੧	1981
+੧੮ ਦਸੰਬਰ	18. desember
+੧੯੮੦	1980
+੨੩ ਮਾਰਚ	23. mars
+ਮਕਦੀਸ਼ੂ	Mogadishu
+19 ਦਸੰਬਰ	19. desember
+੨੪ ਮਾਰਚ	24. mars
+੨੫ ਮਾਰਚ	25. mars
+੨੦ ਦਸੰਬਰ	20. desember
+੨੬ ਮਾਰਚ	26. mars
+੨੭ ਮਾਰਚ	27. mars
+੨੮ ਮਾਰਚ	28. mars
+੨੯ ਮਾਰਚ	29. mars
+੩੦ ਮਾਰਚ	30. mars
+੩੧ ਮਾਰਚ	31. mars
+ਨਸਾਊ	Nassau (Bahamas)
+ਸਨਾ	Sanaá
+੧੯੭੦	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+੧੯੭੭	1977
+੧੯੭੮	1978
+੧੯੭੯	1979
+੧੯੬੯	1969
+ਤੀਹ-ਸਾਲਾ ਜੰਗ	Tredveårskrigen
+ਸਰਪਿਲ ਆਕਾਸ਼ਗੰਗਾ	Spiralgalakse
+15 ਅਪਰੈਲ	15. april
+੧੩ ਅਪ੍ਰੈਲ	13. april
+12 ਅਪ੍ਰੈਲ	12. april
+14 ਅਪ੍ਰੈਲ	14. april
+11 ਅਪ੍ਰੈਲ	11. april
+੧੦ ਅਪ੍ਰੈਲ	10. april
+੮ ਅਪਰੈਲ	8. april
+9 ਅਪ੍ਰੈਲ	9. april
+੭ ਅਪ੍ਰੈਲ	7. april
+੬ ਅਪ੍ਰੈਲ	6. april
+੫ ਅਪ੍ਰੈਲ	5. april
+4 ਅਪ੍ਰੈਲ	4. april
+੩ ਅਪ੍ਰੈਲ	3. april
+1 ਅਪ੍ਰੈਲ	1. april
+੨ ਅਪ੍ਰੈਲ	2. april
+16 ਅਪ੍ਰੈਲ	16. april
+17 ਅਪ੍ਰੈਲ	17. april
+18 ਅਪ੍ਰੈਲ	18. april
+19 ਅਪ੍ਰੈਲ	19. april
+20 ਅਪ੍ਰੈਲ	20. april
+੨੧ ਅਪ੍ਰੈਲ	21. april
+੨੨ ਅਪ੍ਰੈਲ	22. april
+੨੩ ਅਪ੍ਰੈਲ	23. april
+੨੪ ਅਪ੍ਰੈਲ	24. april
+25 ਅਪ੍ਰੈਲ	25. april
+੨੬ ਅਪ੍ਰੈਲ	26. april
+੨੭ ਅਪ੍ਰੈਲ	27. april
+28 ਅਪ੍ਰੈਲ	28. april
+29 ਅਪਰੈਲ	29. april
+੩੦ ਅਪ੍ਰੈਲ	30. april
+ਕੁਦਰਤੀ ਉਪਗ੍ਰਹਿ	Naturlig satellitt
+1 ਮਈ	1. mai
+੨ ਮਈ	2. mai
+3 ਮਈ	3. mai
+4 ਮਈ	4. mai
+5 ਮਈ	5. mai
+6 ਮਈ	6. mai
+੭ ਮਈ	7. mai
+੮ ਮਈ	8. mai
+9 ਮਈ	9. mai
+10 ਮਈ	10. mai
+11 ਮਈ	11. mai
+12 ਮਈ	12. mai
+੧੩ ਮਈ	13. mai
+14 ਮਈ	14. mai
+੧੫ ਮਈ	15. mai
+੧੬ ਮਈ	16. mai
+੧੭ ਮਈ	17. mai
+੧੮ ਮਈ	18. mai
+੧੯ ਮਈ	19. mai
+੨੦ ਮਈ	20. mai
+੨੧ ਮਈ	21. mai
+੨੨ ਮਈ	22. mai
+੨੩ ਮਈ	23. mai
+੨੪ ਮਈ	24. mai
+25 ਮਈ	25. mai
+26 ਮਈ	26. mai
+੨੭ ਮਈ	27. mai
+28 ਮਈ	28. mai
+੨੯ ਮਈ	29. mai
+੩੦ ਮਈ	30. mai
+31 ਮਈ	31. mai
+੨੧ ਦਸੰਬਰ	21. desember
+ਐੱਸ. ਐੱਸ. ਲੇਜ਼ੀਓ	SS Lazio
+੧੪ ਜੂਨ	14. juni
+੧੫ ਜੂਨ	15. juni
+13 ਜੂਨ	13. juni
+੧੦ ਜੂਨ	10. juni
+7 ਜੂਨ	7. juni
+11 ਜੂਨ	11. juni
+9 ਜੂਨ	9. juni
+12 ਜੂਨ	12. juni
+੬ ਜੂਨ	6. juni
+8 ਜੂਨ	8. juni
+੫ ਜੂਨ	5. juni
+੩ ਜੂਨ	3. juni
+2 ਜੂਨ	2. juni
+1 ਜੂਨ	1. juni
+4 ਜੂਨ	4. juni
+੨੨ ਦਸੰਬਰ	22. desember
+ਐੱਸ. ਐੱਸ. ਸੀ. ਨਪੋਲੀ	SSC Napoli
+1968	1968
+੧੯੬੭	1967
+੧੯੬੬	1966
+1965	1965
+੧੯੬੪	1964
+੧੬ ਜੂਨ	16. juni
+ਪਾਲੇਰਮੋ	Palermo
+30 ਜੂਨ	30. juni
+੨੯ ਜੂਨ	29. juni
+28 ਜੂਨ	28. juni
+੨੬ ਜੂਨ	26. juni
+੨੫ ਜੂਨ	25. juni
+੨੨ ਜੂਨ	22. juni
+੨੭ ਜੂਨ	27. juni
+24 ਜੂਨ	24. juni
+੨੦ ਜੂਨ	20. juni
+੨੩ ਜੂਨ	23. juni
+੧੯ ਜੂਨ	19. juni
+੧੮ ਜੂਨ	18. juni
+੨੧ ਜੂਨ	21. juni
+੧੭ ਜੂਨ	17. juni
+੨੩ ਦਸੰਬਰ	23. desember
+15 ਜੁਲਾਈ	15. juli
+13 ਜੁਲਾਈ	13. juli
+੧੨ ਜੁਲਾਈ	12. juli
+10 ਜੁਲਾਈ	10. juli
+੯ ਜੁਲਾਈ	9. juli
+੧੪ ਜੁਲਾਈ	14. juli
+੮ ਜੁਲਾਈ	8. juli
+ਪਰਮਾ ਫੁੱਟਬਾਲ ਕਲੱਬ	Parma FC
+7 ਜੁਲਾਈ	7. juli
+੬ ਜੁਲਾਈ	6. juli
+੫ ਜੁਲਾਈ	5. juli
+2 ਜੁਲਾਈ	2. juli
+੪ ਜੁਲਾਈ	4. juli
+੩ ਜੁਲਾਈ	3. juli
+1 ਜੁਲਾਈ	1. juli
+11 ਜੁਲਾਈ	11. juli
+੨੪ ਦਸੰਬਰ	24. desember
+ਵੌਟਫ਼ਰਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Watford FC
+੩੧ ਜੁਲਾਈ	31. juli
+੩੦ ਜੁਲਾਈ	30. juli
+੨੯ ਜੁਲਾਈ	29. juli
+੨੮ ਜੁਲਾਈ	28. juli
+੨੭ ਜੁਲਾਈ	27. juli
+੨੫ ਜੁਲਾਈ	25. juli
+24 ਜੁਲਾਈ	24. juli
+੨੩ ਜੁਲਾਈ	23. juli
+੨੬ ਜੁਲਾਈ	26. juli
+੨੨ ਜੁਲਾਈ	22. juli
+19 ਜੁਲਾਈ	19. juli
+੨੧ ਜੁਲਾਈ	21. juli
+੨੦ ਜੁਲਾਈ	20. juli
+17 ਜੁਲਾਈ	17. juli
+18 ਜੁਲਾਈ	18. juli
+੧੬ ਜੁਲਾਈ	16. juli
+ਫੁਟਬਾਲ	Fotball
+ਏ. ਐੱਸ. ਰੋਮਾ	AS Roma
+25 ਦਸੰਬਰ	25. desember
+1963	1963
+26 ਦਸੰਬਰ	26. desember
+ਯਹੂਦੀ ਘੱਲੂਘਾਰਾ	Holocaust
+1962	1962
+ਆਈਫੋਨ	IPhone
+ਟੋਰਿਨੋ ਫੁੱਟਬਾਲ ਕਲੱਬ	Torino FC
+੧੪ ਅਗਸਤ	14. august
+੧੫ ਅਗਸਤ	15. august
+13 ਅਗਸਤ	13. august
+12 ਅਗਸਤ	12. august
+11 ਅਗਸਤ	11. august
+10 ਅਗਸਤ	10. august
+੮ ਅਗਸਤ	8. august
+੭ ਅਗਸਤ	7. august
+੯ ਅਗਸਤ	9. august
+੫ ਅਗਸਤ	5. august
+੪ ਅਗਸਤ	4. august
+੨ ਅਗਸਤ	2. august
+੩ ਅਗਸਤ	3. august
+੬ ਅਗਸਤ	6. august
+1 ਅਗਸਤ	1. august
+27 ਦਸੰਬਰ	27. desember
+ਮਾਦਰੀਦ	Madrid
+16 ਅਗਸਤ	16. august
+ਕੋਕਾ ਕੋਲਾ	Coca-Cola
+29 ਅਗਸਤ	29. august
+੨੮ ਅਗਸਤ	28. august
+30 ਅਗਸਤ	30. august
+25 ਅਗਸਤ	25. august
+੨੬ ਅਗਸਤ	26. august
+23 ਅਗਸਤ	23. august
+੨੭ ਅਗਸਤ	27. august
+੨੧ ਅਗਸਤ	21. august
+੨੦ ਅਗਸਤ	20. august
+24 ਅਗਸਤ	24. august
+18 ਅਗਸਤ	18. august
+੧੭ ਅਗਸਤ	17. august
+੨੨ ਅਗਸਤ	22. august
+19 ਅਗਸਤ	19. august
+੩੧ ਅਗਸਤ	31. august
+ਮਾਈਕਲ ਜੈਕਸਨ	Michael Jackson
+੨੮ ਦਸੰਬਰ	28. desember
+ਬੋਗੋਤਾ	Bogotá
+ਬ੍ਰਾਜ਼ੀਲੀਆ	Brasília
+ਗਾਂਜਾ	Cannabis (rusmiddel)
+੧੫ ਸਤੰਬਰ	15. september
+੧੪ ਸਤੰਬਰ	14. september
+13 ਸਤੰਬਰ	13. september
+12 ਸਤੰਬਰ	12. september
+8 ਸਤੰਬਰ	8. september
+੧੧ ਸਤੰਬਰ	11. september
+7 ਸਤੰਬਰ	7. september
+੧੦ ਸਤੰਬਰ	10. september
+੫ ਸਤੰਬਰ	5. september
+੪ ਸਤੰਬਰ	4. september
+੯ ਸਤੰਬਰ	9. september
+੨ ਸਤੰਬਰ	2. september
+6 ਸਤੰਬਰ	6. september
+੧ ਸਤੰਬਰ	1. september
+੩ ਸਤੰਬਰ	3. september
+29 ਦਸੰਬਰ	29. desember
+ਲੀਮਾ	Lima
+ਗੌਨ ਵਿਦ ਦ ਵਿੰਡ	Tatt av vinden
+ਕੈਨੇਡਾ ਦੇ ਸੂਬੇ ਅਤੇ ਰਾਜਖੇਤਰ	Canadas provinser og territorier
+੩੦ ਸਤੰਬਰ	30. september
+੨੯ ਸਤੰਬਰ	29. september
+28 ਸਤੰਬਰ	28. september
+27 ਸਤੰਬਰ	27. september
+੨੬ ਸਤੰਬਰ	26. september
+੨੫ ਸਤੰਬਰ	25. september
+ਸਾਂਤੀਆਗੋ	Santiago de Chile
+੨੩ ਸਤੰਬਰ	23. september
+22 ਸਤੰਬਰ	22. september
+੨੪ ਸਤੰਬਰ	24. september
+21 ਸਤੰਬਰ	21. september
+20 ਸਤੰਬਰ	20. september
+੧੮ ਸਤੰਬਰ	18. september
+੧੭ ਸਤੰਬਰ	17. september
+19 ਸਤੰਬਰ	19. september
+੧੬ ਸਤੰਬਰ	16. september
+ਕੀਤੋ	Quito
+੩੦ ਦਸੰਬਰ	30. desember
+ਸੂਕਰੇ	Sucre (Bolivia)
+੩੧ ਦਸੰਬਰ	31. desember
+੧ ਅਕਤੂਬਰ	1. oktober
+੧੫ ਅਕਤੂਬਰ	15. oktober
+12 ਅਕਤੂਬਰ	12. oktober
+10 ਅਕਤੂਬਰ	10. oktober
+14 ਅਕਤੂਬਰ	14. oktober
+9 ਅਕਤੂਬਰ	9. oktober
+8 ਅਕਤੂਬਰ	8. oktober
+੧੩ ਅਕਤੂਬਰ	13. oktober
+7 ਅਕਤੂਬਰ	7. oktober
+੧੧ ਅਕਤੂਬਰ	11. oktober
+੬ ਅਕਤੂਬਰ	6. oktober
+੪ ਅਕਤੂਬਰ	4. oktober
+੫ ਅਕਤੂਬਰ	5. oktober
+੩ ਅਕਤੂਬਰ	3. oktober
+੨ ਅਕਤੂਬਰ	2. oktober
+ਅਸੂੰਸੀਓਨ	Asunción
+ਬੱਕਰੀ	Geit
+ਸਿਸਟੀਨ ਚੈਪਲ	Det sixtinske kapell
+੩੧ ਅਕਤੂਬਰ	31. oktober
+੩੦ ਅਕਤੂਬਰ	30. oktober
+੨੯ ਅਕਤੂਬਰ	29. oktober
+੨੮ ਅਕਤੂਬਰ	28. oktober
+੨੬ ਅਕਤੂਬਰ	26. oktober
+25 ਅਕਤੂਬਰ	25. oktober
+24 ਅਕਤੂਬਰ	24. oktober
+27 ਅਕਤੂਬਰ	27. oktober
+22 ਅਕਤੂਬਰ	22. oktober
+੨੩ ਅਕਤੂਬਰ	23. oktober
+20 ਅਕਤੂਬਰ	20. oktober
+੨੧ ਅਕਤੂਬਰ	21. oktober
+੧੯ ਅਕਤੂਬਰ	19. oktober
+17 ਅਕਤੂਬਰ	17. oktober
+੧੬ ਅਕਤੂਬਰ	16. oktober
+੧੮ ਅਕਤੂਬਰ	18. oktober
+੧੫ ਨਵੰਬਰ	15. november
+14 ਨਵੰਬਰ	14. november
+੧੩ ਨਵੰਬਰ	13. november
+੧੨ ਨਵੰਬਰ	12. november
+੧੧ ਨਵੰਬਰ	11. november
+੧੦ ਨਵੰਬਰ	10. november
+7 ਨਵੰਬਰ	7. november
+8 ਨਵੰਬਰ	8. november
+9 ਨਵੰਬਰ	9. november
+6 ਨਵੰਬਰ	6. november
+੫ ਨਵੰਬਰ	5. november
+੪ ਨਵੰਬਰ	4. november
+੩ ਨਵੰਬਰ	3. november
+2 ਨਵੰਬਰ	2. november
+੧ ਨਵੰਬਰ	1. november
+ਪਾਰਾਮਾਰੀਬੋ	Paramaribo
+30 ਨਵੰਬਰ	30. november
+੨੯ ਨਵੰਬਰ	29. november
+੨੮ ਨਵੰਬਰ	28. november
+੨੭ ਨਵੰਬਰ	27. november
+26 ਨਵੰਬਰ	26. november
+੨੫ ਨਵੰਬਰ	25. november
+੨੩ ਨਵੰਬਰ	23. november
+੨੪ ਨਵੰਬਰ	24. november
+੨੧ ਨਵੰਬਰ	21. november
+20 ਨਵੰਬਰ	20. november
+੨੨ ਨਵੰਬਰ	22. november
+19 ਨਵੰਬਰ	19. november
+੧੮ ਨਵੰਬਰ	18. november
+੧੭ ਨਵੰਬਰ	17. november
+੧੬ ਨਵੰਬਰ	16. november
+ਕੁੜੀ	Jente
+ਕਠਮੰਡੂ	Katmandu
+ਬੈਲਮੋਪਾਨ	Belmopan
+ਸਾਨ ਹੋਸੇ	San José
+ਸਾਨ ਸਾਲਵਾਦੋਰ	San Salvador
+ਕੈਨਬਰਾ	Canberra
+ਸਿਡਨੀ	Sydney
+ਹਰਾ	Grønn
+ਤਖ਼ੀਆ	Trier
+ਮੈਲਬਰਨ	Melbourne
+ਲਾਲ	Rød
+ਯੂਰੋਪਾ (ਚੰਨ)	Europa (måne)
+ਪਰਥ	Perth (Australia)
+ਅੱਗ	Ild
+ਪੱਛਮੀ ਆਸਟਰੇਲੀਆ	Vest-Australia
+ਨਿਊ ਸਾਊਥ ਵੇਲਜ਼	New South Wales
+ਹਵਾ	Jordens atmosfære
+ਉੱਤਰੀ ਰਾਜਖੇਤਰ	Nordterritoriet
+ਤੇਗੂਸੀਗਾਲਪਾ	Tegucigalpa
+ਆਸਟ੍ਰੇਲੀਆਈ ਰਾਜਧਾਨੀ ਰਾਜਖੇਤਰ	Australian Capital Territory
+ਮਾਨਾਗੁਆ	Managua
+ਬੋਥਨੀਆ ਲਾਈਨ	Botniabanan
+ਪਨਾਮਾ ਸ਼ਹਿਰ	Panama by
+ਜਾਰਜ ਆਰਵੈੱਲ	George Orwell
+ਨੀਲ ਨਦੀ	Nilen
+ਸ਼ਿਕਾਰੀ ਤਾਰਾ	Sirius
+ਮਕੈਂਜ਼ੀ ਦਰਿਆ	Mackenzie (elv)
+ਅਭਿਜੀਤ ਤਾਰਾ	Vega (stjerne)
+ਜਿੰਨ	Djinn
+ਕਾਂਗੋ ਦਰਿਆ	Kongo (elv)
+ਨਾਈਜਰ ਦਰਿਆ	Niger (elv)
+ਰਬਾਤ	Rabat
+ਅਲ-ਜਜ਼ਾਇਰ	Alger
+ਤੂਨਿਸ	Tunis
+ਤਰਾਬਲਸ	Tripoli
+ਜਿਬੂਤੀ (ਸ਼ਹਿਰ)	Djibouti (by)
+ਸਾਈਕਲ ਦੌੜ	Landeveissykling
+ਤਹਿਰਾਨ	Teheran
+ਆਦਿਸ ਆਬਬਾ	Addis Abeba
+ਜਕਾਰਤਾ	Jakarta
+ਅੰਕਾਰਾ	Ankara
+ਅਸਮਾਰਾ	Asmara
+ਨਿਜਾਮੀਨਾ	N'Djamena
+ਨਿਆਮੀ	Niamey
+ਨੁਆਕਚੋਤ	Nouakchott
+ਰਿਆਧ	Riyadh
+੧੯੬੧	1961
+ਬਮਾਕੋ	Bamako
+ਬੈਲਗ੍ਰਾਦ	Beograd
+ਡਾਕਾਰ	Dakar
+ਬੰਜੁਲ	Banjul
+ਕੋਨਾਕਰੀ	Conakry
+ਬਿਸਾਊ	Bissau
+ਮੋਨਰੋਵੀਆ	Monrovia
+ਪ੍ਰਾਈਆ	Praia
+1960	1960
+ਜਾਵਾ ਟਾਪੂ	Java (øy)
+ਅਕਰਾ	Accra
+ਦਮਸ਼ਕ	Damaskus
+ਯਾਮੂਸੂਕਰੋ	Yamoussoukro
+ਫ਼ਰਾਂਸੀਸੀ ਗੁਈਆਨਾ	Fransk Guyana
+ਵਾਗਾਦੁਗੂ	Ouagadougou
+ਫ਼ਰੀਟਾਊਨ	Freetown
+ਐਮਾਜ਼ਾਨ ਦਰਿਆ	Amazonas
+ਅਬੁਜਾ	Abuja
+ਲੋਮੇ	Lomé
+ਪੋਰਤੋ-ਨੋਵੋ	Porto-Novo
+ਅਮਾਨ	Amman
+ਯਾਊਂਦੇ	Yaoundé
+ਮਲਾਬੋ	Malabo
+ਬੈਰੂਤ	Beirut
+ਲਿਬਰਵਿਲ	Libreville
+ਮਸਕਟ	Muskat (Oman)
+ਬਾਂਗੀ	Bangui
+ਕਿਨਸ਼ਾਸਾ	Kinshasa
+ਬ੍ਰਾਜ਼ਾਵਿਲ	Brazzaville
+ਬੁਜੁੰਬੁਰਾ	Bujumbura
+ਨਿਕੋਸੀਆ	Nikosia
+ਕਿਗਾਲੀ	Kigali
+ਦੋਹਾ	Doha
+ਦੋਦੋਮਾ	Dodoma
+ਨੈਰੋਬੀ	Nairobi
+ਲਿਲਾਂਗਵੇ	Lilongwe
+ਲੁਸਾਕਾ	Lusaka
+ਮਨਾਮਾ	Manama
+ਸੂਰਜ ਗ੍ਰਹਿਣ	Solformørkelse
+ਮਾਪੂਤੋ	Maputo
+ਕੰਪਾਲਾ	Kampala
+ਲੁਆਂਦਾ	Luanda
+ਮੋਰੋਨੀ	Moroni
+ਅੰਬਾਬਾਨੇ	Mbabane
+ਮਸੇਰੂ	Maseru
+ਅੰਤਾਨਾਨਾਰੀਵੋ	Antananarivo
+ਯੂਨੀਵਰਸਿਟੀ	Universitet
+ਗਾਬੋਰੋਨੀ	Gaborone
+ਹਰਾਰੇ	Harare
+ਪ੍ਰਿਟੋਰੀਆ	Pretoria
+ਪੋਰਟ ਲੂਈ	Port Louis
+ਸਾਓ ਤੋਮੇ	São Tomé
+ਵਿੰਟਹੁਕ	Windhoek
+ਸੁਪਰਨੋਵਾ	Supernova
+ਵਿਕੀਪੀਡੀਆ:ਕੱਚਾ ਖਾਕਾ	Wikipedia:Sandkasse
+ਵਿਕਟੋਰੀਆ, ਸੇਸ਼ੈਲ	Victoria (Seychellene)
+ਸਥਾਨਕ ਸਮੂਹ	Den lokale gruppen
+ਮਕਾਨ	Hus
+ਆਸਟਰੇਲੀਆ (ਮਹਾਂਦੀਪ)	Australia (kontinent)
+ਲੈਪਟਾਪ	Bærbar datamaskin
+ਅਲਜਬਰਾ	Algebra
+ਮਨੁੱਖੀ ਸਰੀਰ	Menneskets anatomi
+ਨਕਸ਼ਾ	Kart
+ਦਰਿਆ	Elv
+ਫ਼ੁਜੈਰਾ	Fujairah
+ਗਲਾਸਗੋ	Glasgow
+ਗੰਧਕ ਦਾ ਤਿਜ਼ਾਬ	Svovelsyre
+ਲੂਈ ਆਰਾਗੋਂ	Louis Aragon
+ਪੰਧ (ਤਾਰਾ ਵਿਗਿਆਨ)	Bane
+ਡੋਂਗ ਹੋਈ ਹਵਾਈ ਅੱਡਾ	Dong Hoi lufthavn
+ਪੁਲਾੜ	Ytre rom
+ਕਾਲਾ ਜੰਗਲ	Schwarzwald
+ਰੇਡੀਓ ਛੱਲ	Radiobølger
+ਮਦਰਬੋਰਡ	Hovedkort
+ਕੁਰੀਤੀਬਾ	Curitiba
+ਪੈਂਜੀਆ	Pangea
+ਪੱਛਮੀ ਅਫ਼ਰੀਕਾ	Vest-Afrika
+ਐਮਿਲੀ ਡਿਕਨਸਨ	Emily Dickinson
+ਪੰਜਾਬ, ਪਾਕਿਸਤਾਨ	Punjab (Pakistan)
+ਕੋਟਾਇਕ	Kotajk
+ਫ਼ਾਓ. ਐੱਫ਼. ਬੇ. ਸ਼ਟੁੱਟਗਾਟ	VfB Stuttgart
+ਸੁੰਦਰਵਨ	Sundarbans
+ਅਖਾਣਾਂ ਦੀ ਕਿਤਾਬ	Salomos ordspråk
+ਆਨਾ ਫ਼ਰਾਂਕ	Anne Frank
+ਰਾਜੀਵ ਗਾਂਧੀ	Rajiv Gandhi
+ਸ੍ਰੀਲੰਕਾਈ ਰੁਪਿਆ	Srilankisk rupi
+ਕਨਫ਼ੂਸ਼ੀਅਸ	Konfucius
+ਸਾਰਾ ਬਰਨਹਾਰਟ	Sarah Bernhardt
+ਜਾਰਜੀਆਈ ਲਾਰੀ	Georgisk lari
+ਮਾਰਲੀਨ ਡੀਟਰਿਚ	Marlene Dietrich
+ਮਰਲਿਨ ਮੁਨਰੋ	Marilyn Monroe
+ਸ਼੍ਰੇਣੀ:ਹਿਸਾਬ	Kategori:Matematikk
+ਫ਼ਰੋ ਟਾਪੂ	Færøyene
+ਸੂਰਤ	Surat
+ਮੁਹੰਮਦ ਮੁਰਸੀ	Mohammed Mursi
+ਜੁਪੀਟਰ (ਮਿਥਿਹਾਸ)	Jupiter (gud)
+ਸ਼ਰਲੌਕ ਹੋਮਜ਼	Sherlock Holmes
+ਮੁੜ-ਸੁਰਜੀਤੀ	Renessansen
+ਹਾਂਡੂਰਾਸੀ ਲੈਂਪੀਰਾ	Honduransk lempira
+ਲ ਕਾਰਬੂਜ਼ੀਏ	Le Corbusier
+ਮੈਕਸੀਕੀ ਪੇਸੋ	Meksikansk peso
+ਯੂਰੋ	Euro
+ਸੰਯੁਕਤ ਰਾਜ ਡਾਲਰ	Amerikansk dollar
+ਭੂ-ਮੱਧ ਸਮੁੰਦਰ	Middelhavet
+ਹਾਂਙਚੋ	Hangzhou
+ਹਰਮਨ ਮੈਲਵਿਲ	Herman Melville
+ਇਸਾਈ ਧਰਮ	Kristendom
+ਬਰਲਿਨ ਦੀ ਕੰਧ	Berlinmuren
+ਗੰਗਾ ਦਰਿਆ	Ganges
+ਚਾਵਲ	Ris
+ਬਾਲਟੀਮੋਰ	Baltimore
+ਮਹਾਂਦੀਪ	Kontinent
+ਐਡਲੇਡ	Adelaide
+ਪੰਛੀ	Fugler
+ਰਾਜਧਾਨੀ	Hovedstad
+ਫਰਮਾ:ਇਸਲਾਮ	Mal:Islam
+ਗੁਜਰਾਤੀ ਭਾਸ਼ਾ	Gujarati
+ਪੁਰਤਗਾਲੀ ਭਾਸ਼ਾ	Portugisisk
+ਮਹੀਨਾ	Måned
+ਮੁਸਤਫ਼ਾ ਕਮਾਲ ਅਤਾਤੁਰਕ	Mustafa Kemal Atatürk
+1948	1948
+ਚੈਚਨੀਆ	Tsjetsjenia
+1949	1949
+੧੯੫੬	1956
+1941	1941
+1945	1945
+੧੯੫੮	1958
+੧੯੨੬	1926
+1947	1947
+ਹਿਪੋਕਰਾਤਿਸ	Hippokrates
+੧੯੪੪	1944
+1952	1952
+ਹੀਰਾ	Diamant
+ਬਿਲ ਗੇਟਸ	Bill Gates
+ਜਪਾਨੀ ਭਾਸ਼ਾ	Japansk
+ਵਿਸ਼ਵਕੋਸ਼	Encyklopedi
+ਰੈਂਡਮ-ਐਕਸੈਸ ਮੈਮਰੀ	RAM
+ਮੁੱਖ ਸਫ਼ਾ	Portal:Forside
+ਮਾਈਕਰੋਪ੍ਰੋਸੈਸਰ	Mikroprosessor
+1959	1959
+1957	1957
+ਸੰਧਾਰਿਤਰ	Kondensator (elektrisk)
+ਟਰਾਂਜਿਸਟਰ	Transistor
+ਬੇਸਬਾਲ	Baseball
+ਬਾਸਕਟਬਾਲ	Basketball
+ਕ੍ਰਿਕਟ	Cricket
+ਯੂਰੇਸ਼ੀਆ	Eurasia
+ਯਾਂਗਤਸੀ ਦਰਿਆ	Chang Jiang
+੧੨੩੪	1234
+ਸਾਈਬੇਰੀਆ	Sibir
+ਫਰਾਂਸਿਸਕੋ ਗੋਯਾ	Francisco Goya
+ਅਨੀਮੀਆ	Anemi
+ਹਿਮਾਲਿਆ	Himalaya
+ਐਂਡੀਜ਼	Andes
+ਰੌਕੀ ਪਹਾੜ	Rocky Mountains
+ਕੇਪਟਾਊਨ	Cape Town
+ਡਰਬਨ	Durban
+ਕਰਾਕੁਰਮ	Karakoram
+ਹਿੰਦੂ ਕੁਸ਼	Hindu Kush
+ਕੋਹ ਕਾਫ਼	Kaukasus
+ਕੈਸਪੀਅਨ ਸਮੁੰਦਰ	Det kaspiske hav
+ਈਰੀ ਝੀਲ	Eriesjøen
+ਵਿਕਟੋਰੀਆ ਝੀਲ	Victoriasjøen
+ਟਾਂਗਾਨੀਕਾ ਝੀਲ	Tanganyikasjøen
+ਬਾਈਕਾਲ ਝੀਲ	Bajkalsjøen
+ਮਲਾਵੀ ਝੀਲ	Malawisjøen
+ਸਾਲਵਾਦੋਰ ਦਾਲੀ	Salvador Dalí
+ਆਲਬਰੈਖਤ ਡਿਉਰਰ	Albrecht Dürer
+ਵਿਨਸੰਟ ਵੈਨ ਗਾਗ	Vincent van Gogh
+ਕਾਤਸੁਸ਼ੀਕਾ ਹੋਕੁਸਾਈ	Katsushika Hokusai
+ਫਰੀਡਾ ਕਾਹਲੋ	Frida Kahlo
+ਹੈਨਰੀ ਮਾਤੀਸ	Henri Matisse
+ਮੀਕੇਲਾਂਜਲੋ	Michelangelo
+ਪਾਬਲੋ ਪਿਕਾਸੋ	Pablo Picasso
+ਰਾਫੇਲ	Rafael
+ਰੈਮਬਰਾਂ	Rembrandt
+ਪੀਟਰ ਪਾਲ ਰੂਬੇਨਸ	Peter Paul Rubens
+ਮਿਮਾਰ ਸਿਨਾਨ	Mimar Sinan
+ਐਂਡੀ ਵਾਰਹੋਲ	Andy Warhol
+ਫਰੈਂਕ ਲਾਇਡ ਰਾਇਟ	Frank Lloyd Wright
+ਐਮੀਨੈਮ	Eminem
+ਅਬੂ ਨੁਵਾਸ	Abu Nuwas
+ਹਾਂਸ ਕ੍ਰਿਸਚਨ ਆਂਡਰਸਨ	H.C. Andersen
+ਮਾਤਸੂਓ ਬਾਸ਼ੋ	Matsuo Basho
+ਲਾਰਡ ਬਾਇਰਨ	Lord Byron
+ਮੀਗੇਲ ਦੇ ਸਿਰਵਾਂਤਿਸ	Miguel de Cervantes
+ਚੌਸਰ	Geoffrey Chaucer
+ਬੇਬੀਲੋਨ	Babylon
+ਐਂਤਨ ਚੈਖਵ	Anton Tsjekhov
+ਚਾਰਲਸ ਡਿਕਨਜ਼	Charles Dickens
+ਓਲਾਂਦ ਟਾਪੂ	Åland
+ਸਪਾਰਟਾ	Sparta
+ਕਾਤਾਲੋਨੀਆ	Catalonia
+ਬਸ਼ਕੋਰਤੋਸਤਾਨ	Basjkortostan
+ਮਨਫ਼	Memfis (Egypt)
+ਮੋਹਿੰਜੋਦੜੋ	Mohenjo-Daro
+ਪੀਟਰ ਕਰੋਪੋਤਕਿਨ	Pjotr Kropotkin
+ਸਮਰਕੰਦ	Samarkand
+ਬੁਖਾਰਾ	Bukhara
+ਕੇਮਨ ਟਾਪੂ	Caymanøyene
+ਐਵਰਟਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Everton FC
+ਮੱਕਾ	Mekka
+ਚੀ ਗਵੇਰਾ	Che Guevara
+ਮਸਾਚੋ	Masaccio
+ਨੋਵਾਕ ਜੋਕੋਵਿਕ	Novak Đoković
+ਮਾਓ ਤਸੇ-ਤੁੰਗ	Mao Zedong
+ਜ਼ੀਆਨ	Xi'an
+ਤੋਲੇਦੋ, ਸਪੇਨ	Toledo
+ਕਾਬੁਲ	Kabul
+ਲਾਸਾ	Lhasa
+ਦਾਨਵ ਤਾਰਾ	Kjempestjerne
+ਗੈਬਰੀਅਲ ਗਾਰਸੀਆ ਮਾਰਕੇਜ਼	Gabriel García Márquez
+ਯੋਹਾਨ ਵੁਲਫਗੰਗ ਫਾਨ ਗੇਟੇ	Johann Wolfgang von Goethe
+ਯੋਨੀ	Vagina
+ਤਮਿਲ਼ ਭਾਸ਼ਾ	Tamilsk
+ਵੀ ਫ਼ਾਰ ਵੈਨਡੈੱਟਾ (ਫ਼ਿਲਮ)	V for vendetta (film)
+ਦਰਸ਼ਨ	Filosofi
+ਵੈਸਟਮਿੰਸਟਰ ਐਬੇ	Westminster Abbey
+ਸ਼੍ਰੇਣੀ:ਛੇਤੀ ਮਿਟਾਉਣਯੋਗ ਸਫ਼ੇ	Kategori:Sider som er foreslått raskt slettet
+ਪਿਆਨੋ	Piano
+ਰੈਪ ਗਾਇਕੀ	Rapping
+੧੩੪੫	1345
+ਚਾਹ	Te
+ਕਮਿਊਨਿਜ਼ਮ	Kommunisme
+ਹੋਰੇਸ	Quintus Horatius Flaccus
+ਪੂੰਜੀਵਾਦ	Kapitalisme
+ਉਦਾਰਵਾਦ	Liberalisme
+ਉਪਦਾਨਵ ਤਾਰਾ	Subdvergstjerne
+ਫਾਸ਼ੀਵਾਦ	Fascisme
+ਸੱਤਾਵਾਦ	Autoritær
+ਕੌਮਪ੍ਰਸਤੀ	Nasjonalisme
+ਹਾਫ਼ਿਜ਼ ਸ਼ੀਰਾਜ਼ੀ	Hafez
+ਪੱਛਮੀ ਸਹਾਰਾ	Vest-Sahara
+ਕੌਮ	Nasjon
+ਹਿਲੇਰੀ ਕਲਿੰਟਨ	Hillary Clinton
+ਇੰਡੀਆਨਾਪੋਲਿਸ	Indianapolis
+ਬ੍ਰਿਟਿਸ਼ ਮਿਊਜ਼ੀਅਮ	British Museum
+ਯੂਲੀਸਸ (ਨਾਵਲ)	Ulysses
+ਸ਼ਾਨ ਕੀਅਰਗੇਗੌਦ	Søren Kierkegaard
+ਰੂਸੋ	Jean-Jacques Rousseau
+ਸਤਾਨੀਸਲਾਵ ਲੈੱਮ	Stanisław Lem
+ਫ਼ਰਾਂਸੀਸੀ ਇਨਕਲਾਬ	Den franske revolusjon
+ਗੁੰਟਰ ਗਰਾਸ	Günter Grass
+ਸਹਾਰਾ ਮਾਰੂਥਲ	Sahara
+ਸਟਰਾਸਬਰਗ	Strasbourg
+ਗਿਟਾਰ	Gitar
+ਸਮਲਿੰਗੀ	Homofili
+ਰੈਨੋ	Renault
+ਹੋਮਰ	Homer
+ਐਲਨ ਗਿਨਜ਼ਬਰਗ	Allen Ginsberg
+ਐਡਵਰਡ ਟੈਲਰ	Edward Teller
+ਫ਼ਰਾਂਸ ਵਿੱਚ ਮਈ 1968 ਦੀਆਂ ਘਟਨਾਵਾਂ	Mai 1968
+UTC+5:30	UTC+05.30
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਖਗੋਲੀ ਸੰਘ	Den internasjonale astronomiske union
+੧੮੦੦	1800
+1801	1801
+ਜੇਮਜ਼ ਜੋਆਇਸ	James Joyce
+੧੮੦੨	1802
+੧੮੦੩	1803
+21ਵੀਂ ਸਦੀ	21. århundre
+੧੮੧੯	1819
+੧੮੨੩	1823
+ਖਗੋਲੀ ਚੀਜ਼	Himmellegeme
+ਕਾਲੀਦਾਸ	Kālidāsa
+ਕਾਤਾਲਾਨ ਭਾਸ਼ਾ	Katalansk
+ਨਾਸਤਿਕਤਾ	Ateisme
+ਲੀ ਬਾਈ	Li Bai
+ਲਾਇਬ੍ਰੇਰੀ	Bibliotek
+ਪਦਾਰਥਵਾਦ	Materialisme
+ਨੀਲਜ਼ ਬੋਰ	Niels Bohr
+ਸੋਝੀ	Bevissthet
+ਜੀਵ ਟੈਕਨਾਲੋਜੀ	Bioteknologi
+ਕੋਸ਼ਾਣੂ ਵਿਗਿਆਨ	Cytologi
+ਵਾਤਾਵਰਨ ਵਿਗਿਆਨ	Økologi
+ਫੁੱਟਬਾਲ ਕਲੱਬ ਬਾਰਸੀਲੋਨਾ	FC Barcelona
+ਸਿਆਸਤ	Politikk
+ਬਸਤੀਵਾਦ	Kolonialisme
+ਰੂੜ੍ਹੀਵਾਦ	Konservatisme
+ਅਰਬ ਲੀਗ	Den arabiske liga
+ਲੋਕਰਾਜ	Demokrati
+ਨਜੀਬ ਮਹਿਫ਼ੂਜ਼	Naguib Mahfouz
+ਰੈੱਡ ਕਰਾਸ	Røde Kors
+ਸੰਸਾਰੀਕਰਨ	Globalisering
+ਨਾਟੋ	NATO
+ਮੈਰੀ ਕਿਊਰੀ	Marie Curie
+ਜੀਨ	Gen
+ਨੋਬਲ ਇਨਾਮ	Nobelprisen
+ਸਿਮੋਨ ਦ ਬੋਵੁਆਰ	Simone de Beauvoir
+ਓਵਿਦ	Ovid
+ਮਾਰਸੇਲ ਪਰੁਸਤ	Marcel Proust
+ਅਲੈਗਜ਼ੈਂਡਰ ਪੁਸ਼ਕਿਨ	Aleksandr Pusjkin
+ਮੱਧ ਪੂਰਬ	Midtøsten
+ਰੋਜ਼ਾ ਲਕਸਮਬਰਗ	Rosa Luxemburg
+ਸੋਫੋਕਲੀਜ਼	Sofokles
+ਪ੍ਰਾਣੀ	Organisme
+ਰਬਿੰਦਰ ਨਾਥ ਟੈਗੋਰ	Rabindranath Tagore
+ਸੁੰਦਰਤਾ	Skjønnhet
+ਲਿਉ ਤਾਲਸਤਾਏ	Leo Tolstoj
+ਮਾਰਕ ਟਵੇਨ	Mark Twain
+ਇਕਸਿੰਗਾ	Enhjørning
+ਨਾਰੀਵਾਦ	Feminisme
+ਵਿਚਾਰਧਾਰਾ	Ideologi
+ਐਡਾ ਲਵਲੇਸ	Ada Byron Lovelace
+ਸਾਮਰਾਜਵਾਦ	Imperialisme
+ਮਾਰਕਸਵਾਦ	Marxisme
+ਬਾਦਸ਼ਾਹੀ	Monarki
+ਗਣਰਾਜ	Republikk
+ਸਮਾਜਵਾਦ	Sosialisme
+ਸਿਆਸੀ ਦਲ	Politisk parti
+ਚਿੜੀ-ਛਿੱਕਾ	Badminton
+ਯੋਹਾਨਸ ਬਰਾਮਸ	Johannes Brahms
+ਨਾਜ਼ੀਵਾਦ	Nasjonalsosialisme
+ਪਿਓਤਰ ਇਲੀਚ ਚੈਕੋਵਸਕੀ	Pjotr Tsjajkovskij
+ਨਾਜ਼ੀ ਜਰਮਨੀ	Tysklands historie (1933–1945)
+ਨਾਜ਼ੀ ਪਾਰਟੀ	Nationalsozialistische Deutsche Arbeiterpartei
+ਕ੍ਰਿਸਟੋਫ਼ਰ ਕੋਲੰਬਸ	Christofer Columbus
+ਯਹੂਦੀ	Jøder
+ਵਾਸਕੋ ਦਾ ਗਾਮਾ	Vasco da Gama
+ਇਬਨ ਬਤੂਤਾ	Ibn Battuta
+ਆਉਸ਼ਵਿਤਸ ਤਸੀਹਾ ਕੈਂਪ	Auschwitz
+ਮਹਾਨ ਝੀਲਾਂ	De store sjøer
+ਸਿੰਧ ਦਰਿਆ	Indus
+ਪਨਾਮਾ ਨਹਿਰ	Panamakanalen
+ਦੱਖਣੀ ਮਹਾਂਸਾਗਰ	Sørishavet
+ਹਵਾਂਗ ਹੋ	Den gule flod
+ਕੰਨ	Øre
+ਨੱਕ	Nese
+ਅੱਖ	Øye
+ਪੱਠਾ	Muskel
+ਗੀਤ	Sang
+ਮੱਛਰ	Stikkemygg
+ਭੇਡ	Tamsau
+ਊਠ	Kameler
+ਥਣਧਾਰੀ	Pattedyr
+ਹਾਥੀ	Elefanter
+ਆਗੂ ਮਾਨਸ	Primater
+ਕੀੜੀ	Maur
+ਭੌਰਾ	Bier
+ਡੱਚ ਭਾਸ਼ਾ	Nederlandsk
+ਮਾਰਗਰੈੱਟ ਥੈਚਰ	Margaret Thatcher
+ਡੀ.ਐੱਨ.ਏ.	DNA
+ਰਿਚਰਡ ਸਟਾਲਮਨ	Richard M. Stallman
+ਇੰਗਮਾਰ ਬਰਗਮਾਨ	Ingmar Bergman
+ਅਨੁਵਾਦ	Oversettelse
+ਮਾਂ	Mor
+ਪਿਤਾ	Far
+1828	1828
+ਢੋਆ-ਢੁਆਈ	Transport
+ਡੈਬੀਅਨ	Debian
+1863	1863
+ਅਗਸਤ ਸਟਰਿੰਡਬਰਗ	August Strindberg
+ਆਥਣ	Kveld
+ਮਿੰਟ	Minutt
+ਗੋਤਾਖੋਰੀ (ਖੇਡ)	Stuping
+ਰੂਸੀ ਭਾਸ਼ਾ	Russisk
+ਵਲਾਦੀਮੀਰ ਪੂਤਿਨ	Vladimir Putin
+ਸੰਵਿਧਾਨ	Konstitusjon
+ਆਸੀਆਨ	Association of Southeast Asian Nations
+ਸਾਖਾਲਿਨ	Sakhalin
+ਯੂਨਾਨ ਦਾ ਇਤਿਹਾਸ	Hellas’ historie
+ਓਪੈੱਕ	OPEC
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਅਦਾਲਤ	Den internasjonale domstolen
+ਕੌਮਾਂਤਰੀ ਮਾਲੀ ਪੂੰਜੀ	Det internasjonale pengefondet
+੧੮੮੦	1880
+ਯੂਨੈਸਕੋ	UNESCO
+ਵਿਸ਼ਵ ਸਿਹਤ ਸੰਗਠਨ	Verdens helseorganisasjon
+ਡਬਲਿਊ ਟੀ ਓ	Verdens handelsorganisasjon
+ਕ੍ਰੀਮੀਆ	Krim
+ਸਵਾਹਿਲੀ ਭਾਸ਼ਾ	Swahili
+1897	1897
+ਚੀਨੀ ਭਾਸ਼ਾ	Kinesisk
+ਪਖਾਨਾ	Toalett
+ਸਾਈਕੈਟਰੀ	Psykiatri
+ਕੋਸ਼ਾਣੂ	Celle
+ਲਹੂ	Blod
+ਟੁਲੂਜ਼	Toulouse
+ਪਿੰਜਰ	Skjelett
+ਫੇਫੜਾ	Lunge
+ਪੀਣ ਵਾਲਾ ਪਾਣੀ	Drikkevann
+ਕਾਸਾਬਲਾਂਕਾ	Casablanca
+ਬਲਗਾਰੀ	Bulgarsk
+ਸਿੱਖਿਆ ਸ਼ਾਸਤਰ	Pedagogikk
+ਮੀਂਹ	Regn
+ਪੌਣਪਾਣੀ	Klima
+ਅਲ ਨੀਨੋ	El Niño
+ਸੰਸਾਰਕ ਤਾਪ	Global oppvarming
+ਭੁਚਾਲ	Jordskjelv
+ਜ਼ੈੱਨ	Zen
+ਅਮਰੀਕੀ ਅੰਗਰੇਜ਼ੀ	Amerikansk-engelsk
+ਅਨਾਦਿਰ	Anadyr
+ਬਰਤਾਨਵੀ ਅੰਗਰੇਜ਼ੀ	Britisk-engelsk
+ਮਾਊਸ	Datamus
+ਲਾਪਤੇਵ ਸਮੁੰਦਰ	Laptevhavet
+ਕੁਦਰਤੀ ਵਿਗਿਆਨ	Naturvitenskap
+ਸਰਗੇਈ ਆਈਜ਼ੇਂਸਤਾਈਨ	Sergej Eisenstein
+ਅਕੀਰਾ ਕੁਰੋਸਾਵਾ	Akira Kurosawa
+ਫ਼ਰੈਂਕਲਿਨ ਡੀ ਰੂਜ਼ਵੈਲਟ	Franklin D. Roosevelt
+ਇਬਨ ਸਿਨਾ	Avicenna
+ਵਿੰਸਟਨ ਚਰਚਿਲ	Winston Churchill
+ਨੈਲਸਨ ਮੰਡੇਲਾ	Nelson Mandela
+ਮਾਰਟਿਨ ਲੂਥਰ ਕਿੰਗ, ਜੂਨੀਅਰ	Martin Luther King jr.
+ਗਿੰਪ	GIMP
+ਪਾਚਕ ਰਸ	Enzym
+ਪ੍ਰੋਟੀਨ	Protein
+ਰੋਮਾ (ਲੋਕ)	Sigøynere
+ਕੁਦਰਤੀ ਤਬਾਹੀ	Naturkatastrofe
+ਅਮੀਨੋ ਤਿਜ਼ਾਬ	Aminosyre
+ਹੜ੍ਹ	Flom
+ਸੁਨਾਮੀ	Tsunami
+ਜੁਆਲਾਮੁਖੀ	Vulkan
+ਬੱਦਲ	Sky
+ਤਰਕ ਸ਼ਾਸਤਰ	Logikk
+ਤਿਕੋਣਮਿਤੀ	Trigonometri
+ਰੇਖਕੀ	Geometri
+ਵਿਆਕਰਨ	Grammatikk
+ਤੇਲੁਗੂ ਭਾਸ਼ਾ	Telugu
+ਵਾਯੂਮੰਡਲ	Atmosfære
+ਜਾਰਜੀਆਈ ਭਾਸ਼ਾ	Georgisk
+ਅਰਥਸ਼ਾਸਤਰ	Samfunnsøkonomi
+ਜਪਾਨੀ ਯੈੱਨ	Japansk yen
+ਭਾਸ਼ਾ ਵਿਗਿਆਨ	Lingvistikk
+ਸ਼ਬਦ	Ord
+ਧੁਨੀਮ	Fonem
+ਉਚਾਰਖੰਡ	Stavelse
+ਲਿਪੀ	Skriftsystem
+ਅਰਬੀ ਵਰਣਮਾਲਾ	Det arabiske alfabetet
+ਸਿਰਿਲਿਕ ਲਿਪੀ	Det kyrilliske alfabetet
+ਹਾਂਗਗੁਲ	Hangul
+ਲਾਤੀਨੀ ਲਿਪੀ	Det latinske alfabetet
+ਸਾਹਿਤ	Litteratur
+ਸ਼੍ਰੇਣੀ:ਫ੍ਰਾਂਸ	Kategori:Frankrike
+ਗਲਪ	Fiksjon
+ਸ਼੍ਰੇਣੀ:ਸੰਗੀਤ	Kategori:Musikk
+ਆਲਿਫ਼ ਲੈਲਾ	Tusen og én natt
+ਨਾਵਲ	Roman
+ਗੇਂਜੀ ਦੀ ਕਹਾਣੀ	Fortellingen om Genji
+ਗਿਲਗਾਮੇਸ਼	Gilgamesj
+ਮਾਂਗਾ	Manga
+ਇਲੀਆਡ	Iliaden
+ਮਹਾਂਭਾਰਤ	Mahabharata
+ਸ਼ਾਹਨਾਮਾ	Shahname
+ਹੈਰੀ ਪੌਟਰ	Harry Potter
+ਵਾਇਲਿਨ	Fiolin
+.ac	.ac
+ਸਿਕੰਦਰ ਮਹਾਨ	Aleksander den store
+ਸਮਾਜ	Samfunn
+ਸੱਭਿਅਤਾ	Sivilisasjon
+ਸਿੱਖਿਆ	Utdannelse
+ਟੱਬਰ	Familie
+ਹੂਗੋ ਚਾਵੇਜ਼	Hugo Chávez
+ਵਿਆਹ	Ekteskap
+ਫ਼ਰਾਂਸੀਸੀ ਵਿਕੀਪੀਡੀਆ	Wikipedia på fransk
+ਗਰਭਪਾਤ	Abort
+ਮੌਤ ਦੀ ਸਜ਼ਾ	Dødsstraff
+ਮਨੁੱਖੀ ਹੱਕ	Menneskerettigheter
+ਨਸਲਵਾਦ	Rasisme
+ਗ਼ੁਲਾਮੀ	Slaveri
+ਖ਼ਾਨਾਜੰਗੀ	Borgerkrig
+ਆਮੂ ਦਰਿਆ	Amu-Darja
+ਪਹਾੜ	Fjell
+2008 ਓਲੰਪਿਕ ਖੇਡਾਂ	Sommer-OL 2008
+ਸੁਨ ਯਾਤ ਸਨ	Sun Yat-sen
+ਅਸ਼ੋਕ	Ashoka den store
+ਅਕਬਰ	Akbar den store
+ਸਿਮੋਨ ਬੋਲੀਵਰ	Simón Bolívar
+ਹਾਂਗਕਾਂਗ	Hongkong
+ਕਰਾਚੀ	Karachi
+ਅਰਬ-ਇਜ਼ਰਾਇਲੀ ਟਾਕਰਾ	Midtøsten-konflikten
+ਲਾਗੋਸ	Lagos
+ਰਿਓ ਡੀ ਜਨੇਰੋ	Rio de Janeiro
+ਬਰਤਾਨਵੀ ਸਾਮਰਾਜ	Det britiske imperiet
+ਰਿਆਲ ਮਾਦਰੀਦ ਫੁੱਟਬਾਲ ਕਲੱਬ	Real Madrid CF
+ਠੰਢੀ ਜੰਗ	Den kalde krigen
+ਸਿਓਲ	Seoul
+ਸ਼ੰਘਾਈ	Shanghai
+ਅਥਲੇਟਿਕ ਕਲੱਬ ਬਿਲਬੂ	Athletic Bilbao
+ਸੱਭਿਆਚਾਰਕ ਇਨਕਲਾਬ	Kulturrevolusjonen
+ਆਰਥਿਕ ਮੰਦਵਾੜਾ	Den store depresjonen
+ਅਥਲੇਟਿਕੋ ਮਾਦਰੀਦ	Atlético Madrid
+ਵਾਲਟ ਡਿਜ਼ਨੀ	Walt Disney
+ਇਸ਼ਬੀਲੀਆ	Sevilla
+ਰੂਸੀ ਇਨਕਲਾਬ	Den russiske revolusjon
+ਵਰਸਾਏ ਦੀ ਸੰਧੀ	Versaillestraktaten
+ਆਰਕੀਮਿਡੀਜ਼	Arkimedes
+ਵੀਅਤਨਾਮ ਜੰਗ	Vietnamkrigen
+ਥਾਮਸ ਐਡੀਸਨ	Thomas Edison
+ਅਲਬਾਨੀਆਈ ਭਾਸ਼ਾ	Albansk
+ਮਾਈਕਲ ਫ਼ੈਰਾਡੇ	Michael Faraday
+ਆਰ. ਸੀ. ਡੀ. ਐਸਪਾਞੋਲ	RCD Espanyol
+ਆਰਮੇਨੀਆਈ ਭਾਸ਼ਾ	Armensk
+ਯੂਕਰੇਨੀ ਭਾਸ਼ਾ	Ukrainsk
+ਗਰਾਨਾਦਾ	Granada
+ਐਚਃ ਟੀਃ ਐਮਃ ਐਲਃ	HTML
+ਵਾਲੈਂਸੀਆ	Valencia
+ਕੰਨਿਆ ਤਾਰਾਮੰਡਲ	Jomfruen
+ਨਰਤੁਰੰਗ ਤਾਰਾਮੰਡਲ	Kentauren
+ਕਰਕ ਤਾਰਾਮੰਡਲ	Krepsen
+ਮਾਲਾਗਾ	Málaga
+ਪਰਣਿਨ ਘੋੜਾ ਤਾਰਾਮੰਡਲ	Pegasus (stjernebilde)
+ਸੱਤਿਆਜੀਤ ਰਾਏ	Satyajit Ray
+ਸਟੀਵਨ ਸਪੀਲਬਰਗ	Steven Spielberg
+ਸਪਤਰਿਸ਼ੀ	Store bjørn
+ਮਾਰੀਓਂ ਕੋਤੀਯਾਰ	Marion Cotillard
+ਮੋ ਯਾਨ	Mo Yan
+ਮਾਕਸ ਪਲਾਂਕ	Max Planck
+ਗੁਆਦਾਲਾਹਾਰਾ	Guadalajara
+ਸਵੀਡਿਸ਼ ਭਾਸ਼ਾ	Svensk
+ਡੈਨਿਸ਼ ਭਾਸ਼ਾ	Dansk
+ਨਿਕੋਲਾ ਟੈਸਲਾ	Nikola Tesla
+ਮੁਹੰਮਦ ਇਬਨ ਮੂਸਾ ਅਲ-ਖ਼ਵਾਰਿਜ਼ਮੀ	Al-Khwârizmî
+ਨਾਰਵੇਜੀਆਈ ਭਾਸ਼ਾ	Norsk
+ਚਾਣਕਿਆ	Chanakya
+ਨੌਮ ਚੌਮਸਕੀ	Noam Chomsky
+ਲਕਸਮਬਰਗੀ ਭਾਸ਼ਾ	Luxembourgsk
+ਚੈੱਕ ਭਾਸ਼ਾ	Tsjekkisk
+ਸਲੋਵਾਕ ਭਾਸ਼ਾ	Slovakisk
+ਕਾਰਲ ਮਾਰਕਸ	Karl Marx
+ਮਗਿਆਰ ਭਾਸ਼ਾ	Ungarsk
+ਵੋਲਟੇਅਰ	Voltaire
+ਏਸਟੋਨਿਆਈ ਭਾਸ਼ਾ	Estisk
+ਮੂਸਾ	Moses
+ਗਿਆਨ	Kunnskap
+ਹਿੰਦੂ ਧਰਮ	Hinduisme
+ਬੇਲਾਰੂਸੀ ਭਾਸ਼ਾ	Hviterussisk
+ਖੋਸੇ ਮੂਖੀਕਾ	José Mujica
+ਤਾਬਾਰੇ ਵਾਸਕੇਸ	Tabaré Vázquez
+ਦਮੀਤਰੀ ਮੈਂਡਲੀਵ	Dmitrij Mendelejev
+ਪਰਮਾਣੂ	Atom
+ਅਰਨਸਟ ਰਦਰਫ਼ੋਰਡ	Ernest Rutherford
+ਪ੍ਰਕਾਸ਼	Lys
+ਯੂਨਾਨੀ ਭਾਸ਼ਾ	Gresk
+ਮਿੱਥ ਵਿਗਿਆਨ	Mytologi
+ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ	Operativsystem
+ਤਾਜ ਮਹਿਲ	Taj Mahal
+ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ	Programmeringsspråk
+ਈ-ਮੇਲ	E-post
+ਇੱਕ ਈਸ਼ਵਰਵਾਦ	Monoteisme
+ਜੋਸਿਪ ਬਰੋਜ਼ ਟੀਟੋ	Josip Broz Tito
+ਆਤਮਾ	Sjel
+ਮਾਲਟਾਈ ਭਾਸ਼ਾ	Maltesisk
+ਫ਼ਾਰਸੀ ਭਾਸ਼ਾ	Persisk
+ਧਰਮ	Religion
+ਕੋਰੀਅਨ ਭਾਸ਼ਾ	Koreansk
+ਅਬਰਾਹਮ	Abraham (bibelsk person)
+ਜਣਨ ਦੀ ਕਿਤਾਬ	Første Mosebok
+ਰੇਨੇ ਦੇਕਾਰਤ	René Descartes
+ਮੰਦਾਰਿਨ ਭਾਸ਼ਾ	Mandarin (språk)
+ਵੀਅਤਨਾਮੀ ਭਾਸ਼ਾ	Vietnamesisk
+ਸਟੈਚੂ ਆਫ਼ ਲਿਬਰਟੀ	Frihetsgudinnen
+ਖਮੇਰ ਭਾਸ਼ਾ	Khmer (språk)
+ਸਿਗਮੰਡ ਫ਼ਰਾਇਡ	Sigmund Freud
+ਥਾਈ ਭਾਸ਼ਾ	Thai
+ਬਰਮੀ ਭਾਸ਼ਾ	Burmesisk
+ਜੈਨ ਧਰਮ	Jainisme
+ਗਿਓਕ ਵਿਲਹੈਲਮ ਫ਼ਰੀਡਰਿਸ਼ ਹੇਗਲ	Georg Wilhelm Friedrich Hegel
+ਮੰਗੋਲ ਭਾਸ਼ਾ	Mongolsk
+ਬਾਕੂ	Baku
+ਕਜ਼ਾਖ ਭਾਸ਼ਾ	Kasakhisk
+ਕਿਰਗੀਜ਼ ਭਾਸ਼ਾ	Kirgisisk
+ਵਿਸ਼ਵ ਵਿਰਾਸਤ ਟਿਕਾਣਾ	Verdensarven
+ਉਜ਼ਬੇਕ ਭਾਸ਼ਾ	Usbekisk
+ਯਹੂਦੀ ਧਰਮ	Jødedom
+ਥਿੰਫੂ	Thimpu
+ਬੰਦਰ ਸੇਰੀ ਬੇਗਵਾਨ	Bandar Seri Begawan
+ਹਿਬਰੂ ਭਾਸ਼ਾ	Hebraisk
+ਅਜ਼ੇਰੀ ਭਾਸ਼ਾ	Aserbajdsjansk
+ਸਰਬੀਆਈ ਭਾਸ਼ਾ	Serbisk
+ਦੀਲੀ	Dili
+ਇਮੈਨੂਅਲ ਕਾਂਤ	Immanuel Kant
+ਸਿੱਖੀ	Sikhisme
+ਜਾਨ ਮੇਨਾਰਡ ਕੇਨਜ਼	John Maynard Keynes
+ਵਿਆਂਗ ਚਾਨ	Vientiane
+ਮੋਪਾਸਾਂ	Guy de Maupassant
+ਮਾਲੇ	Malé
+ਯੋਗਾਸਣ	Yoga
+ਜਾਨ ਲਾਕ	John Locke
+ਫ਼ਰੀਡਰਿਸ਼ ਨੀਤਸ਼ੇ	Friedrich Nietzsche
+ਬਿਸ਼ਕੇਕ	Bisjkek
+ਯਾਂ ਪਾਲ ਸਾਰਤਰ	Jean-Paul Sartre
+ਦੁਸ਼ਾਂਬੇ	Dusjanbe
+ਕਾਲਜਾ	Lever
+ਗੁਰਦਾ	Nyre
+ਐਡਮ ਸਮਿਥ	Adam Smith
+ਮੈਕਸ ਵੈਬਰ	Max Weber
+ਲੁਡਵਿਗ ਵਿਟਗਨਸਟਾਈਨ	Ludwig Wittgenstein
+ਨਿੰਜਾ	Ninja
+ਵਲਵਲਾ	Følelser
+ਮਨੋਵਿਗਿਆਨ	Psykologi
+ਤਿੰਬਕਤੂ	Timbuktu
+ਮਹਾਂਸਾਗਰ	Verdenshav
+﻿ਮਲਿਕਾ ਵਿਕਟੋਰੀਆ	Victoria av Storbritannia
+ਗੌਤਮ ਬੁੱਧ	Buddha
+ਪੀਟ ਸੈਮਪਰਾਸ	Pete Sampras
+ਵਿਰੋਧਵਿਕਾਸ	Dialektikk
+ਮੁਹੰਮਦ	Muhammed
+ਨੀਤੀ ਵਿਗਿਆਨ	Etikk
+ਗਿਆਨ ਮੀਮਾਂਸਾ	Erkjennelsesteori
+ਕਾਟੋ	Ekornfamilien
+ਸਚਿਨ ਤੇਂਦੁਲਕਰ	Sachin Tendulkar
+ਯਥਾਰਥ	Virkelighet
+ਏ ਪੀ ਜੇ ਅਬਦੁਲ ਕਲਾਮ	Abdul Kalam
+ਬੀਬੀਸੀ	BBC
+ਸ਼ਾਹਰੁਖ ਖਾਨ	Shah Rukh Khan
+ਸਲਮਾਨ ਖ਼ਾਨ	Salman Khan
+ਅਲ-ਗ਼ਜ਼ਾਲੀ	Abu Hamid Ghazali
+ਕੈਟਰੀਨਾ ਕੈਫ਼	Katrina Kaif
+ਮਾਰਟਿਨ ਲੂਥਰ	Martin Luther
+ਆਮਿਰ ਖ਼ਾਨ	Aamir Khan
+ਅਮਿਤਾਭ ਬੱਚਨ	Amitabh Bachchan
+ਸ਼ੀਆ ਇਸਲਾਮ	Sjiaislam
+ਕੈਥੋਲਿਕ ਗਿਰਜਾਘਰ	Den katolske kirke
+ਤਾਓਵਾਦ	Taoisme
+ਪਾਰਸੀ ਧਰਮ	Zoroastrisme
+ਸੂਫ਼ੀਵਾਦ	Sufisme
+ਸ਼ਿਰਾ	Vene
+ਬੰਗਾਲੀ ਭਾਸ਼ਾ	Bengali
+ਚੈਲਸੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Chelsea FC
+ਆਰਸਨਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Arsenal FC
+ਘੰਡੀ	Strupehode
+ਜੋੜ (ਸਰੀਰੀ ਬਣਤਰ)	Ledd
+ਫ਼ਾਕਲੈਂਡ ਟਾਪੂ	Falklandsøyene
+ਇਪ੍ਸਵਿਚ ਟਾਊਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Ipswich Town FC
+ਧਮਣੀ	Arterie
+A	A
+ਕਰਨਲ (ਆਪਰੇਟਿੰਗ ਸਿਸਟਮ)	Kjerne (operativsystem)
+ਮਾਈਕਲ ਸ਼ੂਮਾਕਰ	Michael Schumacher
+ਲੂਇਸ ਹੈਮਿਲਟਨ	Lewis Hamilton
+ਮੈਨ ਟਾਪੂ	Man
+ਨਿਊਯਾਰਕ ਟਾਈਮਜ਼	The New York Times
+ਜੇ ਐੱਫ਼ ਕੈਨੇਡੀ	John F. Kennedy
+B	B
+ਭੁਕਾਨਾ	Ballong
+ਆਨਰੇ ਦੇ ਬਾਲਜ਼ਾਕ	Honoré de Balzac
+G	G
+U	U
+Z	Z
+ਫ਼ਲੇਮੇਂਕੋ	Flamenco
+F	F
+J	J
+ਵਰਨਮਾਲਾ	Alfabet
+ਅੱਖਰ	Bokstav
+ਰੇਗੇ	Reggae
+T	T
+C	C
+R	R
+D	D
+ਕੋਇੰਬਟੂਰ	Coimbatore
+ਅਲਫ਼ਾ	Alfa
+ਓਮੇਗਾ	Omega
+I	I
+ਮਿਊ (ਅੱਖਰ)	My
+E	E
+H	H
+K	K
+L	L
+M	M (bokstav)
+N	N
+O	O
+P	P
+Q	Q
+S	S
+V	V
+W	W
+X	X
+Y	Y
+ਫਾਈ	Phi
+ਟੀਪੂ ਸੁਲਤਾਨ	Tippu Sultan
+ਮੀਲ ਪੱਥਰ	Milepæl
+ਰਾਹੁਲ ਗਾਂਧੀ	Rahul Gandhi
+ਭਾਰਤੀ ਰਾਸ਼ਟਰੀ ਕਾਂਗਰਸ	Kongresspartiet
+ਭਾਰਤੀ ਜਨਤਾ ਪਾਰਟੀ	Bharatiya Janata Party
+ਦਿਵਾਲੀ	Divali
+ਪਲਾਜ਼ਮਾ	Plasma
+ਹੋਲੀ	Holi
+ਪਾਈਥਾਗੋਰਸ	Pythagoras
+ਨਰਾਤੇ	Navratri
+ਦੁਸਹਿਰਾ	Vijayadasami
+ਕੋਲੋਸੀਅਮ	Colosseum
+ਤਾਰਾਗੋਤਾ	Zaragoza
+ਰਿਆਲ ਸੋਸੀਏਦਾਦ	Real Sociedad
+ਸਿਵਿਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Sevilla FC
+ਵਾਲੈਂਸੀਆ ਕਲੱਬ ਦੀ ਫੁੱਟਬਾਲ	Valencia CF
+ਉੱਤਰਕਿਰੀਟ ਤਾਰਾਮੰਡਲ	Den nordlige krone
+ਕਬੂਤਰ ਤਾਰਾਮੰਡਲ	Duen
+ਇਕਊਲੀਅਸ	Føllet
+ਫੀਨਿਕਸ ਤਾਰਾਮੰਡਲ	Føniks (stjernebilde)
+ਖ਼ਰਗੋਸ਼ ਤਾਰਾਮੰਡਲ	Haren (stjernebilde)
+ਕਰਾਇਨਾ ਤਾਰਾਮੰਡਲ	Kjølen (stjernebilde)
+ਐਂਤਲਿਆ ਤਾਰਾਮੰਡਲ	Luftpumpen
+ਡੇਵਿਡ ਬੈਕਮ	David Beckham
+ਰਾਯਨ ਗਿੱਗਸ	Ryan Giggs
+ਵ੍ਰਸ਼ ਤਾਰਾਮੰਡਲ	Tyren
+ਵਿਕਾਰਾਗ ਰੋਡ	Vicarage Road
+ਕਾਰਡਿਫ਼	Cardiff
+ਮਿਆਦੀ ਪਹਾੜਾ	Periodesystemet
+ਥੋਸ਼ਾਊਨ	Tórshavn
+ਜਾਰਜਟਾਊਨ, ਗੁਇਆਨਾ	Georgetown (Guyana)
+ਖ਼ੁਦਕੁਸ਼ੀ	Selvmord
+ਡੀਵੈਨ ਜਾਨਸਨ	Dwayne Johnson
+ਕੁਤਰਦੰਦੀ ਜੀਵ	Gnagere
+ਕਬੂਤਰ	Duer
+ਬੈਕਟੀਰੀਆ	Bakterier
+ਰੁੱਖ	Tre
+ਲੈਮਡਾ	Lambda
+ਇਨਕਲਾਬ	Revolusjon
+ਪਨੀਰ	Ost
+ਟਾਈਗਰ ਵੁਡਜ਼	Tiger Woods
+ਆਲੂ	Potet
+ਸ਼ੱਕਰ	Sukker
+ਸਬਜੀ	Grønnsak
+ਰੋਬੋਟ	Robot
+ਟੈਕਨਾਲੋਜੀ	Teknologi
+ਪੇਚ	Skrue (mekanisme)
+ਇੰਜੀਨੀਅਰੀ	Ingeniørvitenskap
+ਜਾਣਕਾਰੀ	Informasjon
+ਸੱਭਿਆਚਾਰ	Kultur
+ਹਿੰਦੁਸਤਾਨੀ ਭਾਸ਼ਾ	Hindustani
+ਸੰਸਕ੍ਰਿਤ ਭਾਸ਼ਾ	Sanskrit
+ਅਲਜ਼ਾਈਮਰ ਰੋਗ	Alzheimers sykdom
+ਪਾਰਕਿਨਸਨ ਰੋਗ	Parkinsons sykdom
+ਇਬਨ ਅਲ-ਹੀਸ਼ਮ	Al-Haitham
+ਦ ਗਾਰਡੀਅਨ	The Guardian
+ਤਿਜ਼ਾਬ	Syre
+ਰਸਾਇਣਕ ਯੋਗ	Kjemisk forbindelse
+ਔਸ਼ਧੀ ਵਿਗਿਆਨ	Medisin
+ਖ਼ਾਰ	Base
+ਸਾਰਾਯੇਵੋ	Sarajevo
+ਲਘੂਗਣਕ	Logaritme
+ਵਿਧਾਨ ਸਭਾ	Lovgivende makt
+ਗਿਣਤੀ	Aritmetikk
+ਸੰਵਿਧਾਨਕ ਕਨੂੰਨ	Statsrett
+ਪੈਂਟਾਗਨ	The Pentagon
+ਗੁਣਕ ਪ੍ਰਬੰਧ	Koordinatsystem
+ਫ਼ੀਦੇਲ ਕਾਸਤਰੋ	Fidel Castro
+ਮਾਈਕਰੋਸਾਫਟ ਵਰਡ	Microsoft Office Word
+ਕਿਊਬਾ ਦਾ ਇਨਕਲਾਬ	Den cubanske revolusjon
+ਮੂੰਗੇ ਦੀਆਂ ਚਟਾਨਾਂ	Korallrev
+ਮੈਨਹੈਟਨ	Manhattan
+ਰਸਾਇਣਕ ਤੱਤ	Grunnstoff
+ਸਮੀਕਰਨ	Ligning (matematikk)
+ਫੰਕਸ਼ਨ (ਹਿਸਾਬ)	Funksjon (matematikk)
+ਕਾਰਬਨੀ ਰਸਾਇਣ ਵਿਗਿਆਨ	Organisk kjemi
+ਕੋਣ	Vinkel
+ਕਾਰਬੋਹਾਈਡਰੇਟ	Karbohydrat
+ਆਰੀਆਭੱਟ	Aryabhata
+ਹਾਰਮੋਨ	Hormon
+ਅਣੂ	Molekyl
+ਪ੍ਰਵੇਗ	Akselerasjon
+ਸ਼ਿਵ	Shiva
+ਊਰਜਾ	Energi
+ਵਿਸ਼ਨੂੰ	Vishnu
+ਮੁਕਾਮੀ ਇਲਾਕਾ ਜਾਲ	Lokalnett
+ਬਿਜਲਚੁੰਬਕੀ ਕਿਰਨ	Elektromagnetisk stråling
+ਲਾਲਹੇਠ ਕਿਰਨ	Infrarød stråling
+ਪਰਾਬੈਂਗਣੀ ਕਿਰਨਾਂ	Ultrafiolett stråling
+ਘਰੋਗੀਕਰਨ	Domestisering
+ਟਕਸਾਲੀ ਮਕੈਨਕੀ	Klassisk mekanikk
+ਜੀਵ ਵਿਗਿਆਨਕ ਵਰਗੀਕਰਨ	Biologisk klassifikasjon
+ਜ਼ੋਰ	Kraft
+ਚੁੰਬਕੀ ਖੇਤਰ	Magnetfelt
+ਨਸਲੀ ਵਿਤਕਰਾ	Apartheid
+ਗੁਰੂਤਾ ਖਿੱਚ	Tyngdekraft
+ਤਕੜਾ ਮੇਲ-ਜੋਲ	Fargekraft
+ਜੰਗੀ ਕਲਾ	Kampkunst
+ਮਾੜਾ ਮੇਲ-ਜੋਲ	Svak kjernekraft
+ਕਰਾਟੇ	Karate
+ਜੂਡੋ (ਖੇਡ)	Judo
+ਚੁੰਬਕ	Magnet
+ਪੁੰਜ	Masse
+ਫ਼ਿਲਮ	Film
+ਧਾਤ	Metall
+ਨਿਊਕਲੀ ਫੱਟ	Kjernefysisk fisjon
+ਫੂ	Gass
+ਤਰਲ	Væske
+ਠੋਸ	Faststoff
+ਸਮੁੰਦਰੀ ਜਹਾਜ਼	Skip
+ਖੇਤੀਬਾੜੀ	Landbruk
+ਕਪਾਹ	Bomull
+ਪਹਿਰਾਵਾ	Klær
+ਹਲ	Plog
+ਵੇਗ	Hastighet
+ਤਾਪਮਾਨ	Temperatur
+ਨੈਨੋਤਕਨਾਲੋਜੀ	Nanoteknologi
+ਸਮਾਂ	Tid
+ਕਾਗ਼ਜ਼	Papir
+ਪਲਾਸਟਿਕ	Plast
+ਖ਼ਲਾਅ	Vakuum
+ਖੇਤਰਫਲ	Areal
+ਪਾਈਥਾਗੋਰਸ ਥਿਊਰਮ	Pythagoras’ læresetning
+ਗਾਮਾ ਕਿਰਨ	Gammastråling
+ਅੰਕ	Tall
+ਕੰਪਲੈਕਸ ਨੰਬਰ	Komplekst tall
+ਡਾਰਵਿਨ, ਉੱਤਰੀ ਰਾਜਖੇਤਰ	Darwin (Australia)
+ਕ੍ਰਿਸਟੀਆਨੋ ਰੋਨਾਲਡੋ	Cristiano Ronaldo
+ਮੀਟਰ	Meter
+ਸਕਿੰਟ	Sekund
+ਮੱਕੀ	Mais
+ਜੌਂ	Bygg (korn)
+ਕੈਲਵਿਨ	Kelvin
+ਚਿੱਤਰਕਾਰੀ	Malerkunst
+ਰੰਗ-ਮੰਚ	Teater
+ਬਿਜਲਾਣੂ ਤਕਨਾਲੋਜੀ	Elektronikk
+ਚਲੰਤ ਬਿਜਲੀ	Elektrisk strøm
+ਵਾਰਵਾਰਤਾ	Frekvens
+ਡਾਇਓਡ	Diode
+ਬਣਾਉਟੀ ਮਸ਼ੀਨੀ ਬੁੱਧੀ	Kunstig intelligens
+ਮੌਸਮ	Vær (meteorologi)
+ਮਾਰੀਆ ਸ਼ਾਰਾਪੋਵਾ	Marija Sjarapova
+ਨਿੱਕੀ ਹੈਲੀ ਰੰਧਾਵਾ	Nikki Haley
+ਵਾਲ ਸਟਰੀਟ	Wall Street
+ਸੰਯੁਕਤ ਰਾਜ ਵਰਜਿਨ ਟਾਪੂ	De amerikanske jomfruøyene
+ਦੱਖਣ-ਪੂਰਬੀ ਏਸ਼ੀਆ	Sørøst-Asia
+ਸ਼ੇਨਯਾਂਗ	Shenyang
+ਚੌਂਗਕਿੰਗ	Chongqing
+ਥਿਆਨਚਿਨ	Tianjin
+ਲਹੌਰ	Lahore
+ਵੂਖ਼ਨ	Wuhan
+ਦੇਸ਼ਾਂ ਦੀ ਸੂਚੀ	Liste over stater
+ਲੁਦਵਿਕ ਜ਼ਾਮੇਨਹੋਫ	Ludwik Lejzer Zamenhof
+ਪੱਥਰ ਯੁੱਗ	Steinalderen
+ਕਾਂਸੀ ਯੁੱਗ	Bronsealderen
+ਲੋਹਾ ਯੁੱਗ	Jernalderen
+ਮੈਸੋਪੋਟਾਮੀਆ	Mesopotamia
+ਪ੍ਰਾਚੀਨ ਮਿਸਰ	Oldtidens Egypt
+ਬੇਰਿੰਗ ਪਣਜੋੜ	Beringstredet
+ਪ੍ਰਾਚੀਨ ਯੂਨਾਨ	Antikkens Hellas
+ਗੁਪਤ ਸਲਤਨਤ	Guptariket
+ਜਾਨ ਐਡਮਜ਼	John Adams
+ਥਾਮਸ ਜੈਫ਼ਰਸਨ	Thomas Jefferson
+ਅਲਬਰੂਨੀ	Abu Rayhan Biruni
+ਸਿੰਡਰੇਲਾ	Askepott
+ਨਿੱਕੀ ਜਲਪਰੀ (ਕਹਾਣੀ)	Den lille havfrue (eventyr)
+ਗਾਂਧੀਨਗਰ	Gandhinagar
+ਪੀ. ਏਸ. ਵੀ. ਏਇਂਧੋਵੇਨ	PSV Eindhoven
+ਪ੍ਰਕਾਸ਼ ਸੰਸਲੇਸ਼ਣ	Fotosyntese
+ਪ੍ਰਜਨਨ	Formering
+ਸ਼ਾਹਬਲੂਤ	Eikeslekten
+ਤਹਿਰੀਰ ਚੌਕ	Tahrirplassen
+ਰਾਜਫੋੜਾ	Kreft
+ਅਰਨੈਸਟੋ ਟੇਓਡੋਰੋ ਮੋਨੇਟਾ	Ernesto Teodoro Moneta
+ਜੀਨ ਹੈਨਰੀ ਡੁਨਾਂਟ	Henri Dunant
+ਤਲਵਾਰਬਾਜ਼ੀ	Fekting
+ਕਣਕ	Hveteslekten
+ਆਦਰਾ	Betelgeuse
+ਜੁਕਾਮ	Forkjølelse
+ਜੰਤਰੀ	Kalender
+ਬੋਲਾਪਣ	Døvhet
+ਮਨੋਵਿਕਾਰ	Psykisk lidelse
+ਰੋਗ	Sykdom
+ਗ੍ਰੈਗੋਰੀਅਨ ਕਲੰਡਰ	Gregoriansk kalender
+ਸਮਾਂ ਖੇਤਰ	Tidssone
+ਸਿਹਤ	Helse
+ਦਿਲ ਦਾ ਦੌਰਾ	Hjerteinfarkt
+ਤੂਤਨਖ਼ਾਮੁਨ	Tutankhamon
+ਮਲੇਰੀਆ	Malaria
+ਰੋਹੀਣੀ ਤਾਰਾ	Aldebaran
+ਮੁਟਾਪਾ	Fedme
+ਮਿੱਤਰ ਤਾਰਾ	Alfa Centauri
+ਬੈਕਟੀਰੀਆ-ਵਿਰੋਧੀ ਦਵਾਈ	Antibiotika
+ਕੈਨੋਪਸ	Canopus
+ਨੌਂਤ	Nantes
+ਏਡਜ਼	Aids
+ਟੀਬੀ	Tuberkulose
+ਸ਼ੱਕਰ ਰੋਗ	Diabetes
+ਚੇਚਕ	Kopper (sykdom)
+ਕੁਰਦ ਲੋਕ	Kurdere
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਆਈਸਲੈਂਡ	Mal:Kartposisjon Island
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਵੀਡਨ	Mal:Kartposisjon Sverige
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਫ਼ਿਨਲੈਂਡ	Mal:Kartposisjon Finland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਸਤੋਨੀਆ	Mal:Kartposisjon Estland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਆਇਰਲੈਂਡ	Mal:Kartposisjon Irland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ	Mal:Kartposisjon Storbritannia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਫ਼ਰਾਂਸ	Mal:Kartposisjon Frankrike
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅੰਡੋਰਾ	Mal:Kartposisjon Andorra
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਪੇਨ	Mal:Kartposisjon Spania
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਟਲੀ	Mal:Kartposisjon Italia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਵਿਟਜ਼ਰਲੈਂਡ	Mal:Kartposisjon Sveits
+ਉਸਾਰੀ ਕਲਾ	Arkitektur
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਲੋਵਾਕੀਆ	Mal:Kartposisjon Slovakia
+ਪੁਲ	Bro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਹੰਗਰੀ	Mal:Kartposisjon Ungarn
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਲੋਵੇਨੀਆ	Mal:Kartposisjon Slovenia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕ੍ਰੋਏਸ਼ੀਆ	Mal:Kartposisjon Kroatia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੋਸੋਵੋ ਗਣਰਾਜ	Mal:Kartposisjon Kosovo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਂਟੇਨੇਗਰੋ	Mal:Kartposisjon Montenegro
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਕਦੂਨੀਆ ਗਣਰਾਜ	Mal:Kartposisjon Republikken Makedonia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅਲਬਾਨੀਆ	Mal:Kartposisjon Albania
+ਵਿਲਾਰਿਆਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Villarreal CF
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੁਲਗਾਰੀਆ	Mal:Kartposisjon Bulgaria
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਰੋਮਾਨੀਆ	Mal:Kartposisjon Romania
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਲਦੋਵਾ	Mal:Kartposisjon Moldova
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਯੂਕਰੇਨ	Mal:Kartposisjon Ukraina
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੈਲਾਰੂਸ	Mal:Kartposisjon Hviterussland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਾਰਜੀਆ	Mal:Kartposisjon Georgia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਉਜ਼ਬੇਕਿਸਤਾਨ	Mal:Kartposisjon Usbekistan
+ਬੰਨ੍ਹ	Demning
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਿਰਗਿਜ਼ਸਤਾਨ	Mal:Kartposisjon Kirgisistan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਤਾਜਿਕਿਸਤਾਨ	Mal:Kartposisjon Tadsjikistan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਾਈਪ੍ਰਸ	Mal:Kartposisjon Kypros
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੀਰੀਆ	Mal:Kartposisjon Syria
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਜ਼ਰਾਈਲ	Mal:Kartposisjon Israel
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਾਰਡਨ	Mal:Kartposisjon Jordan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਰਾਨ	Mal:Kartposisjon Iran
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੁਵੈਤ	Mal:Kartposisjon Kuwait
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਾਊਦੀ ਅਰਬ	Mal:Kartposisjon Saudi-Arabia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਹਿਰੀਨ	Mal:Kartposisjon Bahrain
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਤਰ	Mal:Kartposisjon Qatar
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ	Mal:Kartposisjon De forente arabiske emirater
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਓਮਾਨ	Mal:Kartposisjon Oman
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਯਮਨ	Mal:Kartposisjon Jemen
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪਾਕਿਸਤਾਨ	Mal:Kartposisjon Pakistan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ	Mal:Kartposisjon India
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭੂਟਾਨ	Mal:Kartposisjon Bhutan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੰਗਲਾਦੇਸ਼	Mal:Kartposisjon Bangladesh
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਰਮਾ	Mal:Kartposisjon Myanmar
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੰਗੋਲੀਆ	Mal:Kartposisjon Mongolia
+ਲੂਣ (ਰਸਾਇਣ ਵਿਗਿਆਨ)	Salt
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਚੀਨ	Mal:Kartposisjon Kina
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਉੱਤਰੀ ਕੋਰੀਆ	Mal:Kartposisjon Nord-Korea
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੱਖਣੀ ਕੋਰੀਆ	Mal:Kartposisjon Sør-Korea
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਪਾਨ	Mal:Kartposisjon Japan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਫ਼ਿਲਪੀਨਜ਼	Mal:Kartposisjon Filippinene
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵੀਅਤਨਾਮ	Mal:Kartposisjon Vietnam
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲਾਓਸ	Mal:Kartposisjon Laos
+ਮਾਰੀਓ	Mario
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੰਬੋਡੀਆ	Mal:Kartposisjon Kambodsja
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਥਾਈਲੈਂਡ	Mal:Kartposisjon Thailand
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇੰਡੋਨੇਸ਼ੀਆ	Mal:Kartposisjon Indonesia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪੂਰਬੀ ਤਿਮੋਰ	Mal:Kartposisjon Øst-Timor
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਆਸਟਰੇਲੀਆ	Mal:Kartposisjon Australia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਿਊਜ਼ੀਲੈਂਡ	Mal:Kartposisjon New Zealand
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪਾਪੂਆ ਨਿਊ ਗਿਨੀ	Mal:Kartposisjon Papua Ny-Guinea
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵਨੁਆਤੂ	Mal:Kartposisjon Vanuatu
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਮੋਆ	Mal:Kartposisjon Samoa
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੂਰੀਨਾਮ	Mal:Kartposisjon Surinam
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵੈਨੇਜ਼ੁਏਲਾ	Mal:Kartposisjon Venezuela
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੋਲੰਬੀਆ	Mal:Kartposisjon Colombia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਏਕੁਆਡੋਰ	Mal:Kartposisjon Ecuador
+ਮੋਨਾ ਲੀਜ਼ਾ	Mona Lisa
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪੇਰੂ	Mal:Kartposisjon Peru
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੋਲੀਵੀਆ	Mal:Kartposisjon Bolivia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਚਿਲੇ	Mal:Kartposisjon Chile
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅਰਜਨਟੀਨਾ	Mal:Kartposisjon Argentina
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਉਰੂਗੁਏ	Mal:Kartposisjon Uruguay
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬ੍ਰਾਜ਼ੀਲ	Mal:Kartposisjon Brasil
+ਪੀਰੇਨੇ	Pyreneene
+ਡਿਟਰਾਇਟ, ਮਿਸ਼ੀਗਨ	Detroit
+ਕੌਮਾਂਤਰੀ ਇਕਾਈ ਢਾਂਚਾ	SI-systemet
+ਬੁਰਜ ਖ਼ਲੀਫ਼ਾ	Burj Khalifa
+ਚੀਨ ਦੀ ਮਹਾਨ ਦੀਵਾਰ	Den kinesiske mur
+ਪੂਰਨ ਸੰਖਿਆ	Heltall
+ਆਈਆ ਸੋਫ਼ੀਆ	Hagia Sofia
+ਪਿਰਾਮਿਡ	Pyramide (byggverk)
+ਬਿਜ਼ਾਨਤਿਨ ਸਲਤਨਤ	Østromerriket
+ਸਲੀਬੀ ਜੰਗਾਂ	Korstog
+ਮੰਗੋਲ ਸਾਮਰਾਜ	Mongolriket
+ਸਲਤਨਤ ਉਸਮਾਨੀਆ	Det osmanske rike
+ਪ੍ਰੋਟੈਸਟੈਂਟ ਪੁਨਰਗਠਨ	Reformasjonen
+ਲਾਤੀਨੀ ਅਮਰੀਕਾ	Latin-Amerika
+ਮੈਕਸੀਕੋ ਦੀ ਖਾੜੀ	Mexicogolfen
+ਕੁੱਲ ਘਰੇਲੂ ਪੈਦਾਵਾਰ	Bruttonasjonalprodukt
+ਕੈਲੀਗ੍ਰਾਫੀ	Kalligrafi
+ਮੈਕਸਿਮ ਗੋਰਕੀ	Maksim Gorkij
+ਬਿਜਲੀ	Elektrisitet
+ਪਥਰਾਟੀ ਬਾਲਣ	Fossilt brensel
+ਭਾਫ਼ ਦਾ ਇੰਜਣ	Dampmaskin
+ਨਿਊਕਲੀ ਬੰਬ	Kjernefysiske våpen
+ਅਬੈਕਸ	Abakus (kuleramme)
+ਉਮਬੇਰਤੋ ਈਕੋ	Umberto Eco
+ਇਬੇਰੀਆਈ ਟਾਪੂਨੁਮਾ	Den iberiske halvøy
+ਪਾਉਲੋ ਕੋਇਲੋ	Paulo Coelho
+ਪੇਲੇ (ਖਿਡਾਰੀ)	Pelé
+ਮਾਜੁਰੋ	Majuro
+ਮਾਰੀਨ ਲ ਪੈਨ	Marine Le Pen
+ਸਵਾਤੀ ਤਾਰਾ	Arcturus
+ਬਲਾਟਰਿਕਸ	Bellatrix
+ਐਪਸੀਲੋਨ ਓਰੀਓਨਿਸ	Alnilam
+ਨਿਊਕਲੀ ਮੇਲ	Kjernefysisk fusjon
+ਕਰਤੁ	Dubhe
+ਅੰਗਿਰਸ	Alioth
+ਖੋਪੜੀ	Skalle
+ਸਟਰਾਬਰੀ	Hagejordbær
+ਮਾਸਕੋ ਸਟੇਟ ਯੂਨੀਵਰਸਿਟੀ	Statsuniversitetet i Moskva
+ਫੋਮਾਲਹਾਊਟ ਤਾਰਾ	Fomalhaut
+ਮਿਤਰਕ ਤਾਰਾ	Hadar
+ਮੁਨੱਕਾ	Rosin
+ਨਾਰੀਅਲ	Kokospalme
+ਅਨਾਰ	Granateple
+ਆੜੂ	Fersken
+ਸੰਤਰਾ	Appelsin
+ਰਾਜਸਥਾਨੀ ਭਾਸ਼ਾ	Rajasthani
+ਰੋਮਾਨੀ ਭਾਸ਼ਾ	Romanes
+ਕੋਸਾ ਭਾਸ਼ਾ	Xhosa (språk)
+ਫਰਦੀਨਾ ਦ ਸੌਸਿਊਰ	Ferdinand de Saussure
+ਆਈਸ ਕਰੀਮ	Iskrem
+ਉਇਗ਼ੁਰ ਭਾਸ਼ਾ	Uigurisk
+ਸਿੰਹਾਲਾ ਭਾਸ਼ਾ	Singalesisk
+ਕੇਕ	Kake
+ਮਾਂਟਸਰਾਤ	Montserrat
+ਹਾਰਵਰਡ ਯੂਨੀਵਰਸਿਟੀ	Harvard University
+ਬਸ਼ਕੀਰ ਭਾਸ਼ਾ	Basjkirsk
+ਕ੍ਰਿਤੀਕਾ	Pleiadene
+ਅਲ ਜਜ਼ੀਰਾ	Al-Jazeera
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਰੀਨਲੈਂਡ	Mal:Kartposisjon Grønland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੈਨੇਡਾ	Mal:Kartposisjon Canada
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੈਕਸੀਕੋ	Mal:Kartposisjon Mexico
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੇਲੀਜ਼	Mal:Kartposisjon Belize
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗੁਆਤੇਮਾਲਾ	Mal:Kartposisjon Guatemala
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਾਲਵਾਦੋਰ	Mal:Kartposisjon El Salvador
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਹਾਂਡੂਰਾਸ	Mal:Kartposisjon Honduras
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਿਕਾਰਾਗੁਆ	Mal:Kartposisjon Nicaragua
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੋਸਤਾ ਰੀਕਾ	Mal:Kartposisjon Costa Rica
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਪਨਾਮਾ	Mal:Kartposisjon Panama
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬਹਾਮਾਸ	Mal:Kartposisjon Bahamas
+ਫਰਮਾ:ਨਕਸ਼ਾ ਸਥਿਤੀ ਕਿਊਬਾ	Mal:Kartposisjon Cuba
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜਮੈਕਾ	Mal:Kartposisjon Jamaica
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਹਿੰਦ ਮਹਾਂਸਾਗਰ	Mal:Kartposisjon Indiahavet
+ਐਂਜਲੀਨਾ ਜੋਲੀ	Angelina Jolie
+ਈਲ-ਡ-ਫ਼ਰਾਂਸ	Île-de-France
+ਏਡਰੀਆਟਿਕ ਸਮੁੰਦਰ	Adriaterhavet
+ਸੌਂਤਰ	Centre-Val de Loire
+ਪਿਕਾਰਡੀ	Picardie
+ਅਰਬੀ ਭਾਸ਼ਾ	Arabisk
+ਕਾਪਾ ਓਰਾਔਨਿਸ	Saiph
+ਆਈਪੌਡ ਟੱਚ	IPod touch
+ਸ਼ਾਂਪੇਨ-ਆਰਦਨ	Champagne-Ardenne
+ਕਾਰਸਿਕਾ	Korsika
+OS X	Mac OS X
+ਅਫ਼ਰੀਕਾਂਸ ਭਾਸ਼ਾ	Afrikaans
+ਪ੍ਰਧਾਨ ਮੰਤਰੀ	Premierminister
+ਸਾਂਤੀਆਗੋ ਦੇ ਕੋਮਪੋਸਤੇਲਾ	Santiago de Compostela
+ਓਬੀਐਦੋ	Oviedo
+ਬੀਟਾ	Beta
+ਗਾਮਾ	Gamma
+ਸਟੈਗੋਸੌਰਸ	Stegosaurus
+ਡੈਲਟਾ (ਅੱਖਰ)	Delta (bokstav)
+ਐਪਸੀਲੋਨ	Epsilon
+ਜ਼ੀਟਾ	Zeta
+ਈਟਾ	Eta (bokstav)
+ਥੀਟਾ	Theta
+ਆਓਟਾ	Iota
+ਕਾਪਾ	Kappa (bokstav)
+ਨਿਊ (ਅੱਖਰ)	Ny (bokstav)
+ਕਸੀ (ਅੱਖਰ)	Ksi
+ਓਮੀਕ੍ਰੋਨ	Omikron
+ਰੋ	Rho
+ਸਿਗਮਾ	Sigma
+ਟਾਓ	Tau (bokstav)
+ਉਪਸੀਲੋਨ	Ypsilon
+ਕਾਈ	Khi
+ਸਾਈ (ਅੱਖਰ)	Psi
+ਈਸਟਰ ਟਾਪੂ	Påskeøya
+ਥੋਹਰ	Kaktusfamilien
+ਲਿਨਕਸ ਕਰਨਲ	Linux (kjerne)
+ਪ੍ਰਕਾਸ਼ ਵਿਗਿਆਨ	Optikk
+ਸਨ ਮਾਈਕ੍ਰੋਸਿਸਟਮਸ	Sun Microsystems
+ਘਰੇਲੂ ਚਿੜੀ	Gråspurv
+ਫ਼ਿਨਲੈਂਡ ਦੀ ਖਾੜੀ	Finskebukta
+ਫ਼ਰਨੀਚਰ	Møbel
+ਮੇਜ਼	Bord (møbel)
+ਮਕਾਉ	Macao
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਰਾਕੋ	Mal:Kartposisjon Marokko
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅਲਜੀਰੀਆ	Mal:Kartposisjon Algerie
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਤੁਨੀਸੀਆ	Mal:Kartposisjon Tunisia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲੀਬੀਆ	Mal:Kartposisjon Libya
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਿਸਰ	Mal:Kartposisjon Egypt
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਾਲੀ	Mal:Kartposisjon Mali
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਾਈਜਰ	Mal:Kartposisjon Niger
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਚਾਡ	Mal:Kartposisjon Tsjad
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੁਡਾਨ	Mal:Kartposisjon Sudan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੱਖਣੀ ਸੁਡਾਨ	Mal:Kartposisjon Sør-Sudan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਰੀਤਰੀਆ	Mal:Kartposisjon Eritrea
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇਥੋਪੀਆ	Mal:Kartposisjon Etiopia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੋਮਾਲੀਆ	Mal:Kartposisjon Somalia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੇਪ ਵਰਡ	Mal:Kartposisjon Kapp Verde
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੇਨੇਗਲ	Mal:Kartposisjon Senegal
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਾਂਬੀਆ	Mal:Kartposisjon Gambia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਿਨੀ-ਬਿਸਾਊ	Mal:Kartposisjon Guinea-Bissau
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਿਨੀ	Mal:Kartposisjon Guinea
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਲਾਈਬੇਰੀਆ	Mal:Kartposisjon Liberia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੰਦ ਖੰਡ ਤਟ	Mal:Kartposisjon Elfenbenskysten
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੁਰਕੀਨਾ ਫ਼ਾਸੋ	Mal:Kartposisjon Burkina Faso
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਘਾਨਾ	Mal:Kartposisjon Ghana
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਟੋਗੋ	Mal:Kartposisjon Togo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੇਨਿਨ	Mal:Kartposisjon Benin
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਨਾਈਜੀਰੀਆ	Mal:Kartposisjon Nigeria
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੈਮਰੂਨ	Mal:Kartposisjon Kamerun
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੱਧ ਅਫ਼ਰੀਕੀ ਗਣਰਾਜ	Mal:Kartposisjon Den sentralafrikanske republikk
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ	Mal:Kartposisjon Ekvatorial-Guinea
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਗਬਾਨ	Mal:Kartposisjon Gabon
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਾਂਗੋ ਗਣਰਾਜ	Mal:Kartposisjon Republikken Kongo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਾਂਗੋ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ	Mal:Kartposisjon Den demokratiske republikken Kongo
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਯੁਗਾਂਡਾ	Mal:Kartposisjon Uganda
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕੀਨੀਆ	Mal:Kartposisjon Kenya
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਰਵਾਂਡਾ	Mal:Kartposisjon Rwanda
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੁਰੂੰਡੀ	Mal:Kartposisjon Burundi
+ਫਰਮਾ:Location map ਤਨਜ਼ਾਨੀਆ	Mal:Kartposisjon Tanzania
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮੋਜ਼ੈਂਬੀਕ	Mal:Kartposisjon Mosambik
+ਫਰਮਾ:Location map ਮਲਾਵੀ	Mal:Kartposisjon Malawi
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜ਼ਾਂਬੀਆ	Mal:Kartposisjon Zambia
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਅੰਗੋਲਾ	Mal:Kartposisjon Angola
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਬੋਤਸਵਾਨਾ	Mal:Kartposisjon Botswana
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਜ਼ਿੰਬਾਬਵੇ	Mal:Kartposisjon Zimbabwe
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਦੱਖਣੀ ਅਫਰੀਕਾ	Mal:Kartposisjon Sør-Afrika
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਵਾਜ਼ੀਲੈਂਡ	Mal:Kartposisjon Swaziland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਕਾਮਾਰੋਸ	Mal:Kartposisjon Komorene
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਾਦਾਗਾਸਕਰ	Mal:Kartposisjon Madagaskar
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਮਾਰੀਸ਼ਸ	Mal:Kartposisjon Mauritius
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸੇਸ਼ੈਲ	Mal:Kartposisjon Seychellene
+ਕੁਰਸੀ	Stol
+ਅੰਤਰਾਸ਼ਟਰੀ ਮਿਆਰੀਕਰਣ ਸੰਘ	ISO
+ਸ਼ੀ ਚਿਨਪਿੰਙ	Xi Jinping
+ਅਲਿਫ਼	Alef
+ਜਿਰਾਫ਼	Sjiraff
+ਕੁਐਂਕਾ	Cuenca (Spania)
+ਪ੍ਰੋਵਾਂਸ-ਆਲਪ-ਅਸਮਾਨੀ ਤਟ	Provence-Alpes-Côte d'Azur
+ਸ਼ੈਨਜ਼ੈਨ	Shenzhen
+ਸੋਵੀਅਤ ਯੂਨੀਅਨ	Sovjetunionen
+ਮਦੁਰਈ ਜ਼ਿਲਾ	Madurai (distrikt)
+ਸ਼ਿਵਗੰਗਾ	Sivaganga (distrikt)
+ਤਿਰੂਨੇਲਵੇਲੀ ਜ਼ਿਲਾ	Tirunelveli (distrikt)
+ਅਨੰਤਪੁਰ ਜ਼ਿਲਾ	Anantapur (distrikt)
+ਪੇਪੜੀ (ਭੋਂ ਵਿਗਿਆਨ)	Jordskorpen
+ਪਿਘਲਣ ਦਰਜਾ	Smeltepunkt
+ਕੈਮਰਾ	Kamera
+ਪੂਰਬ ਗੋਦਾਵਰੀ ਜ਼ਿਲਾ	East Godavari (distrikt)
+ਹੈਦਰਾਬਾਦ ਜ਼ਿਲ੍ਹਾ	Hyderabad (distrikt)
+ਕਡੱਪਾ ਜ਼ਿਲਾ	YSR Kadapa (distrikt)
+ਖੰਮਮ ਜ਼ਿਲਾ	Khammam (distrikt)
+ਕਰੀਮਨਗਰ ਜ਼ਿਲਾ	Karimnagar (distrikt)
+ਮਹਬੂਬਨਗਰ ਜ਼ਿਲਾ	Mahbubnagar (distrikt)
+ਕੁਰਨੂਲ ਜ਼ਿਲਾ	Kurnool (distrikt)
+ਕ੍ਰਿਸ਼ਣਾ ਜ਼ਿਲਾ	Krishna (distrikt)
+ਨੇੱਲੋਰ ਜ਼ਿਲਾ	Sri Amarajeevi Potti Sri Ramulu Nellore (distrikt)
+ਨਲਗੋਂਡਾ ਜ਼ਿਲਾ	Nalgonda (distrikt)
+ਮੇਦਕ ਜ਼ਿਲਾ	Medak (distrikt)
+ਰੰਗਾਰੇੱਡੀ ਜ਼ਿਲਾ	Rangareddi (distrikt)
+ਪ੍ਰਕਾਸਮ ਜ਼ਿਲਾ	Prakasam (distrikt)
+ਨਿਜ਼ਾਮਾਬਾਦ ਜ਼ਿਲਾ	Nizamabad (distrikt)
+ਵਿਜੈਨਗਰਮ ਜ਼ਿਲਾ	Vizianagaram (distrikt)
+ਵਿਸ਼ਾਖਾਪਟਨਮ ਜ਼ਿਲਾ	Visakhapatnam (distrikt)
+ਸ਼ਰੀਕਾਕੁਲਮ ਜ਼ਿਲਾ	Srikakulam (distrikt)
+ਵਾਰੰਗਲ ਜ਼ਿਲਾ	Warangal (distrikt)
+ਪੱਛਮ ਗੋਦਾਵਰੀ ਜ਼ਿਲਾ	West Godavari (distrikt)
+ਜਾਰਵਿਸ ਖਾੜੀ ਰਾਜਖੇਤਰ	Jervis Bay Territory
+ਕਾਥੇਰੇਸ, ਸਪੇਨ	Cáceres (Spania)
+ਸੇਗੋਵੀਆ	Segovia
+ਆਵੀਲਾ, ਸਪੇਨ	Ávila
+ਸਾਲਾਮਾਨਕਾ	Salamanca
+ਅਨਾਪਾ	Anapa
+ਅਬਿੰਸਕ	Abinsk
+ਸੀ (ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ)	C (programmeringsspråk)
+ਬਾਈਆਨ ਮੁਨਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	FC Bayern München
+ਪੈਰ	Fot (kroppsdel)
+ਏਮੀਲ ਦੁਰਖਿਮ	Émile Durkheim
+ਮੋਨਤੈਸਕੀਉ	Charles Montesquieu
+ਬੇ (ਸਿਰਿਲਿਕ)	Б
+ਆ (ਸਿਰਿਲਿਕ)	А
+ਗੇ (ਸਿਰਿਲਿਕ)	Г
+ਡੇ (ਸਿਰਿਲਿਕ)	Д
+ਵੇ (ਸਿਰਿਲਿਕ)	В
+ਉੱਪਰ ਨੂੰ ਮੁੜਿਆ ਗੇ (ਸਿਰਿਲਿਕ)	Ґ
+ਮਿਦੀ-ਪੀਰੇਨੇ	Midi-Pyrénées
+ਫ਼ਰਾਂਸ਼-ਕੋਂਤੇ	Franche-Comté
+ਬਰੂਸ-ਲੀ	Bruce Lee
+ਬੂਸਾਨ	Busan
+ਵਰਮਾਂਟ	Vermont
+ਸਾਨ ਦੀਏਗੋ	San Diego
+ਸਾਨ ਹੋਜ਼ੇ, ਕੈਲੀਫ਼ੋਰਨੀਆ	San Jose
+ਡੈਨਵਰ	Denver
+ਹੂਸਟਨ	Houston
+ਫ਼ੀਨਿਕਸ	Phoenix
+ਡਾਲਸ	Dallas
+ਫ਼ੋਰਟ ਵਰਥ	Fort Worth
+ਆਸਟਿਨ, ਟੈਕਸਸ	Austin
+ਸ਼ਾਰਲਟ, ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ	Charlotte (Nord-Carolina)
+ਕਲੰਬਸ, ਓਹਾਇਓ	Columbus (Ohio)
+ਜੈਕਸਨਵਿਲ, ਫ਼ਲੌਰਿਡਾ	Jacksonville
+ਗੁਆਂਗਜ਼ੂ	Guangzhou
+ਗੁਆਮ	Guam
+ਅਮਰੀਕੀ ਸਮੋਆ	Amerikansk Samoa
+ਉੱਤਰੀ ਮਰੀਆਨਾ ਟਾਪੂ	Nord-Marianene
+ਨਾਨਜਿੰਗ	Nanjing
+ਐਡਗਰ ਐਲਨ ਪੋ	Edgar Allan Poe
+ਕੁਸਤੁਨਤੁਨੀਆ	Konstantinopel
+ਹਸਪਤਾਲ	Sykehus
+ਹੇਠਲੀ ਨੋਰਮਾਂਦੀ	Basse-Normandie
+ਉਰੂਮਕੀ	Ürümqi
+ਉਤਲੀ ਨੋਰਮਾਂਦੀ	Haute-Normandie
+ਗਿਰਜਾ	Kirke
+ਉੱਤਰ-ਕਾਲੇ ਦਾ ਪਣਜੋੜ	Nord-Pas-de-Calais
+ਪੇ ਡ ਲਾ ਲੁਆਰ	Pays de la Loire
+ਲਾਂਗਡੋਕ-ਰੂਸੀਓਨ	Languedoc-Roussillon
+ਪੋਆਤੂ-ਸ਼ਾਰੌਂਤ	Poitou-Charentes
+ਗੁਆਡਲੂਪ	Guadeloupe
+ਮਾਰਟੀਨੀਕ	Martinique
+ਮੈਯੋਤ	Mayotte
+ਰੇਊਨੀਓਂ	Réunion
+ਬੈਕਸਟਰੀਟ ਬੌਇਜ਼	Backstreet Boys
+ਬਾਰਸੀਲੋਨਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Katedralen i Barcelona
+ਰੋਮਨ ਗਣਤੰਤਰ	Den romerske republikk
+ਜਿਓਵਾਨੀ ਬੇਲੀਨੀ	Giovanni Bellini
+ਫ਼ਿਲਪੀਨੀ ਪੀਸੋ	Filippinsk peso
+ਤਿੱਬਤ	Tibet
+ਮਾਫੀਆ (ਪਾਰਟੀ ਖੇਡ)	Mafia (spill)
+ਚੱਕਰ	Sirkel
+14ਵੇਂ ਦਲਾਈ ਲਾਮਾ	Tenzin Gyatso
+ਚੀਨ ਦੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Det kinesiske kommunistiske parti
+ਮੋਬਾਈਲ ਫ਼ੋਨ	Mobiltelefon
+ਸਟੀਵਨ ਹਾਕਿੰਗ	Stephen Hawking
+ਸਿਧਾਂਤ	Teori
+ਅਰਾਗਤਸੋਤਨ	Aragatsotn
+ਸੈਕਰਾਮੈਂਟੋ, ਕੈਲੀਫ਼ੋਰਨੀਆ	Sacramento
+੧੯੨੫	1925
+੧੯੨੭	1927
+ਮਾਨਚੈਸਟਰ	Manchester
+ਤੁਰਕ ਅਤੇ ਕੇਕੋਸ ਟਾਪੂ	Turks- og Caicosøyene
+ਵਿਟਾਮਿਨ ਏ	Vitamin A
+ਫੈਲਾਉ	Stråling
+ਮਿਆਰੀ ਨਮੂਨਾ	Standardmodellen
+ਸਿਧਾਂਤਕ ਭੌਤਿਕ ਵਿਗਿਆਨ	Teoretisk fysikk
+ਨਿਊ ਇੰਗਲੈਂਡ	New England
+ਬਰਥਾ ਵੌਨ ਸੁੱਟਨਰ	Bertha von Suttner
+ਸ਼ੈਫ਼ੀਲਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Sheffield FC
+ਬਘਿਆੜ	Ulv
+ਰੂਪਕ-ਕਥਾ	Allegori
+ਖਿੱਦੋ	Ball
+ਡਗਲਸ, ਮੈਨ ਟਾਪੂ	Douglas (Man)
+1955	1955
+1954	1954
+੧੯੫੩	1953
+੧੯੫੧	1951
+੧੯੫੦	1950
+੧੯੪੬	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+੧੯੩੬	1936
+ਮੈਨਚੈਸਟਰ ਯੂਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Manchester United FC
+੧੯੩੫	1935
+ਸਵਾਨਜ਼ੀ ਸਿਟੀ ਐਸੋਸੀਏਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Swansea City AFC
+ਮਿਡਲਸਬਰੋ ਫੁੱਟਬਾਲ ਕਲੱਬ	Middlesbrough FC
+ਕਾਰਡਿਫ਼ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Cardiff City FC
+ਫ਼ੁਲਹਮ ਫੁੱਟਬਾਲ ਕਲੱਬ	Fulham FC
+ਐਸਟਨ ਵਿਲਾ ਫੁੱਟਬਾਲ ਕਲੱਬ	Aston Villa FC
+1934	1934
+ਨਿਊਕੈਸਲ ਯੂਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Newcastle United FC
+ਨਾਰਵਿਚ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Norwich City FC
+ਕਵੀਨਜ਼ ਪਾਰਕ ਰੇਂਜਰਜ਼ ਫੁੱਟਬਾਲ ਕਲੱਬ	Queens Park Rangers FC
+੧੯੩੩	1933
+ਰੀਡਿੰਗ ਫੁੱਟਬਾਲ ਕਲੱਬ	Reading FC
+ਸਾਊਥਹੈਂਪਟਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Southampton FC
+ਸਟੋਕ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Stoke City FC
+ਸੰਡਰਲੈਂਡ ਐਸੋਸੀਏਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Sunderland AFC
+ਟੌਟਨਹਮ ਹੌਟਸਪਰ ਫੁੱਟਬਾਲ ਕਲੱਬ	Tottenham Hotspur FC
+1932	1932
+ਵੈਸਟ ਬਰੌਮਿਚ ਐਲਬੀਅਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	West Bromwich Albion FC
+ਵਿਗਨ ਅਥਲੈਟਿਕ ਫੁੱਟਬਾਲ ਕਲੱਬ	Wigan Athletic FC
+1931	1931
+੧੯੩੦	1930
+1929	1929
+ਪਿਓਂਗਯਾਂਗ	Pyongyang
+ਅਨਾਤੋਲੀ ਲੂਨਾਚਾਰਸਕੀ	Anatolij Lunatsjarskij
+ਜੀ ਪੀ ਐੱਸ	NAVSTAR Global Positioning System
+ਕਾਕਸ	Kaukasia
+ਅਕਾਦਮੀ ਇਨਾਮ	Oscar
+ਸੈਮੂਅਲ ਪੀ ਹੰਟਿੰਗਟਨ	Samuel P. Huntington
+ਅਕੇਂਦਰੀ ਜੀਵ	Prokaryoter
+ਸੁਕੇਂਦਰੀ ਜੀਵ	Eukaryoter
+ਬਿੱਛੂ	Skorpioner
+ਜਾਰਜ ਬਰਨਾਰਡ ਸ਼ਾ	George Bernard Shaw
+ਨੈਸ਼ਨਲ ਪੀਪਲਜ਼ ਕਾਂਗਰਸ ਦੀ ਸਥਾਈ ਕਮੇਟੀ	Den nasjonale folkekongress' stående komite
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ	Verdensmesterskapet i fotball
+ਬਰਮਿੰਘਮ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Birmingham City FC
+ਬਲੈਕਬਰਨ ਰੋਵਾਰਸ ਫੁੱਟਬਾਲ ਕਲੱਬ	Blackburn Rovers FC
+ਬਲੈਕਪੂਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Blackpool FC
+ਬੋਲਟਨ ਵਾਨਦੇਰੇਰਸ ਫੁੱਟਬਾਲ ਕਲੱਬ	Bolton Wanderers FC
+ਬ੍ਰਾਇਟਨ ਅਤੇ ਹੋਵ ਐਲਬੀਅਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Brighton & Hove Albion FC
+ਬਰਨਲੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Burnley FC
+ਚਾਰਲਟਨ ਅਥਲੈਟਿਕ ਫੁੱਟਬਾਲ ਕਲੱਬ	Charlton Athletic FC
+ਕ੍ਰਿਸਟਲ ਪੈਲਸ ਫੁੱਟਬਾਲ ਕਲੱਬ	Crystal Palace FC
+ਡਰਬੀ ਕਾਊਂਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Derby County FC
+ਹਡਰਜ਼ਫ਼ੀਲਡ ਟਾਊਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Huddersfield Town FC
+ਹਲ਼ ਸਿਟੀ ਐਸੋਸੀਏਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Hull City AFC
+ਲੈਸਟਰ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Leicester City FC
+ਮਿੱਲਵਾਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Millwall FC
+ਨੌਟਿੰਘਮ ਫ਼ਾਰਸਟ ਫੁੱਟਬਾਲ ਕਲੱਬ	Nottingham Forest FC
+ਸ਼ੈਫ਼ੀਲਡ ਵੈੱਡਨਸਡੇ ਫੁੱਟਬਾਲ ਕਲੱਬ	Sheffield Wednesday FC
+ਵੁਲਵਰਹੈਂਪਟਨ ਵਾਨਦੇਰੇਰਸ ਫੁੱਟਬਾਲ ਕਲੱਬ	Wolverhampton Wanderers FC
+ਲੀਲ ਓਲੰਪੀਕ	Lille OSC
+ਸੰਤ-ਏਤੀਐੱਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	AS Saint-Étienne
+ਮਾਇਆ ਐਂਜਲੋ	Maya Angelou
+ਐਸੋਸੀਏਸ਼ਨ ਫੁੱਟਬਾਲ ਕਲੱਬ ਬੋਰਨਮਥ	AFC Bournemouth
+ਬਰੈਂਟਫ਼ੋਰਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Brentford FC
+ਗੋਰੀ	Gori
+ਕੈੱਲਟਿਕ ਫੁੱਟਬਾਲ ਕਲੱਬ	Celtic FC
+ਧਾਤਨੁਮਾ	Halvmetall
+ਰੇਂਜਰਜ਼ ਫੁੱਟਬਾਲ ਕਲੱਬ	Rangers FC
+ਅਧਾਤ	Ikke-metall
+ਐਫ. ਸੀ. ਤਵੇਨਤੇ	FC Twente
+ਨੋਬਲ ਗੈਸ	Edelgass
+੫	5
+੪	4
+3	3
+੨	2
+ਬੁਖ਼ਾਰੈਸਟ	București
+ਅਲ ਗੋਰ	Al Gore
+ਲੂਵਰ ਅਜਾਇਬਘਰ	Louvre
+ਥੇਮਜ਼ ਦਰਿਆ	Themsen
+ਤਿਰਾਨਾ	Tirana
+ਵੇਈ ਨਦੀ	Wye
+੧੯੨੮	1928
+ਜੀ-20	G20
+ਪੁਰਾਣਾ ਨੇਮ	Det gamle testamente
+ਕ੍ਰਿਸਮਸ	Jul
+ਰੋਮਾਂਸ ਭਾਸ਼ਾਵਾਂ	Romanske språk
+ਤਿਕੋਨ	Trekant
+ਲੀਪ ਸਾਲ	Skuddår
+ਸਟੀਵ ਜੌਬਜ਼	Steve Jobs
+ਲੇਡੀ ਗਾਗਾ	Lady Gaga
+ਹਿੰਦ-ਯੂਰਪੀ ਭਾਸ਼ਾ-ਪਰਵਾਰ	Indoeuropeiske språk
+ਗੋਦੋ ਦੀ ਉਡੀਕ	Mens vi venter på Godot
+ਮੁਆਮਰ ਗੱਦਾਫ਼ੀ	Muammar al-Gaddafi
+ਸ਼ੇਰ	Tiger
+ਨੀਸਾਨ	Nissan
+ਸੈਮਸੰਗ	Samsung
+ਇਨਚਨ	Incheon
+ਸਕੈਂਡੀਨੇਵੀਆ	Skandinavia
+ਕਿਸ਼ਨਾਓ	Chișinău
+ਸਮਾਜ ਵਿਗਿਆਨ	Sosiologi
+ਅਰੂਬਾ	Aruba
+ਕੌਮਾਂਤਰੀ ਧੁਨਾਤਮਕ ਵਰਨਮਾਲਾ	Det internasjonale fonetiske alfabetet
+ਓਡੀਸ਼ਾ	Odisha
+ਪੰਜਾਬ, ਭਾਰਤ	Punjab (India)
+ਸਮਾਰਟਫ਼ੋਨ	Smarttelefon
+ਯਹੂਦੀ-ਵਿਰੋਧ	Antisemittisme
+ਕੱਚਾ ਤੇਲ	Petroleum
+ਭੂਗੋਲਕ ਗੁਣਕ ਪ੍ਰਬੰਧ	Geografiske koordinater
+ਬਹਾਈ ਧਰਮ	Bahá'í
+ਬੈਂਕ	Bank
+ਬੋਲਣ ਦੀ ਆਜ਼ਾਦੀ	Ytringsfrihet
+ਮਰੂਆ	Merian
+ਪਾਰਕ	Park
+ਗੁਫ਼ਾ ਦਾ ਰੂਪਕ	Platons hulelignelse
+ਨੌਟਿੰਘਮਸ਼ਰ	Nottinghamshire
+੧	1
+ਲੂ ਸ਼ੁਨ	Lu Xun
+ਬਰਿਸਟਲ	Bristol
+ਅਬਖ਼ਾਜ਼ੀਆ	Abkhasia
+ਸਾਲਟ ਲੇਕ ਸਿਟੀ	Salt Lake City
+ਅੱਠ	8 (tall)
+ਬਰਫ਼	Is
+ਝੀਲ	Innsjø
+ਲਸਣ	Hvitløk
+ਲਾਲ ਸਮੁੰਦਰ	Rødehavet
+ਖੀਰਾ	Agurk
+ਦੱਖਣੀ ਓਸੈਤੀਆ	Sør-Ossetia
+ਉਲਾਨ ਬਤੋਰ	Ulan Bator
+ਅਰਨੈਸਟ ਹੈਮਿੰਗਵੇ	Ernest Hemingway
+ਐਡਿਨਬਰਾ	Edinburgh
+ਅਸ਼ਗ਼ਾਬਾਤ	Asjkhabad
+ਟਾਪੂ	Øy
+ਚਿੱਟਾ	Hvit
+੪੭੬	476
+ਮਾਰਸੇਈ	Marseille
+ਟਮਾਟਰ	Tomat
+ਬਾਲਕਨ	Balkan
+ਸਲਾਵੀ ਭਾਸ਼ਾਵਾਂ	Slaviske språk
+ਭੂ-ਮੱਧ ਰੇਖਾ	Ekvator
+ਸੇਲੇਨ	Selena
+ਨਾਸਾ	NASA
+ਬੇਨੀਤੋ ਮੁਸੋਲੀਨੀ	Benito Mussolini
+ਪਾਡਗੋਰਿਤਸਾ	Podgorica
+ਗੇਮ ਆਫ਼ ਥਰੋਨਜ਼	Game of Thrones (TV-serie)
+500	500
+੧੫੦	150
+ਸ਼ਬਦਕੋਸ਼	Ordbok
+ਐੱਚ.ਬੀ.ਓ.	HBO
+ਬਰਮੂਡਾ	Bermuda
+ਸਿਰ	Hode
+ਵੈਲਿੰਗਟਨ	Wellington
+ਉੱਤਰੀ ਸਾਈਪ੍ਰਸ	Nord-Kypros
+੧੨੦	120
+ਕੌਮੀ ਗੀਤ	Nasjonalsang
+ਰੋਵਨ ਐਟਕਿਨਸਨ	Rowan Atkinson
+ਲਾਸ ਵੇਗਸ	Las Vegas
+ਫ਼ਲਸਤੀਨੀ ਇਲਾਕੇ	Palestina (område)
+ਵਲੈਟਾ	Valletta
+ਪਰਮਾਣੂ ਸੰਖਿਆ	Atomnummer
+ਅਲਫ਼ਰੈਡ ਨੋਬਲ	Alfred Nobel
+੨੦੦	200
+ਜਾਰਜ ਤੀਮੋਥੀ ਕਲੂਨੀ	George Clooney
+127	127
+੧੦੪	104
+102	102
+100	100
+ਮੁਰਦਾ ਸਮੁੰਦਰ	Dødehavet
+ਚੀਤਾ	Gepard
+੧੨੬	126
+੧੦੧	101
+੧੦੫	105
+੧੦੮	108
+117	117
+੧੧੫	115
+ਕੋਲਾ	Kull
+153	153
+156	156
+ਵੈਨਕੂਵਰ	Vancouver
+੩੦੧	301
+116	116
+੩੩੦	330
+੧੬੫	165
+੨੦੩	203
+222	222
+੧੬੦	160
+ਲਿਵਰਪੂਲ	Liverpool
+੪੭੭	477
+ਲਘੂ ਫ਼ਿਲਮ	Kortfilm
+ਬਰੇਮਨ	Bremen (by)
+ਕਿਰਿਆ	Verb
+168	168
+੧੧੨	112
+ਵੂਡੀ ਐਲਨ	Woody Allen
+ਸੱਤਾ (ਸਮਾਜਿਕ ਅਤੇ ਰਾਜਨੀਤਕ)	Makt
+ਬੂਕਮਾਲ	Bokmål
+ਟਾਈਟੈਨਿਕ	RMS «Titanic»
+ਇਨਸੈਪਸ਼ਨ	Inception
+166	166
+ਪਾਊਂਡ ਸਟਰਲਿੰਗ	Britisk pund
+ਐਂਗੁਈਲਾ	Anguilla
+ਗਰਨਜ਼ੇ	Guernsey
+ਘੰਟਾ	Time (tidsenhet)
+ਕੰਗਰੋੜਧਾਰੀ	Virveldyr
+ਚੱਕੀ ਰੋਹਾ	Hærfugl
+ਸੈਲਸੀਅਸ	Grad Celsius
+ਜੂਲ	Joule
+ਪ੍ਰਿਸ਼ਤੀਨਾ	Priština
+ਕੌਮਾਂਤਰੀ ਪੁਲਾੜ ਅੱਡਾ	Den internasjonale romstasjonen
+ਆਈ ਐੱਸ ਓ 3166-1	ISO 3166-1
+ਆਈਸੋਟੋਪ	Isotop
+ਕੁਰਾਸਾਓ	Curaçao
+ਤਤਾਰ ਭਾਸ਼ਾ	Tatarisk
+ਭਾਰ	Tyngde
+ਭਾਸ਼ਾ ਪਰਵਾਰ	Språkfamilie
+ਵਾਸ਼ਿੰਗਟਨ	Washington (andre betydninger)
+ਬਰਤਾਨਵੀ ਵਰਜਿਨ ਟਾਪੂ	De britiske jomfruøyene
+ਫੁੱਲਦਾਰ ਬੂਟਾ	Dekkfrøede planter
+ਆਰਕਟਿਕ	Arktis
+ਅੰਤੌਨੀ ਗਾਊਦੀ	Antoni Gaudí
+ਸਵਿੱਸ ਫ਼ਰਾਂਕ	Sveitsisk franc
+ਨਵਾਸ ਟਾਪੂ	Navassaøya
+ਸਾਰਸ (ਪੰਛੀ)	Traner
+ਡਰਾਮਾ	Drama
+ਅਟਲਾਂਟਿਸ	Atlantis
+ਬੋਨੇਅਰ	Bonaire
+ਡੈੱਨਮਾਰਕੀ ਕਰੋਨਾ	Dansk krone
+ਹੇਠਲੀ ਜਰਮਨ ਭਾਸ਼ਾ	Nedertysk
+ਕੇਸਰ	Safran
+ਸਾਬਾ	Saba (øy)
+ਊਮਿਓ	Umeå
+੪੦੦	400
+ਲਿਥੁਆਨੀਆਈ ਲਿਤਾਸ	Litauisk litas
+300	300
+ਦਰੱਖਤੀ ਚਿੜੀ	Pilfink
+ਹਰਮਨ ਹੈੱਸ	Hermann Hesse
+ਕੁਸ਼ਾਨ ਸਲਤਨਤ	Kushriket
+ਨਿਲੰਬਨ	Suspensjon (kjemi)
+ਸਿੰਟ ਯੂਸਟੇਸ਼ਸ	Sint Eustatius
+ਸਿੰਟ ਮਾਰਟਨ	Sint Maarten
+ਕ੍ਰੋਏਸ਼ੀਆਈ ਕੂਨਾ	Kroatisk kuna
+ਪੂਰਬੀ ਕੈਰੀਬੀਆਈ ਡਾਲਰ	Østkaribisk dollar
+ਸਲਵੀਨ ਦਰਿਆ	Salween
+ਬੁੱਢਾ ਅਤੇ ਸਮੁੰਦਰ	Den gamle mannen og havet
+ਪੁਲਾੜ ਟਟੋਲ	Romsonde
+ਉਪਗ੍ਰਹਿ	Kunstig satellitt
+ਫ਼ਲਸਤੀਨ ਮੁਕਤੀ ਸੰਗਠਨ	Palestinas frigjøringsorganisasjon
+ਸੋਏ	Dill
+ਭੰਗ ਪੌਦਾ	Hamp
+ਹੀਰੋਡਾਟਸ	Herodot
+ਉਥੈਲੋ	Othello
+ਸਾਨ ਆਂਦਰੇਸ, ਪ੍ਰੋਵੀਦੈਂਸੀਆ ਅਤੇ ਸਾਂਤਾ ਕਾਤਾਲੀਨਾ ਟਾਪੂ-ਸਮੂਹ	San Andrés y Providencia
+ਟੇਲਰ ਸਵਿਫ਼ਟ	Taylor Swift
+ਲਕਸ਼ਦੀਪ	Lakkadivene
+ਕੁੱਕ ਟਾਪੂ	Cookøyene
+ਜਪਾਨ ਸਮੁੰਦਰ	Japanhavet
+ਨਾੜੀਦਾਰ ਬੂਟਾ	Karplanter
+ਪੂਰਬੀ ਏਸ਼ੀਆ	Øst-Asia
+ਉੱਤਰ-ਪੂਰਬੀ ਏਸ਼ੀਆ	Nordøst-Asia
+ਕੇਂਦਰੀ ਏਸ਼ੀਆ	Sentral-Asia
+ਪੱਛਮੀ ਏਸ਼ੀਆ	Vest-Asia
+ਇਵਾਨ ਦੇਨੀਸੋਵਿਚ ਦੇ ਜੀਵਨ ਵਿੱਚ ਇੱਕ ਦਿਨ	En dag i Ivan Denisovitsj' liv
+ਉੱਤਰੀ ਏਸ਼ੀਆ	Nord-Asia
+ਡੇਨਟਿਸਟ	Tannlege
+ਐਂਗਲੋ-ਅਮਰੀਕਾ	Anglo-Amerika
+ਉੱਤਰੀ ਅਫ਼ਰੀਕਾ	Nord-Afrika
+ਪੂਰਬੀ ਅਫ਼ਰੀਕਾ	Øst-Afrika
+ਕੇਂਦਰੀ ਅਫ਼ਰੀਕਾ	Sentral-Afrika
+ਦੱਖਣੀ ਯੂਰਪ	Syd-Europa
+ਪੂਰਬੀ ਯੂਰਪ	Øst-Europa
+ਉੱਤਰੀ ਯੂਰਪ	Nord-Europa
+ਪੱਛਮੀ ਯੂਰਪ	Vest-Europa
+ਕੇਂਦਰੀ ਯੂਰਪ	Sentral-Europa
+ਐਫ਼ਰੋ-ਯੂਰੇਸ਼ੀਆ	Afrika-Eurasia
+ਕੈਰੀਬੀਆਈ ਨੀਦਰਲੈਂਡ	Karibisk Nederland
+ਕੇਂਦਰੀ ਅਮਰੀਕਾ	Mellom-Amerika
+ਮਾਂਕਸ ਪਾਊਂਡ	Man-pund
+ਮਿਖਾਇਲ ਬਾਕੂਨਿਨ	Mikhail Bakunin
+ਸ਼ਾਕਾ ਜ਼ੁਲੂ	Shaka
+ਕ੍ਰਿਸਟਾਡੈਲਫੀਅਨ	Kristadelfianere
+ਗਾਇਕੀ	Vokalist
+ਦਾਲਚੀਨੀ	Kanel
+ਅਬਦੁਸ ਸਲਾਮ	Abdus Salam
+ਮਗ਼ਰਿਬ	Maghreb
+ਅਮਹਾਰੀ ਭਾਸ਼ਾ	Amharisk
+ਡਿਗਰੀ (ਕੋਣ)	Grad (vinkel)
+ਮਾਇਆ ਸੱਭਿਅਤਾ	Mayakulturen
+ਇੰਕਾ ਸਾਮਰਾਜ	Inkariket
+ਡਰੇਕੋ (ਵਿਧਾਇਕ)	Drakon
+ਧੰਦਾ	Profesjon
+ਕੱਪੜਾ	Tekstil
+ਫ਼ੀਲਡਜ਼ ਤਗਮਾ	Fieldsmedaljen
+ਇਸਲਾਮੀ ਕਲੰਡਰ	Islamsk kalender
+ਕ੍ਰਿਸਟੋਫਰ ਮਾਰਲੋਵ	Christopher Marlowe
+ਸਮੂਹਿਕ ਅਵਚੇਤਨ	Det kollektivt underbevisste
+ਮਾਰਟੀ ਆਹਤੀਸਾਰੀ	Martti Ahtisaari
+ਆਸਾਮੀ ਭਾਸ਼ਾ	Assamesisk
+ਨਰਗਸ (ਬੂਟਾ)	Narsiss
+ਕਾਅਬਾ	Kaba
+ਫਾਉਸਟ (ਗੇਟੇ)	Faust (Goethe)
+ਕੁਦਰਤੀ ਕਾਨੂੰਨ	Naturrett
+ਸੰਘਣਾਪਣ	Tetthet
+ਅਵਾਰ ਭਾਸ਼ਾ	Avarisk
+ਸ਼ੈਵਰੋਲੇ	Chevrolet
+ਅਵੇਸਤਨ ਭਾਸ਼ਾ	Avestisk
+ਵੈੱਬਕੈਮ	Nettkamera
+ਅਵਧੀ	Awadhi
+ਮਿਸਰੀ ਅਰਬੀ	Egyptisk arabisk
+੨੦੫	205
+੧੫੯	159
+੧੦੭	107
+੧੬੨	162
+੧੦੩	103
+੧੧੯	119
+ਚੇਂਗਦੂ	Chengdu
+੧੧੮	118
+ਏਬੀ ਭਾਸ਼ਾ	Ewe
+੧੫੨	152
+240	240
+੨੧੮	218
+496	496
+238	238
+੧੯੭	197
+੪੫੧	451
+489	489
+੪੦੮	408
+464	464
+੪੧੦	410
+ਸਧਾਰਨ ਕਾਨੂੰਨ	Common law
+੪੫੩	453
+੧੬੧	161
+169	169
+੪੮੧	481
+੧੫੧	151
+੧੫੫	155
+੧੨੮	128
+੧੨੯	129
+੪੬੩	463
+੧੯੩	193
+251	251
+੩੩੭	337
+260	260
+491	491
+੨੨੧	221
+230	230
+੪੮੦	480
+੨੦੯	209
+੨੦੨	202
+੧੯੨	192
+ਚੰਙਚੋ	Zhengzhou
+੧੭੩	173
+੧੬੩	163
+੧੫੪	154
+੨੦੧	201
+੪੫੬	456
+190	190
+੧੦੯	109
+270	270
+452	452
+465	465
+੪੦੪	404
+ਰਾਸ਼ਟਰਪਤੀ	President
+੪੦੧	401
+੨੬੪	264
+ਮਿਖਾਇਲ ਗੋਰਬਾਚੇਵ	Mikhail Gorbatsjov
+੪੧੫	415
+483	483
+469	469
+462	462
+੪੫੯	459
+੪੬੬	466
+੪੦੨	402
+੩੫੦	350
+ਮਦਰ ਟਰੇਸਾ	Moder Teresa
+੨੧੧	211
+232	232
+204	204
+੧੮੮	188
+੧੧੦	110
+111	111
+੧੩੭	137
+138	138
+੧੨੨	122
+140	140
+੧੬੭	167
+੪੩੨	432
+੨੩੧	231
+੨੩੭	237
+੨੩੯	239
+੧੩੦	130
+੨੨੬	226
+੨੦੭	207
+475	475
+੪੫੪	454
+੪੯੫	495
+206	206
+੪੬੮	468
+461	461
+੪੬੦	460
+194	194
+210	210
+225	225
+੩੧੧	311
+੨੨੦	220
+ਔਸਕਰ ਵਾਈਲਡ	Oscar Wilde
+੩੧੩	313
+੧੮੦	180
+੪੯੭	497
+੪੨੮	428
+੪੨੨	422
+457	457
+੪੭੮	478
+੨੫੩	253
+੪੬੭	467
+੪੫੮	458
+158	158
+੧੫੭	157
+੧੬੪	164
+124	124
+113	113
+121	121
+106	106
+੪੯੪	494
+320	320
+੨੪੨	242
+ਡੇਂਗੂ ਬੁਖਾਰ	Dengue
+ਯੋ (ਸਿਰਿਲਿਕ)	Ё
+੨੯੧	291
+ਫ਼ਰਾਂਸੀਸੀ ਪਾਲੀਨੇਸ਼ੀਆ	Fransk Polynesia
+੪੭੪	474
+ਫ਼ਲਾਇੰਗ ਫ਼ਿਸ਼ ਕੋਵ	Flying Fish Cove
+੪੮੪	484
+੪੯੩	493
+੪੭੯	479
+੨੮੭	287
+407	407
+੪੮੫	485
+ਹਾਂਗਕਾਂਗ ਡਾਲਰ	Hongkongdollar
+ਯਾਰਨ ਜ਼ਿਲ੍ਹਾ	Yaren
+ਨਾਰਫ਼ੋਕ ਟਾਪੂ	Norfolkøya
+ਕ੍ਰਿਸਮਸ ਟਾਪੂ	Christmasøya
+੪੪੬	446
+651	651
+652	652
+੪੩੫	435
+੪੩੭	437
+੪੩੩	433
+426	426
+425	425
+੪੨੯	429
+੪੨੩	423
+੨੩੫	235
+233	233
+੨੨੩	223
+224	224
+216	216
+੨੧੯	219
+254	254
+੨੭੨	272
+੨੦੮	208
+੧੭੫	175
+170	170
+171	171
+੧੭੨	172
+੧੩੯	139
+114	114
+੧੩੪	134
+੧੩੫	135
+179	179
+੧੪੨	142
+੧੮੧	181
+146	146
+੧੪੫	145
+੧੮੩	183
+੧੮੨	182
+੧੮੪	184
+੩੨੪	324
+ਤੋਤਾ	Papegøyefugler
+੩੨੯	329
+੧੩੩	133
+੪੧੩	413
+258	258
+259	259
+196	196
+੨੩੬	236
+੩੩੨	332
+੪੮੭	487
+473	473
+੧੭੬	176
+੧੪੩	143
+ਜਫ਼ਰ ਪਨਾਹੀ	Jafar Panahi
+215	215
+੧੪੮	148
+ਮਾਦੇਜਸਕਿ ਸਟੇਡੀਅਮ	Madejski Stadium
+247	247
+424	424
+ਲੌਫ਼ਟਸ ਰੋਡ ਸਟੇਡੀਅਮ	Loftus Road
+ਹਾਥੌਰਨਜ਼	The Hawthorns
+492	492
+੨੫੬	256
+ਲੋਕ ਪ੍ਰਬੰਧ	Offentlig administrasjon
+੪੪੧	441
+੧੩੧	131
+੧੯੧	191
+450	450
+੪੮੮	488
+282	282
+੪੭੨	472
+੪੭੧	471
+੪੯੦	490
+੩੧੬	316
+ਰਾਜਹੀਣਤਾ	Anarki
+295	295
+ਅਰਬੀ ਪਰਾਇਦੀਪ	Den arabiske halvøy
+303	303
+250	250
+ਸਟੇਡੀਅਮ ਆਫ਼ ਲਾਈਟ	Stadium of Light
+੪੧੮	418
+੩੩੩	333
+294	294
+ਦੋਸਤ ਮੁਹੰਮਦ ਖਾਨ	Dost Mohammed Khan
+217	217
+੨੭੭	277
+੩੧੨	312
+੨੮੪	284
+੨੮੩	283
+੨੪੧	241
+ਮੇਖ	Væren (stjernetegn)
+੨੪੩	243
+ਨਕਸ਼ਬੰਦੀ ਸਿਲਸਿਲਾ	Naqshbandi
+262	262
+੪੯੮	498
+336	336
+੩੩੪	334
+੨੬੬	266
+ਮੁੱਕੇਬਾਜ਼ੀ	Boksing
+੨੬੧	261
+470	470
+੩੪੯	349
+੨੭੧	271
+੨੭੫	275
+292	292
+੨੯੬	296
+੩੪੫	345
+431	431
+304	304
+229	229
+੨੬੫	265
+੨੬੩	263
+੪੨੦	420
+੨੮੦	280
+੩੦੨	302
+੩੦੯	309
+੩੫੩	353
+੩੩੫	335
+367	367
+344	344
+੨੪੫	245
+੨੯੦	290
+449	449
+੩੦੮	308
+255	255
+੪੩੯	439
+੩੧੯	319
+੩੧੮	318
+੨੯੯	299
+੪੧੯	419
+416	416
+੩੩੮	338
+੩੧੦	310
+315	315
+੩੫੯	359
+੩੬੦	360
+੨੭੩	273
+੨੮੬	286
+ਸ਼ਾਲਕਾ ੦੪ ਫੁੱਟਬਾਲ ਕਲੱਬ	FC Schalke 04
+੨੮੮	288
+278	278
+੪੫੫	455
+ਜੈਨੀਫ਼ਰ ਐਨਿਸਟਨ	Jennifer Aniston
+੪੮੨	482
+੪੮੬	486
+567	567
+੩੨੮	328
+੩੨੫	325
+317	317
+੨੪੯	249
+੩੪੮	348
+੪੪੨	442
+੪੪੩	443
+267	267
+੨੪੪	244
+੨੪੮	248
+343	343
+417)	417
+੨੬੮	268
+੨੬੯	269
+੪੯੯	499
+ਡੋਗਰੀ ਭਾਸ਼ਾ	Dogri
+ਮਲਾਲਾ ਯੂਸਫ਼ਜ਼ਈ	Malala Yousafzai
+੪੦੯	409
+405	405
+406	406
+੪੦੩	403
+੪੧੪	414
+411	411
+412	412
+ਜੈਬਰਾ	Sebra
+੨੭੬	276
+ਮਸਜਿਦ	Moské
+੩੧੪	314
+323	323
+੩੬੬	366
+੩੬੨	362
+214	214
+੨੧੩	213
+212	212
+ਮੁਹੰਮਦ ਬਿਨ ਕਾਸਿਮ	Muhammad bin Qasim
+੨੨੮	228
+227	227
+149	149
+174	174
+ਬਲੋਚੀ ਭਾਸ਼ਾ	Balutsji (språk)
+ਬੇਂਬਾ ਭਾਸ਼ਾ	Bemba
+੧੮੯	189
+੧੯੯	199
+੧੪੧	141
+੧੩੨	132
+125	125
+123	123
+੧੪੭	147
+144	144
+੧੯੮	198
+178	178
+੧੭੭	177
+ਭਰੂਣ	Embryo
+ਸਟਰਿੰਗ ਥਿਊਰੀ	Strengteori
+੧੮੭	187
+੧੯੫	195
+੧੮੬	186
+ਬੋਡੋ ਭਾਸ਼ਾ	Bodo
+ਨਾਦੀਆ ਕੋਮਾਨੇਚੀ	Nadia Comăneci
+੩੪੭	347
+ਤਸਮਾਨ ਸਮੁੰਦਰ	Tasmanhavet
+ਭੋਜਪੁਰੀ ਬੋਲੀ	Bhojpuri
+ਫੋਨ ਭਾਸ਼ਾ	Fon (språk)
+ਮੁਗਲ ਸਲਤਨਤ	Mogulriket
+੪੩੬	436
+੪੩੪	434
+੨੯੩	293
+੪੨੭	427
+185	185
+੩੨੧	321
+ਹੋੱਕਾ ਭਾਸ਼ਾ	Hakka (språk)
+ਜਲੰਧਰ	Jalandhar
+੩੨੭	327
+ਉਪਭਾਸ਼ਾ	Dialekt
+੪੩੦	430
+ਲਿਓਨ ਟਰਾਟਸਕੀ	Lev Trotskij
+447	447
+ਹਰਿਆਣਵੀ	Harianvi
+੪੪੪	444
+ਕੌਮਾਂਤਰੀ ਸ਼ੁੱਧ ਅਤੇ ਵਿਹਾਰਕ ਰਸਾਇਣ ਵਿਗਿਆਨ ਸੰਘ	IUPAC
+ਆਦਰਸ਼ਵਾਦ	Idealisme
+ਇਲਾਚੀ	Kardemomme
+ਅਜਾਇਬਘਰ	Museum
+੨੭੪	274
+ਹਿੰਦ-ਇਰਾਨੀ ਭਾਸ਼ਾ ਪਰਵਾਰ	Indoiranske språk
+ਈਰਾਨੀ ਭਾਸ਼ਾਵਾਂ	Iranske språk
+੨੮੧	281
+੩੦੬	306
+438	438
+ਜਾਵਾਨੀ ਬੋਲੀ	Javanesisk
+ਕਸ਼ਮੀਰੀ ਭਾਸ਼ਾ	Kasjmiri
+੨੯੭	297
+੪੨੧	421
+੨੯੮	298
+੩੫੧	351
+ਹਿੰਦ-ਆਰੀਆ ਭਾਸ਼ਾਵਾਂ	Indoariske språk
+ਇਗਬੋ ਭਾਸ਼ਾ	Igbo
+੩੫੨	352
+ਕਿਕਿਊ ਭਾਸ਼ਾ	Kikuyu (språk)
+੩੫੫	355
+ਕੇਸ਼ਾ	Kesha
+ਕਾਰਾ ਸਮੁੰਦਰ	Karahavet
+448	448
+੪੪੫	445
+੩੦੫	305
+੨੩੪	234
+ਕੰਨੜ ਭਾਸ਼ਾ	Kannada
+੩੮੧	381
+ਰੇਡੀਅਨ	Radian
+੩੮੫	385
+307	307
+346	346
+੨੫੭	257
+ਆਸਮਾਨੀ ਬਿਜਲੀ	Lyn
+੨੮੫	285
+ਹੈਨੋਫ਼ਾ ੯੬	Hannover 96
+੨੮੯	289
+ਬਰਟਰੈਂਡ ਰਸਲ	Bertrand Russell
+ਅਰਬ ਬਹਾਰ	Den arabiske våren
+ਤੂ ਫ਼ੂ	Du Fu
+ਨਿਊ ਕੈਲੇਡੋਨੀਆ	Ny-Caledonia
+੨੫੨	252
+ਉੜੀਆ ਭਾਸ਼ਾ	Oriya
+ਏਡਮੰਡ ਹਿਲਾਰੀ	Edmund Hillary
+ਨੇਪਾਲੀ ਭਾਸ਼ਾ	Nepali
+ਵੱਸੋਂ	Befolkning
+246	246
+ਓਰੋਮ ਭਾਸ਼ਾ	Oromo
+ਥਿਓਡੋਰ ਰੂਜ਼ਵੈਲਟ	Theodore Roosevelt
+ਟੂਰ ਡ ਫ਼ਰਾਂਸ	Tour de France
+ਮੁੰਡਾ ਭਾਸ਼ਾਵਾਂ	Munda-språk
+357	357
+ਸਰਾਇਕੀ	Saraiki
+ਉਲੁਰੂ	Uluru
+ਚੈਕੋਸਲਵਾਕੀਆ	Tsjekkoslovakia
+ਨੀਸ	Nice
+ਸੰਥਾਲੀ ਭਾਸ਼ਾ	Santali
+ਯੂਲ ਵਰਨ	Jules Verne
+ਨੇਪਾਲ ਭਾਸ਼ਾ	Nepal bhasa
+ਬਾਲਪਰਾਈਸੋ	Valparaíso
+ਸਿੰਧੀ ਭਾਸ਼ਾ	Sindhi (språk)
+ਅਦਾਕਾਰ	Skuespiller
+ਨਿਊਏ	Niue
+ਝਰਨਾ	Foss
+ਸਾਮੀ ਭਾਸ਼ਾਵਾਂ	Semittiske språk
+੩੨੬	326
+੩੪੧	341
+322	322
+ਜਸਟਿਨ ਬੀਬਰ	Justin Bieber
+ਹੋਸਨੀ ਮੁਬਾਰਕ	Hosni Mubarak
+ਯੂਰਾਲੀ ਭਾਸ਼ਾ-ਪਰਿਵਾਰ	Uralske språk
+੩੮੬	386
+ਟਿਗਰੀਨਿਆ ਬੋਲੀ	Tigrinja (språk)
+ਫ਼ੁਨਾਫ਼ੁਤੀ	Funafuti
+374	374
+੩੮੦	380
+ਮੱਖਣ	Smør
+ਪਾਬਲੋ ਨੇਰੂਦਾ	Pablo Neruda
+ਹੈਨਰੀ ਫ਼ੀਲਡਿੰਗ	Henry Fielding
+ਜ਼ਿਊਸ	Zevs
+ਯਾਸਿਰ ਅਰਾਫ਼ਾਤ	Yasir Arafat
+ਆਕਸਫ਼ੋਰਡ	Oxford
+ਨਿਆਗਰਾ ਝਰਨਾ	Niagarafallene
+ਸੈਨਤ ਭਾਸ਼ਾ	Tegnspråk
+136	136
+ਕੋਂਕਣੀ ਭਾਸ਼ਾ	Konkani
+ਤੁਲੂ ਭਾਸ਼ਾ	Tulu
+ਲੀਨਸ ਤੂਰਵਲਦਸ	Linus Torvalds
+ਅਕੇਵਾਂ	Kjedsomhet
+ਪੋਰਤ-ਓ-ਪ੍ਰੈਂਸ	Port-au-Prince
+ਰੂਸੀ ਸਲਤਨਤ	Det russiske keiserdømmet
+ਤਿੱਬਤੀ ਭਾਸ਼ਾ	Tibetansk
+ਵੁੱਡਰੋਅ ਵਿਲਸਨ	Woodrow Wilson
+ਡਾਕਟਰ ਹੂ	Doctor Who
+ਤਸਮਾਨੀਆ	Tasmania
+ਸਾਜ਼	Musikkinstrument
+ਸਾਬਣ	Såpe
+ਬੇਨਜ਼ੀਰ ਭੁੱਟੋ	Benazir Bhutto
+ਸ਼ਕੀਰਾ	Shakira
+ਆਕਸਫ਼ੋਰਡ ਯੂਨੀਵਰਸਿਟੀ	University of Oxford
+ਸੜਕ	Vei
+ਅਲੈਗਜ਼ੈਂਡਰ ਸੋਲਜ਼ੇਨਿਤਸਿਨ	Aleksandr Solzjenitsyn
+ਹੈਲੀਕਾਪਟਰ	Helikopter
+ਮੋਟਰਸਾਈਕਲ	Motorsykkel
+੩੮੨	382
+੩੪੨	342
+੩੭੩	373
+ਲਾ ਲਾਗੂਨਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Domkirken i San Cristóbal de La Laguna
+372	372
+ਈਜੀਅਨ ਸਮੁੰਦਰ	Egeerhavet
+ਫ਼ਰਾਤ	Eufrat
+ਕਿਓਤੋ	Kyoto
+ਸੇਂਟ ਪੀਏਰ ਅਤੇ ਮੀਕਲੋਂ	Saint-Pierre og Miquelon
+ਗੁਸਤਾਵ ਕੋਰਬੇ	Gustave Courbet
+ਸਿਨਾਗੌਗ	Synagoge
+ਜੋਹਾਨਿਸਬਰਗ	Johannesburg
+ਜੇ. ਕੇ. ਰਾਓਲਿੰਗ	J.K. Rowling
+ਹੀਰੋਸ਼ੀਮਾ	Hiroshima
+ਅਲਬੇਰ ਕਾਮੂ	Albert Camus
+ਫ਼ਾਰਸੀ ਖਾੜੀ	Persiabukten
+ਗੁਲਾਬ	Roseslekta
+ਕਿੰਗਸਟਨ, ਜਮੈਕਾ	Kingston (Jamaica)
+ਚਿੱਤਰਾ	Leopard
+ਗੈਂਡਾ	Neshorn
+ਜਿਨਸ (ਜੀਵ-ਵਿਗਿਆਨ)	Slekt (biologi)
+ਰੂਡਿਆਰਡ ਕਿਪਲਿੰਗ	Rudyard Kipling
+ਸੋਮਾਲੀਲੈਂਡ	Somaliland
+ਟਾਪੂਨੁਮਾ	Halvøy
+ਐਕਸ ਕਿਰਨ	Røntgenstråling
+ਫ਼ਰੀਡਰਿਸ਼ ਐਂਗਲਸ	Friedrich Engels
+ਸ਼ਿਨਚਿਆਂਙ	Xinjiang
+ਅਲਬੂਕਰਕੀ, ਨਿਊ ਮੈਕਸੀਕੋ	Albuquerque
+ਨਵਾਂ ਸਾਲ	Nyttår
+ਸਾਂਤੋ ਦੋਮਿੰਗੋ	Santo Domingo
+ਪਪੀਤਾ	Papaya
+੩੭੫	375
+ਤਿੰਨ-ਪਸਾਰੀ ਖ਼ਲਾਅ	Tredimensjonal
+ਬ੍ਰਿਜ਼ਬਨ	Brisbane
+ਏਰਿਕ ਹਾਬਸਬਾਮ	Eric Hobsbawm
+ਕਲੌਡੀਅਸ ਟੋਲੇਮੀ	Klaudios Ptolemaios
+ਵਿਟਾਮਿਨ	Vitamin
+ਬੈਂਜਾਮਿਨ ਫ਼ਰੈਂਕਲਿਨ	Benjamin Franklin
+ਡੀ.ਐਚ. ਲਾਰੰਸ	D.H. Lawrence
+ਆਈਜ਼ੈਕ ਐਸੀਮੋਵ	Isaac Asimov
+ਤੌਰਾ	Tora
+ਅਜ਼ੋਵ ਸਮੁੰਦਰ	Azovhavet
+ਏਗਥਾ ਕਰਿਸਟੀ	Agatha Christie
+ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂਡਵਿਚ ਟਾਪੂ	Sør-Georgia og Sør-Sandwichøyene
+ਕੌਮੀ ਰਾਜਧਾਨੀਆਂ ਦੀ ਸੂਚੀ	Liste over hovedsteder etter land
+ਕਹਾਵਤਾਂ	Ordspråk
+ਵਿਲਹੈਲਮ ਰੋਂਟਗਨ	Wilhelm Conrad Röntgen
+ਓਡੇਸੀ	Odysseen
+ਕੁਵੈਤ ਸ਼ਹਿਰ	Kuwait (by)
+ਸ਼ੈਤਾਨ	Satan
+ਕੂਗਰ	Puma
+ਤੱਤ-ਮੀਮਾਂਸਾ	Metafysikk
+੩੮੭	387
+ਨਿਕੀਤਾ ਖਰੁਸ਼ਚੇਵ	Nikita Khrusjtsjov
+ਅਰਬ ਲੋਕ	Arabere
+ਸੂਮਰ	Sumer
+ਕੋਲੰਬੋ	Colombo
+ਧੁਨੀ ਵਿਗਿਆਨ	Fonetikk
+ਮਦੀਨਾ	Medina
+ਪੁਰਾਤਨ ਯੂਨਾਨੀ	Gammelgresk
+ਐਫਰੋਡਾਇਟੀ	Afrodite
+ਵਾਈਟ ਹਾਊਸ	Det hvite hus
+ਵਾਲਿਸ ਅਤੇ ਫ਼ੁਤੂਨਾ	Wallis- og Futunaøyene
+ਤਾਤਾਰ	Tatarer
+ਦਜਲਾ ਦਰਿਆ	Tigris
+ਯੂਰਾਲ ਪਰਬਤ	Uralfjellene
+ਸਰ ਆਰਥਰ ਕਾਨਨ ਡੌਇਲ	Arthur Conan Doyle
+ਨੋਬਲ ਸ਼ਾਂਤੀ ਇਨਾਮ	Nobels fredspris
+ਗਲੇਸ਼ੀਅਰ	Isbre
+ਪਿਟਕੇਰਨ ਟਾਪੂ	Pitcairnøyene
+ਸਾਊਥ ਆਸਟਰੇਲੀਆ	Sør-Australia
+ਪਦਾਰਥ	Materie
+ਓਸਾਕਾ	Osaka
+ਕੈਂਬਰਿਜ ਯੂਨੀਵਰਸਿਟੀ	University of Cambridge
+ਸਪਿਨੋਜ਼ਾ	Baruch de Spinoza
+ਖੰਘ	Hoste
+ਰਾਇਟ ਭਰਾ	Brødrene Wright
+ਪਲਾਤਾ ਦਰਿਆ	Río de la Plata
+ਦਮਾ	Astma
+ਕਿਰਗਿਜ਼ਸਤਾਨੀ ਸੋਮ	Kirgisisk som
+ਅਰਾਲ ਸਮੁੰਦਰ	Aralsjøen
+ਲਾਂਬੋਰਗੀਨੀ	Lamborghini
+ਉਮਰ ਖ਼ਯਾਮ	Omar Khayyām
+ਬਾਂਸ	Bambus
+ਇੰਟਰ ਲਿੰਗੂਆ	Interlingua
+ਇਲੋਕਾਨੋ ਭਾਸ਼ਾ	Ilokano
+ਪਾਲੀਨੇਸ਼ੀਆ	Polynesia
+ਸੁਹਜ ਸ਼ਾਸਤਰ	Estetikk
+ਇਜ਼ਮਿਰ	Izmir
+ਕੋਕੋਸ (ਕੀਲਿੰਗ) ਟਾਪੂ	Kokosøyene
+ਹੋ ਚੀ ਮਿਨ੍ਹ	Hồ Chí Minh
+ਕਵੀਨਜ਼ਲੈਂਡ	Queensland
+ਦ ਟ੍ਰਾਇਲ	Prosessen
+ਮੈਥਿਲੀ ਭਾਸ਼ਾ	Maithili
+ਜਿਬਰਾਲਟਰ ਪਣਜੋੜ	Gibraltarstredet
+ਬ੍ਰਿੱਜਟਾਊਨ	Bridgetown
+ਲਿਖਾਰੀ	Skribent
+ਲੋਕਧਾਰਾ	Folkeminne
+ਮਾਰਕ ਜ਼ਕਰਬਰਗ	Mark Zuckerberg
+ਮਲਿਆਲਮ ਭਾਸ਼ਾ	Malayalam
+ਸਵਰ	Vokal
+ਲੰਬਾਈ	Lengde
+ਆਪੀਆ	Apia
+ਸੇਂਟ ਜਾਨ	Saint John's
+ਜੀਵਨੀ	Biografi
+ਰੋਜ਼ੋ	Roseau
+ਰੇਸ਼ਮ ਮਾਰਗ	Silkeveien
+ਥੇਲਜ਼	Thales
+ਕੈਲਗਰੀ	Calgary
+ਜੇਨ ਆਸਟਨ	Jane Austen
+ਜੋਰਦਾਨੋ ਬਰੂਨੋ	Giordano Bruno
+ਕੁਰਦੀ ਭਾਸ਼ਾਵਾਂ	Kurdisk
+ਪੋਰਤੋ	Porto
+ਇੱਕ-ਕੋਸ਼ੀ ਜੀਵ	Encellet organisme
+ਆਇਨ	Ion
+ਪੋਰਟ ਮੋਰੈਸਬੀ	Port Moresby
+ਰਸਾਇਣਕ ਕਿਰਿਆ	Kjemisk reaksjon
+ਵਲਾਦੀਮੀਰ ਨਾਬੋਕੋਵ	Vladimir Nabokov
+ਹੇਗ	Haag
+ਟੈਕੋ ਬਰਾਹੇ	Tycho Brahe
+ਵੇਸਵਾਗਮਨੀ	Prostitusjon
+ਹੈਨਰਿਕ ਇਬਸਨ	Henrik Ibsen
+ਪੱਛਮੀ ਕੰਢਾ	Vestbredden
+ਵਿਕਟੋਰੀਆ (ਆਸਟ੍ਰੇਲੀਆ)	Victoria (Australia)
+ਯੂਗੋਸਲਾਵੀਆ	Jugoslavia
+ਪਾਲੀ ਭਾਸ਼ਾ	Pali
+ਜਗਤ (ਜੀਵ-ਵਿਗਿਆਨ)	Rike (biologi)
+ਔਂਗ ਸੈਨ ਸੂ ਚੀ	Aung San Suu Kyi
+ਸੀਨਾਈ ਟਾਪੂਨੁਮਾ	Sinaihalvøya
+ਫ਼ਰਾਂਸ ਦੇ ਖੇਤਰ	Frankrikes regioner
+ਅਬਦ ਅਲ-ਮਾਲਿਕ ਬਿਨ ਮਰਬਾਨ	Abd al-Malik
+ਬੂਹਾ	Dør
+ਚੁਬਾਹੀਆ	Firkant
+ਤੋਕਲੌ	Tokelau
+ਸਵਾਈਨ ਇਨਫ਼ਲੂਐਨਜ਼ਾ	Svineinfluensa
+ਮਾਂ ਬੋਲੀ	Morsmål
+ਸ਼ਿਕਾਰ	Jakt
+ਜੈਕੀ ਚੈਨ	Jackie Chan
+ਸਰਬੀਆ ਅਤੇ ਮੋਂਟੇਨਏਗਰੋ	Serbia og Montenegro
+ਟਾਮਸ﻿ ਮਾਨ	Thomas Mann
+ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ	Reklame
+ਬੈਫ਼ਿਨ ਖਾੜੀ	Baffinbukta
+ਅਲੈਗਜ਼ੈਂਡਰ ਫ਼ਲੈਮਿੰਗ	Alexander Fleming
+ਰੋਮਾਂਸਵਾਦ	Romantikken
+ਪੌਪ ਸੰਗੀਤ	Popmusikk
+ਮੇਖ਼	Spiker
+ਜੈਤੂਨ	Oliven
+ਸੁਲੇਮਾਨ	Salomo
+ਯਾਹੂ!	Yahoo!
+ਆਕਲੈਂਡ	Auckland
+ਫ਼ਿਰਔਨ	Farao
+ਏ ਕੇ-47	AK-47
+੩੩੧	331
+ਅਥੀਨਾ	Athene
+ਮੀਥੇਨ	Metan
+੩੬੫	365
+ਪਰਮਾਣੂ ਨਾਭ	Atomkjerne
+379	379
+ਆਈ ਬੀ ਐਮ	International Business Machines
+ਛੱਲ	Bølge
+ਜੌਨੀ ਡੈੱਪ	Johnny Depp
+ਖ਼ੁਫ਼ੂ ਦਾ ਮਹਾਨ ਪਿਰਾਮਿਡ	Kheopspyramiden
+ਸਿੰਧ	Sind (Pakistan)
+ਫ਼ਿਓਦਰ ਤਿਊਤਚੇਵ	Fjodor Tjuttsjev
+ਲਿਖਾਈ	Skriving
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ 2006	VM i fotball 2006
+ਰਾਮਾਇਣ	Ramayana
+ਇੰਟਰਨੈੱਟ ਮੂਵੀ ਡੈਟਾਬੇਸ	Internet Movie Database
+ਸੈਮੂਅਲ ਬੈਕਟ	Samuel Beckett
+ਅਪੋਲੋ	Apollon
+ਅਕਰੋਤਿਰੀ ਅਤੇ ਧਕੇਲੀਆ	Akrotiri og Dekelia
+ਫ਼ਰਾਂਸਿਸ ਬੇਕਨ	Francis Bacon
+.af	.af
+ਆਈ ਐਸ ਓ 4217	ISO 4217
+ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਸੁਰੱਖਿਆ ਕੌਂਸਲ	FNs sikkerhetsråd
+ਕੋਹਰਾ	Tåke
+ਇਓਨੀਓ ਸਮੁੰਦਰ	Det joniske hav
+ਗੁਲੂਕੋਸ	Glukose
+.cz	.cz
+ਬਹੁਬਾਹੀਆ	Polygon
+ਦੋਨਾਤੇਲੋ	Donatello
+ਜਾਨ ਕੈਲਵਿਨ	Jean Calvin
+ਵੈਲਨਟਾਈਨ ਡੇ	Valentinsdagen
+ਮੰਡੀ (ਅਰਥਸ਼ਾਸਤਰ)	Marked
+ਦੱਖਣੀ ਚੀਨ ਸਮੁੰਦਰ	Sørkinahavet
+ਡੂਰੇਸ ਜ਼ਿਲਾ	Durrës (distrikt)
+ਰੇਸ਼ਮ	Silke
+ਗਿਰਗਿਟ	Kameleoner
+ਬਲੂਮਫੋਂਟੈਨ	Bloemfontein
+ਹਾਇਕੂ	Haiku
+ਜਗੀਰਦਾਰੀ	Føydalisme
+ਟੀ ਐਸ ਈਲੀਅਟ	T.S. Eliot
+ਪੋਰਟ ਵਿਲਾ	Port Vila
+ਅਲਤਾਈ ਭਾਸ਼ਾਵਾਂ	Altaiske språk
+ਬਾਰੋਕ	Barokken
+.us	.us
+ਸਾਹਿਤ ਲਈ ਨੋਬਲ ਇਨਾਮ	Nobelprisen i litteratur
+ਪੀਲ਼ਾ ਸਮੁੰਦਰ	Gulehavet
+ਰੰਗੂਨ	Yangôn
+ਹੇਅਰਾ	Hera
+ਹੇਰਤਾ ਮੁਲਰ	Herta Müller
+ਹੋਂਦਵਾਦ	Eksistensialisme
+ਲੂਈਸ ਕੈਰਲ	Lewis Carroll
+ਲਿਓਨਾਰਦੋ ਦੀਕੈਪਰੀਓ	Leonardo DiCaprio
+ਸੈਮੂਰਾਈ	Samurai
+ਹੈਲਨ ਕੈਲਰ	Helen Keller
+ਏਨਟ੍ਰਾਛਟ ਫ਼ਰਾਂਕਫ਼ੁਰਟ	Eintracht Frankfurt
+ਯੋਕੋਹਾਮਾ	Yokohama
+ਵਿਲੀਅਮ ਫਾਕਨਰ	William Faulkner
+ਡੀਜ਼ਲ	Diesel
+ਨਿਊਟਨ ਦੇ ਗਤੀ ਦੇ ਨਿਯਮ	Newtons bevegelseslover
+ਦੇਵਨਾਗਰੀ ਲਿੱਪੀ	Devanagari
+ਹਦਵਾਣਾ	Vannmelon
+ਬੰਗਾਲ ਦੀ ਖਾੜੀ	Bengalbukta
+ਬਰਤੋਲਤ ਬ੍ਰੈਖਤ	Bertolt Brecht
+ਸਤਾਲਿਨਗਰਾਦ ਦੀ ਲੜਾਈ	Slaget om Stalingrad
+ਤਿੱਬਤੀ ਟੈਰੀਅਰ	Tibetansk terrier
+ਹਮਾਸ	Hamas
+ਸੂਵਾ	Suva
+ਰੂਹੁੱਲਾ ਖ਼ੁਮੈਨੀ	Ruhollah Khomeini
+ਨੁਕੂ ਅਲੋਫ਼ਾ	Nuku'alofa
+﻿ਨਿਆਜ਼ਬੋ	Basilikum
+ਲੇਜ਼ਰ	Laser
+ਪ੍ਰੌਇਸਨ	Preussen
+ਓਲਿੰਪੀਆ	Olympia (Hellas)
+ਬੁਖ਼ਾਰ	Feber
+ਕੌਮਾਂਤਰੀ ਇਸਤਰੀ ਦਿਹਾੜਾ	Den internasjonale kvinnedagen
+ਮਨੁੱਖੀ ਵਿਕਾਸ ਸੂਚਕ	HDI
+ਪੀਸਾ ਦੀ ਮੀਨਾਰ	Det skjeve tårn i Pisa
+ਉੱਤਰੀ ਅਰਧਗੋਲ਼ਾ	Nordlige halvkule
+ਰਨਮਿਨਬੀ	Kinesisk renminbi
+ਪੋਰਟ ਆਫ਼ ਸਪੇਨ	Port of Spain
+ਜੌਨ ਸਟਾਈਨਬੈਕ	John Steinbeck
+.in	.in
+ਆਇਤਨ	Volum
+ਸੰਤਰੀ (ਰੰਗ)	Oransje
+ਸੋਚੀ	Sotsji
+ਪੜਯਥਾਰਥਵਾਦ	Surrealisme
+ਟਰੈਕਟਰ	Traktor
+ਆਰਟੇਮਿਸ	Artemis
+ਬਲੂਟੁੱਥ	Blåtann
+ਸੰਦ	Verktøy
+ਪਟਰੋਲ	Bensin
+ਮਾਈਟੋਕੌਂਡਰੀਆ	Mitokondrium
+ਖਾੜੀ	Bukt
+ਅਲੀ	Ali ibn Abi Talib
+ਡਾਕਟਰ	Lege
+ਅਰਥ-ਵਿਗਿਆਨ	Semantikk
+ਪੇਨੇਲੋਪੇ ਕਰੂਥ	Penélope Cruz
+ਸਟੋਨਹੈਂਜ	Stonehenge
+ਮੈਕਰੋ ਅਰਥਸ਼ਾਸਤਰ	Makroøkonomi
+ਚਾਨਣ ਮੁਨਾਰਾ	Fyr
+ਗਾਜ਼ਾ ਪੱਟੀ	Gazastripen
+ਇੰਸੂਲਿਨ	Insulin
+ਮਾਰੀਓ ਵਾਰਗਾਸ ਯੋਸਾ	Mario Vargas Llosa
+ਮਰਦਮਸ਼ੁਮਾਰੀ	Folketelling
+ਸਟੀਫ਼ਨ ਕਿੰਗ	Stephen King
+ਸੂਖ਼ਮ ਜੀਵ	Mikroorganisme
+ਰੇਡੀਓ ਸਟੂਡਿਓ 54 ਨੂੰ ਨੈੱਟਵਰਕ	Radio Studio 54 Network
+ਵੇਦ	Vedaene
+ਕੈਨ	Cannes
+ਸੂਰਜੀ ਊਰਜਾ	Solenergi
+ਜਾਰਡਨ ਦਰਿਆ	Jordan (elv)
+ਵਿਲ ਸਮਿਥ	Will Smith
+ਲਾਵਾ	Lava
+ਨਿਐਂਡਰਥਲ ਮਨੁੱਖ	Neandertalere
+ਦੀਵੀਨਾ ਕੋਮੇਦੀਆ	Den guddommelige komedie
+ਹੋਬਾਰਟ	Hobart
+ਵਿਲੀਅਮ ਬਟਲਰ ਯੇਟਸ	William Butler Yeats
+ਚੋਣ	Valg
+ਅੰਤਾਲਿਆ ਸੂਬਾ	Antalya (provins)
+ਗੁਡ ਫਰਾਈਡੇ	Langfredag
+ਸਹਿਰਾਵੀ ਅਰਬ ਲੋਕਤੰਤਰੀ ਗਣਰਾਜ	Den saharawiske arabiske demokratiske republikk
+ਪੁਲੰਦਾ (ਜੀਵ ਵਿਗਿਆਨ)	Vev (biologi)
+ਪ੍ਰਭਾਵਵਾਦ	Impresjonisme
+ਪਰਵੇਜ਼ ਮੁਸ਼ੱਰਫ਼	Pervez Musharraf
+ਅਦਾਨਾ ਸੂਬਾ	Adana (provins)
+ਅਫ਼ਰੀਕਾ ਦਾ ਸਿੰਗ	Afrikas horn
+ਕਮਿਊਨਿਸਟ ਮੈਨੀਫੈਸਟੋ	Det kommunistiske manifest
+ਲਾਰਜ ਹੈਡਰਾਨ ਕੋਲਾਈਡਰ	Large Hadron Collider
+ਪਥਰਾਟ	Fossil
+ਕਰਿਸਟੀਨਾ ਫਰਨਾਂਡੀਜ ਡੀ ਕਿਰਚਨੇਰ	Cristina Fernández de Kirchner
+ਜਿਉਮਾ ਹੂਸੈਫ਼	Dilma Rousseff
+ਡੇਮੀਟਰ	Demeter
+ਗਾਡ ਸੇਵ ਦ ਕਵੀਨ	God Save the King/Queen
+ਸੁਖ਼ੂਮੀ	Sukhumi
+ਬਨਗ਼ਾਜ਼ੀ	Benghazi
+ਕੁਦਰਤੀ ਗੈਸ	Naturgass
+ਮਾਰਬਲ	Marmor
+ਜ਼ਹਿਰ	Gift
+ਡੋਰਿਸ ਲੈਸਿੰਗ	Doris Lessing
+ਅੰਡੇਮਾਨ ਅਤੇ ਨਿਕੋਬਾਰ ਟਾਪੂ	Andamanene og Nikobarene
+ਨਾਨਸੀ	Nancy
+ਏਰੀਸ	Ares
+ਵਰਨਰ ਆਈਜਨਬਰਗ	Werner Heisenberg
+ਵਰਜੀਨੀਆ ਵੁਲਫ	Virginia Woolf
+ਹੋਨੀਆਰਾ	Honiara
+ਪਿਸ਼ਾਬ	Urin
+ਪੀ.ਐੱਚ. (ਹਾਈਡਰੋਜਨ ਸ਼ਕਤੀ)	PH
+ਐਸਕਲੀਅਸ	Aiskhylos
+ਡੈਨੀਅਲ ਡੈਫੋ	Daniel Defoe
+ਅਮਰੀਕੀ ਇਨਕਲਾਬੀ ਜੰਗ	Den amerikanske uavhengighetskrigen
+ਰੂਸੀ ਰੂਬਲ	Russisk rubel
+ਹਿਜ਼ਬੁੱਲਾ	Hizbollah
+ਆਤਸ਼ਕ	Syfilis
+ਤਰੇਲ	Dugg
+ਦੁਫਾੜ ਮਾਨਸਿਕਤਾ	Schizofreni
+ਲਾਲ ਚੌਕ	Den røde plass
+ਕਿਮ ਇਲ-ਸੁੰਙ	Kim Il-sung
+ਈਟਾਨਗਰ	Itanagar
+ਸੇਂਟ ਜੇਮਜ਼ ਦਾ ਰਾਹ	Pilegrimsveien til Santiago de Compostela
+ਸਮਚੁਬਾਹੀਆ	Rombe
+ਜੋਨਾਥਨ ਸਵਿਫ਼ਟ	Jonathan Swift
+ਬੇਰੁਜ਼ਗਾਰੀ	Arbeidsledighet
+ਇਮਾਰਤ	Bygning
+ਗਰੇਨਾਈਟ	Granitt
+ਮਿਕਾਂਗ ਦਰਿਆ	Mekong
+ਲਾ ਮਾਰਸੇਯੈਜ਼	Marseillaisen
+ਹਲਬ	Aleppo
+ਸਾਨ ਹੁਆਨ, ਪੁਏਰਤੋ ਰੀਕੋ	San Juan (Puerto Rico)
+ਮਕੈਨਕੀ	Mekanikk
+ਬੋਰਿਸ ਪਾਸਤਰਨਾਕ	Boris Pasternak
+ਦੱਖਣੀ ਅਰਧਗੋਲ਼ਾ	Sydlige halvkule
+ਆਪੇਰਾ ਵੇਬ ਬਰਾਉਜਰ	Opera (nettleser)
+ਗ੍ਰੈਮੀ ਪੁਰਸਕਾਰ	Grammy Award
+ਸੰਵੇਗ	Bevegelsesmengde
+ਰਾਕਟ	Rakett
+ਦੋ ਘਾਤੀ ਸਮੀਕਰਨ	Andregradsligning
+ਸਿਰਕਾ	Eddik
+ਛੱਲ-ਲੰਬਾਈ	Bølgelengde
+ਕੁਰਟ ਗੋਡਲ	Kurt Gödel
+ਨਸਲਕੁਸ਼ੀ	Folkemord
+ਫੇਦੇਰੀਕੋ ਗਾਰਸੀਆ ਲੋਰਕਾ	Federico García Lorca
+ਹੇਡੀਸ	Hades
+ਹੇਸਟੀਆ	Hestia
+ਬੌਖ਼ੂਸੀਆ ਡੌਰਟਮੁੰਟ	Borussia Dortmund
+ਬੈਲੇ	Ballett
+ਜਿਬਰਾਲਟਰ ਪਾਊਂਡ	Gibraltarsk pund
+ਗਿਨੀ ਦੀ ਖਾੜੀ	Guineabukta
+ਕੁਰਦਿਸਤਾਨ	Kurdistan
+ਕਿੰਗਸਟਾਊਨ	Kingstown
+ਬਵਾਸੀਰ	Hemoroide
+ਲੋਥ-ਪੜਤਾਲ	Obduksjon
+ਦ ਗੁੱਡ, ਦ ਬੈਡ ਐਂਡ ਦ ਅਗਲੀ (੧੯੬੬)	Den gode, den onde og den grusomme
+ਹਰਮੀ	Hermes
+ਬੋਲੇ ਸੋਇੰਕਾ	Wole Soyinka
+ਮੋਲ (ਇਕਾਈ)	Mol (enhet)
+ਵਿਲੀਅਮ ਬਲੇਕ	William Blake
+ਵਿੰਬਲਡਨ ਟੂਰਨਾਮੈਂਟ	Wimbledon (tennis)
+ਪਲੂਟਾਰਕ	Plutark
+ਕਾਰਲ ਜੁੰਗ	Carl Gustav Jung
+ਸੇਂਟ ਜਾਰਜ, ਗ੍ਰੇਨਾਡਾ	St. George's
+ਹੈਮਲਟ	Hamlet
+ਬਿਸਕੇ ਦੀ ਖਾੜੀ	Biscayabukten
+ਅਲਕੇਨ	Alkaner
+ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪੀਆ	Indonesisk rupiah
+ਅਖ਼ੋਤਸਕ ਸਮੁੰਦਰ	Okhotskhavet
+ਧਨੀਆ	Koriander
+ਸੰਵਿਧਾਨਕ ਬਾਦਸ਼ਾਹੀ	Konstitusjonelt monarki
+ਮਨੋਵਿਸ਼ਲੇਸ਼ਣ	Psykoanalyse
+ਫੋਨੀਸ਼ੀਆ	Fønikia
+ਰਮਜ਼ਾਨ	Ramadan
+ਭਾਰਤ ਦਾ ਝੰਡਾ	Indias flagg
+ਗਿਨੀਜ਼ ਵਰਲਡ ਰਿਕਾਰਡਜ਼	Guinness rekordbok
+ਡੀਓਨਾਇਸਸ	Dionysos
+ਸੁਨਹਿਰੀ ਅਨੁਪਾਤ	Det gylne snitt
+ਕੈਦੀ ਦੀ ਦੁਬਿਧਾ	Fangens dilemma
+ਕਾਸਤਰੀਸ	Castries
+ਕੌਮੀਅਤ	Etnisitet
+ਮਨੌਤ	Hypotese
+ਆਇਰਲੈਂਡੀ ਸਮੁੰਦਰ	Irskesjøen
+ਅਖ਼ੀਲੀਅਸ	Akilles
+ਜੋਜ਼ਫ਼ ਗੋਇਬਲਜ਼	Joseph Goebbels
+ਵਾਕ (ਭਾਸ਼ਾ-ਵਿਗਿਆਨ)	Setning (grammatikk)
+ਚਿਤੌੜਗੜ੍ਹ	Chittorgarh
+ਸ਼ਹਾਦਾ	Shahadah
+ਅਦਨ ਦੀ ਖਾੜੀ	Adenbukta
+ਮਨਮੋਹਨ ਸਿੰਘ	Manmohan Singh
+ਰੋਜ਼ਾ ਪਾਰਕਸ	Rosa Parks
+ਸ੍ਰੀ ਜੈਵਰਦਨਪੁਰਾ ਕੋਟੇ	Kotte
+ਮੈਟੋਨਮੀ	Metonymi
+ਮੰਗੋਲ	Mongolene
+ਡੈਮੋਕਰੀਤਸ	Demokrit
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਪਰਮਾਣੁ ਊਰਜਾ ਅਦਾਰਾ	Det internasjonale atomenergibyrået
+ਮਿਓਜ਼ ਦਰਿਆ	Maas
+ਖ਼ੁਦਮੁਖ਼ਤਿਆਰੀ	Suverenitet
+ਆਤਸ਼ੀ ਚਟਾਨ	Magmatisk bergart
+ਇਸਫ਼ਹਾਨ	Isfahan
+ਹਿਊਨ ਸਾਂਗ	Xuanzang
+ਗੋਬੀ ਮਾਰੂਥਲ	Gobiørkenen
+ਟੋਮਾਸ ਟ੍ਰਾਂਸਟ੍ਰਾਮਰ	Tomas Tranströmer
+ਆਨਰੀ ਬਰਗਸਾਂ	Henri Bergson
+ਕੰਮ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Arbeid (fysikk)
+ਪਿਨਯਿਨ	Pinyin
+ਦੁਰਾਡਾ ਪੂਰਬ	Det fjerne østen
+ਯੂਰਪੀ ਪੁਲਾੜ ਏਜੰਸੀ	Den europeiske romfartsorganisasjon
+ਮੈਗਮਾ	Magma
+ਫ਼ਾਰਨਹਾਈਟ	Grad Fahrenheit
+ਖਾਰਕੀਵ	Kharkiv
+ਉੱਨ	Ull (tekstil)
+ਕਾਨ ਫ਼ਿਲਮ ਫੈਸਟੀਵਲ	Cannes filmfestival
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਾਂ ਬੋਲੀ ਦਿਹਾੜਾ	Morsmålsdagen
+ਮਿਖਾਇਲ ਸ਼ੋਲੋਖੋਵ	Mikhail Sjolokhov
+ਅੰਗਰੇਜ਼	Engelskmenn
+ਏਬੋ ਮੋਰਾਲਿਸ	Evo Morales
+ਤਾਲੇਬਾਨ	Taliban
+﻿ਅਨਾਤੋਲੇ ਫ਼ਰਾਂਸ	Anatole France
+ਆਦਰਸ਼ ਵਾਕ	Motto
+ਕੁਸ਼ਤੀ	Bryting
+ਕੇਟੀ ਪੈਰੀ	Katy Perry
+ਐੱਚ ਜੀ ਵੈੱਲਜ਼	H.G. Wells
+ਗੋਲ ਮੂੰਗਾ	Atoll
+ਕੀਅਰਾ ਨਾਈਟਲੀ	Keira Knightley
+ਕੂਹਣੀ	Albue
+ਪਾਦਰੀ	Prest
+ਸੂਜ਼ੂ	Suzhou
+ਵੁਕਸੀ	Wuxi
+ਹਾਈਨਰਿਸ਼ ਬਲ	Heinrich Böll
+ਪਾਲੀਕਰ	Palikir
+ਬੈਲੋ ਓਰੀਜ਼ੋਂਚੇ	Belo Horizonte
+ਲਿਗੂਰੀ ਸਮੁੰਦਰ	Det liguriske hav
+ਇਵਾਨ ਤੁਰਗਨੇਵ	Ivan Turgenev
+ਕ੍ਰਿਸ਼ਨ	Krishna
+ਹਾਨਜ਼ਾ	Hansaforbundet
+ਮਿਊਟੇਸ਼ਨ	Mutasjon
+ਨਿਰਵਾਣ	Nirvana
+ਘਣਵਾਦ	Kubisme
+ਆਗਰਾ	Agra (by i India)
+ਹਾਰਬਿਨ	Harbin
+ਮਾਨਸੂਨ	Monsun
+ਐਮਨੈਸਟੀ ਇੰਟਰਨੈਸ਼ਨਲ	Amnesty International
+ਆਰਕੀਟੈਕਟ	Arkitekt
+ਅਲਰਜੀ	Allergi
+ਇਵਾਨ ਪਾਵਲੋਵ	Ivan Pavlov
+ਗੋਲਡਾ ਮਾਇਰ	Golda Meir
+ਬਿਜਲਈ ਇੰਜੀਨੀਅਰਿੰਗ	Elektroteknikk
+ਕਸ਼ਮੀਰ	Kashmir
+ਜ਼ੰਬੇਜ਼ੀ ਦਰਿਆ	Zambezi
+ਮੁੱਢਲਾ ਕਣ	Elementærpartikkel
+ਮਗਰਮੱਛ	Egentlige krokodiller
+ਦਰਿਆਈ ਡੈਲਟਾ	Elvedelta
+ਕਲਿੰਟ ਈਸਟਵੁੱਡ	Clint Eastwood
+ਐਪੀਕਿਊਰਸ	Epikur
+ਮਾਰਫੀਮ	Morfem
+ਸੋਫ਼ੀਆ ਲਾਰੇਨ	Sophia Loren
+ਦੁਮੇਲ	Horisont
+ਵਿਕਟੋਰੀਆ ਝਰਨਾ	Victoriafallene
+ਤਲਮੂਦ	Talmud
+ਵੇਕ ਟਾਪੂ	Wake Island
+ਟਾਈਮ	Time (magasin)
+ਪੌਣ ਊਰਜਾ	Vindkraft
+ਪੋਂਪੇਈ	Pompeii
+ਲੋਕ ਸੰਗੀਤ	Folkemusikk
+ਰੂਮੀ	Rumi
+ਅਰਿਸਤੋਫਾਨੇਸ	Aristofanes
+ਪਲੀਮਥ	Plymouth
+ਏਦਿਰਨੇ	Edirne
+ਬਾਰਾਂ ਰਸੂਲ	Jesu apostler
+ਫ਼ਿਨਾਈਲ ਸਮੂਹ	Fenylgruppen
+ਕੀਆਨੂ ਰੀਵਸ	Keanu Reeves
+ਈਸਪ	Æsop
+ਚੰਡੀਗੜ੍ਹ	Chandigarh
+ਮੋਤੀ	Perle
+ਜੋਸ਼ੂਏ ਕਾਰਦੂਚੀ	Giosuè Carducci
+ਗੁਸਤਾਵ ਫਲੌਬੈਰ	Gustave Flaubert
+ਬਰਤਾਨਵੀ ਹਿੰਦ ਮਹਾਂਸਾਗਰ ਰਾਜਖੇਤਰ	Det britiske territoriet i Indiahavet
+ਜਿਮਨਾਸਟਿਕ	Gymnastikk
+ਫ਼ਿਰਦੌਸੀ	Firdausi
+ਅੰਗਕੋਰਵਾਟ ਮੰਦਰ	Angkor Vat
+ਡਰਬੀ	Derby (Derbyshire)
+ਕੁਦਰਤੀ ਛਾਂਟ	Naturlig seleksjon
+ਬਾਜ਼	Falker
+ਗੁਆਇਆਕੀਲ	Guayaquil
+ਮੇਥੀ	Fennikel
+ਕੇ ਟੂ	K2
+ਸਾਪੇਖਤਾ ਸਿਧਾਂਤ	Relativitetsteorien
+ਬਲੌਰ	Krystall
+ਕੋਤੋਨੂ	Cotonou
+ਹਾਈਡਰੋਕਾਰਬਨ	Hydrokarbon
+ਥੋਮਸ ਮੂਲਰ	Thomas Müller (fotballspiller)
+ਸੰਘ	Føderasjon
+ਬਰਮੂਡਾ ਤਿਕੋਣ	Bermudatriangelet
+ਨਿਕੋਲਾਈ ਗੋਗੋਲ	Nikolaj Gogol
+ਨਖ਼ਲਿਸਤਾਨ	Oase
+ਆਰਤਵਿਨ ਸੂਬਾ	Artvin (provins)
+ਅਦਿਅਮਾਨ ਪ੍ਰਾਂਤ	Adıyaman (provins)
+ਵਿਲੀਅਮ ਔਕਮ	William av Ockham
+ਯੂਰੀ ਆਂਦਰੋਪੋਵ	Jurij Andropov
+ਚਿੱਟਾ ਸਮੁੰਦਰ	Kvitsjøen
+ਮਿਸ਼ੇਲ ਫੂਕੋ	Michel Foucault
+ਜਿਮ ਮੋਰੀਸਨ	Jim Morrison
+ਮਾਰਕ ਵਿਲੀਅਮ ਕਾਲਾਵੇਅ	Mark Calaway
+ਸਲਮਾਨ ਰਸ਼ਦੀ	Salman Rushdie
+ਮੈਟ੍ਰਿਕਸ	Matrise
+ਹੇਫ਼ੇਸਟਸ	Hefaistos
+ਕੈਯਨ	Cayenne
+ਹਾਈਨਰਿਸ਼ ਹਾਈਨੇ	Heinrich Heine
+ਧਰਮਰਾਜ	Teokrati
+ਰਸਾਇਣਕ ਜੋੜ	Kjemisk binding
+ਜਾਨ ਸੀਨਾ	John Cena
+ਰੈਂਡੀ ਓਰਟਨ	Randy Orton
+ਗੇਮ ਥਿਊਰੀ	Spillteori
+ਰਿਚਰਡ ਡੋਕਿਨਜ਼	Richard Dawkins
+ਦ ਗਰੇਟ ਖਲੀ	Dalip Singh
+ਐਨੀ ਬਰੌਂਟੀ	Anne Brontë
+ਟਵਾਈਲਾਈਟ (ਨਾਵਲ ਲੜੀ)	Twilight-serien
+ਮੰਦਰ	Tempel
+ਵੀ ਐਸ ਨੈਪਾਲ	V.S. Naipaul
+ਆਦਮਖੋਰੀ	Kannibalisme
+ਡਰ	Frykt
+ਬੈਰਿੰਗ ਸਮੁੰਦਰ	Beringhavet
+ਛੋਟੀ ਮਾਤਾ	Vannkopper
+ਅਨਿਸ਼ਚਿਤਤਾ ਸਿਧਾਂਤ	Heisenbergs uskarphetsrelasjon
+ਤੂਤ	Morbærslekten
+ਬਿੰਦੀ ( ਰੇਖਾਗਣਿਤ)	Punkt
+ਅਲਸੀ	Lin
+ਅਫ਼ਿਓਨਕਾਰਾਹਿਸਾਰ ਪ੍ਰਾਂਤ	Afyonkarahisar (provins)
+ਆਸਟਰੇਲੇਸ਼ੀਆ	Australasia
+ਤਰਾਬਜੋਨ	Trabzon
+ਹੇਰਾਤ	Herat
+ਪੂਰਬੀ ਚੀਨ ਸਮੁੰਦਰ	Østkinahavet
+ਬ੍ਰਹਮਪੁੱਤਰ ਦਰਿਆ	Brahmaputra
+ਭੂਤ	Spøkelse
+ਵਿਲੀਅਮ ਵਰਡਜ਼ਵਰਥ	William Wordsworth
+ਤਾਰਿਆਂ ਭਰੀ ਰਾਤ	«Stjernenatt»
+ਕੰਧਾਰ	Kandahar
+ਕੋਕੋ ਸ਼ਨੈੱਲ	Coco Chanel
+ਐਨਫ਼ੀਲਡ	Anfield
+ਵਿਸ਼ਵਨਾਥਨ ਅਨੰਦ	Viswanathan Anand
+ਕਟਹਲ	Jackfrukt
+ਜੈਕ ਲੰਡਨ	Jack London
+ਫ਼ਿਓਰਡ	Fjord
+ਸਤਿੰਦਰ ਨਾਥ ਬੋਸ	Satyendra Nath Bose
+ਦਾਜ	Medgift
+ਹੂਣ	Hunere
+ਬਰੰਟਸ ਸਮੁੰਦਰ	Barentshavet
+ਗੌਰੀ ਖ਼ਾਨ	Gauri Khan
+ਅੰਗਾਣੂ	Organelle
+ਲਾਲ ਕਿਲਾ	Det røde fortet
+ਰਹੱਸਵਾਦ	Mystikk
+ਦਾਦਰ ਅਤੇ ਨਗਰ ਹਵੇਲੀ	Dadra og Nagar Haveli
+ਕੌਮੀ ਪਾਰਕ	Nasjonalpark
+ਬੋਸ-ਆਈਨਸਟਾਈਨ ਸੰਘਣਨ	Bose-Einstein-kondensasjon
+ਬਿਜਲੀ ਖੇਤਰ	Elektrisk felt
+ਗਤਿਜ ਊਰਜਾ	Kinetisk energi
+ਰੋਜ਼ੇਸੀ	Rosefamilien
+ਚੋਣ ਮੈਨੀਫੈਸਟੋ	Manifest
+ਕੁਆਂਟਮ	Kvant
+ਇਬਨ ਅਲ-ਅਰਬੀ	Ibn Arabi
+ਸੋਨੋਰਾ	Sonora
+ਅਫੀਮ	Opium
+ਪੁਲਿਤਜ਼ਰ ਇਨਾਮ	Pulitzerprisen
+ਮਿਖਾਇਲ ਲਰਮਨਤੋਵ	Mikhail Lermontov
+ਇਵਾਨ ਬੂਨਿਨ	Ivan Bunin
+ਚਾਰਲਜ਼ ਬੈਬਿਜ	Charles Babbage
+ਓਜ਼ੈਨ ਇਓਨੈਸਕੋ	Eugène Ionesco
+ਅਮੀਬਾ	Amøbe
+ਦਾਰਫ਼ੂਰ	Darfur
+ਓਕਤਾਵੀਓ ਪਾਜ਼	Octavio Paz
+ਵੰਗਾਰੀ ਮਥਾਈ	Wangari Maathai
+ਅਹਿਮਦ ਸ਼ਾਹ ਅਬਦਾਲੀ	Ahmed Shah Durrani
+ਭਗਵਦ ਗੀਤਾ	Bhagavadgita
+ਦ ਟਾਈਮਜ਼ ਆਫ਼ ਇੰਡੀਆ	The Times of India
+ਲੇਨਾ ਦਰਿਆ	Lena (elv i Russland)
+ਵਿਗਿਆਨਕ ਤਰੀਕਾ	Vitenskapelig metode
+ਤਿੱਬਤੀ ਲਿਪੀ	Tibetansk skrift
+ਸ਼ਾਨਸ਼ੀ	Shanxi
+ਅਲਕਾਲਾ ਦੇ ਏਨਾਰਿਸ	Alcalá de Henares
+ਤੁਨੀਸੀਆ ਇਨਕਲਾਬ	Den tunisiske revolusjon
+ਗੱਲ੍ਹ	Kinn (anatomi)
+ਬੁਝਾਰਤ	Gåte
+ਐਸ਼ਵਰਿਆ ਰਾਏ ਬੱਚਨ	Aishwarya Rai
+ਓਹਮ	Ohm
+ਜਬਰ-ਜਨਾਹ	Voldtekt
+ਬਾਲਿਕੇਸਿਰ	Balıkesir (provins)
+ਐਨਰੀਕੇ ਇਗਲੇਸੀਆਸ	Enrique Iglesias
+ਆਤਾਕਾਮਾ ਮਾਰੂਥਲ	Atacamaørkenen
+ਯਜੁਰਵੇਦ	Yajurveda
+ਰੋਮਾਂ ਰੋਲਾਂ	Romain Rolland
+ਭਾਰਤੀ ਪੰਜਾਬ ਦੇ ਜਿਲ੍ਹੇ	Distrikter i Punjab (India)
+ਹੰਗਰੀਆਈ ਫ਼ੋਰਿੰਟ	Ungarsk forint
+ਕਾਮਸੂਤਰ	Kamasutra
+ਮਿਲਟਨ ਫ਼ਰੀਡਮੈਨ	Milton Friedman
+ਅਲਾਮਬਰਾ	Alhambra
+ਸਵਾਮੀ ਵਿਵੇਕਾਨੰਦ	Vivekananda
+ਪੌਲ ਡੀਰੈਕ	Paul Dirac
+ਗ਼ਜ਼ਾ ਸ਼ਹਿਰ	Gaza (by)
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਜ਼ਦੂਰ ਦਿਵਸ	Arbeidernes internasjonale kampdag
+ਮਾਂ ਦਿਵਸ	Morsdag
+ਨਾਰਵੇਈ ਸਮੁੰਦਰ	Norskehavet
+ਰਾਜਸੀ ਅਰਥ-ਪ੍ਰਬੰਧ	Politisk økonomi
+ਬਰਫ਼-ਤੋਦਾ	Isfjell
+ਫ਼ੀਬੋਨਾਚੀ ਤਰਤੀਬ	Fibonaccitall
+ਦ ਸ਼ਿਕਾਗੋ ਟ੍ਰਿਬਿਊਨ	Chicago Tribune
+ਨਦੀਨ ਗੋਰਡੀਮਰ	Nadine Gordimer
+ਅੰਡੇਮਾਨ ਸਮੁੰਦਰ	Andamanhavet
+ਵੀਨਸ	Venus (gudinne)
+ਕਾਲਾਹਾਰੀ ਮਾਰੂਥਲ	Kalahariørkenen
+ਦ ਗੌਡਫ਼ਾਦਰ	Gudfaren
+ਬਰੋਕਲੀ	Brokkoli
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ 2002	VM i fotball 2002
+ਖ਼ਲੀਲ ਜਿਬਰਾਨ	Khalil Gibran
+ਜੁਆਂਗਜ਼ੀ	Zhuangzi
+ਉੱਤਰਆਧੁਨਿਕਤਾਵਾਦ	Postmodernisme
+ਕਸਾਕ	Kosakker
+ਪ੍ਰਤਿਭਾ ਪਾਟਿਲ	Pratibha Patil
+ਪੁਦੀਨਾ	Mynteslekta
+339	339
+੩੪੦	340
+ਲਖਨਊ	Lucknow
+354	354
+੩੫੬	356
+੩੫੮	358
+੩੬੧	361
+363	363
+364	364
+368	368
+੩੬੯	369
+370	370
+੩੭੧	371
+ਫਰਮਾ:ਕਾਮਨਜ਼ ਸ਼੍ਰੇਣੀ	Mal:Commonscat
+੩੭੬	376
+੩੭੭	377
+੩੭੮	378
+383	383
+੩੮੪	384
+੩੮੮	388
+389	389
+੩੯੦	390
+੩੯੧	391
+392	392
+੩੯੩	393
+੩੯੪	394
+੩੯੫	395
+੩੯੬	396
+397	397
+੩੯੮	398
+399	399
+ਸਟੇਡੀਅਮ ਮਾਨਚੈਸਟਰ ਸ਼ਹਿਰ	Etihad Stadium (England)
+ਜਰਮਨ ਵਿਕੀਪੀਡੀਆ	Wikipedia på tysk
+ਬਸਰਾ	Basra
+ਰਾਲਫ ਵਾਲਡੋ ਐਮਰਸਨ	Ralph Waldo Emerson
+ਅਰਨਸਟ ਹੈੱਕਲ	Ernst Haeckel
+ਕੌਮਾਂਤਰੀ ਕੁਦਰਤ ਸੰਭਾਲ਼ ਸੰਘ	Verdens naturvernunion
+ਮੇਦੇਯੀਨ	Medellín
+ਮਾਰਟਿਨ ਹੈਡੇਗਰ	Martin Heidegger
+ਯੁਰੀਪਿਡੀਜ਼	Evripides
+ਯੂਰੀਆ	Urea
+ਮਾਰੀਆਹਾਮ	Mariehamn
+ਹੀਰਾਗਾਨਾ	Hiragana
+ਮੌਰਗਨ ਫ਼ਰੀਮੈਨ	Morgan Freeman
+ਸਲਤਨਤ	Imperium
+ਮਲੱਕਾ ਪਣਜੋੜ	Malakkastredet
+ਮਹਾਯਾਨ	Mahayana
+ਅੰਮ੍ਰਿਤਸਰ	Amritsar
+ਲੋਥ	Lik
+ਸਗਰਾਦਾ ਫ਼ਮੀਲੀਆ	Sagrada Família
+ਸੌਰ ਵਿਆਸ	Solradius
+ਕੁਕਨੂਸ (ਮਿਥਹਾਸ)	Fugl Føniks
+ਕਿਊਰੀਆਸਿਟੀ ਬੱਘੀ	Curiosity
+ਅਫ਼ਰੀਕੀ-ਅਮਰੀਕੀ ਨਾਗਰਿਕ ਅਧਿਕਾਰ ਅੰਦੋਲਨ (1954–68)	Borgerrettsbevegelsen i USA (1955-1968)
+ਰੋਜ਼ੈਟਾ ਪੱਥਰ	Rosettastenen
+ਪੱਛਮੀ ਟਾਪੂ, ਕੋਕੋਸ (ਕੀਲਿੰਗ) ਟਾਪੂ	West Island
+ਰੌਦਰਹੈਮ ਯੁਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Rotherham United FC
+ਚੰਦਰਯਾਨ-੧	Chandrayaan-1
+ਛੇ-ਦਿਨਾ ਜੰਗ	Seksdagerskrigen
+ਕਰਿਸਟੋਫਰ ਹਿਚਨਜ਼	Christopher Hitchens
+ਨਿੱਕੀ ਕਹਾਣੀ	Novelle
+ਕੋਲੰਬੀਆ ਯੂਨੀਵਰਸਿਟੀ	Columbia University
+੧੯੪੮ ਦੀ ਅਰਬ-ਇਜ਼ਰਾਇਲੀ ਜੰਗ	Den arabisk-israelske krig 1948
+ਭੋਜਪੁਰ ਜ਼ਿਲ੍ਹਾ, ਭਾਰਤ	Bhojpur (distrikt)
+279	279
+੪੪੦	440
+ਔਸਕਾਰ ਆਰੀਆਸ	Óscar Arias Sánchez
+ਜਾਵਾ ਸਾਗਰ	Javasjøen
+ਹਿਮ ਯੁੱਗ	Istid
+ਸੈਰ-ਸਪਾਟਾ	Turisme
+ਕੋਂਸਸਤਾਂਤਿਨ ਸਤਾਨਿਸਲਾਵਸਕੀ	Konstantin Stanislavskij
+ਯਾਂ ਦ ਲਾ ਫੋਂਤੈਨ	Jean de La Fontaine
+ਰੂਸੀ ਲੋਕ	Russere
+ਇੰਤਰਨਾਸਿਓਨਾਲ	Internasjonalen
+ਕਵੀ	Poet
+ਪੀਟਰ ਬਰੁਕ	Peter Brook
+ਦ ਟਾਈਮਜ਼	The Times
+ਜਾਨ ਸਟੁਅਰਟ ਮਿੱਲ	John Stuart Mill
+ਦੋਹਰਾ ਤਾਰਾ	Dobbeltstjerne
+ਲਾਲ ਦਾਨਵ ਤਾਰਾ	Rød kjempe
+ਮੈਨਚੈਸਟਰ ਸਿਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Manchester City FC
+ਇਤਿਹਾਸਕਾਰੀ	Historiografi
+ਆਕਸਾਈਡ	Oksid
+ਡਾਕਟਰ ਫਾਸਟਸ (ਨਾਟਕ)	Doktor Faustus
+ਯੇਵਗੇਨੀ ਓਨੇਗਿਨ	Eugen Onegin
+ਯੇਵਗੇਨੀ ਓਨੇਗਿਨ (ਓਪੇਰਾ)	Eugen Onegin (opera)
+ਲੈਨਿਨ ਇਨਾਮ	Leninprisen
+ਐਨਟੋਨੀਓ ਸਲੇਰੀ	Antonio Salieri
+ਸਾਂਤਿਆਗੋ ਦੇ ਕਾਲੀ	Cali
+ਚੰਦਰਸ਼ੇਖਰ ਸੀਮਾ	Chandrasekhars grense
+ਰਿਚਰਡ ਐਟਨਬਰੋ	Richard Attenborough
+ਅਨਾਤੋਲੀਆ	Anatolia
+ਪਰਬਤ-ਪ੍ਰਵਚਨ	Bergprekenen
+ਹਾਮਬੁਰਗਾ ਐੱਸ.ਫ਼ਾਓ.	Hamburger SV
+ਐੱਸ.ਫ਼ਾਓ. ਵੈਰਦਾ ਬਰੇਮਨ	Werder Bremen
+ਗਲੇਸ਼ੀਅਰ ਵਿਗਿਆਨ	Glasiologi
+ਸ਼ੇਖ ਹਸੀਨਾ	Sheikh Hasina
+ਸ਼੍ਰੇਣੀ:ਹਾਈਡਰੋਕਾਰਬਨ	Kategori:Hydrokarboner
+ਸ਼੍ਰੇਣੀ:ਅਲਕੀਨਾਂ	Kategori:Alkener
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਖਣਿਜ	Mal:Infoboks mineral
+ਫਰਮਾ:Taxobox	Mal:Taksoboks
+ਏਮਿਲ ਜਤੋਪੇਕ	Emil Zátopek
+ਅਬੇਬੇ ਬਿਕਿਲਾ	Abebe Bikila
+ਇਬੀਸਾ	Ibiza
+ਅਲ ਓਰਟਰ	Al Oerter
+ਜੈਸੀ ਓਵਨਜ਼	Jesse Owens
+ਈਥੇਨ	Etan
+ਜਾਂ ਲੁਕ ਗੋਦਾਰ	Jean-Luc Godard
+ਵਿਤੋਰੀਓ ਦੇ ਸੀਕਾ	Vittorio De Sica
+ਟੋਇਓਟਾ	Toyota
+ਖ਼ੂਨ ਦਾਨ	Blodgivning
+ਡੱਡੂ	Springpadder
+ਇਲੈਕਟ੍ਰਾਨ ਤਰਤੀਬ	Elektronkonfigurasjon
+ਸ਼੍ਰੇਣੀ:ਸਰਕਾਰ ਦੇ ਰੂਪ	Kategori:Styreformer
+ਕੌਮਾਂਤਰੀ ਮਜ਼ਦੂਰ ਜੱਥੇਬੰਦੀ	Den internasjonale arbeidsorganisasjonen
+ਜਨਰਲ ਇਲੈੱਕਟਰਿਕ	General Electric
+ਕੁਆਂਟਮ ਫੀਲਡ ਥਿਊਰੀ	Kvantefeltteori
+ਬਾਲੈਂਸੀਆ	Valencia (Venezuela)
+ਸਾਨ ਕ੍ਰਿਸਤੋਬਾਲ ਦੇ ਲਾ ਲਾਗੁਨਾ	San Cristóbal de La Laguna
+ਅੱਬਾਸ ਕਿਆਰੋਸਤਾਮੀ	Abbas Kiarostami
+ਜ਼੍ਹੇ (ਸਿਰਿਲਿਕ)	Ж
+ਓਪਰਾ ਵਿਨਫਰੇ	Oprah Winfrey
+ਬੁੰਦੇਲੀ ਭਾਸ਼ਾ	Bundeli
+ਹੌਸਾ ਭਾਸ਼ਾ	Hausa
+ਜੈਕਬ ਜੂਮਾ	Jacob Zuma
+ਅਬਦੁੱਲਾ, ਸਾਊਦੀ ਅਰਬ	Abdullah av Saudi-Arabia
+ਪ੍ਰਣਬ ਮੁਖਰਜੀ	Pranab Mukherjee
+ਮੁਹੰਮਦ ਰਸ਼ੀਦ ਅਲ ਮਕਤੂਮ	Mohammed bin Rashid Al Maktoum
+ਨੂਰੀ ਅਲ-ਮਲੀਕੀ	Nouri al-Maliki
+ਮਾਰਕ ਰੁੱਟ	Mark Rutte
+ਸ਼ੀਜ਼ੀਆਜ਼ੂਆਂਗ	Shijiazhuang
+ਤਾਂਗਸ਼ਾਨ	Tangshan
+ਲਿਆਮ ਨੀਸਨ	Liam Neeson
+ਐਡਮੰਡ ਹਸਰਲ	Edmund Husserl
+ਯਹੂਦਾ ਅਮੀਖ਼ਾਈ	Yehuda Amichai
+ਪੰਜਾਬੀ ਭਾਸ਼ਾ	Panjabi
+ਪਸ਼ਤੋ ਭਾਸ਼ਾ	Pashto
+ਅਰਬ ਸਮੁੰਦਰ	Arabiahavet
+ਬਾਖ਼ਾ ਕਾਲੀਫ਼ੋਰਨੀਆ	Baja California
+ਸਰਮਾਇਆ (ਕਿਤਾਬ)	Das Kapital
+ਸਰਸਵਤੀ ਦੇਵੀ	Sarasvati
+ਸਾਹਿਤ ਆਲੋਚਨਾ	Litteraturkritikk
+ਕੋਰਟਨੀ ਕੌਕਸ	Courteney Cox
+ਖੱਸੀਕਰਨ	Kastrasjon
+ਪੈਰਾਗੁਏਵੀ ਜੰਗ	Trippelalliansekrigen
+ਚਰਖਾ	Spinnerokk
+ਚਿੰਤਕ	Intellektuell
+ਮੈਕਸ ਬੌਰਨ	Max Born
+ਕਾਕੀਨਾਡਾ	Kakinada
+ਵਿਗਿਆਨ ਦਾ ਦਰਸ਼ਨ	Vitenskapsteori
+ਖੀਰ	Kheer
+ਸ਼ਿਵ ਸੈਨਾ	Shiv Sena
+ਗੁਲਦਾਊਦੀਆਂ ਦਾ ਮੰਡੀਕਰਨ	Krysantemumslekta
+ਹਰਬਰਟ ਮਾਰਕਿਊਜ਼	Herbert Marcuse
+ਵੈਂਕਟਰਮਨ ਰਾਮਕ੍ਰਿਸ਼ਣਨ	Venkatraman Ramakrishnan
+ਰਜਨੀਕਾਂਤ	Rajinikanth
+ਫਰੈਡਰਿਕ ਮੈਕਸ ਮੂਲਰ	Max Müller
+ਬੇਰਾਕਰੂਸ	Veracruz
+ਭਾਰਤੀ ਉਪਮਹਾਂਦੀਪ	Det indiske subkontinent
+ਹੈਰੋਇਨ	Heroin
+ਯੁਕਾਤਾਨ	Yucatán (delstat)
+ਉਲਕਾ ਪਿੰਡ	Meteoritt
+ਚਿਹਨ-ਵਿਗਿਆਨ	Semiotikk
+ਚੰਦਰਸ਼ੇਖਰ ਵੈਂਕਟ ਰਾਮਨ	Venkata Raman
+ਦਾ ਟਵਾਈਲਾਈਟ ਸਾਗਾ: ਬ੍ਰੇਕਿੰਗ ਡੌਨ 2 (ਫ਼ਿਲਮ)	The Twilight Saga: Breaking Dawn - Part 2
+ਦਾ ਟਵਾਈਲਾਈਟ ਸਾਗਾ: ਬ੍ਰੇਕਿੰਗ ਡੌਨ 1 (ਫ਼ਿਲਮ)	The Twilight Saga: Breaking Dawn - Part 1
+ਨਮਸਤੇ	Namaste
+ਜੈਰਮੀ ਬੈਂਥਮ	Jeremy Bentham
+ਜੋਸਿਫ ਡੇਟਜ਼ਨ	Joseph Dietzgen
+ਵਾਲਟਰ ਬੈਂਜਾਮਿਨ	Walter Benjamin
+ਬਾਲ ਠਾਕਰੇ	Bal Thackeray
+ਸੋਫੀ ਦੀ ਦੁਨੀਆਂ	Sofies verden
+ਏਲੀਨੋਰ ਮਾਰਕਸ	Eleanor Marx
+ਚਰਬੀਲਾ ਤਿਜ਼ਾਬ	Fettsyre
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਮਰਦਾਂ ਦੀ ਫਰੀਸਟਾਈਲ ੬੦ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 60 kg
+ਜੁਵੇਂਟਸ ਸਟੇਡੀਅਮ	Juventus Stadium
+ਪੈਲੇਸ ਆਫ਼ ਵੈਸਟਮਿੰਸਟਰ	Palace of Westminster
+ਯਿਨ ਅਤੇ ਯਾਂਗ	Yin og yang
+ਬਾਰਾਂਕੀਆ	Barranquilla
+ਏ ਕ੍ਰਿਸਮਸ ਕੈਰੋਲ	En julefortelling
+ਕਾਰਟੇਜ਼ੀ ਗੁਣਕ ਪ੍ਰਬੰਧ	Kartesisk koordinatsystem
+ਲਚਕ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Elastisitet
+ਮੌਰੀਆ ਰਾਜਪਾਟ	Mauryariket
+ਆਬਾਦਾਨ	Abadan
+੨੦,੦੦੦ ਲੀਗਜ਼ ਅੰਡਰ ਦ ਸੀਅ	En verdensomseiling under havet (film)
+ਬਿਜਲੀ-ਨਿਖੇੜ	Elektrolyse
+ਥਿਓਰਮ	Teorem
+ਖ਼ਲੀਫ਼ਾ	Kalif
+ਡੌਇੱਚ ਬੈਂਕ	Deutsche Bank
+ਮੋਰੇਲੋਸ	Morelos
+ਮੈਕਸ ਗੇਰਸਨ	Gerson-metoden
+ਜੈਪੁਰ	Jaipur
+ਕਾਨਪੁਰ	Kanpur
+ਇੰਦੌਰ	Indore
+ਦਮਨ ਅਤੇ ਦਿਉ	Daman og Diu
+ਪਾਂਡੀਚਰੀ	Puducherry
+ਫ਼ੂਚੋ	Fuzhou
+ਟੀਹਰੀ ਡੈਮ	Tehri-demningen
+ਸਾਇਬੇਰੀਆਈ ਟਾਈਗਰ	Sibirtiger
+ਏਅਰ ਇੰਡੀਆ	Air India
+ਐਮੰਡਸਨ ਸਮੁੰਦਰ	Amundsenhavet
+ਅਪਵਰਤਨ (ਪ੍ਰਕਾਸ਼)	Lysbrytning
+ਟੋਨੀ ਮੋਰੀਸਨ	Toni Morrison
+ਇਲੀਆ ਕਜ਼ਾਨ	Elia Kazan
+ਤਾਈਯੂਆਨ	Taiyuan
+ਸਾਊਦੀ ਅਰਬ ਦੇ ਸੂਬੇ	Saudi-Arabias provinser
+ਡਾਲੀਆਨ	Dalian
+ਅਨਸ਼ਾਨ	Anshan
+ਫ਼ੁਸ਼ੁਨ	Fushun (Liaoning)
+ਪੱਬੀ	Høydedrag
+ਪੀਐਰ ਦ ਫ਼ੈਰਮਾ	Pierre de Fermat
+ਐੱਸ. ਸੀ. ਬ੍ਰਾਗਾ	SC Braga
+ਸਪੋਰਤਿੰਗ ਕਲੂਬੇ ਡੀ ਪੁਰਤਗਾਲ	Sporting Clube de Portugal
+ਕਲਾਰਾ ਜ਼ੈਟਕਿਨ	Clara Zetkin
+ਤੇ ਡਾਨ ਵਹਿੰਦਾ ਰਿਹਾ	Stille flyter Don
+ਪ੍ਰਤੱਖ ਪ੍ਰਕਾਸ਼	Visuelt spektrum
+ਚਾਰਲਸ ਬੂਕੋਵਸਕੀ	Charles Bukowski
+ਲੁਡਵਿਗ ਫ਼ਿਊਰਬਾਖ	Ludwig Andreas Feuerbach
+ਡਾਪਲਰ ਪ੍ਰਭਾਵ	Dopplereffekt
+ਕਾਰਲ ਯਾਸਪਸ	Karl Jaspers
+ਈ ਐਫ ਸ਼ੂਮੈਕਰ	E. F. Schumacher
+ਅਹਿੰਸਾ	Ikkevold
+ਫਰਾਂਜ਼ ਬੋਸ	Franz Boas
+ਫ੍ਰੇਡਰਿਕ ਕਾਰਲ ਵੋਨ ਸਵੀਗਨੇ	Carl von Savigny
+ਆਰਨਲਡ ਸੌਮਰਫ਼ੈਲਡ	Arnold Sommerfeld
+ਕਟਿਹਾਰ ਜ਼ਿਲਾ	Katihar (distrikt)
+ਆਲਫ਼ਰਡ ਹਰਮਾਨ ਫ਼੍ਰੀਡ	Alfred Hermann Fried
+ਸ਼ਟੇਫ਼ਾਨ ਸਵਾਈਕ	Stefan Zweig
+ਹਾਂਸ ਆਈਸਲਰ	Hanns Eisler
+ਸਪਾਈਡਰ-ਮੈਨ	Spider-Man
+ਐਂਟੀਬਾਡੀ	Antistoff
+ਰਸਾਇਣਕ ਪਦਾਰਥ	Kjemisk substans
+ਸਮੁੰਦਰੀ ਵਾਵਰੋਲ਼ਾ	Syklon
+ਮੋਮਬੱਤੀ	Levende lys
+ਜੁੰਡੀਰਾਜ	Oligarki
+ਜਾਹਨ ਮਿਲਟਨ	John Milton
+ਗਤੀ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Bevegelse (fysikk)
+ਫਰੈਂਡਜ਼	Venner for livet
+ਖਸਰਾ	Meslinger
+ਅਰਦਹਾਨ ਸੂਬਾ	Ardahan (provins)
+ਸਾਊਥਹੈਂਪਟਨ	Southampton
+ਸੂਰਜੀ ਪੰਧ	Ekliptikken
+ਸੋਵੀਅਤ ਯੂਨੀਅਨ ਦੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Sovjetunionens kommunistiske parti
+ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ 2014	VM i fotball 2014
+ਸਖ਼ਿਨਵਾਲੀ	Tskhinvali
+ਗ਼ੁੱਸਾ	Sinne
+ਈਸਿਸ	Isis
+ਬਰੇਲ	Punktskrift
+ਸਾਇਟੋਪਲਾਜ਼ਮ	Cytoplasma
+ਜੇ ਡੀ ਸੇਲਿੰਗਰ	J.D. Salinger
+ਗ਼ੈਰ-ਸਰਕਾਰੀ ਜੱਥੇਬੰਦੀ	Ikke-statlig organisasjon
+ਨਾਈਆਰੀਤ	Nayarit
+ਪੁਐਬਲਾ	Puebla
+ਗੂੜ੍ਹ ਪਦਾਰਥ	Mørk materie
+ਓਮਾਨ ਦੀ ਖਾੜੀ	Omanbukta
+ਆਗਵਾਸਕਾਲੀਐਂਤੇਸ	Aguascalientes
+ਮੁਕਤੀਦਾਤਾ ਈਸਾ (ਬੁੱਤ)	Kristusstatuen (Rio de Janeiro)
+ਐਮਾ ਗੋਲਡਮਨ	Emma Goldman
+ਵਾਰਾਣਸੀ	Varanasi
+ਈਥਰਨੈੱਟ	Ethernet
+ਅਮਾਸਿਆ ਸੂਬਾ	Amasya (provins)
+ਪ੍ਰਿਜ਼ਨ ਬਰੇਕ	Prison Break
+ਆਗਰੀ ਸੂਬਾ	Ağrı (provins)
+ਤਬਰੀਜ਼	Tabriz
+ਡਰੈਗਨਫਲਾਈ	Øyenstikkere og libeller
+ਪ੍ਰਤੀਕ	Symbol
+ਕੁਆਰ ਗੰਦਲ	Aloe vera
+ਅਭਿਵਿਅੰਜਨਾਵਾਦ	Ekspresjonisme
+ਐਮਿਲੀ ਬਰੌਂਟੀ	Emily Brontë
+ਚਿੰਪੈਂਜ਼ੀ	Sjimpanser
+ਉਰਾਲ ਦਰਿਆ	Ural (elv)
+ਸਾਕਾਤੇਕਾਸ	Zacatecas
+ਸੈਲੂਲੋਜ਼	Cellulose
+ਏਂਜਲ ਝਰਨਾ	Angelfossen
+ਲਿਬਰੇਸ਼ਨ ਟਾਈਗਰਜ਼ ਆਫ਼ ਤਾਮਿਲ ਈਲਮ	Tamiltigrene
+ਬੰਗਾਲ	Bengal
+ਬਾਤਮਾਨ ਸੂਬਾ	Batman (provins)
+ਨੈਲੀ ਫਰਟਾਡੋ	Nelly Furtado
+ਅੱਨਾ ਅਖਮਾਤੋਵਾ	Anna Akhmatova
+ਮੀਰੋਸਲਾਵ ਕਲੋਜ਼	Miroslav Klose
+ਨਿਓਲਾ	Mungofamilien
+ਪਟਨਾ	Patna
+ਭਾਰਤੀ ਰੁਪਈਆ	Indisk rupi
+ਵਾਨ	Van (provins)
+ਆਰਥਰ ਮਿਲਰ	Arthur Miller
+ਸਪੇਨੀ ਸਾਮਰਾਜ	Det spanske imperiet
+ਸਪੂਤਨਿਕ-1	Sputnik 1
+ਏਕੀਕ੍ਰਿਤ ਸਰਕਟ	Integrert krets
+ਨਿਊਕਲੀ ਭੱਠੀ	Atomreaktor
+ਪਰਲ ਐੱਸ. ਬੱਕ	Pearl Buck
+ਤਰਾਸਦੀ	Tragedie
+ਐਪਰਲ ਫੂਲ ਡੇ	Aprilsnarr
+ਬੰਗਾਲ ਟਾਈਗਰ	Bengaltiger
+ਨਹਿਲਵਾਦ	Nihilisme
+ਫ਼ਾਸ	Fès
+ਭੋਪਾਲ	Bhopal
+ਵਖਿਆਨ-ਕਲਾ	Retorikk
+ਮੋਂਤੇਰੇਈ	Monterrey
+ਜਲ ਚੱਕਰ	Vannets kretsløp
+ਹੋਮੀਓਪੈਥੀ	Homøopati
+ਇੰਜੀਨੀਅਰ	Ingeniør
+ਉੱਤਰ ਪੱਛਮੀ ਸਮੁੰਦਰੀ ਰਾਹ	Nordvestpassasjen
+ਪਾਲੀਮਰ	Polymer
+ਮਾਰਫ਼ੀਨ	Morfin
+ਗੋਹ	Varaner
+ਏ. ਟੀ. ਐੱਮ.	Minibank
+ਕਾਰਲ ਪੌਪਰ	Karl Popper
+ਇਸ਼ਾਰੀਆ	Titallsystemet
+ਫ੍ਰੈਕਟਲ	Fraktal
+ਅਲਕੀਨ	Alkener
+ਮੇਜਦੂਨਾਰੋਦਨੀ ਯਾਜ਼ਿਕ	Unua libro
+ਵਾਲਟ ਵਿਟਮੈਨ	Walt Whitman
+ਐਲਡਸ ਹਕਸਲੇ	Aldous Huxley
+ਸ਼ਾਮ (ਇਲਾਕਾ)	Levanten
+ਅਕਾਬਾ ਦੀ ਖਾੜੀ	Akababukten
+ਦਾ ਵਿੰਚੀ ਕੋਡ	Da Vinci-koden
+ਮੂਰਾਸਾਕੀ ਸ਼ੀਕੀਬੂ	Murasaki Shikibu
+ਜੀਜ਼ਾ	Giza
+ਇਖ਼ਨਾਤੁਨ	Akhnaton
+ਏ. ਐਫ. ਸੀ. ਅਜਾਕਸ	Ajax Amsterdam
+ਯੂਕਰੇਨੀ ਹਰੀਵਨਾ	Ukrainsk hryvnja
+ਜਿਬਰੀਲ	Gabriel
+ਚੰਬੇਲੀ	Jasmin
+ਜੌਨ ਕੀਟਸ	John Keats
+ਜਾਹਨ ਗਾਲਜ਼ਵਰਦੀ	John Galsworthy
+ਕਾ (ਸਿਰਿਲਿਕ)	К
+ਸੈਮੂਅਲ ਟੇਲਰ ਕਾਲਰਿਜ	Samuel Taylor Coleridge
+ਪੇ (ਸਿਰਿਲਿਕ)	П
+ਰਗੜ	Friksjon
+ਈ (ਸਿਰਿਲਿਕ)	И
+ਲਹੂ ਦਾ ਦਬਾਅ	Blodtrykk
+ਖੜੀਆ ਮਿੱਟੀ	Gips
+ਇਰਾਨ-ਇਰਾਕ ਯੁੱਧ	Iran–Irak-krigen
+ਰਿਡਾਕਸ	Redoksreaksjon
+ਸਟੇਡੀਓ ਸਨ ਪਾਓਲੋ	San Paolo
+ਠੋਡੀ	Hake
+ਕਾਂਜੀ (ਲਿੱਪੀ)	Kanji
+ਜੋਜ਼ਿਫ ਕੋਨਰਾਡ	Joseph Conrad
+ਕੋਰਲ ਸਾਗਰ	Korallhavet
+ਸੇਂਟ ਸਾਈਮਨ	Henri de Saint-Simon
+ਕਾਤਾਕਾਨਾ	Katakana
+ਸਿਆਸਤਦਾਨ	Politiker
+ਹਿੰਦਸਾ	Siffer
+ਆਂਤੋਨੀਓ ਗਰਾਮਸ਼ੀ	Antonio Gramsci
+ਖੁੰਭ	Fruktlegeme
+ਜਨ ਗਣ ਮਨ	Indias nasjonalsang
+ਤਾਈਪੇ ੧੦੧	Taipei 101
+ਰਸਾਇਣਕ ਫ਼ਾਰਮੂਲਾ	Kjemisk formel
+ਪ੍ਰੋਮੀਥੀਅਸ	Prometheus
+ਅਫ਼ਰੀਕੀ ਨੈਸ਼ਨਲ ਕਾਂਗਰਸ	African National Congress
+ਸ਼ਰੀਨਿਵਾਸ ਰਾਮਾਨੁਜਨ ਆਇੰਗਰ	Srinivasa Aiyangar Ramanujan
+ਈਸਟ ਇੰਡੀਆ ਕੰਪਨੀ	Det britiske Ostindiske kompani
+ਜਾਇਫਲ	Muskatnøttslekten
+ਜਲਮੰਡਲ	Hydrosfære
+ਰੋਮੀਓ ਜੂਲੀਅਟ	Romeo og Julie
+ਕੈਂਡੇਲਾ	Candela
+ਹਤਾਏ	Hatay (provins)
+ਮੋਸਲ	Mosul
+ਸ਼ੋਰੇ ਦਾ ਤਿਜ਼ਾਬ	Salpetersyre
+ਗੁਰੂ ਨਾਨਕ ਦੇਵ	Guru Nának
+ਪਾਮੇਲਾ ਐਂਡਰਸਨ	Pamela Anderson
+ਲੂਈ ਡ ਬਰੌਈ	Louis de Broglie
+ਰੋਬਿਨ ਵਿਲੀਅਮਸ	Robin Williams
+ਬਾਰਤੀਨ ਸੂਬਾ	Bartin (provins)
+ਓਰੀਗਾਮੀ	Origami
+ਅੰਗੂਠਾ	Tommel
+ਸ਼ਾਕਾਹਾਰ	Vegetarianisme
+ਐਲੀਨੌਰ ਰੂਜ਼ਵੈਲਟ	Eleanor Roosevelt
+ਸਪਾਰਟਾਕਸ	Spartacus
+ਅਵੈਸਤਾ	Avesta (skriftsamling)
+ਮੇਗਾਡੇਥ	Megadeth
+ਸਾਊਥਾਲ	Southall
+ਓਲਡ ਟਰੈਫ਼ਡ	Old Trafford
+ਦ ਮੈਟਰਿਕਸ (ਫਿਲਮ)	The Matrix
+ਬੁੱਧੀ	Intelligens
+ਇਜ਼ਾਬੇਲ ਅਲੈਂਦੇ	Isabel Allende
+ਸਿੱਖ ਸਲਤਨਤ	Sikhriket
+ਸ਼ਾਹ ਜਹਾਂ	Shah Jahan
+ਸ਼ਿਮਲਾ	Shimla
+ਅੱਲ੍ਹਾ ਦੇ ਨਾਮ	Allahs 99 vakreste navn
+﻿ਸਾਸਾਨੀ ਸਲਤਨਤ	Sasanide-dynastiet
+ਜਨਮ ਅਤੇ ਮੌਤ ਰਜਿਸਟਰੇਸ਼ਨ	Fødselsattest
+ਕੇਨਜ਼ੀ ਅਰਥਸ਼ਾਸਤਰ	Keynesianisme
+ਹਾਂਸ ਕੈਲਜ਼ਨ	Hans Kelsen
+ਫ਼ਰਿਟਜੋਫ਼ ਕਾਪਰਾ	Fritjof Capra
+ਹੱਥਲਿਖਤ	Manuskript
+ਖ਼ਪਤ ਸੱਭਿਆਚਾਰ	Forbrukersamfunn
+ਸ਼ਟੈਫ਼ਾਨ ਹੈੱਲ	Stefan Hell
+ਚਾਂਗਚੁਨ	Changchun
+ਜਿਲਿਨ	Jilin (Jilin)
+ਫਰਮਾ:Cite book	Mal:Kilde bok
+ਐਲਿਸਜ਼ ਅਡਵੈਂਚਰਜ ਇਨ ਵੰਡਰਲੈਂਡ	Alice i Eventyrland
+ਮਿਲਾਨ ਕੁੰਦਰਾ	Milan Kundera
+ਗਾਇਆ (ਮਿਥਹਾਸ)	Gaia
+ਸਲੋਕੀ ਸਲਤਨਤ	Selevkideriket
+ਲੂਈ ਬਰੇਲ	Louis Braille
+ਆਂਡਾ	Egg (mat)
+ਤਲਾਕ	Skilsmisse
+ਬਾਲੀਵੁੱਡ	Bollywood
+ਗੁਲ ਲਾਲਾ	Tulipanslekta
+ਰਾਵਲਪਿੰਡੀ	Rawalpindi
+ਗਜਿਆਂਤੇਪ	Gaziantep
+ਪਰਸੀ ਬਿਸ਼ ਸ਼ੈਲੇ	Percy Bysshe Shelley
+ਸੇਮਸ ਜਸਟਿਨ ਹੇਨੀ	Seamus Heaney
+ਕ੍ਰਿਸਟੋਫ਼ਰ ਪਾਓਲਿਨੀ	Christopher Paolini
+ਤੀਆਨਾਨਮੇਨ ਚੌਕ ਹੱਤਿਆਕਾਂਡ	Demonstrasjonene på Den himmelske freds plass
+ਸੁਖੈਨ ਮੌਤ	Eutanasi
+ਪਰਿਭਾਸ਼ਾ	Definisjon
+ਪ੍ਰੋਟੋਜ਼ੋਆ	Protozo
+ਰਾਸਤਾਫਾਰੀ ਲਹਿਰ	Rastafarianerne
+ਐਸਟਰ	Ester
+ਐਲਡੀਹਾਈਡ	Aldehyd
+ਮਰਾਕਿਸ਼	Marrakech
+ਮੇਰੀ ਵੁਲਸਟਨਕਰਾਫ਼ਟ	Mary Wollstonecraft
+ਨਦੀਨ	Ugress
+ਪਾਵੋ ਨੂਰਮੀ	Paavo Nurmi
+ਬੌਖ਼ੂਸੀਆ ਮੋਨਛੇਨਗਲਾਡਬਾਛ	Borussia Mönchengladbach
+ਅਪਾਚੀ	Apache
+ਨਿਊਕਲੀਆਨ	Nukleon
+ਵਗਣਹਾਰ	Fluid
+ਅਬਾਜ਼ਾ	Abaza (by)
+ਰਸਾਇਣਕ ਸੰਕੇਤ	Kjemisk symbol
+ਹੈਰੀਅਟ ਬੀਚਰ ਸਟੋ	Harriet Beecher Stowe
+ਆਡੀਗੇਸਕ	Adygejsk
+ਅਲੇਸਕ	Alejsk
+ਦੋ-ਅੱਖੀ ਦੂਰਬੀਨ	Kikkert
+ਅਬਦੂਲੀਨੋ	Abdulino
+ਹੈਰਤਾ ਬਰਲਿਨ	Hertha BSC Berlin
+ਆਗੀਡੇਲ	Agidel
+ਆਗ੍ਰੀਜ਼	Agryz
+ਰੱਸਾਕਸ਼ੀ	Tautrekking
+ਮਧੂ ਮੱਖੀ	Honningbier
+ਐਵਾਂ ਗਾਰਦ	Avant-garde
+ਮੀਸ਼ੇਲ ਵੇਲਬੇਕ	Michel Houellebecq
+ਅਕ-ਡੋਵੂਰਾਕ	Ak-Dovurak
+ਅਕਸੈ	Aksaj
+ਸਾਰਸ (ਰੋਗ)	SARS
+ਅਲਾਗਿਰ	Alagir
+ਅਲਾਪਾਏਵਸਕ	Alapajevsk
+ਈਥਰ	Eter (kjemi)
+ਅਲਾਟਿਰ	Alatyr (by)
+ਅਲਦਾਨ	Aldan (Sakha)
+ਖ਼ੋਸੇ ਮਾਰਤੀ	José Martí
+ਜੈਨੀਫ਼ਰ ਕੌਨਲੀ	Jennifer Connelly
+ਭੌਂ-ਗੁਲਾਮੀ	Livegenskap
+ਅਲੈਗਜ਼ੈਂਡਰੋਵ	Aleksandrov (by)
+ਐਲੈਗਜ਼ੈਂਡ੍ਰੋਵਸਕ	Aleksandrovsk (Perm kraj)
+ਐਲੈਗਜ਼ੈਂਡ੍ਰੋਵਸਕ-ਸਾਖਾਲਿੰਸਕੀ	Aleksandrovsk-Sakhalinskij
+ਅਲੈਗਜ਼ੈਵਕਾ, ਬੈਲਗੋਰੋਡ	Aleksejevka (Belgorod oblast)
+ਅਲੇਕਸਿਨ	Aleksin
+ਅਲਜ਼ਾਮੇ	Alzamaj
+2001: ਅ ਸਪੇਸ ਓਡੀਸੀ (ਫ਼ਿਲਮ)	2001: En romodyssé
+ਅਲੇਮੇਤਯੇਵਸਕ	Almetjevsk
+ਅਮੁਰਸਕ	Amursk
+ਅੰਗਾਰਸਕ	Angarsk
+ਐਂਡ੍ਰੀਪੋਲ	Andreapol
+ਪੰਡਿਤ ਰਵੀ ਸ਼ੰਕਰ	Ravi Shankar
+ਮੂਲ ਨਿਵਾਸੀ	Urfolk
+ਅਖਤੂਬਿੰਸਕ	Akhtubinsk
+ਅਕਿੰਸਕ	Atsjinsk
+ਯੂਕੋਨ ਦਰਿਆ	Yukon (elv)
+ਪੂਰਨਮਾਸ਼ੀ	Fullmåne
+ਬਾਈਆ ਲੇਵਾਕੂਜ਼ਨ	Bayer Leverkusen
+੧. ਫੁੱਟਬਾਲ ਕਲੱਬ ਕਲਨ	1. FC Köln
+ਪ੍ਰਕਾਸ਼ ਤੀਬਰਤਾ	Lysstyrke
+ਮੁੱਢਲਾ ਮੇਲ-ਜੋਲ	Fundamentalkraft
+ਬਿਹਤਰੀਨ ਵਿਦੇਸ਼ੀ ਭਾਸ਼ਾ ਫ਼ਿਲਮ ਲਈ ਅਕਾਦਮੀ ਇਨਾਮ	Oscar for beste fremmedspråklige film
+ਹੁੱਕਾ	Vannpipe
+ਬਾਇਰ ਨਾਮ	Bayer-betegnelse
+ਲੇਡੀ ਗੌਡੀਵਾ	Godiva
+ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੌਨ	Nordkoreansk won
+ਮਾਂਗਨਸ ਕਾਸਨ	Magnus Carlsen
+ਯੂਰੇਨੀਅਮ-ਪਾਰ ਤੱਤ	Transuran
+ਜਗਜੀਤ ਸਿੰਘ	Jagjit Singh
+ਪਟਸਨ	Jute
+ਅਧਰੰਗ	Lammelse
+ਸੂਬਾ	Delstat
+ਹਰਗੋਬਿੰਦ ਖੁਰਾਣਾ	Har Gobind Khorana
+ਭੌਤਿਕ ਮਾਤਰਾ	Fysisk størrelse
+ਵਾਲਮੀਰਾ	Valmiera
+ਕੁੰਦੂਜ਼	Kunduz
+ਸਪਾਰਟਾਕਸ (ਫ਼ਿਲਮ)	Spartacus (film)
+ਤੀਰਅੰਦਾਜ਼ੀ	Bueskyting
+ਏ. ਆਰ. ਰਹਿਮਾਨ	A.R. Rahman
+ਦ ਗ੍ਰੇਟ ਡਿਕਟੇਟਰ	Diktatoren
+ਦੋਗਾਣਾ	Duett
+ਟਾਪੂ ਦੇਸ਼	Øystat
+ਹੁਸੈਨ	Husayn ibn Ali
+ਰਾਧਾ	Radha
+ਇੰਸਟੀਟਿਊਟ ਡੇ ਡ੍ਰੌਇਟ ਇੰਟਰਨੈਸ਼ਨਲ	Folkerettsinstituttet
+ਹਜ਼ਾਰਾ ਲੋਕ	Hazarafolket
+ਸਿਲੀਕਾਨ ਡਾਈਆਕਸਾਈਡ	Silisiumdioksid
+ਦਾ ਟਵਾਈਲਾਈਟ ਸਾਗਾ: ਨਿਊ ਮੂਨ (ਫ਼ਿਲਮ)	The Twilight Saga – New Moon
+ਹੋਪੀ	Hopi
+ਨਾਥ	Nath
+ਸਿੱਕਰੀ	Flass
+ਮਾਦੀਰਾ ਦਰਿਆ	Madeira (elv)
+ਮੌਤ ਦੀ ਘਾਟੀ	Death Valley
+ਆਰਕਾਈਵ	ArXiv
+ਕਾਲਾ ਦਰਿਆ (ਐਮਾਜ਼ਾਨ)	Negro (elv i Brasil)
+ਹਾਵਰਡ ਜਿਨ	Howard Zinn
+ਸੂਰਜੀ ਭਾਂਬੜ	Solstorm
+ਗੈਸਟ੍ਰੋਐਂਟਰਾਲੋਜੀ	Gastroenterologi
+ਪੇਰਮੇਤ ਜਿਲਾ	Përmet (distrikt)
+ਭੀਮਸੇਨ ਜੋਸ਼ੀ	Bhimsen Joshi
+ਬਲਖ਼ ਸੂਬਾ	Balkh (provins)
+ਮਸ਼ਹਦ	Mashhad
+ਨਰਸਿੰਗ	Sykepleie
+ਬੁਨਿਆਦੀ ਢਾਂਚਾ	Infrastruktur
+ਜੇਹਲਮ	Jhelum
+ਪ੍ਰੋਫੈਸਰ	Professor
+ਸਹਿਜੀਵਨ	Symbiose
+ਈਰੋਸ	Eros
+ਖੁਲੀਓ ਈਗਲੇਸੀਆਸ	Julio Iglesias
+ਏਲੀ ਡੂਕੌਮੁਨ	Élie Ducommun
+ਰੋਬਿਨ ਹੁੱਡ	Robin Hood
+ਜ਼ਾਈਲਮ	Vedvev
+ਸਵੀਡਨੀ ਕਰੋਨਾ	Svensk krone
+ਕੈਰੋ ਰੋਡ	Carrow Road
+ਫ਼ੈਲਿਕਸ ਬਲੋਕ	Felix Bloch
+ਹੁਲਦਰਿਚ ਜ਼ਵਿੰਗਲੀ	Ulrich Zwingli
+ਮੁਹੰਮਦ ਮੁਸੱਦਕ	Muhammed Mossadegh
+ਗਿੱਧ	Gribb (fugl)
+ਜੌਂ ਪੀਆਜੇ	Jean Piaget
+ਪੋਲੈਂਡੀ ਜ਼ਵੋਤੀ	Polsk złoty
+ਫਰਾਂਸਿਸ ਕ੍ਰਿਕ	Francis Crick
+ਕੂਕੇਸ ਜ਼ਿਲਾ	Kukës (distrikt)
+ਰਿਪਬਲਿਕ (ਪਲੈਟੋ)	Staten (dialog)
+ਕੁਲੀਨਰਾਜ	Aristokrati
+ਕਾਢ	Oppfinnelse
+ਕੂਰਬਿਨ ਜ਼ਿਲਾ	Kurbin (distrikt)
+ਤਰੋਪੋਜੇ ਜ਼ਿਲਾ	Tropojë (distrikt)
+ਐਮੀ ਇਨਾਮ	Emmy-prisen
+ਮੁਗਲਾ ਸੂਬਾ	Muğla (provins)
+ਸਟੈੱਪ	Steppe
+ਜ਼ਕਾਤ	Zakat
+ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼ ਦੇ ਜ਼ਿਲੇ	Distrikter i Himachal Pradesh
+ਸਾਪੇਖ ਕਾਂਤੀਮਾਨ	Tilsynelatende størrelsesklasse
+ਧਰਤੀ ਦਿਵਸ	Jordens dag
+ਹਿੰਸਾ	Vold
+ਤੀਖ਼ਵਾਨਾ	Tijuana
+ਸਲੰਮਡਾਗ ਮਿਲਿਓਨੀਅਰ	Slumdog Millionaire – Han som hadde svar på alt
+ਵਿਕਤੋਰ ਖਾਰਾ	Víctor Jara
+ਐਡਵਰਡ ਝੀਲ	Edvardsjøen
+ਪੁਐਬਲਾ, ਪੁਐਬਲਾ	Puebla de Zaragoza
+ਇਗਦੀਰ ਸੂਬਾ	Iğdır (provins)
+ਗਿੱਦੜ	Sjakaler
+ਐਲਬਰਟ ਝੀਲ (ਅਫ਼ਰੀਕਾ)	Albertsjøen
+ਕੀਵੂ ਝੀਲ	Kivusjøen
+ਪੌਣਪਾਣੀ ਤਬਦੀਲੀ	Klimaendring
+ਅਲਬਾਨੀਆਈ ਲੇਕ	Albansk lek
+ਪੈਂਡਾ	Avstand
+ਇਰਾਨੀ ਇਨਕਲਾਬ	Den iranske revolusjon
+ਵੁਲਵਰਹੈਂਪਟਨ	Wolverhampton
+ਕੋਬਾਨੀ	Ayn al-Arab
+ਥਾਮਸ ਪੇਨ	Thomas Paine
+ਵਿਸ਼ਵ ਬੈਡਮਿੰਟਨ ਫੈਡਰੇਸ਼ਨ	Badminton World Federation
+ਕਾਨੂੰਨ ਦਾ ਦਰਸ਼ਨ	Rettsfilosofi
+ਮਿਨਰਵਾ	Minerva
+ਕਾਰਸ	Kars
+ਕੈ	Oppkast
+ਲੋਲਿਤਾ	Lolita
+ਫ਼ਰੈਂਕ ਜ਼ਾਪਾ	Frank Zappa
+ਸ਼ਾਰਲਟ ਬਰੌਂਟੇ	Charlotte Brontë
+ਬਹਾਦੁਰ ਸ਼ਾਹ ਜ਼ਫ਼ਰ	Bahadur Shah Zafar
+ਸਿਆਹੀ	Blekk
+ਆਲੀਆਂਸ ਆਰੇਨਾ	Allianz Arena
+ਵੈਕਿਊਲ	Vakuole
+ਮੋਤੀਆਬਿੰਦ	Katarakt (medisin)
+ਅਮਰੀਕਾ ਦੀ ਆਜ਼ਾਦੀ ਦੀ ਘੋਸ਼ਣਾ	USAs uavhengighetserklæring
+ਸਹਿਯੋਜਕੀ ਜੋੜ	Kovalent binding
+ਆਤਿਸ਼ਬਾਜ਼ੀ	Fyrverkeri
+ਸੂਖਮ ਛੱਲ	Mikrobølge
+ਜਿਓਰਜਿਓ ਵਾਸਾਰੀ	Giorgio Vasari
+ਅਮੂਰਤ ਕਲਾ	Abstrakt kunst
+ਲੇਵੀ ਸਤਰੋਸ	Claude Lévi-Strauss
+ਸਰਬ ਅਧਿਕਾਰਵਾਦ	Totalitarisme
+ਕਿਊਬਾਈ ਮਿਜ਼ਾਈਲ ਸੰਕਟ	Cubakrisen
+ਅਗਾਮੈਮਨੌਨ	Agamemnon
+ਮੁਹੰਮਦ ਰਜ਼ਾ ਪਹਿਲਵੀ	Muhammed Reza Pahlavi
+ਐੱਫ਼. ਸੀ. ਪੋਰਤੋ	FC Porto
+ਛਾਰਲ ਪੇਰੋ	Charles Perrault
+ਵੈਂਬਲੀ ਸਟੇਡੀਅਮ	Wembley Stadium
+ਗ੍ਰਾਹਮ ਗ੍ਰੀਨ	Graham Greene
+ਛਾਤੀ ਦਾ ਕੈਂਸਰ	Brystkreft
+ਲੇਸ	Viskositet
+ਵਿਅੰਗ	Satire
+ਅਰਾਫ਼ੁਰਾ ਸਮੁੰਦਰ	Arafurasjøen
+ਦੇਲੀ ਬਲਿੰਦ	Daley Blind
+ਬਾਇਓ ਬਾਲਣ	Biobrensel
+ਭੁਪਾਲ ਗੈਸ ਕਾਂਡ	Bhopal-katastrofen
+ਭਾਰਤ ਦੀ ਵੰਡ	Delingen av Britisk India
+ਮਿਥੁਨ	Tvillingene (stjernetegn)
+ਲਾਰਵਾ	Larve
+ਬਰਤਾਨਵੀ ਰਾਜ	Britisk India
+ਹੀਊ ਜੈਕਮੈਨ	Hugh Jackman
+ਹਰਟ ਆਫ਼ ਡਾਰਕਨੈਸ	Mørkets hjerte
+ਭਾਰਤ ਦਾ ਪਹਿਲਾ ਆਜ਼ਾਦੀ ਸੰਗਰਾਮ	Det indiske opprøret i 1857
+ਅਤਲਸ ਪਹਾੜ	Atlasfjellene
+ਲੰਡਨ ਬ੍ਰਿਜ	London Bridge
+ਮੈਕਬਥ	Macbeth (skuespill)
+ਬਾਰਟੋਲੋਮੀਉ ਡਿਆਸ	Bartolomeu Dias
+ਮਜ਼ਾਰ-ਏ-ਸ਼ਰੀਫ਼	Mazar-e Sharif
+ਅਰਮੀਨੀਆਈ ਦਰਾਮ	Armensk dram
+ਲਕਸਰ	Luxor
+ਹੀਅਰੋਨੀਮਸ ਬੌਸ਼	Hieronymus Bosch
+ਜਾਕ ਦੇਰੀਦਾ	Jacques Derrida
+ਬੀਂਡਾ	Sangsikader
+ਡੀਜੇ	Disc jockey
+ਮਾਨਾਕੇਮ ਬੇਗਿਨ	Menachem Begin
+ਈਡੀਪਸ	Oidipus
+ਗਲਫ਼ ਸਟ੍ਰੀਮ	Golfstrømmen
+ਡੇਲੀਆ	Georgineslekta
+ਓਕੈਮ ਦਾ ਪਤੱਰਾ	Ockhams barberkniv
+ਪ੍ਰਤੱਖਵਾਦ	Positivisme
+ਚੈੱਕ ਕੋਰੂਨਾ	Tsjekkisk koruna
+ਪਾਲ ਕਰੂਗਮੈਨ	Paul Krugman
+ਐਨਾ ਕੋਰਨੀਕੋਵਾ	Anna Kurnikova
+ਹੈਨਰੀ ਡੇਵਿਡ ਥੋਰੋ	Henry David Thoreau
+ਵੈਲਡਿੰਗ	Sveising
+ਕੈਬਰੇ	Kabaret
+ਪ੍ਰੋਪੇਨ	Propan
+ਹਰਡ ਟਾਪੂ ਅਤੇ ਮੈਕਡਾਨਲਡ ਟਾਪੂ	Heard- og McDonaldøyene
+ਪਾਏਦਾਰ ਵਿਕਾਸ	Bærekraftig utvikling
+ਥਾਈਲੈਂਡ ਦੀ ਖਾੜੀ	Siambukten
+ਦੱਖਣੀ ਤਰਾਵਾ	South Tarawa
+ਕਾਰਲ ਲੂਈਸ	Carl Lewis
+ਸ਼ਿਕਾਗੋ ਯੂਨੀਵਰਸਿਟੀ	University of Chicago
+ਬੌਧਿਕ ਸੰਪਤੀ	Immaterialrett
+ਬੋਫ਼ੋਰ ਸਮੁੰਦਰ	Beauforthavet
+ਰਵਾਂਡਾਈ ਨਸਲਕੁਸ਼ੀ	Folkemordet i Rwanda
+ਹਿਮਸ	Homs
+ਇਜ਼ਰਾਇਲੀ ਨਵਾਂ ਸ਼ੇਕਲ	Ny israelsk shekel
+ਜਾਰਜ ਐਲੀਅਟ	George Eliot
+ਪੰਡੋਰਾ	Pandora
+ਜ਼ੁਲਫਿਕਾਰ ਅਲੀ ਭੁੱਟੋ	Zulfikar Ali Bhutto
+ਨਮੀਬ ਮਾਰੂਥਲ	Namibørkenen
+ਮੁਸ ਪ੍ਰਾਂਤ	Muş (provins)
+ਸੰਵਾਦ	Dialog
+ਤਿਮੋਰ ਸਮੁੰਦਰ	Timorsjøen
+ਲਕਸ਼ਮੀ	Lakshmi
+ਆਈਸਲੈਂਡੀ ਕਰੋਨਾ	Islandsk krone
+ਐੱਸ. ਐੱਲ. ਬੇਨਫ਼ੀਕਾ	SL Benfica
+ਕਿਸਾਨ	Bonde
+ਬਾਲ ਸਾਹਿਤ	Barne- og ungdomslitteratur
+ਭਾਰਤੀ ਸੂਬੇ ਅਤੇ ਕੇਂਦਰੀ ਸ਼ਾਸ਼ਤ ਪ੍ਰਦੇਸ	Indias delstater og territorier
+ਸੁਲ੍ਹਾਨਾਮਾ	Traktat
+ਪੋਸਤ	Opiumsvalmue
+ਰੋਮਾਨੀਆਈ ਲਿਊ	Rumensk leu
+ਧਨਾਢਰਾਜ	Plutokrati
+ਦ ਪ੍ਰਿੰਸ	Fyrsten
+ਬਿਟਕੌਇਨ	Bitcoin
+ਹੈਪਾਟਾਈਟਸ	Hepatitt
+ਮਹੱਤਮ ਸਾਂਝਾ ਭਾਜਕ	Største felles divisor
+ਚੀਨੀ ਨਵਾਂ ਸਾਲ	Kinesisk nyttår
+ਵਹਿਰਾਨ	Oran
+ਵਿਚਾਰ	Idé
+ਆਸਟਰੀਆਈ ਸਲਤਨਤ	Østerrikes historie (1804–1867)
+ਚਾਬੀ	Nøkkel
+ਕਾਲ਼ੀ ਮਾਤਾ	Kali
+ਸਾਨੀਆ ਮਿਰਜ਼ਾ	Sania Mirza
+ਆਯੁਰਵੇਦ	Ayurveda
+ਵਿਕਸਿਤ ਦੇਸ਼	Industriland
+ਫਰਮਾ ਦੀ ਆਖਰੀ ਥਿਓਰਮ	Fermats siste teorem
+ਅਮਰਤਿਆ ਸੇਨ	Amartya Sen
+ਜੀਰਾ	Spisskummen
+ਨਾਰਵੇਈ ਕਰੋਨਾ	Norsk krone
+ਬਾਖ਼ਤਰ	Baktria
+ਜਮਨਾ ਦਰਿਆ	Yamuna
+ਅਰਬੀਲ	Arbil
+ਥਾਮਸ ਹਾਰਡੀ	Thomas Hardy
+ਕੈਲੀਫ਼ੋਰਨੀਆ ਦੀ ਖਾੜੀ	Californiabukta
+ਦੌਆਲਾ	Douala
+ਘਰਘੀਣ	Gravevepser (Sphecidae)
+ਗਰੀਨਲੈਂਡ ਸਮੁੰਦਰ	Grønlandshavet
+ਓਲੰਪੀਕ ਡ ਮਾਰਸੇਈ	Olympique de Marseille
+ਬੁਸ਼ਹਿਰ ਸੂਬਾ	Bushehr (provins)
+ਤਕਲਾਮਕਾਨ ਮਾਰੂਥਲ	Taklamakan
+ਉਪ-ਸਹਾਰਵੀ ਅਫ਼ਰੀਕਾ	Afrika sør for Sahara
+ਵਲਾਦੀਮੀਰ ਮਾਇਕੋਵਸਕੀ	Vladimir Majakovskij
+ਯੋਮ ਕੀਪੂਰ	Jom kippúr
+ਡਾਇਆਸਪੋਰਾ	Diaspora
+ਲਾਤਵੀਆਈ ਲਾਤਸ	Latvisk lats
+ਸਿਲਵੀਆ ਪਲੈਥ	Sylvia Plath
+ਪੈਰਿਸ ਕਮਿਊਨ	Pariskommunen
+ਭਾਰਤ ਦਾ ਇਤਿਹਾਸ	Indias historie
+ਸਕੁਐਸ਼ (ਖੇਡ)	Squash (sport)
+ਮੁਸਲਿਮ ਬ੍ਰਦਰਹੁੱਡ	Det muslimske brorskapet
+ਢੂੰਹੀ	Rygg (anatomi)
+ਸ਼ੈਤਾਨੀ ਧਰਮ	Satanisme
+ਸੇਪੂਕੂ	Seppuku
+ਰਾਬਾਈ	Rabbiner
+ਸਨ ਸੀਰੋ (ਸਟੇਡੀਅਮ)	San Siro
+ਅਲਤਾਮਿਰਾ ਦੇ ਗੁਫਾ	Altamira
+ਨੰਗਬੀਜੀ ਬੂਟਾ	Nakenfrøede planter
+ਪਲੇਗ (ਰੋਗ)	Pest
+ਧਰਤ-ਗੋਲ਼ਾ	Globus
+ਸ਼ਾਹਮੁਖੀ ਲਿਪੀ	Shahmukhi
+ਕੰਨਿਆ	Jomfruen (stjernetegn)
+ਜੇ (ਸਿਰਿਲਿਕ)	Ј
+ਪੌਪ ਕਲਾ	Popkunst
+ਬਿਊਟੇਨ	Butan
+ਪੋਲੋ	Polo
+ਵਰਗ ਮੂਲ	Kvadratrot
+ਫੇਨੂਰਡ	Feyenoord Rotterdam
+ਕੁਰਦਿਸਤਾਨ ਸੂਬਾ	Kurdistan (provins)
+ਤੱਕੜੀ (ਰਾਸ਼ੀ)	Vekten (stjernetegn)
+ਵ੍ਰਸਚਿਕ	Skorpionen (stjernetegn)
+ਮਰਕਜ਼ੀ ਸੂਬਾ	Markazi
+ਗੁਰੂਤਾਕਰਸ਼ਣ ਦਾ ਸਰਵ-ਵਿਅਾਪੀ ਨਿਯਮ	Newtons gravitasjonslov
+ਬੋਰ ਸਈਦ	Port Said
+ਲਿਪਾਂਤਰਨ	Translitterasjon
+ਸੇਂਟ ਲਾਰੰਸ ਦਰਿਆ	St. Lawrence (elv)
+ਪਿਤਾ ਦਿਵਸ	Farsdag
+ਕਾਰਬੌਕਸਿਲੀ ਤਿਜ਼ਾਬ	Karboksylsyre
+ਸ਼ੈਮਪੇਨ	Champagne
+ਡੈਨੀ ਬੋਏਅਲ	Danny Boyle
+ਸੀ.ਐੱਨ. ਬੁਰਜ	CN Tower
+ਖਾਵੀਏਰ ਬਾਰਦੇਮ	Javier Bardem
+ਤਾਰਾਸ ਸ਼ੇਵਚੈਨਕੋ	Taras Sjevtsjenko
+ਜਾਨ ਕਾਰਨਫੋਰਥ	John Warcup Cornforth
+ਭਾਰਤ ਦੀਆਂ ਬੋਲੀਆਂ	Språk i India
+ਮਲੱਠੀ	Lakris
+ਬੋਲਸ਼ੋਈ ਥੀਏਟਰ ਮਾਸਕੋ	Bolsjojteateret
+ਫੌਰਸ ਇੰਡੀਆ	Force India
+ਜ਼ੇਡੀ ਸਮਿਥ	Zadie Smith
+2008 ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ 96 ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 96 kg
+ਜੌਨ ਡਨ	John Donne
+ਅਲੈਕਸੀ ਦ ਤੋਕੂਵੀਲ	Alexis de Tocqueville
+ਐਡਵਰਡ ਬੀ ਟਾਇਲਰ	Edward Burnett Tylor
+ਸਾਓ ਫ਼ਰਾਂਸਿਸਕੋ ਦਰਿਆ	São Francisco (elv)
+ਅਰਬ ਜਗਤ	Den arabiske verden
+ਛਾਪਾਖ਼ਾਨਾ	Trykkpresse
+ਤੁਗ਼ਰਿਲ ਬੇਗ	Toghrül
+ਜ਼ਾਕਿਰ ਹੁਸੈਨ	Zakir Husain
+ਲਿਊਡਮਿਲਾ ਪੈਵਲਿਚੇਨਕੋ	Ljudmila Pavlitsjenko
+ਮਹਾਨ ਵਿਕਟੋਰੀਆ ਮਾਰੂਥਲ	Victoriaørkenen
+ਸਾਰਕ	Den sørasiatiske regionale samarbeidsorganisasjonen
+ਵਨ ਡਾਇਰੈਕਸ਼ਨ	One Direction
+ਮੀਰੀਆਮ ਮਾਕੇਬਾ	Miriam Makeba
+ਡੋਮੇਨ (ਜੀਵ-ਵਿਗਿਆਨ)	Domene (biologi)
+ਅਪਰਾਧਿਕ ਕਾਨੂੰਨ	Strafferett
+ਗੁਰਦਾਸਪੁਰ ਜ਼ਿਲ੍ਹਾ	Gurdaspur (distrikt)
+ਜ਼ਨਜਾਨ ਸੂਬਾ	Zanjan (provins)
+ਕੁਬਤੀ ਲੋਕ	Koptere
+ਸਹਿ ਧੁਨੀ	Allofon
+ਮਨਿਸਾ	Manisa
+੧੯੦੦ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1900
+ਜਾਦੂਈ ਯਥਾਰਥਵਾਦ	Magisk realisme
+ਬੋਧ ਵਿਗਿਆਨ	Kognitiv vitenskap
+੧੯੨੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1928
+੧੯੩੬ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1936
+ਲਿਵਰ ਸਿਰੋਸਿਸ	Skrumplever
+ਅੰਨਾ ਕਾਰੇਨੀਨਾ	Anna Karenina
+ਸ਼੍ਰੋਮਣੀ ਅਕਾਲੀ ਦਲ	Shiromani Akali Dal
+ਸੁਬਰਾਮਨੀਅਮ ਚੰਦਰਸ਼ੇਖਰ	Subramanyan Chandrasekhar
+ਓਸ਼ੋ	Osho
+ਕਬੱਡੀ	Kabaddi
+ਰਾਜਾ ਈਡੀਪਸ	Kong Oidipus
+ਜ਼ੇ (ਸਿਰਿਲਿਕ)	З
+ਜ਼ਿਲ੍ਹਾ	Gu (forvaltningsenhet)
+ਜਮਨਾ ਦਰਿਆ (ਬੰਗਲਾਦੇਸ਼)	Jamuna
+ਬਾਕਸਰ ਬਗ਼ਾਵਤ	Bokseropprøret
+ਫ਼ਲੋਰਸ ਸਾਗਰ	Floressjøen
+ਅਲੈਗਜ਼ੈਂਡਰ ਦੁਬਚੇਕ	Alexander Dubček
+ਮਿੱਗ 21	Mikojan-Gurevitsj MiG-21
+ਫਰੈਂਕਨਸਟਾਇਨ	Frankenstein
+ਜਾਨ ਬੋਨ ਜੋਵੀ	Jon Bon Jovi
+ਵੈਸਟਫ਼ਾਲਨ ਸਟੇਡੀਅਮ	Signal Iduna Park
+ਇਮਟੈੱਕ ਆਰੇਨਾ	Imtech Arena
+ਫ਼ੈਲਟਿਨਸ-ਆਰੇਨਾ	Veltins-Arena
+ਤੇਹਰਾਨ ਕਾਨਫਰੰਸ	Teherankonferansen i 1943
+ਚੋਲ ਰਾਜਵੰਸ਼	Chola-dynastiet
+ਆਂਦਰੇ ਮਾਲਰੋ	André Malraux
+ਓਲੰਪਿਕ ਸਟੇਡੀਅਮ (ਬਰਲਿਨ)	Olympiastadion (Berlin)
+ਥਾਮਸ ਕਾਰਲਾਈਲ	Thomas Carlyle
+ਸਫਿੰਕਸ	Sfinks
+ਗਿਉਰਗੀ ਲੂਕਾਚ	Georg Lukács
+ਰਾਏ ਲਿਖਟਨਸਟਾਈਨ	Roy Lichtenstein
+ਫਰੈਂਕਫ਼ਰਟ ਸਕੂਲ	Frankfurtskolen
+ਰਾਈਨਐਨਰਜੀ ਸਟੇਡੀਅਮ	RheinEnergieStadion
+ਰੂਆ	Ruhrområdet
+ਡੈੱਨਮਾਰਕ ਪਣਜੋੜ	Danmarkstredet
+ਹੰਬੋਲਟ ਬਰਲਿਨ ਯੂਨੀਵਰਸਿਟੀ	Humboldt-Universität zu Berlin
+ਮਰਸੇਡੇਜ਼-ਬੈਂਸ ਆਰੇਨਾ (ਸ਼ਟੁੱਟਗਾਟ)	Mercedes-Benz Arena
+ਬੈਟਲਸ਼ਿਪ ਪੋਤੇਮਕਿਨ	Panserkrysseren Potemkin
+ਜੋਆਨ ਮੀਰੋ	Joan Miró
+ਅਲਫਰੈਡ ਐਡਲਰ	Alfred Adler
+ਗੁੰਨਾਰ ਮਿਰਦਲ	Gunnar Myrdal
+ਜ਼ੀਰੋ ਡਾਰਕ ਥਰਟੀ	Zero Dark Thirty
+ਐੱਚ.ਡੀ.ਆਈ-ਆਰੇਨਾ	AWD-Arena
+ਪਾਕੋ ਦੇ ਲੂਸੀਆ	Paco de Lucía
+ਮਾਰਟਿਨ ਨੀਮੋਲਰ	Martin Niemöller
+ਬੌਖ਼ੂਸੀਆ-ਪਾਰਕ	Borussia-Park
+ਮੋਸੀਨ–ਨਾਗੋਨ	Mosin-Nagant M91/30
+ਚਿੰਤਾ	Angst
+ਆਲੂ ਖਾਣੇ	«Potetspiserne»
+ਵੇਜ਼ਾਸ਼ਟਾਡੀਓਨ	Weserstadion
+ਲੀਓਪੋਲਡ ਸੈਨਘੋਰ	Léopold Sédar Senghor
+ਕਾਰਲੋਸ ਫਿਊਨਤੇਸ	Carlos Fuentes
+ਨੌਰਮਨ ਬੋਰਲੌਗ	Norman Ernest Borlaug
+ਲੈਨਿਨਵਾਦ	Leninisme
+ਗਿਓਰਗੀ ਦਮਿਤਰੋਵ	Georgi Dimitrov
+ਇਮਰਾਨ ਖ਼ਾਨ	Imran Khan
+ਕੁਲਡਿਗਾ	Kuldīga
+ਚਿਨੁਆ ਅਚੇਬੇ	Chinua Achebe
+ਕਾਰਲ ਚਾਪੇਕ	Karel Čapek
+ਜਾਰਜ ਫ੍ਰਾਸਟ ਕੇਨੰਨ	George F. Kennan
+ਆਜ਼ਾਦ ਹਿੰਦ ਫ਼ੌਜ	Indian National Army
+ਤਕਸ਼ਿਲਾ	Taxila
+ਰੋਮਨ ਜੈਕਬਸਨ	Roman Jakobson
+ਕਥਾਰਸਿਸ	Katarsis
+ਧਰਤੀ ਦਾ ਇਤਿਹਾਸ	Jordens historie
+ਕਾਰਨ ਵਿਗਿਆਨ	Etiologi
+ਲਤਾ ਮੰਗੇਸ਼ਕਰ	Lata Mangeshkar
+ਸਰਵੇਪੱਲੀ ਰਾਧਾਕ੍ਰਿਸ਼ਣਨ	Sarvepalli Radhakrishnan
+ਕਲੀਸ਼ੇ	Klisjé
+ਕਸੁੰਭ	Saflor
+ਬਾਈਆਰੇਨਾ	BayArena
+1948 ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1948
+ਤਾਰਾਮੀਰਾ	Ruccola
+ਸੈਮੂਅਲ ਹੈਨੇਮੈਨ	Samuel Hahnemann
+ਕਾਮਰਸਬਂਕ-ਆਰੇਨਾ	Commerzbank-Arena
+ਨਿਕੋਬਾਰ ਟਾਪੂ	Nikobarene
+ਸ਼ਗਨ	Forlovelse
+ਜ਼ਿਗਮੁੰਤ ਬਾਓਮਨ	Zygmunt Bauman
+ਦੇਜਾ ਵੂ	Déjà vu
+ਗਵਾਲੀਅਰ	Gwalior
+ਵਲੋਰੇ ਜ਼ਿਲਾ	Vlorë (distrikt)
+ਅਫ਼ਗ਼ਾਨਿਸਤਾਨ ਦੇ ਸੂਬੇ	Afghanistans provinser
+ਟੋਰਟ	Norsk erstatningsrett
+ਸਪੋਟੇਸੀ	Sapodillefamilien
+ਫ਼ਿਲਪੀਨ ਸਾਗਰ	Filippinerhavet
+ਅਲਕਾਈਨ	Alkyner
+ਜਣਨ ਇੰਜੀਨੀਅਰੀ	Gensløyd
+ਚੁਕਚੀ ਸਮੁੰਦਰ	Tsjuktsjerhavet
+ਸੋਸ਼ਲਿਸਟ ਇੰਟਰਨੈਸ਼ਨਲ	Sosialistinternasjonalen
+ਖੁਰਾਕ ਲੜੀ	Næringskjede
+ਅਜਮਾਨ	Ajman
+ਸਾਜ਼ਿਸ਼ ਪ੍ਰਸਤਾਵ	Konspirasjonsteori
+ਜੇਟ ਲੀ	Jet Li
+ਅੰਨਪੂਰਨਾ	Annapurna
+ਪੂਰਨ ਚਮਕ	Absolutt størrelsesklasse
+ਕਾਲਾ ਮੋਤੀਆ	Glaukom
+ਮੌਨਾ ਲੋਆ	Mauna Loa
+ਅਰਥਚਾਰਾ	Økonomi
+ਸਿੰਘ	Løven (stjernetegn)
+ਉਲੰਪਿਕ ਖੇਡਾਂ	Olympiske sommerleker
+ਕਾਮ ਨੋਊ	Camp Nou
+ਜੂਲੀਆ ਕ੍ਰਿਸਤੇਵਾ	Julia Kristeva
+ਸਟੇਡੀਓ ਓਲੰਪਿਕੋ	Stadio Olimpico
+ਟਵਾਈਲਾਈਟ (ਫ਼ਿਲਮ)	Twilight – Evighetens kyss
+ਮੈਨ ਬੁੱਕਰ ਇਨਾਮ	Bookerprisen
+ਮੈਦਾਨ	Slette
+ਪਰਾਦੋ ਅਜਾਇਬ-ਘਰ	Museo del Prado
+ਬਾਲ ਪੈੱਨ	Kulepenn
+ਧਰਤ ਘੰਟਾ	Earth Hour
+ਰਾਮ	Rama
+ਡੇਵਿਡ ਰਿਕਾਰਡੋ	David Ricardo
+ਦਮਾਮ	Dammam
+ਬੋਧ	Persepsjon
+ਅਲ-ਫ਼ਾਰਾਬੀ	Al-Farabi
+ਮੁਹੰਮਦ ਅਲੀ ਜਿੰਨਾਹ	Muhammad Ali Jinnah
+ਰੋਜ਼ੇ ਗਾਰੋਦੀ	Roger Garaudy
+ਲੰਡਨ ਆਈ	London Eye
+ਬੈਲਾਰੂਸੀ ਰੂਬਲ	Hviterussisk rubel
+ਸ਼ਹਿਰੀਕਰਨ	Urbanisering
+ਦਾਰਦਿਕ ਭਾਸ਼ਾਵਾਂ	Dardiske språk
+ਪਛਾਣ-ਸ਼ਬਦ	Passord
+ਸਮਾਜਕ ਮਨੋਵਿਗਿਆਨ	Sosialpsykologi
+ਕ੍ਰੈਡਿਟ ਕਾਰਡ	Kredittkort
+ਚਿਉਨ ਸ਼ੁਗੀਹਾਰਾ	Chiune Sugihara
+ਟੂੰਮਾਂ	Smykke
+ਜੰਗ ਤੇ ਅਮਨ	Krig og fred
+ਪੈਤਰਿਸ ਲਮੂੰਬਾ	Patrice Lumumba
+ਕਰਕ	Krepsen (stjernetegn)
+ਪਾਮੀਰ ਪਹਾੜ	Pamir
+ਐਡਵਰਡ ਗਿਬਨ	Edward Gibbon
+ਗਰੇਟ ਬ੍ਰਿਟੇਨ ਦੀ ਸੰਯੁਕਤ ਰਾਜਸ਼ਾਹੀ	Kongeriket Storbritannia
+ਕੁੰਭ	Vannmannen (stjernetegn)
+ਨਿਕੀ ਮਿਨਾਜ	Nicki Minaj
+ਅਲਾਹਾਬਾਦ	Allahabad
+ਦੇਹਰਾ	Mausoleum
+ਮਾਸਾਈ ਲੋਕ	Masaier
+ਪ੍ਰਸਰਣ (ਵਿਗਿਆਨ)	Diffusjon
+ਸੋਨੀਆ ਗਾਂਧੀ	Sonia Gandhi
+ਬਲੋਚਿਸਤਾਨ (ਪਾਕਿਸਤਾਨ)	Balutsjistan (Pakistan)
+ਅਜਨਬੀ (ਨਾਵਲ)	Den fremmede
+ਐਜ਼ਰਾ ਪਾਊਂਡ	Ezra Pound
+ਪੂਰਬੀ ਸਾਈਬੇਰੀਆਈ ਸਮੁੰਦਰ	Østsibirhavet
+ਡੀ.ਡੀ.ਟੀ.	DDT
+ਮਲੇਸ਼ੀਆਈ ਰਿਙਿਤ	Malaysisk ringgit
+ਜੂਜੁਤਸੂ	Jujutsu
+ਸਿਲੀਕਾਨ ਘਾਟੀ	Silicon Valley
+ਦ ਡਾਰਕ ਨਾਈਟ	The Dark Knight
+ਕਮਿਊਨਿਸਟ ਇੰਟਰਨੈਸ਼ਨਲ	Komintern
+ਅਮੀਰਾਤ ਸਟੇਡੀਅਮ	Emirates Stadium
+ਵ੍ਰਸ਼	Tyren (stjernetegn)
+ਸਾਂਤੀਆਗੋ ਬੈਰਨਾਬੇਊ ਸਟੇਡੀਅਮ	Santiago Bernabéu Stadion
+ਅਲੈਗਜ਼ੈਂਡਰ ਪੋਪ	Alexander Pope
+ਤੀਆਨਾਨਮੇਨ ਚੌਕ	Den himmelske freds plass
+ਅ ਬਿਊਟੀਫ਼ੁਲ ਮਾਈਂਡ	Et vakkert sinn (film)
+ਮਾਰਕ ਵਾਲਬਰਗ	Mark Wahlberg
+ਮਕਰ	Steinbukken (stjernetegn)
+ਫ਼ੰਕ	Funk
+ਕਰਤਾ (ਵਿਆਕਰਨ)	Subjekt (grammatikk)
+ਖੱਬੇ-ਪੱਖੀ ਰਾਜਨੀਤੀ	Venstresiden
+ਦ ਵਾਲ ਸਟਰੀਟ ਜਰਨਲ	The Wall Street Journal
+ਅਲੈਗਜ਼ੈਂਡਰ ਬਲੋਕ	Aleksandr Blok
+ਐਸ਼ਟਨ ਕਚਰ	Ashton Kutcher
+ਪਾਓਲੋ ਫਰੇਰੇ	Paulo Freire
+ਪ੍ਰਤੀਕਵਾਦ (ਕਲਾ)	Symbolisme
+ਓਲੀਵਰ ਟਵਿਸਟ	Oliver Twist
+ਕਾਰਲ ਸ਼ਪਿਟਸਵੇਕ	Carl Spitzweg
+ਨਾਇਕੀ (ਮਿਥਹਾਸ)	Nike (mytologi)
+ਬੈਕਟੀਰਿਓਫੇਜ਼	Bakteriofag
+ਗ੍ਰੀਨਹਾਊਸ	Drivhus
+ਮੋਜ਼ੈਂਬੀਕ ਨਹਿਰ	Mosambikkanalen
+ਯੂਕਾਤਾਨ	Mérida (Yucatán)
+ਯਾਕ ਪਰੇਵੈਰ	Jacques Prévert
+ਅਪਰਾਧ ਅਤੇ ਦੰਡ	Forbrytelse og straff
+ਬਾਈਕੋਨੂਰ	Bajkonur
+ਧੌਲਾਗਿਰੀ	Dhaulagiri
+ਤਿਕਰੀਤ	Tikrit
+ਅਜ਼ਾਨ	Adhan
+ਜੈਵਿਕ ਖੇਤੀ	Økologisk landbruk
+ਮਾਈਕਰੋ ਕੰਟ੍ਰੋਲਰ	Mikrokontroller
+ਬਰਤਾਨਵੀ ਅੰਟਾਰਕਟਿਕ ਰਾਜਖੇਤਰ	Britisk Antarktis
+ਸੇਵਿੰਗ ਪ੍ਰਾਈਵੇਟ ਰਾਇਨ	Redd menig Ryan
+ਰੰਗਾਵਲ	Prisme (optikk)
+ਦ ਵਾਸ਼ਿੰਗਟਨ ਪੋਸਟ	The Washington Post
+ਵਿਸ਼ਵ ਪੁਸਤਕ ਦਿਵਸ	Verdens bokdag
+ਕਾਮੀਲੋ ਬੈਨਸੋ, ਕਾਵੂਰ ਦਾ ਕਾਊਂਟ	Camillo Benso di Cavour
+ਬੈਟਮੈਨ ਬਿਗਿਨਜ਼	Batman Begins
+ਘੜਮੱਸ ਸਿਧਾਂਤ	Kaosteori
+ਡੋਪਿੰਗ (ਖੇਡਾਂ)	Doping
+ਅਮੀਰ (ਪਦਵੀ)	Emir
+ਡੇਲਵਾਇਨ ਜ਼ਿਲਾ	Delvinë (distrikt)
+ਸ਼ਤ ਅਲ-ਅਰਬ	Shatt al-Arab
+ਜ਼ਾਗਰਸ ਪਹਾੜ	Zagros
+ਬਾਰਬੀ	Barbiedukke
+ਨੂਰਿਸਤਾਨ ਸੂਬਾ	Nuristān (provins)
+ਫ਼ਰਾਹ ਖ਼ਾਨ	Farah Khan
+ਵਿਜੈਨਗਰ ਸਾਮਰਾਜ	Vijayanagarariket
+ਤੀਰੂਵੰਥਪੁਰਮ	Thiruvananthapuram
+ਵਿਲੀਅਮ ਮੇਕਪੀਸ ਥੈਕਰੇ	William Makepeace Thackeray
+ਆਰਥੋਪਟੇਰਾ	Rettvinger
+ਬੁਰਕਾ	Burka
+ਗਿੱਟਾ	Ankelledd
+ਸਵੇਜ਼ ਦੀ ਖਾੜੀ	Suezbukten
+ਡੱਡੀ	Rumpetroll
+ਹਰਜੀਸਾ	Hargeisa
+ਗੁੱਡੀ	Dukke
+ਰੌਬਰਟ ਫ਼ਰੌਸਟ	Robert Frost
+ਕੈਲੀਫ਼ੋਰਨੀਆ ਯੂਨੀਵਰਸਿਟੀ, ਬਰਕਲੇ	University of California, Berkeley
+ਐਨਾਫ਼ਾਈਲੈਕਸਿਸ	Anafylaksi
+ਇਸਲਾਮ ਦੇ ਪੈਗੰਬਰ	Islams profeter
+ਇਸਕੀ ਸ਼ਹਿਰ	Eskişehir
+ਪੰਜਾਬ ਖੇਤਰ	Punjab
+ਵਿਤਕਰਾ	Forskjellsbehandling
+ਮੂਰ	Maurere
+ਹਾਈਡਰੋਜਨ ਜੋੜ	Hydrogenbinding
+ਮਾਇਲੇੱਟਸ	Milet
+ਸੇਂਟ ਲਾਰੰਸ ਦੀ ਖਾੜੀ	Sankt Lawrencebukta
+ਯਾਕ ਲਾਕਾਂ	Jacques Lacan
+ਦੱਖਣੀ ਪਠਾਰ	Deccan
+ਦਾਰਜੀਲਿੰਗ	Darjeeling
+ਰਾਸ ਅਲ-ਖ਼ੈਮਾ	Ras al-Khaimah
+ਸ੍ਰੀਨਗਰ	Srinagar
+ਮਹਾਂਸੰਘ	Konføderasjon
+ਟਰਾਈਨਾਈਟਰੋਟੌਲਵੀਨ	Trinitrotoluen
+ਬੋਰਿਸ ਗੋਦੂਨੋਵ	Boris Godunov
+ਅਬਸਿਨਤੀਨ	Absint
+ਭਾਗੀਰਥੀ ਦਰਿਆ	Bhagirathi
+ਟਾਰਜ਼ਨ	Tarzan
+ਚੀਨਾਨ	Jinan (Shandong)
+ਸ਼ੇਖ ਸਾਦੀ	Sa'di
+ਜਲਗਾਹਾਂ	Våtmark
+ਕਿੰਗਦਾਓ	Qingdao
+ਸਰੈਬਰੇਨੀਤਸਾ ਕਤਲਾਮ	Srebrenica-massakren
+ਅਹਵਾਜ਼	Ahvaz
+ਲੈਅ	Rytme
+ਕਿਰਿਆਸ਼ੀਲ ਸਮੂਹ	Liste over funksjonelle grupper
+ਬਾਲਕਨ ਪਹਾੜ	Balkanfjellene
+ਸ਼ਿਕਾਰਖ਼ੋਰੀ	Predasjon
+ਅਗਰਤਲਾ	Agartala
+ਐਦਿਨ	Aydın
+ਨਿੰਮ	Neem
+ਪਾਰਵਤੀ	Parvati
+ਹੈਨਰੀ ਜੇਮਜ਼	Henry James
+ਪੈਰੋਡੀ	Parodi
+ਯਜ਼ਦ ਸੂਬਾ	Yazd (provins)
+ਪ੍ਰਾਈਡ ਐਂਡ ਪ੍ਰੈਜੁਡਿਸ	Stolthet og fordom
+ਕੋਲਾਜ	Collage
+ਸਿਰਜਣਸ਼ੀਲਤਾ	Kreativitet
+ਸਾਂਤਾ ਕਰੂਸ, ਬੋਲੀਵੀਆ	Santa Cruz de la Sierra
+ਘੁਲਣਸ਼ੀਲਤਾ	Løselighet
+ਕੀਟੋਨ	Keton
+ਕਰਾਮਾਤ	Mirakel
+ਦੇਨਿਜਲੀ	Denizli
+ਆਬਲਿਸਕ	Obelisk
+ਗਠੀਆ	Artritt
+ਨਿੱਜੀ ਤੰਤ੍ਰਿਕਾ ਪ੍ਰਣਾਲੀ	Det autonome nervesystem
+ਬਾਇਓ ਗੈਸ	Biogass
+ਪ੍ਰਤੱਖ ਲੋਕਰਾਜ	Direkte demokrati
+ਫੁਕੂਸ਼ੀਮਾ ਰੀਐਕਟਰ ਲੀਕ	Fukushima-ulykken
+ਵਰਜਣ	Tabu
+ਨਾਗਾਰਜੁਨ (ਦਾਰਸ਼ਨਿਕ)	Nagarjuna
+ਲੰਡਨ ਸਟਾਕ ਐਕਸਚੇਂਜ	London Stock Exchange
+ਸਟੈਮਫ਼ੋਰਡ ਬ੍ਰਿਜ (ਸਟੇਡੀਅਮ)	Stamford Bridge (London)
+ਸੂਰਜਮੁਖੀ	Solsikke
+ਹਾਦਸਾ	Ulykke
+ਮਾਰਾਕਾਈਬੋ	Maracaibo
+ਸਤਲੁਜ ਦਰਿਆ	Sutlej
+ਮੈਥੀਊ ਪੈਰੀ	Matthew Langford Perry
+ਅਹਿਮਦੀਆ	Ahmadiyya
+ਭੁਬਨੇਸ਼ਵਰ	Bhubaneswar
+ਆਗਰੇ ਦਾ ਕ਼ਿਲਾ	Agra fort
+ਹਾਈਡਰੋਜਨ ਪਰਆਕਸਾਈਡ	Hydrogenperoksid
+ਧਰਮ ਦੀ ਆਜ਼ਾਦੀ	Religionsfrihet
+ਨਾਨਛਾਂਙ	Nanchang
+ਲੁਕਣ ਮੀਚੀ	Gjemsel
+ਐਲ (ਸਿਰਿਲਿਕ)	Л
+ਕੋਰਲ ਸਾਗਰ ਟਾਪੂ	Korallhavøyene
+ਦ ਸ਼ੌਸ਼ੈਂਕ ਰਿਡੈਂਪਸ਼ਨ	Frihetens regn
+ਕਪੂਰਥਲਾ ਜ਼ਿਲ੍ਹਾ	Kapurthala (distrikt)
+ਫ਼ਿਰੋਜ਼ਪੁਰ ਜ਼ਿਲ੍ਹਾ	Firozpur (distrikt)
+ਮਾਨਸਾ ਜ਼ਿਲ੍ਹਾ	Mansa (distrikt)
+ਪਟਿਆਲਾ ਜ਼ਿਲ੍ਹਾ	Patiala (distrikt)
+ਜਿਰੌਂਦੈਂ ਦੇ ਬੋਰਦੋ ਫੁੱਟਬਾਲ ਕਲੱਬ	FC Girondins de Bordeaux
+ਲੁਧਿਆਣਾ ਜ਼ਿਲ੍ਹਾ	Ludhiana (distrikt)
+ਫ਼ਤਹਿਗੜ੍ਹ ਸਾਹਿਬ ਜ਼ਿਲ੍ਹਾ	Fatehgarh Sahib (distrikt)
+ਬਠਿੰਡਾ ਜ਼ਿਲ੍ਹਾ	Bathinda (distrikt)
+ਫ਼ਰੀਦਕੋਟ ਜ਼ਿਲ੍ਹਾ	Faridkot (distrikt)
+ਸਰਬੀਆਈ ਦਿਨਾਰ	Serbisk dinar
+ਬੁਲਗਾਰੀਆਈ ਲੇਵ	Bulgarsk lev
+ਝਾੜ-ਫੂਕ	Eksorsisme
+ਐਲੇਸਟਰ ਕ੍ਰੌਲੀ	Aleister Crowley
+ਥਾਰ ਮਾਰੂਥਲ	Thar
+ਓ ਹੈਨਰੀ	O. Henry
+ਸਾੜੀ	Sari (klesplagg)
+ਬਾਈਸਾਈਕਲ ਥੀਵਜ਼	Sykkeltyvene
+ਦਾ ਨੇਮ ਆਫ਼ ਦਾ ਰੋਜ਼	Rosens navn
+ਤੁਰਕੀ ਲੀਰਾ	Tyrkisk lira
+ਸਾਹ-ਨਾਲ਼ੀ ਦੀ ਸੋਜ	Bronkitt
+ਗਲਾਸਨੋਸਤ	Glasnost
+ਬ੍ਰਾਜ਼ੀਲੀ ਰਿਆਲ	Brasiliansk real
+ਖ਼ੁਦਮੁਖ਼ਤਿਆਰਸ਼ਾਹੀ	Autokrati
+ਤਾਮਿਲ ਲੋਕ	Tamiler
+ਮਾਰਵਲ ਕੌਮਿਕਸ	Marvel Comics
+ਖਾਣਜੋਗ ਸਮਾਨ ਦੀ ਹਿਫਾਜ਼ਤ	Matkonservering
+ਗਜ਼ਨੀ	Ghazni
+ਕਜ਼ਾਖ਼ਸਤਾਨੀ ਤੇਂਗੇ	Kasakhstansk tenge
+ਮਨੋਰੰਜਨ	Underholdning
+ਕਾਪੀਸਾ	Kapisa (provins)
+ਰੇਡੀਅਸ	Radius
+ਹੇਲਮੰਦ ਸੂਬਾ	Helmand (provins)
+ਅਲਫ਼ਰੈਡ ਟੈਨੀਸਨ	Alfred Tennyson
+ਚੇ (ਸਿਰਿਲਿਕ)	Ч
+ਸ਼ਾ (ਸਿਰਿਲਿਕ)	Ш
+ਫ਼ੈਸਲਾਬਾਦ	Faisalabad
+ਯਾਂ ਤਿਰੋਲ	Jean Tirole
+ਏਲਾਜਿਗ	Elazığ
+ਐਂਨ (ਸਿਰਿਲਿਕ)	Н
+ਛਾਂਙਸ਼ਾ	Changsha
+ਪ੍ਰੇਮਚੰਦ	Munshi Premchand
+ਗ੍ਰੇਟ ਬ੍ਰਿਟੇਨ ਅਤੇ ਆਇਰਲੈਂਡ ਦੀ ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ	Det forente kongerike Storbritannia og Irland
+ਕਾਰਬਨੀ ਯੋਗ	Organisk forbindelse
+ਐਫ (ਸਿਰਿਲਿਕ)	Ф
+ਅਲਮਾ ਮਾਤਰ	Alma mater
+ਰਾਂਚੀ	Ranchi
+ਤੌਹੀਦ	Tawhid
+ਲੰਡਨ ਸਕੂਲ ਆਫ਼ ਇਕਨਾਮਿਕਸ	London School of Economics
+ਮੋਬੀ ਡਿੱਕ	Moby Dick
+ਆਸਟਰੇਲੀਆ ਦਾ ਇਤਿਹਾਸ	Australias historie
+ਦੁੱਧ ਚੁੰਘਾਉਣਾ	Amming
+ਉਮ ਅਲ-ਕਿਵੇਨ	Umm al-Qaiwain
+ਗੁਰਨੀਕਾ	Guernica (maleri)
+ਵਿਲਾ ਪਾਰਕ	Villa Park (England)
+ਫਾਟਕ:ਇਤਿਹਾਸ	Portal:Historie
+ਵਿਟਾਮਿਨ ਡੀ	Vitamin D
+ਪੂਰਬੀ ਅਜ਼ਰਬਾਈਜਾਨ ਸੂਬਾ	Øst-Aserbajdsjan
+ਥੀਸੈਨ-ਬੋਰਨੇਮੀਸਾ ਅਜਾਇਬਘਰ	Museo Thyssen-Bornemisza
+2010 ਫੀਫਾ ਵਿਸ਼ਵ ਕੱਪ	VM i fotball 2010
+ਉੱਪ-ਪਰਮਾਣੂ ਕਣ	Subatomær partikkel
+ਵਿਕਾਸਸ਼ੀਲ ਦੇਸ਼	Utviklingsland
+ਮਨੁੱਖੀ ਪਰਵਾਸ	Migrasjon
+ਭਾਈਚਾਰਾ	Gemeinschaft
+ਰੋਗ-ਪਛਾਣ	Diagnose
+ਲੋਰੈਂਸੋ ਦੇ ਮੇਦੀਚੀ	Lorenzo de' Medici
+ਤੀਹਰਾ ਸਮਝੌਤਾ	Trippelententen
+ਮਕਦੂਨੀਆਈ ਦਿਨਾਰ	Makedonsk denar
+ਥਾਈ ਬਾਤ	Thailandsk baht
+ਯੋਗਤਾਰਾਜ	Meritokrati
+ਵਿਨ ਡੀਜ਼ਲ	Vin Diesel
+ਓ (ਸਿਰਿਲਿਕ)	О
+ਸਪੇਨੀ ਫਲੂ	Spanskesyken
+ਰਾਸ਼ਟਰਮੰਡਲ ਖੇਡਾਂ	Samveldelekene
+ਦਰੀ ਫ਼ਾਰਸੀ	Dari
+ਨੰਗਰਹਾਰ ਸੂਬਾ	Nangarhar (provins)
+ਬਾਖ਼ਾ ਕੈਲੀਫ਼ੋਰਨੀਆ ਪਰਾਇਦੀਪ	Californiahalvøya
+ਜੂਰਾ ਪਹਾੜ	Jurafjellene
+ਮੁੱਲਾਂ ਨਸਰੁੱਦੀਨ	Nasreddin Hodja
+ਮਿੱਤਾਨੀ ਸਾਮਰਾਜ	Mitanni
+ਡਬਲਿਊ ਐਚ ਆਡੇਨ	W.H. Auden
+ਅਦਵੈਤਵਾਦ	Monisme
+ਕੌਮਾਂਤਰੀ ਵਪਾਰ	Internasjonal handel
+ਸੀਰੀਆਈ ਖ਼ਾਨਾਜੰਗੀ	Borgerkrigen i Syria
+ਰੁਪਿਆ	Rupi
+ਸੌ ਸਾਲ ਦਾ ਇਕਲਾਪਾ	Hundre års ensomhet
+ਆਸਟਰੇਲੀਆਈ ਅੰਟਾਰਕਟਿਕ ਰਾਜਖੇਤਰ	Australian Antarctic Territory
+ਦ ਐਲਕਮਿਸਟ (ਨਾਵਲ)	Alkymisten
+ਫ਼ਰਾਂਸੀਸੀ ਬਸਤੀਵਾਦੀ ਸਾਮਰਾਜ	Det franske koloniriket
+ਲੀਸਾ ਕੂਡਰੋ	Lisa Kudrow
+ਫ਼ਤਿਹਪੁਰ ਸੀਕਰੀ	Fatehpur Sikri
+ਸੱਟਾ ਬਜ਼ਾਰ	Børs
+ਰੋਲਾਂ ਬਾਰਥ	Roland Barthes
+ਜੌਨ ਰਸਕਿਨ	John Ruskin
+ਰੂਸੀ ਸਾਹਿਤ	Russisk litteratur
+ਇਕਾਤਮਕ ਦੇਸ਼	Enhetsstat
+ਬਣਤਰਵਾਦ	Strukturalisme
+ਗੂਗਨਹਾਈਮ ਅਜਾਇਬ-ਘਰ ਬੀਲਬਾਓ	Guggenheimmuseet i Bilbao
+ਮਸਦਰ (ਵਿਆਕਰਨ)	Infinitiv
+ਜਿੱਦੂ ਕ੍ਰਿਸ਼ਨਾਮੂਰਤੀ	Jiddu Krishnamurti
+ਜਿਓਵਾਨੀ ਪਾਲਿਸਤਰੀਨਾ	Giovanni Pierluigi da Palestrina
+ਕਾਰਨਤਾ	Kausalitet
+ਧੱਕੇਸ਼ਾਹੀ	Despoti
+ਰਾਬਰਟ ਓਵਨ	Robert Owen
+ਚਾਰਲਸ ਐਲਬਰਟ ਗੋਬਾਟ	Charles Albert Gobat
+ਔਲੀਵਰ ਸਟੋਨ	Oliver Stone
+ਅਲੈਗਜ਼ਾਂਦਰਾ ਕੋਲੋਨਤਾਈ	Aleksandra Kollontaj
+ਅਟਾਹੁਆਲਪਾ	Atahualpa
+ਤਾਰਿਆਂ ਦੀ ਸ਼੍ਰੇਣੀਆਂ	Spektralklasse
+ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ ਵਟਾਂਦਰਾਯੋਗ ਮਾਰਕ	Konvertibilna mark
+ਐਮ (ਸਿਰਿਲਿਕ)	М
+ਇਲਾਜ	Terapi
+ਕੌਮੀ ਰਾਜ	Nasjonalstat
+ਮਿੱਠਾ ਸੋਡਾ	Natron
+ਥੀਸਾਰਸ ਕੋਸ਼	Tesaurus
+ਰਾਜਨੀਤਕ ਦਰਸ਼ਨ	Politisk filosofi
+ਤਿੱਬਤੀ ਪਠਾਰ	Tibetplatået
+ਅਫ਼ਰੀਕਾ ਲਈ ਧੱਕਾ-ਮੁੱਕੀ	Kappløpet om Afrika
+ਟਸੇ (ਸਿਰਿਲਿਕ)	Ц
+ਖਾ (ਸਿਰਿਲਿਕ)	Х
+ਊ (ਸਿਰਿਲਿਕ)	У
+ਐਸ (ਸਿਰਿਲਿਕ)	С
+ਰੇਤ ਘੜੀ	Timeglass (tidsmåler)
+ਕਾਕਾਪੋ	Kakapo
+ਉੱਤਰੀ ਖ਼ੁਰਾਸਾਨ ਸੂਬਾ	Nord-Khorasan
+ਮਾਰਗਰੈੱਟ ਮੀਡ	Margaret Mead
+ਏ ਐੱਸ ਮੋਨਾਕੋ ਫੁੱਟਬਾਲ ਕਲੱਬ	AS Monaco FC
+ਰੀਜਿਕਨ	Rēzekne
+ਫ਼੍ਰੈਡ੍ਰਿਕ ਪਾਸੀ	Frédéric Passy
+ਗਜ਼ਨੀ ਸੂਬਾ	Ghazni (provins)
+ਰੌਸ ਕਾਊਂਟੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Ross County FC
+ਅਨਖ	Ankh
+ਗੋਦ ਲੈਣਾ	Adopsjon
+ਅਲਾਸਕਾ ਦੀ ਖਾੜੀ	Alaskabukta
+ਫਿਲਿਪ ਸੀਮੌਰ ਹਾਫਮੈਨ	Philip Seymour Hoffman
+ਬੱਦੂ ਲੋਕ	Beduiner
+ਦੁਖੀਏ (ਨਾਵਲ)	De elendige
+ਲਿਓ ਵਿਗੋਤਸਕੀ	Lev Vygotskij
+ਕਾਰਪੈਂਟਰੀਆ ਦੀ ਖਾੜੀ	Carpentariabukta
+ਸੌਰ ਪੁੰਜ	Solmasse
+ਸਮਾਜਵਾਦੀ ਯਥਾਰਥਵਾਦ	Sosialistisk realisme
+ਅਮ ਦਰਮਾਨ	Umm Durmān
+ਆਦਿ ਸ਼ੰਕਰਾਚਾਰੀਆ	Adi Shankara
+ਜੇਨ ਐਡਮਜ਼	Jane Addams
+ਪ੍ਰਤੀ ਹਜ਼ਾਰ	Promille
+ਲਿਟਲ ਬੁਆਏ	Little Boy
+ਬਲੋਚਿਸਤਾਨ (ਖੇਤਰ)	Balutsjistan
+ਮੋਲਦੋਵੀ ਲਿਊ	Moldovsk leu
+ਵੀਗਨਿਜ਼ਮ	Veganisme
+ਦਵੰਦਾਤਮਕ ਪਦਾਰਥਵਾਦ	Dialektisk materialisme
+ਛੋਟੀ ਈ (ਸਿਰਿਲਿਕ)	Й
+ਐਰ (ਸਿਰਿਲਿਕ)	Р
+ਡਾਰਲਿੰਗ ਦਰਿਆ	Darling (elv)
+ਗੁਲੀਵਰਸ ਟਰੈਵਲਜ਼	Gullivers reiser
+ਕਾਓਸੀਅੰਗ	Kaohsiung
+ਕਿੰਗ ਲੀਅਰ	Kong Lear
+ਵਾਸ਼ਿੰਗਟਨ ਇਰਵਿੰਗ	Washington Irving
+ਜਾਰਜ ਰ. ਰ. ਮਾਰਟਿਨ	George R.R. Martin
+ਕਾਰਬੋਨੇਟ	Karbonat
+ਘਟਨਾ ਖਤਿਜ	Hendelseshorisont
+ਕੋਲਾਇਡ	Kolloid
+ਫ਼ੰਡੀ ਦੀ ਖਾੜੀ	Fundybukta
+ਨਾਗਰਿਕ ਸਮਾਜ	Sivilt samfunn
+ਅਕਸਾਰਾਏ	Aksaray
+ਚੌਧਰ	Hegemoni
+ਕੁਮਾਸੀ	Kumasi
+ਕਮਿਊਨਿਜਮ-ਵਿਰੋਧ	Antikommunisme
+ਮਹਾਂਨਗਰੀ ਇਲਾਕਾ ਜਾਲ	Bydatanett
+ਸਮਾਂ ਸਫ਼ਰ	Tidsreise
+ਜਨੇਊ ਰੋਗ	Helvetesild
+ਬੇਨਿਸਤਾਰਾਵਾਦ	Irredentisme
+ਸ਼ਚਾ (ਸਿਰਿਲਿਕ)	Щ
+ਏਸ਼ੀਆਈ ਸ਼ੇਰ	Asiatisk løve
+ਪੁੱਤਰਜੈ	Putrajaya
+ਤੇ (ਸਿਰਿਲਿਕ)	Т
+ਸਰੇ ਪੋਲ	Sar-e Pol (provins)
+ਪਕਤੀਆ	Paktia (provins)
+ਰਸਾਇਣਕ ਸਮੀਕਰਨ	Ligning (kjemi)
+ਅਲੰਕਾਰ (ਸਾਹਿਤ)	Figur (retorikk)
+ਜਲਪਰੀ	Havfrue
+ਸ਼ਰਲੀ ਟੈਂਪਲ	Shirley Temple
+ਹਾਰਪਰ ਲੀ	Harper Lee
+ਵਿਰੋਧੀ ਕਣ	Antipartikkel
+ਤੁਰਕਾਨਾ ਝੀਲ	Turkanasjøen
+ਕਨਮਿੰਗ	Kunming
+ਮਾਰੀਓ ਪੁਝੋ	Mario Puzo
+ਜੀ ਵੀ ਪਲੈਖ਼ਾਨੋਵ	Georgij Plekhanov
+ਫਲੋਰੀਸੈਂਟ ਲੈਂਪ	Lysrør
+ਜੇਨ ਆਇਰ	Jane Eyre
+ਕਾਨੋ	Kano (Nigeria)
+ਸਮੰਗਾਨ ਸੂਬਾ	Samangan (provins)
+ਉਰੁਜ਼ਗਾਨ ਸੂਬਾ	Uruzgan (provins)
+ਜੁਜ਼ਜਾਨ ਸੂਬ	Jowzjan (provins)
+ਵਾਰਦਾਕ	Vardak (provins)
+ਮਰੀ ਦਰਿਆ	Murray
+ਰਾਮਕ੍ਰਿਸ਼ਨ ਪਰਮਹੰਸ	Ramakrishna
+ਬਰਦਰਜ਼ ਕਾਰਾਮਾਜੋਵ	Brødrene Karamasov
+ਸੈਮੂਅਲ ਜਾਨਸਨ	Samuel Johnson
+ਇਬਾਦਾਨ	Ibadan
+ਜਲਾਲਾਬਾਦ (ਅਫਗਾਨਿਸਤਾਨ)	Jalalabad
+ਖ਼ੈਬਰ ਪਖ਼ਤੁਨਖ਼ਵਾ	Khyber Pakhtunkhwa
+ਕਾਲਾ ਹਿਰਨ	Hjorteantilope
+ਵਸਿਲੀ ਜ਼ਾਇਤਸੇਵ	Vasilij Zajtsev
+ਮੰਗੋਲੀਆਈ ਤੋਗਰੋਗ	Mongolsk togrog
+ਬੈਲਿੰਗਜ਼ਹਾਊਸਨ ਸਮੁੰਦਰ	Bellingshausenhavet
+ਲਾਨਜ਼ੂ	Lanzhou
+ਪ੍ਰਾਵਦਾ	Pravda
+ਵਿਸ਼ਵ ਜਲ ਦਿਵਸ	Verdens vanndag
+ਦ ਕੈਚਰ ਇਨ ਦ ਰਾਈ	Redderen i rugen
+ਓਮ	Om
+ਲੂਈ ਅਲਥੂਜ਼ਰ	Louis Althusser
+ਲਾਬਰਾਡੋਰ ਸਮੁੰਦਰ	Labradorsjøen
+ਸੁਰਖੀ	Leppestift
+ਜੀਲ ਦੇਲੂਜ਼	Gilles Deleuze
+ਸ਼ਾਹ	Sjah
+ਮੋਹਾਵੇ ਮਾਰੂਥਲ	Mojaveørkenen
+ਪੰਪਾਸ	Pampa
+ਆਇਤਉਲਾ	Ayatollah
+ਅਜੰਤਾ ਗੁਫਾਵਾਂ	Ajantahulene
+ਕੋਸ਼ਕਾਰੀ	Leksikografi
+ਸੋਫੀਆ ਕੋਵਾਲਸਕਾਇਆ	Sofja Kovalevskaja
+ਸਰਗੇਈ ਬੁਬਕਾ	Serhij Bubka
+ਨਿਰੋਲ ਬਾਦਸ਼ਾਹੀ	Enevelde
+ਜ਼ਹਿਰੀਲਾ ਮਾਦਾ	Toksin
+ਸੂਚਨਾ-ਸਮਾਜ	Informasjonssamfunn
+ਮੈਟਾਮੌਰਫਸਿਸ (ਮਹਾਂਕਾਵਿ)	Metamorfoser
+ਸਲਾਵੋਏ ਜੀਜੇਕ	Slavoj Žižek
+ਪਾਸ਼ਾ	Pasja
+ਇੰਟਰਨੈੱਟ ਰੇਡੀਓ	Nettradio
+ਪਨੀਰ ਦਾ ਪਾਣੀ	Myse
+ਬ੍ਰਾਹਮੀ ਲਿਪੀ	Brahmi-skrift
+ਅਬਜਦ	Abjad
+ਫ਼ਲੋਅਮ	Silvev
+ਮਹਾਨ ਤਾਕਤ	Stormakt
+ਓ.ਜੇ.ਸੇ. ਨੀਸ	OGC Nice
+ਸ਼ੇਖ਼	Sjeik
+ਦਾਈ	Jordmor
+ਮਾਲੋਕਾ ਸਾਗਰ	Molukksjøen
+ਮਿਖਾਇਲ ਬਾਖ਼ਤਿਨ	Mikhail Bakhtin
+ਵੋਟ ਦਾ ਹੱਕ	Stemmerett
+ਲਗਮਾਨ	Laghman (provins)
+ਕੋਇਟਾ	Quetta
+ਹੜੱਪਾ	Harappa
+ਪਕਤੀਕਾ	Paktika (provins)
+ਰੂੜੀ	Møkk
+ਲੋਕ ਭਲਾਈ	Filantropi
+ਅਰਜੁਨ	Arjuna
+ਇਸਾਕ ਆਲਬੇਨੀਸ	Isaac Albéniz
+ਮੁਫ਼ਤੀ	Mufti
+ਅਯੋਧਿਆ	Ayodhya
+ਹਰਾ ਇਨਕਲਾਬ	Den grønne revolusjonen
+ਰੂਸ ਦੀ ਜ਼ਾਰਸ਼ਾਹੀ	Tsar-Russland
+ਗੰਗਟੋਕ	Gangtok
+ਕੂਫ਼ਾ	Kufa
+ਯੁ (ਸਿਰਿਲਿਕ)	Ю
+ਸਜ਼ਾ	Straff
+ਤਖਾਰ ਸੂਬਾ	Takhar (provins)
+ਵਾਈਟ ਹਾਰਟ ਲੇਨ	White Hart Lane
+ਜੇਮਜ ਵੈੱਬ ਖਗੋਲੀ ਦੂਰਬੀਨ	James Webb-teleskopet
+ਹਾਚੀਕੋ	Hachikō
+ਪਰਜੀਵੀਪੁਣਾ	Parasittisme
+ਸਕੈਂਡੀਨੇਵੀਆਈ ਪਹਾੜ	Den skandinaviske fjellkjede
+ਅੰਗਰੇਜ਼ੀ ਸਾਹਿਤ	Engelsk litteratur
+ਪਾਕਿਸਤਾਨ ਪੀਪਲਜ਼ ਪਾਰਟੀ	Pakistans folkeparti
+ਤਜਰਬਾ ਪੱਤਰੀ	Curriculum vitae
+ਨਿਕੋਲਾਈ ਬੁਖਾਰਿਨ	Nikolaj Bukharin
+ਕਚਿਆਣ	Kvalme og brekninger
+ਇਬੂਪ੍ਰੋਫ਼ੇਨ	Ibuprofen
+ਖੁਣਾਈ	Etsning
+ਬਾਬਾ ਯਾਗਾ	Baba Jaga
+ਅਭਿਸ਼ੇਕ ਬੱਚਨ	Abhishek Bachchan
+﻿ਮੇਫ਼ਲਾਵਰ	«Mayflower»
+ਆਂਤੋਨਾਂ ਆਰਤੋ	Antonin Artaud
+ਤੱਟੀ ਝੀਲ	Lagune
+ਆਬਰਡੀਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Aberdeen FC
+ਜੂਜ਼ੈੱਪੇ ਮਾਤਸੀਨੀ	Giuseppe Mazzini
+ਤਿਤਲੀ ਪ੍ਰਭਾਵ	Sommerfugleffekten
+ਸਾਮਾਜਕ ਵਰਗ	Klasse (sosiologi)
+ਲੂਬੁਮਬਾਸ਼ੀ	Lubumbashi
+ਕੁਤਬ ਮੀਨਾਰ	Qutb Minar
+ਅਰਸ਼ੀ ਮੱਧ ਰੇਖਾ	Himmelekvator
+ਮਹਾਨ ਦਹਿਸ਼ਤ	Den store terroren
+ਅਬੂ ਧਾਬੀ (ਇਮਰਾਤ)	Abu Dhabi
+ਟਰੇਸੀ ਚੈਪਮੈਨ	Tracy Chapman
+ਫਿਨੌਲਪਥਾਲੀਨ	Fenolftalein
+ਵਾਕੰਸ਼	Frase (grammatikk)
+ਲੂਣੀ ਝੀਲ	Saltsjø
+ਅਰਥਸ਼ਾਸਤਰੀ	Samfunnsøkonom
+ਕੁਨੜ ਸੂਬਾ	Konar (provins)
+ਪਰਵਾਨ	Parvan (provins)
+ਫੈਟ ਮੈਨ	Fat Man
+ਪਾਕਿਸਤਾਨੀ ਰੁਪਈਆ	Pakistansk rupi
+ਟਾਟਾ ਮੋਟਰਜ਼	Tata Motors
+ਚੰਦਰਗੁਪਤ ਮੋਰੀਆ	Chandragupta Maurya
+ਤੱਥ	Faktum
+ਪੁਰਾਣ	Puranaene
+ਇਰਾਨੀ ਰਿਆਲ	Iransk rial
+ਹਨੂਮਾਨ	Hanuman
+ਲੂਕਾਨਸ	Marcus Annæus Lucanus
+ਨੌਨ ਸਟੀਰੌਇਡਲ ਐਂਟੀ ਇਨਫ਼ਲਾਮੇਟਰੀ ਦਵਾਈਆਂ	Ikkesteroid antiinflammatorisk middel
+ਯਾ (ਸਿਰਿਲਿਕ)	Я
+ਅਪ੍ਰਤੱਖ ਲੋਕਰਾਜ	Representativt demokrati
+ਡੇਵਿਡ ਸ਼ਵੀਮਰ	David Schwimmer
+ਸ਼ਾਰਜਾ (ਇਮਰਾਤ)	Sharjah
+ਅਧਿਆਪਕ ਦਿਵਸ	Lærerdag
+ਕਾਉਂਟਰ ਕਲਚਰ	Motkultur
+ਕਾਲਜ	College
+ਪ੍ਰਾਚੀਨ ਯੂਨਾਨੀ ਥੀਏਟਰ	Antikkens greske teater
+ਉਸ਼ਾਕ	Uşak
+ਡੇਵਿਸ ਪਣਜੋੜ	Davisstredet
+ਮਹਿਮੂਦ ਗਜ਼ਨਵੀ	Mahmud av Ghazni
+ਬੇਰਾਤ ਕਾਉਂਟੀ	Berat (region)
+ਦਮੀਆਤ	Damietta
+ਫਿਸਤੁਲਾ	Fistel
+ਦ ਜੰਗਲ ਬੁੱਕ	Jungelboken
+ਖ਼ੁਰਾਕੀ ਤੱਤ	Mineral (ernæring)
+ਇਲੋਰਾ ਗੁਫਾਵਾਂ	Ellorahulene
+ਹੁਮਾਯੂੰ ਦਾ ਮਕਬਰਾ	Humayuns grav
+ਕਾਰਾਬੁਕ	Karabük
+ਪਾਣਿਨੀ	Pāṇini
+ਇਸਲਾਮੀਅਤ	Islamisme
+ਡੇਵਿਡ ਕਾਪਰਫੀਲਡ (ਨਾਵਲ)	David Copperfield (roman)
+ਵਿਲੀਅਮ ਰਾਂਡਾਲ ਕ੍ਰੇਮਰ	Randal Cremer
+ਇਮਰਾਤ	Emirat
+ਸੁਪਰ-ਉੱਚ ਵਾਰਵਾਰਤਾ	Superhøy frekvens
+ਵੈਸਟਮਿੰਸਟਰ	Westminster
+ਇਨੂਇਤ	Inuitter
+ਇਤਿਹਾਸਕ ਪਦਾਰਥਵਾਦ	Historisk materialisme
+ਤਕਨੀਕੀਰਾਜ	Teknokrati
+ਫ਼ਾਈਟ ਕਲੱਬ	Fight Club (film)
+ਅਯੂਬ ਖਾਨ	Ayub Khan
+ਹਾਰਰ	Harar
+ਇਸਕਾਨ	ISKCON
+ਰੇਚਲ ਮਿਕੈਡਮਸ	Rachel McAdams
+ਬੌਣੀ ਆਕਾਸ਼ਗੰਗਾ	Dverggalakse
+ਦਾਰਫ਼ੂਰ ਦੀ ਜੰਗ	Darfur-konflikten
+ਝੂਠ ਫੜਨ ਵਾਲੀ ਮਸ਼ੀਨ	Polygraf
+ਤੁਰਕੀ ਦਾ ਇਤਿਹਾਸ	Tyrkias historie
+ਹੈਨਰੀ ਲਾ ਫ਼ੌਂਟੇਨ	Henri La Fontaine
+ਸਿੰਘਾਪੁਰੀ ਡਾਲਰ	Singaporsk dollar
+ਊਦ	Oud
+ਫ਼੍ਰੈਡ੍ਰਿਕ ਬਾਜਰ	Fredrik Bajer
+ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ ਦੇ ਸੂਬੇ	Sør-Afrikas provinser
+ਜੀਕਾਬਪਿਲਸ	Jēkabpils
+ਫ਼ਲੂਜਾ	Fallujah
+ਏ. ਜ਼ੈਡ. ਅਲਕਮਾਰ	AZ Alkmaar
+ਦ ਸਟੈਨਿਕ ਵਰਸਿਜ਼	Sataniske vers
+ਗੋਦਾਵਰੀ ਦਰਿਆ	Godavari
+ਸੁਰ (ਭਾਸ਼ਾ ਵਿਗਿਆਨ)	Tonespråk
+ਖ਼ੈਬਰ ਦੱਰਾ	Khyber
+ਸ਼ੇਖ਼ ਮੁਜੀਬੁਰ ਰਹਿਮਾਨ	Sheikh Mujibur Rahman
+ਪਿਟਜ਼ਬਰਗ ਸਟੀਲਰਜ਼	Pittsburgh Steelers
+ਓਰਨੀਥਿਸਕੀਆ	Ornithischia
+ਮੈਲੋਡਰਾਮਾ	Melodrama
+ਕੋਰਸੇ ਜ਼ਿਲਾ	Korçë (distrikt)
+ਅਲੌਹ ਅਇਸਕ	Jernmalm
+ਕੈਂਟਰਬਰੀ ਕਹਾਣੀਆਂ	Canterbury-fortellingene
+ਕੂੰਜ	Jomfrutrane
+ਨਬਜ਼	Puls
+ਖਮੇਰ ਰੂਜ	Røde Khmer
+ਸੇਂਟ ਜੇਮਜ਼ ਪਾਰਕ	St James' Park
+ਬੁਲਕੀਜ ਜ਼ਿਲਾ	Bulqizë (distrikt)
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਫੁਟਬਾਲ - ਪੁਰਸ਼	Fotball under Sommer-OL 2008
+ਬ੍ਰੇਵ ਨਿਊ ਵਰਲਡ	Vidunderlige nye verden
+ਨੌਂਤ ਫੁੱਟਬਾਲ ਕਲੱਬ	FC Nantes
+ਜਾਦੂਈ ਵਰਗ	Magisk kvadrat
+ਵੀਅਤਨਾਮੀ ਦੋਙ	Vietnamesisk dong
+ਪੀਟਰ ਹਿਗਜ਼	Peter Higgs
+ਡਿਬਰ ਜ਼ਿਲਾ	Dibër (distrikt)
+ਦੇਵੋਲ ਜ਼ਿਲਾ	Devoll (distrikt)
+ਧੁੰਦ	Dis
+ਆਈਸੀਸੀ ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ	Verdensmesterskapet i cricket
+ਸ਼੍ਰੀ ਅਰਬਿੰਦੋ	Sri Aurobindo
+ਗੁਈਯਾਂਗ	Guiyang
+ਹਾਈਡਰਾ	Hydra (nesledyr)
+ਨਿਕੋਲਾਈ ਚੇਰਨੀਸ਼ੇਵਸਕੀ	Nikolaj Tsjernysjevskij
+ਆਈ ਹੈਵ ਏ ਡਰੀਮ	I Have a Dream
+ਬੇਨੇਦਿਤੋ ਕਰੋਚੇ	Benedetto Croce
+ਤਾਇਪਿੰਙ ਬਗ਼ਾਵਤ	Taipingopprøret
+ਵੋਲਟਾ ਦਰਿਆ	Volta (elv)
+ਧਤੂਰਾ	Piggepleslekta
+ਆਨਦਰੇਸ ਸੇਗੋਵੀਆ	Andrés Segovia
+ਹਿਬਰਨੀਅਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Hibernian FC
+ਕਲਾਸ ਪੌਂਟਸ ਆਰਨਲਡਸਨ	Klas Pontus Arnoldson
+ਪ੍ਰੋਮੀਥੀਅਸ (2012 ਫਿਲਮ)	Prometheus (film)
+ਹਿੰਦ-ਚੀਨੀ ਟਾਈਗਰ	Indokinatiger
+ਕਾਜ਼ੀਰੰਗਾ ਕੌਮੀ ਪਾਰਕ	Kaziranga nasjonalpark
+ਅਮਰੀਕੀ ਇਨਕਲਾਬ	Den amerikanske revolusjon
+ਗੌਥਿਕ ਗਲਪ	Gotisk roman
+ਸ਼ਰਲੌਕ (ਟੀਵੀ ਲੜੀਵਾਰ)	Sherlock (TV-serie)
+ਡੂਰੇਸ ਕਾਉਂਟੀ	Durrës (region)
+ਡਿਬਰ ਕਾਉਂਟੀ	Dibër (region)
+ਨਾਦਰ ਸ਼ਾਹ	Nadir Shah
+ਡਨਡੀ ਯੁਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Dundee United FC
+ਜਮ ਮੀਨਾਰ	Minareten i Jam
+ਇਰਾਕੀ ਦਿਨਾਰ	Irakisk dinar
+ਕੁਵੈਤੀ ਦਿਨਾਰ	Kuwaitisk dinar
+ਖ਼ਾਲਿਦ ਹੁਸੈਨੀ	Khaled Hosseini
+ਬੁਣਾਈ	Strikking
+ਜੌਂ-ਫ਼ਰਾਂਸੁਆ ਲਿਓਤਾਰ	Jean-François Lyotard
+ਰੂਹ	Ånd
+ਖਗੋਲੀ ਧੂਲ	Støv (verdensrommet)
+ਮਾਦਾਮ ਬੋਵਾਰੀ	Madame Bovary
+ਪਾਰਕ ਦੇ ਪ੍ਰਿੰਸ	Parc des Princes
+ਮੈਤਰਿਆ	Maitreya
+ਸਾਵੂ ਸਾਗਰ	Savusjøen
+ਕ੍ਰਿਸ਼ਨਾ ਦਰਿਆ	Krishna (elv)
+ਟੀ ਸੈੱਲ	T-celle
+ਕਾਰਲ ਸੈਂਡਬਰਗ	Carl Sandburg
+ਫ੍ਰਾਂਜ਼ ਫੈਨਨ	Frantz Fanon
+ਇੰਡੀਆਨਾਪੋਲਿਸ ਕੋਲਟਜ਼	Indianapolis Colts
+ਹਾਇਰੋਗਲਿਫ਼ (ਗੂੜ੍ਹ-ਅੱਖਰ)	Hieroglyf
+ਬੈਨ ਜਾਨਸਨ	Ben Jonson
+ਫਰੀਦਉੱਦੀਨ ਅੱਤਾਰ	Farid ud din Attar
+ਕਾਕਪਿੱਟ	Førerkabin
+ਸ਼ਕੋਦਰ ਜ਼ਿਲਾ	Shkodër (distrikt)
+ਕੋਲੋਂਜੇ ਜ਼ਿਲਾ	Kolonjë (distrikt)
+ਕਾਵਾਜੇ ਜ਼ਿਲਾ	Kavajë (distrikt)
+ਲੇਝੇ ਜ਼ਿਲਾ	Lezhë (distrikt)
+ਗੈਟ	GATT
+ਸੁੱਕੀ ਬਰਫ਼	Tørris
+ਬਹਾਮਾਸੀ ਡਾਲਰ	Bahamansk dollar
+ਬਾਰਬਾਡੋਸੀ ਡਾਲਰ	Barbadisk dollar
+ਸਕਰਾਪਰ ਜ਼ਿਲਾ	Skrapar (distrikt)
+ਕਾਰਾ ਪਣਜੋੜ	Karastredet
+ਬੰਗਲਾਦੇਸ਼ੀ ਟਕਾ	Bangladeshisk taka
+ਕੌਮਾਂਤਰੀ ਸੰਸਕ੍ਰਿਤ ਲਿਪੀਅੰਤਰਨ ਵਰਨਮਾਲਾ	IAST
+ਰੈਚਲ ਕੋਰੀ	Rachel Corrie
+ਰੂਪਨਗਰ ਜ਼ਿਲ੍ਹਾ	Rupnagar (distrikt)
+ਅਲੀਗੜ੍ਹ ਮੁਸਲਿਮ ਯੂਨੀਵਰਸਿਟੀ	Aligarh muslimske universitet
+ਡਾ. ਰਾਜੇਂਦਰ ਪ੍ਰਸਾਦ	Rajendra Prasad
+ਜ਼ੀਬੋ	Zibo
+ਮਿਸਰੀ ਪਾਊਂਡ	Egyptisk pund
+ਅਫ਼ਗ਼ਾਨ ਅਫ਼ਗ਼ਾਨੀ	Afghansk afghani
+ਸੋਲੋਮਨ ਸਾਗਰ	Salomonsjøen
+ਦੇਹਰਾਦੂਨ	Dehradun
+ਅਰਜਨਟੀਨੀ ਪੇਸੋ	Argentinsk peso
+ਗੁਹਾਟੀ	Guwahati
+ਆਦੇਮਾਰ ਦਾ ਸਿਲਵਾ	Adhemar da Silva
+ਵਿਸ਼ਵ ਵਾਤਾਵਰਣ ਦਿਵਸ	Verdens miljødag
+ਚਾਨਕਲੇ	Çanakkale
+ਇੰਜ ਜ਼ਾਰਥੁਸਤਰਾ ਬੋਲਿਆ	Also sprach Zarathustra
+ਸਾਊਦੀ ਰਿਆਲ	Saudiarabisk riyal
+ਤਾਜਿਕਿਸਤਾਨੀ ਸੋਮੋਨੀ	Tadsjikisk somoni
+ਕਰਬਲਾ	Karbala
+ਜੋਧਪੁਰ	Jodhpur
+ਹੈਮਿਲਟਨ, ਨਿਊਜ਼ੀਲੈਂਡ	Hamilton (New Zealand)
+ਅਜਮੇਰ	Ajmer
+ਚਿਲੀਆਈ ਪੇਸੋ	Chilensk peso
+ਲਾਓ ਕਿਪ	Laotisk kip
+ਉੱਜੈਨ	Ujjain
+ਲੁਧਿਆਣਾ	Ludhiana
+ਵਾਇਓਤ ਜੋਰ ਸੂਬਾ	Vajots Dzor
+ਅਜ਼ਾਦ ਕਸ਼ਮੀਰ	Azad Kashmir
+ਮੇਰਠ	Meerut
+ਮਹਾਂਨਗਰ	Metropol
+ਸੰਯੁਕਤ ਅਰਬ ਇਮਰਾਤੀ ਦਿਰਹਾਮ	Emiratarabisk dirham
+ਦੁਨੀਆ ਦਾ ਇਤਿਹਾਸ	Verdens historie
+ਅੰਗੋਲਨ ਕਵਾਂਜ਼ਾ	Angolansk kwanza
+ਉਦੈਪੁਰ	Udaipur
+ਲੋਰੀ ਪ੍ਰਾਂਤ	Lori (provins)
+ਪੁਰਤਗਾਲੀ ਸਾਮਰਾਜ	Det portugisiske imperiet
+ਈਸ਼ਨਿੰਦਾ	Blasfemi
+ਕੋਬੀ ਸਮਲਡਰਸ	Cobie Smulders
+ਲਦਾਖ਼	Ladakh
+ਗਿਲਗਿਤ-ਬਾਲਤਿਸਤਾਨ	Gilgit-Baltistan
+ਬੀਕਾਨੇਰ	Bikaner
+ਬੋਲੀਵੀਆਈ ਬੋਲੀਵੀਆਨੋ	Boliviansk boliviano
+ਟਰਾਂਸਨਿਸਤੀਰੀਆਈ ਰੂਬਲ	Transnistrisk rubel
+ਲੋਕ-ਨਾਚ	Folkedans
+ਸ਼ਿਰਾਕ	Sjirak
+ਤੀਰਾਨਾ ਜ਼ਿਲਾ	Tiranë (distrikt)
+ਤਵੂਸ਼	Tavusj
+ਅਰਮਾਵੀਰ ਸੂਬਾ	Armavir (provins)
+ਸੈਰਾ ਵੇਨ ਕੈਲੀਜ਼	Sarah Wayne Callies
+ਅਲੈਗਜ਼ੈਂਡਰ ਹਰਜਨ	Aleksandr Herzen
+ਮੋਰ	Påfugler
+ਆਸਕਰ ਪਿਸਟੋਰੀਅਸ	Oscar Pistorius
+ਤਾਰਪੀਨ	Terpentin
+ਕਾਰਬੋਨਿਲ	Karbonyl
+ਬਲੋਚ ਲੋਕ	Balutsjer
+ਕਿਊਬਾਈ ਪੇਸੋ	Cubansk peso
+ਐਡਵਰਡ ਸਈਦ	Edward Said
+ਪ੍ਰਾਈਡ ਪਾਰਕ ਸਟੇਡੀਅਮ	Pride Park Stadium
+ਮੌਤ ਦੀਆਂ ਰਸਮਾਂ	Bisettelse
+ਝੁੱਗੀ-ਝੌਂਪੜੀ	Slum
+ਇਤਿਹਾਸਕਾਰ	Historiker
+ਭੂਟਾਨੀ ਙੂਲਤਰੂਮ	Bhutansk ngultrum
+ਅਲੀਗੜ	Aligarh
+ਨਮਰੂਦ	Nimrod
+ਬਹਿਰੀਨੀ ਦਿਨਾਰ	Bahrainsk dinar
+ਲਿਬਨਾਨੀ ਪਾਊਂਡ	Libanesisk pund
+ਨਿਸ਼ਾਨਚੀ	Skarpskytter
+ਸੂਰੀਨਾਮੀ ਡਾਲਰ	Surinamsk dollar
+ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੌਨ	Sørkoreansk won
+ਔਗੂਸਤ ਮੇਰੀ ਫਰਾਂਸੋਆ ਬੇਰਨਾਰਤ	Auguste Beernaert
+ਧੁਨੀ (ਭਾਸ਼ਾ ਵਿਗਿਆਨ)	Fon
+ਹਾਟ ਓਫ ਮਿਡਲੋਥੀਅਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	Heart of Midlothian FC
+ਸਤਾਦ ਵੇਲੋਦਰੋਮ	Stade Vélodrome
+ਥੋਮਸ ਸਾਨਕਾਰਾ	Thomas Sankara
+ਪੋਗਰਾਡੇਕ ਜ਼ਿਲਾ	Pogradec (distrikt)
+ਗਾਂਧੀ (ਫਿਲਮ)	Gandhi (film)
+ਮੈਗੀ ਜਿਲਨਹੌਲ	Maggie Gyllenhaal
+ਚੰਡੋਲ	Pariserhjul
+ਪੀਕਿਨ ਜ਼ਿਲਾ	Peqin (distrikt)
+ਤੇਪੇਲੀਨ ਜ਼ਿਲਾ	Tepelenë (distrikt)
+ਮੱਟ ਜ਼ਿਲਾ	Mat (distrikt)
+ਗੈਜ਼ਪਾਖੋ	Gazpacho
+ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ ਜ਼ਿਲ੍ਹਾ	Shahid Bhagat Singh Nagar (distrikt)
+ਮੇਸਟਾਲਾ ਸਟੇਡੀਅਮ	Estadio Mestalla
+ਅੰਮ੍ਰਿਤਸਰ ਜ਼ਿਲ੍ਹਾ	Amritsar (distrikt)
+ਨੇਪਾਲੀ ਰੁਪਈਆ	Nepalsk rupi
+ਬ੍ਰਹਮਗੁਪਤ	Brahmagupta
+ਵੁਦਰਿੰਗ ਹਾਈਟਸ	Stormfulle høyder
+ਬੇਰਾਤ ਜ਼ਿਲਾ	Berat (distrikt)
+ਅਫ਼ਰੀਕੀ ਟ੍ਰੀਪੈਨੋਸੋਮਾਇਆਸਿਸ	Sovesyke
+ਪਲਾਸੀ ਦੀ ਲੜਾਈ	Slaget ved Plassey
+ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ	Adi Granth
+ਪੋਰਟ ਬਲੇਅਰ	Port Blair
+ਮੈਡਲ ਆਫ਼ ਆਨਰ	Medal of Honor
+ਜਾਰਡਨੀ ਦਿਨਾਰ	Jordansk dinar
+ਵੈਨੇਜ਼ੁਏਲਾਈ ਬੋਲੀਵਾਰ	Venezuelansk bolívar
+ਹੈਤੀਆਈ ਗੂਰਦ	Haitisk gourde
+ਵੇਲੂਪਿਲਾਈ ਪ੍ਰਭਾਕਰਨ	Velupillai Prabhakaran
+ਐੱਮ.ਆਈ.ਏ.	M.I.A.
+ਅਜ਼ੀਮ ਸਕਵਿਡ	Kjempeblekkspruter
+ਪੇਰੂਵੀ ਨਵਾਂ ਸੋਲ	Peruansk nuevo sol
+ਕੰਬੋਡੀਆਈ ਰਿਆਲ	Kambodsjansk riel
+ਸਾਂਤੀਆਗੋ ਦੇ ਕੋਮਪੋਸਤੇਲਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	Santiago de Compostela-katedralen
+ਇਲਬਾਸਨ ਜ਼ਿਲਾ	Elbasan (distrikt)
+ਕਰੂਜੇ ਜ਼ਿਲਾ	Krujë (distrikt)
+ਡੌਮੀਨਿਕ ਪਰਸੈੱਲ	Dominic Purcell
+ਗ਼ਰੀਬੀ ਰੇਖਾ	Fattigdomsgrense
+ਬਰੂਨਾਏ ਡਾਲਰ	Bruneisk dollar
+ਕਤਰੀ ਰਿਆਲ	Qatarsk riyal
+ਵੀਨਸ ਦਾ ਸੌਦਾਗਰ	Kjøpmannen i Venedig
+ਮਾਲਦੀਵੀ ਰੁਫ਼ੀਆ	Maldivisk rufiyah
+ਕੋਰੁਮ	Çorum
+ਨਿਸ਼ਾਨੇਬਾਜ਼ੀ	Skytesport
+ਲੂਸ਼ੰਜੇ ਜ਼ਿਲਾ	Lushnjë (distrikt)
+ਪੂਕੇ ਜ਼ਿਲਾ	Pukë (distrikt)
+ਲਿਬਰਾਝਡ ਜ਼ਿਲਾ	Librazhd (distrikt)
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਬੈਡਮਿੰਟਨ	Badminton under Sommer-OL 2008
+ਹਸ ਜ਼ਿਲਾ	Has (distrikt)
+ਤੰਤੂ ਵਿਗਿਆਨ	Nevrovitenskap
+ਅਮਸਤੱਰਦਮ ਅਰੇਨਾ	Amsterdam ArenA
+ਜੜ੍ਹੀ-ਬੂਟੀ	Urt
+ਬੋਹੀਮੀਅਨਵਾਦ	Bohem
+ਨਿਕਾਰਾਗੁਆਈ ਕੋਰਦੋਬਾ	Nicaraguansk córdoba
+ਹੁਆਂਬੋ	Huambo
+ਕਟਕ	Cuttack
+ਗੁਆਤੇਮਾਲਾਈ ਕੇਤਸਾਲ	Guatemalansk quetzal
+ਮੱਲਾਕਾਸਤਰ ਜ਼ਿਲਾ	Mallakastër (distrikt)
+ਪੈਰਾਗੁਏਵੀ ਗੁਆਰਾਨੀ	Paraguayansk guaraní
+ਵਿੰਸੇਟ ਕਾਲਦੇਰੋਨ ਸਟੇਡੀਅਮ	Vicente Calderón
+ਮਾਰਟਿਨ ਜਾਨ ਐਵੰਸ	Martin J. Evans
+ਮਹਿਮੂਦ ਦਰਵੇਸ਼	Mahmoud Darwish
+ਮੁਹੰਮਦ ਨਜੀਬਉੱਲਾ	Mohammed Najibullah
+ਸ਼ਿਲਾਂਗ	Shillong
+ਆਰਥਿਕ ਬੁਲਬਲਾ	Finansboble
+ਕਾਸਾ ਮੀਲਾ	Casa Milà
+ਸਿਆਲ ਸੰਗਰਾਂਦ	Vintersolverv
+ਡਜ਼ੇ (ਸਿਰਿਲਿਕ)	Ѕ
+ਕਿਰਸੇਹਰ	Kırşehir
+ਸਤੀ (ਪ੍ਰਥਾ)	Enkebrenning
+ਇੰਫਾਲ	Imphal
+ਜੇਰਾ	Mot (egenskap)
+ਪਟਿਆਲਾ	Patiala
+ਚਮਚਾਰਾਜ	Lydrike
+ਸਤਾਦ ਦ ਖ਼ਾਂਸ	Stade de Reims
+ਅਰਬੀ ਮਾਰੂਥਲ	Den arabiske ørken
+ਹਿੰਡੋਲਾ	Karusell
+ਔਰਤ ਜਣਨ ਅੰਗ ਕੱਟ-ਵੱਢ	Kvinnelig omskjæring
+ਕਰੋਸ਼ੀਆ	Hekling
+ਨਾਈਨਟੀਨ ਏਟੀ-ਫ਼ੋਰ	1984 (roman)
+ਤਸਲੀਮਾ ਨਸਰੀਨ	Taslima Nasrin
+ਨਵਾਂ ਤਾਇਵਾਨੀ ਡਾਲਰ	Taiwansk dollar
+ਪ੍ਰਤੀਕ-ਕਥਾ	Parabel (lignelse)
+ਭਾਰਤ-ਚੀਨ ਜੰਗ	Den sino-indiske krig
+ਈਬ੍ਰੋਸ ਸਟੇਡੀਅਮ	Ibrox Stadium
+ਉਚਾਈ	Høyde
+ਨਿਕੋਲਾਈ ਰੋਰਿਕ	Nicholas K. Roerich
+ਫੀਏਰ ਜ਼ਿਲਾ	Fier (distrikt)
+ਤੋਲੂਕਾ	Toluca
+ਉਰੂਗੁਏਵੀ ਪੇਸੋ	Uruguayansk peso
+ਇੰਸਟਾਗਰਾਮ	Instagram
+ਸੰਗੀਤ ਇਲਾਜ	Musikkterapi
+ਜਿਰੋਕਾਸਤਰ ਜ਼ਿਲਾ	Gjirokastër (distrikt)
+ਜਮੈਕੀ ਡਾਲਰ	Jamaicansk dollar
+ਗਰਾੰਸ਼ ਜ਼ਿਲਾ	Gramsh (distrikt)
+ਸ਼ੇਰ ਦੀ ਖਾੜੀ	Golfe du Lion
+ਫਾਸ਼ੀਵਾਦ-ਵਿਰੋਧ	Antifascisme
+ਦਾਨ ਖ਼ੁਆਨ	Don Juan
+ਪਨਾਮਾਈ ਬਾਲਬੋਆ	Panamansk balboa
+ਬਰਮੂਡਾਈ ਡਾਲਰ	Bermudisk dollar
+ਮੂਲਾਂਸ਼	Ordstamme
+ਬੁੱਧੂ	Idioten (roman)
+ਕਿਲਮਾਰਨਕ ਫੁੱਟਬਾਲ ਕਲੱਬ	Kilmarnock FC
+ਤੀਨੋਸ	Tinos
+ਉੱਚ-ਪੱਧਰੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ	Høynivåspråk
+ਕੂਸੋਵੇ ਜ਼ਿਲਾ	Kuçovë (distrikt)
+ਦੰਡਾਣੁ	Basiller
+ਬੋਕੋ ਹਰਾਮ	Boko Haram
+ਮਹਾਂਨਗਰੀ ਫ਼ਰਾਂਸ	France métropolitaine
+ਦ ਥ੍ਰੀ ਪੈਨੀ ਓਪੇਰਾ	Tolvskillingsoperaen
+ਜਾਂ-ਲਿਓਂ ਜੇਰੋਮ	Jean-Léon Gérôme
+ਨਤਾਸ਼ਾ ਰਿਚਰਡਸਨ	Natasha Richardson
+ਕੋਹਿਨੂਰ	Koh-i-Noordiamanten
+ਅਰੁੰਧਤੀ ਰਾਏ	Arundhati Roy
+ਮਨੋਵਿਗਿਆਨੀ	Psykolog
+ਗੁਇਆਨਵੀ ਡਾਲਰ	Guyansk dollar
+ਅਕੋਲਾ	Akola
+ਗੈਰ-ਗਲਪ	Sakprosa
+ਬੀ ਐਫ ਸਕਿਨਰ	B.F. Skinner
+ਨੰਦਾ ਦੇਵੀ ਪਹਾੜ	Nanda Devi
+ਜਾਨ ਡਰਾਈਡਨ	John Dryden
+ਕੁਦਰਤੀ ਇਲਾਜ	Naturmedisin
+ਟੇਡੀ ਬੇਅਰ	Teddybjørn
+ਹੈਨੋਈ ਦਾ ਸਤੰਭ	Tårnet i Hanoi
+ਸਾਇਲੋਰ ਅਨਾਜ ਭੰਡਾਰਣ ਪ੍ਰਣਾਲੀ	Silo
+ਊਬੁੰਟੂ (ਫ਼ਲਸਫ਼ਾ)	Ubuntu (ideologi)
+ਪਾਲ ਵਾਕਰ	Paul Walker
+ਅਮਾਨੀਟਾ	Fluesopper
+ਵਿਗਿਆਨਕ ਇਨਕਲਾਬ	Den vitenskapelige revolusjonen
+ਹੇ ਮਾਰਕੀਟ ਕਾਂਡ	Haymarketopptøyene
+ਤੇਲ-ਸੋਧਕ ਕਾਰਖ਼ਾਨਾ	Oljeraffineri
+ਨਿਕੋਸ ਕਜ਼ਾਨਜ਼ਾਕਸ	Nikos Kazantzakis
+ਪਣਜੀ	Panaji
+ਜੇਹਲਮ ਦਰਿਆ	Jhelum (elv)
+ਨਾਟਕਕਾਰ	Dramatiker
+ਐਮਿਲੀ ਗ੍ਰੀਨ ਬਾਲਚ	Emily Greene Balch
+ਮੋਟਾ ਅਹਾਰ	Kostfiber
+ਰਿਚਰਡ ਰੋਰਟੀ	Richard Rorty
+ਹੱਕਲਬਰੀ ਫ਼ਿਨ ਦੇ ਕਾਰਨਾਮੇ	Huckleberry Finn
+ਝੱਗ	Skum
+ਨਾਦੇਜ਼ਦਾ ਕਰੁਪਸਕਾਇਆ	Nadezjda Krupskaja
+ਹਿੰਦ-ਯੂਨਾਨੀ ਰਾਜ	Indo-greske kongedømme
+ਜੂਲੀਅਸ ਸੀਜ਼ਰ (ਨਾਟਕ)	Julius Cæsar (skuespill)
+ਕਾਂਦੀਦ	Candide
+ਲਿਉਨਾਰਦ ਬਲੂਮਫ਼ੀਲਡ	Leonard Bloomfield
+ਮੁੱਖ ਪਾਤਰ	Protagonist
+ਕੈੱਲਟਿਕ ਪਾਰਕ	Celtic Park
+ਅਪਟਨ ਸਿੰਕਲੇਅਰ	Upton Sinclair
+ਸ਼ਹਿਰਜ਼ਾਦ	Sjeherasad
+ਮਦਰਵੈੱਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Motherwell FC
+ਲਾਜਵਰਦ	Lasurstein
+ਟੋਬੀਆਸ ਮਿਕੇਲ ਆਰੇਲ ਆਸਰ	Tobias Michael Carel Asser
+ਚਨਾਬ ਦਰਿਆ	Chenab (elv)
+ਦਾ ਟਵਾਈਲਾਈਟ ਸਾਗਾ: ਇਕਲਿਪਸ (ਫ਼ਿਲਮ)	The Twilight Saga – Eclipse
+ਕਥਾਨਕ	Handling
+ਸ਼ਾਹਰਾਹ ਕਰਾਕੁਰਮ	Karakoramveien
+ਖਾੜੀ ਦੇ ਅਰਬ ਦੇਸ਼ਾਂ ਦੀ ਸਹਿਕਾਰਤਾ ਪ੍ਰੀਸ਼ਦ	Golfrådet
+ਸਵੈਘਾਤੀ ਹਮਲਾ	Selvmordsbombe
+ਡਾਕਟਰ ਜੈਕਿਲ ਐਂਡ ਮਿਸਟਰ ਹਾਈਡ	Dr. Jekyll og Mr. Hyde
+ਵਸਨੀਕੀ ਨਾਂ	Innbyggernavn
+ਪਿਚੋਰਾ ਸਮੁੰਦਰ	Petsjorahavet
+ਲਿਓਨ ਬਰਗੇਅਸ	Léon Bourgeois
+ਜਾਰਜ ਗੁਰਜੀਏਫ	Georgij Ivanovitsj Gurdjieff
+ਓਕੇ	Ok (ord)
+ਫੁੱਲਾਂ ਦੀ ਮੱਖੀ	Blomsterfluer
+ਛੱਬੀ ਜੁਲਾਈ ਅੰਦੋਲਨ	26. juli-bevegelsen
+ਮੋਰਾਰਜੀ ਦੇਸਾਈ	Morarji Desai
+ਸਰੀਰਕ ਕਸਰਤ	Fysisk aktivitet
+ਫ਼ਲਕਿਰਕ ਫੁੱਟਬਾਲ ਕਲੱਬ	Falkirk FC
+ਪੋਂਜ਼ੀ ਸਕੀਮ	Ponzi-svindel
+ਪਾਏਦਾਰੀ	Bærekraft
+ਗੁਲਾਬ ਇਨਕਲਾਬ	Roserevolusjonen
+ਦਲਿਤ	Dalit
+ਗ੍ਰੇਟ ਐਕਸਪੈਕਟੇਸ਼ਨਜ਼	Store forventninger
+ਇਸਕਰਾ	Iskra (avis)
+ਵਿਕਟੋਰੀਆ ਕਰੌਸ	Victoria Cross
+ਫ਼ਿਲਾਡੈਲਫ਼ੀਆ ਈਗਲਜ਼	Philadelphia Eagles
+ਜੋਂਗੁਲਡਕ ਪ੍ਰਾਂਤ	Zonguldak (provins)
+ਥਾਇਓਲ	Tiol
+ਕਲ ਪੇਨ	Kal Penn
+ਅਲੀਹੂ ਰੂਟ	Elihu Root
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ	Bryting under Sommer-OL 2008
+ਅਫ਼ੀਮੀ ਜੰਗਾਂ	Opiumkrigene
+ਸਮਧੁਨੀ	Homofon
+ਟਵੈਲਥ ਨਾਈਟ	Helligtrekongersaften (skuespill)
+ਪਿਸ਼ਾਬ ਨਾਲੀ ਦੀ ਲਾਗ	Urinveisinfeksjon
+ਥਿਓਡੋਰ ਕਚੀਨਸਕੀ	Theodore Kaczynski
+ਕੰਨਿਆਕੁਮਾਰੀ	Kanyakumari
+ਤੱਤੇ ਖੱਬਿਆਂ ਦੀ ਕੋਲੀਸ਼ਨ	SYRIZA
+ਪੈਤਰਿਕ ਮੋਦੀਆਨੋ	Patrick Modiano
+ਦ ਨੋਟਬੁਕ (ਫ਼ਿਲਮ)	Dagboken
+ਵਿਤੋਰੀਆ ਸਪੋਰਟਸ ਕਲੱਬ	Vitória SC
+ਡੇਨਵਰ ਬ੍ਰਾਂਕੋਜ਼	Denver Broncos
+ਸੀਨਸਿਨਾਤੀ ਬੇਨਗਲਜ਼	Cincinnati Bengals
+ਹੂਸਟਨ ਟੈਕਸਨਜ਼	Houston Texans
+ਅਹਿਮਦਨਗਰ	Ahmednagar
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਤੀਰਅੰਦਾਜ਼ੀ	Bueskyting under Sommer-OL 2008
+ਕਾਂਸਸ ਸਿਟੀ ਚੀਫ਼ਜ਼	Kansas City Chiefs
+ਕਲੀਵਲੈਂਡ ਬਰਾਉਨਜ਼	Cleveland Browns
+ਔਰਤਾਂ ਦੇ ਹੱਕ	Kvinnerettigheter
+ਬਹੁ-ਪਾਰਟੀ ਪ੍ਰਨਾਲੀ	Flerpartisystem
+ਆਲ ਇੰਡੀਆ ਮੁਸਲਿਮ ਲੀਗ	All India Muslim League
+ਸਮਲਿਖਤ	Homograf
+ਵਾਨ ਗਾਗ ਮਿਊਜੀਅਮ	Van Gogh-museet
+ਸਮੋਵਾਰ	Samovar
+ਸ਼ੋਵੇਨਿਜ਼ਮ	Sjåvinisme
+ਸਿਜ਼ੇਰੀਅਨ	Keisersnitt
+ਮਦੁਰਈ	Madurai
+ਕਲ ਯੁੱਗ	Kali Yuga
+ਕਿਰਨ ਦੇਸਾਈ	Kiran Desai
+ਇਸਰੋ	Indian Space Research Organisation
+ਸਿਤਾਰ	Sitar
+ਥਰੀ-ਡੀ ਚਲਚਿਤਰ	3D-film
+ਲੋਕ ਸਭਾ	Lok Sabha
+ਚੀਮਾਮਾਨਡਾ ਆਦੀਚੀਏ	Chimamanda Ngozi Adichie
+ਮਾਛੇਤੇ	Machete
+ਲੂਈ ਰੇਨੌ	Louis Renault (jurist)
+ਲੇਹ	Leh
+ਅਕਸਾਈ ਚਿਨ	Aksai Chin
+ਸੀਵੀਆ ਗਿਰਜਾਘਰ	Katedralen i Sevilla
+ਪਤੰਜਲੀ	Patanjali
+ਅਰੂਬਾਈ ਫ਼ਲੋਰਿਨ	Arubansk florin
+ਕੌਮਾਂਤਰੀ ਤਮਾਕੂ-ਰਹਿਤ ਦਿਹਾੜਾ	Verdens tobakksfrie dag
+ਰਾਬਟ ਬ੍ਰਾਉਨਿੰਗ	Robert Browning
+ਅਟਲ ਬਿਹਾਰੀ ਬਾਜਪਾਈ	Atal Bihari Vajpayee
+ਪਾਣੀਪਤ ਦੀ ਦੁਜੀ ਲੜਾਈ (1556)	Det andre slaget ved Panipat
+ਦੂਜਾ ਐਂਗਲੋ-ਅਫਗਾਨ ਯੁੱਧ	Andre anglo-afghanske krig
+ਦ ਵੈਲਥ ਆਫ਼ ਨੇਸ਼ਨਜ	Nasjonenes velstand
+ਅਮਰੀਕੀ ਸਾਹਿਤ	Amerikansk litteratur
+ਪੰਚਤੰਤਰ	Panchatantra
+ਕਾਰਲੌਸ ਫ਼ਿਲਿੱਪੇ ਜ਼ਿਮੇਨਾਸ ਬੇਲੋ	Carlos Filipe Ximenes Belo
+ਨਰਮਦਾ ਦਰਿਆ	Narmada
+ਕਕੜ	Muntjaker
+ਮੱਕਾ ਸੂਬਾ	Mekka (provins)
+ਸ਼ਰੀਵਿਜੈ ਰਾਜਵੰਸ਼	Shrivijaya
+﻿ਹਦੀਸ	Hadith
+ਪਾਠ (ਸਾਹਿਤ ਸਿਧਾਂਤ)	Tekst
+ਫ਼ਲੈਨਰੀ ਓਕਾਨਰ	Flannery O'Connor
+ਅੱਲਾਹ	Allah
+ਐਲਿਸ ਮੁਨਰੋ	Alice Munro
+ਨਮਾਜ਼	Salah
+ਨਿਜ਼ਾਮੀ ਗੰਜਵੀ	Nizami Ganjavi
+ਹੱਜ	Hajj
+ਰਾਵਣ	Ravana
+ਅਮੀਲੀਆ ਕਲਾਰਕ	Emilia Clarke
+ਵੰਦਨਾ ਸ਼ਿਵਾ	Vandana Shiva
+ਕੋਚੇਰਿਲ ਰਮਣ ਨਾਰਾਇਣਨ	K. R. Narayanan
+ਏ ਫ਼ੇਅਰਵੈੱਲ ਟੂ ਆਰਮਜ਼	Farvel til våpnene
+ਅਥਰਵ ਵੇਦ	Atharvaveda
+ਦੱਖਣੀ ਕੋਨ	Sørlige Kjegle
+ਓਲੀਵਰ ਗੋਲਡਸਮਿਥ	Oliver Goldsmith
+ਕ੍ਰਿਸਟੀਨਾ ਰੋਸੇਟੀ	Christina Rossetti
+ਨੈਓਮੀ ਕਲੇਨ	Naomi Klein
+ਰਿਚਮੰਡ	Richmond (British Columbia)
+ਮਾਲੇਸਿ ਈ ਮਾਧੇ ਜ਼ਿਲਾ	Malësi e Madhe (distrikt)
+ਮਿਰਦਿਤ ਜ਼ਿਲਾ	Mirditë (distrikt)
+ਕਲਪਨਾ ਚਾਵਲਾ	Kalpana Chawla
+ਬੁਰੂੰਡੀ ਫ਼੍ਰੈਂਕ	Burundisk franc
+ਜੈਨੀ ਵਾਨ ਵੇਸਟਫਾਲੇਨ	Jenny Marx
+ਗੁਲਮੋਹਰ	Flamboyant
+ਆਰ ਡੀ ਲੈਂਗ	R.D. Laing
+ਪੌਲ ਡੀ ਕੌਂਸਟੈਂਟ	Paul-Henri-Benjamin d'Estournelles de Constant
+ਲੂਣ ਸੱਤਿਆਗ੍ਰਹਿ	Saltmarsjen
+ਸ਼ਿਵਾ ਜੀ	Shivaji
+ਸਪੀਚ ਐਕਟ	Talehandling
+ਸੀਰੀਆਈ ਪਾਊਂਡ	Syrisk pund
+ਜਿਲਦਬੰਦੀ	Håndbokbinder
+ਯਮਨੀ ਰਿਆਲ	Jemenittisk rial
+ਬੁਢਾ ਗੋਰੀਓ	Far Goriot
+ਐਂਮਾ ਲਾਜ਼ਰ	Emma Lazarus
+ਬਸਟ (ਮੂਰਤੀ)	Byste
+ਖੁਜਿਸਤਾਨ ਰਿਆਸਤ	Khuzestan
+ਮਕਾਉਈ ਪਤਾਕਾ	Macaoisk pataca
+ਓਰਹਾਨ ਪਾਮੁਕ	Orhan Pamuk
+ਟੋਰਾਂਟੋ ਪੀਅਰਸਨ ਕੌਮਾਂਤਰੀ ਹਵਾਈ ਅੱਡਾ	Toronto Pearson internasjonale lufthavn
+ਮਾਕਰੋਨ ਸਟੇਡੀਅਮ	Reebok Stadium
+ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਤੋਬਾਗੋ ਡਾਲਰ	Trinidadisk dollar
+ਕੋਸਟਾ ਰੀਕਾਈ ਕੋਲੋਨ	Costaricansk colón
+ਡੋਮਿਨਿਕਾਈ ਪੇਸੋ	Dominikansk peso
+ਲਿੰਕਨ ਸਮੁੰਦਰ	Lincolnsjøen
+ਦੂਸਰੀ ਐਂਗਲੋ-ਸਿੱਖ ਜੰਗ	Den andre anglo-sikh-krigen
+ਸੋਮਾਲੀ ਖ਼ਾਨਾਜੰਗੀ	Den somaliske borgerkrig
+ਬਰਿਕਸ	BRICS
+ਹਾਇਲ ਰਿਆਸਤ	Ha'il (provins)
+ਐਲਫਰਡ ਜੂਲਸ ਏਅਰ	Alfred Jules Ayer
+ਆਵਾਜਾਈ ਦੀ ਖੜੋਤ	Bilkø
+੨੦੧੦ ਏਸ਼ੀਆਈ ਖੇਡਾਂ	Asialekene 2010
+ਗੋਰਖਪੁਰ	Gorakhpur
+ਪੀਟ ਸੀਗਰ	Pete Seeger
+ਲਾਲ ਬਹਾਦੁਰ ਸ਼ਾਸਤਰੀ	Lal Bahadur Shastri
+ਰਾਜ ਸਭਾ	Rajya Sabha
+ਕੋਲੰਬੀਆਈ ਪੇਸੋ	Colombiansk peso
+ਸੇਗੋਵੀਆ ਦਾ ਜਲ-ਮਾਰਗ	Akvedukten i Segovia
+ਇਵੁੱਡ ਪਾਰਕ	Ewood Park
+ਵਿਸ਼ਲੇਸ਼ਣੀ ਮਨੋਵਿਗਿਆਨ	Analytisk psykologi
+ਟੌਮ ਜੋਨਜ਼	Historien om Tom Jones, et hittebarn
+ਸਰੋਜਨੀ ਨਾਇਡੂ	Sarojini Naidu
+ਲਾਲ ਫੌਜ	Den røde armé
+ਹੈਲੋਵੀਨ	Allehelgensaften
+ਕੌਮਾਂਤਰੀ ਅਮਨ ਬਿਊਰੋ	Det internasjonale fredsbyrå
+ਫ਼ਰ ਪਾਰਕ	Fir Park
+ਫੀਫਾ	FIFA
+ਕਰੀਮੀਆਈ ਜੰਗ	Krimkrigen
+ਜੰਮੂ (ਸ਼ਹਿਰ)	Jammu
+ਗਰਨਜ਼ੇ ਪਾਊਂਡ	Guernsey-pund
+ਮੁਲ੍ਹਠੀ	Lakrisplante
+ਬੋਨ ਜੋਵੀ	Bon Jovi
+ਅਨੁਸ਼ਕਾ ਸ਼ੰਕਰ	Anoushka Shankar
+ਆਸਟ੍ਰੇਲੀਆਈ ਡਾਲਰ	Australsk dollar
+ਵਿਸ਼ਵ ਹਾਸ ਦਿਵਸ	Verdens latterdag
+ਜਾਦੂ-ਟੂਣਾ	Trolldom
+ਅਪੋਰੀਆ	Apori
+ਬਹੁ-ਸੁਘੜਤਾ ਸਿਧਾਂਤ	De mange intelligenser
+ਰੀਅਲ ਸਟੀਲ	Real Steel
+ਯਥਾਰਥਵਾਦ	Realisme
+ਮੇਤੀ ਲੋਕ (ਕੈਨੇਡਾ)	Métiser
+ਕਾਰਮਾਨ	Karaman
+ਗਗਨ ਨਾਰੰਗ	Gagan Narang
+ਪੋਇਟਿਕਸ (ਅਰਸਤੂ)	Poetikken
+ਕਸਤੂਰਬਾ ਗਾਂਧੀ	Kasturba Gandhi
+ਇੰਦਰਾ ਨੂਈ	Indra Nooyi
+ਟਿਮ ਕੁਕ	Tim Cook
+ਵੇਨ ਰੂਨੀ	Wayne Rooney
+ਜਿਆਕੋਮੋ ਮਾਤਿਓਤੀ	Giacomo Matteotti
+ਉੱਤਰ-ਬਣਤਰਵਾਦ	Poststrukturalisme
+ਇਸਪਾਰਤਾ ਸੂਬਾ	Isparta (provins)
+ਜੀਂਦ ਜ਼ਿਲਾ	Jind (distrikt)
+ਸੇਂਟ ਜਾਨਸਟੋਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	St. Johnstone FC
+ਅਮਰਾਵਤੀ	Amravati
+ਅਲ ਹਦੀਦਾ	Hodeidah
+ਸ਼ੇਨ ਕੂਆ	Shen Kuo
+ਸਟੇਡੀਓ ਅਰਟੇਮਿਓ ਫ੍ਰਂਛੀ	Stadio Artemio Franchi
+ਕੈਥਰੀਨ ਮੈਂਸਫੀਲਡ	Katherine Mansfield
+ਐਡਰੀਨ ਰਿਚ	Adrienne Rich
+ਜਰਸੀ ਪਾਊਂਡ	Jersey-pund
+ਐਨਮੀ ਐਟ ਦ ਗੇਟਸ	Fiende ved porten
+ਮਹਾਂਨਦੀ ਦਰਿਆ	Mahanadi (elv)
+ਪੀਟਰ ਬੇਨੇਸਨ	Peter Benenson
+ਗਿੱਦੜ ਪੀੜ੍ਹੀ	Lakk-kjuke
+ਦਿੱਲੀ ਮੈਟਰੋ	Delhis metro
+ਕਵਰੱਤੀ	Kavaratti
+ਵਿੰਧਿਆ	Vindhyafjellene
+ਇਸ਼ਤਾਦੀਊ ਦੂ ਦਰਾਗਾਂਉ	Estádio do Dragão
+ਸਟੇਡੀਓ ਲੂਗੀ ਫੈਰਾਰਿਸ	Stadio Luigi Ferraris
+ਜੇਮਜ਼ ਮਿੱਲ	James Mill
+ਸ਼ਖਸੀਅਤ ਮਨੋਵਿਗਿਆਨ	Personlighetspsykologi
+ਨਿਕੋਲਾਈ ਓਸਤਰੋਵਸਕੀ	Nikolaj Ostrovskij
+ਲਾਰਡ ਕਰਜਨ	George Nathaniel Curzon, 1. marki Curzon av Kedleston
+ਦਿਸਪੁਰ	Dispur
+ਟੈੱਡ ਹਿਊਜ਼	Ted Hughes
+ਸੇਨ ਡਿਆਗੋ ਚਾਰਜਰਜ਼	San Diego Chargers
+ਜੇਕਸਨਵਿਲ ਜੇਗੁਆਰਜ਼	Jacksonville Jaguars
+ਨਾਰਮਨ ਏਂਜਲ	Norman Angell
+ਓਮਾਨੀ ਰਿਆਲ	Omansk rial
+ਲਾਈਜ਼ੋਜਾਈਮ	Lysozym
+ਸੋਨੇ ਲਈ ਦੌੜ	Gullrush
+ਜੇਮਜ ਬਾਲਡਵਿਨ	James Baldwin
+ਪਾਲ ਰਾਬਸਨ	Paul Robeson
+ਵਿਲੀਅਮ ਜੋਨਜ਼ (ਭਾਸ਼ਾ ਸ਼ਾਸਤਰੀ )	William Jones
+ਮੌਤ ਦਾ ਅਕੜਾਅ	Dødsstivhet
+ਈ. ਐਚ. ਕਾਰ	E. H. Carr
+ਬੇਲੀਜ਼ੀ ਡਾਲਰ	Belizisk dollar
+ਸਟੇਡੀਅਮ ਰੇਮਨ ਸਨਛੇਜ ਪਿਜੁਆਨ	Estadio Ramón Sánchez Pizjuán
+ਅਮੇਰੀਕਨ ਫੁਟਬਾਲ ਕਾਨਫਰੰਸ	American Football Conference
+ਬਾਲਟੀਮੌਰ ਰੇਵਨਜ਼	Baltimore Ravens
+ਬਾਲੀ ਸਮੁੰਦਰ	Balisjøen
+ਨੋਇਡਾ	Noida
+ਵੰਦੇ ਮਾਤਰਮ	Vande Mataram
+ਗ਼ਜ਼ਲ	Gasel
+ਓਸਮਾਨੀਏ	Osmaniye (provins)
+ਹਿੰਦੂਤਵ	Hindutva
+ਚੈੱਕ ਸਾਹਿਤ	Tsjekkisk litteratur
+ਸ਼ਹਾਬ ਉੱਦ ਦੀਨ ਸੁਹਰਾਵਰਦੀ	Sohrevardi
+ਇਸ਼ਤਾਦੀਊ ਜੂਜ਼ੈ ਆਲਵਾਲਾਦੇ	Estádio José Alvalade
+ਅਬੋਧਵਾਦ	Agnostisisme
+ਸ਼ਾਰਜਾ (ਸ਼ਹਿਰ)	Sharjah (by)
+ਅਲੁਕਸਨ	Alūksne
+ਕੈਥਰੀਨ ਕੁੱਕਸਨ	Catherine Cookson
+ਆਸਕਰ ਰੋਮੇਰੋ	Óscar Romero
+ਜੀ ਈ ਮੂਰ	G. E. Moore
+ਜੂਲੀਅਨ ਬਾਰਨਜ਼	Julian Barnes
+ਐਲੈਕਸ ਹੇਲੀ	Alex Haley
+ਅਰਵਿੰਦ ਅਡਿਗ	Aravind Adiga
+ਮਹੰਮਦ ਅਲੀ	Muhammad Ali (andre betydninger)
+ਵਿਲੀਅਮ ਹੈਨਰੀ ਸੇਵਰਡ	William H. Seward
+ਜੈਨੀਸ ਰਿਤਸੋਸ	Giannis Ritsos
+ਇਪੋਲਾਈਤ ਤੇਨ	Hippolyte Taine
+ਯੇਵਗੇਨੀ ਯੇਵਤੁਸ਼ੇਂਕੋ	Jevgenij Jevtusjenko
+ਨਿੱਕ ਵੁਈਏਚਿਚ	Nick Vujicic
+ਮਾਈਕਲ ਐਡਮਜ਼	Michael Adams
+ਆਫੀਆ ਸਦੀਕੀ	Aafia Siddiqui
+ਇੱਕ ਰੁੱਤ ਨਰਕ ਵਿੱਚ	Une Saison en enfer
+ਡੈੱਨਮਾਰਕੀ ਬਸਤੀਵਾਦੀ ਸਾਮਰਾਜ	Danmarks kolonirike
+ਐਰਨ ਸਵਾਰਟਜ਼	Aaron Swartz
+ਹੁਸ਼ਿਆਰਪੁਰ ਜ਼ਿਲ੍ਹਾ	Hoshiarpur (distrikt)
+ਦੱਖਣੀ ਅਫ਼ਰੀਕੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	South African Communist Party
+ਅਬਦਲ ਫਾਤਹ ਅਲ-ਸੀਸੀ	Abdel Fattah al-Sisi
+ਲੈਨਿਨ ਅਮਨ ਇਨਾਮ	Lenins fredspris
+ਏ ਟੇਲ ਆਫ਼ ਟੂ ਸਿਟੀਜ਼	A Tale of Two Cities
+ਇਨਵਰਨੈੱਸ ਕੈਲੀਡੋਨੀਆਈ ਥਿਸਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Inverness Caledonian Thistle FC
+ਵਿਹੜਾ	Borggård
+ਔਲਾ (ਪੌਦਾ)	Amla
+ਪਾਮੀਰੋ ਤੋਗਲਿਆਤੀ	Palmiro Togliatti
+ਸੰਜੇ ਦੱਤ	Sanjay Dutt
+ਐਲੇਨ ਬਾਦੀਓ	Alain Badiou
+ਕੁਤੁਬੁੱਦੀਨ ਐਬਕ	Qutb ud din Aibak
+ਅਲੈਕਸਿਸ ਤਸੀਪਰਾਸ	Alexis Tsipras
+ਜਾਮੀ	Abd al-Rahman Jami
+ਐਲੇਨ ਰੋਬੈਰ	Alain Robert
+ਕਨਿਸ਼ਕ	Kanishka
+ਕਬੀਰ	Kabir
+ਅਸ਼ਵਘੋਸ਼	Asvaghosa
+ਨੱਥੂਰਾਮ ਗੋਡਸੇ	Nathuram Godse
+ਬਾਲ ਗੰਗਾਧਰ ਤਿਲਕ	Bal Gangadhar Tilak
+ਵੀ ਵੀ ਗਿਰੀ	Varahagiri Venkata Giri
+ਰੁਦਾਕੀ	Rudaki
+ਖਾਨ ਅਬਦੁਲ ਗਫਾਰ ਖਾਨ	Khan Abdul Ghaffar Khan
+ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ	Gobindh Singh
+ਤੁਲਸੀ ਦਾਸ	Tulsidas
+ਡੇਵਿਡ ਫਾਸਟਰ ਵਾਲਸ	David Foster Wallace
+ਗੋਪਾਲ ਕ੍ਰਿਸ਼ਨ ਗੋਖਲੇ	Gopal Krishna Gokhale
+ਸੂਰਿਆਵਰਮਨ ਦੂਜਾ	Suryavarman II
+ਵਲਾਦੀਮੀਰ ਪ੍ਰਾਪ	Vladimir Propp
+ਲਿਊਸ ਐਚ ਮਾਰਗਨ	Lewis Henry Morgan
+ਜੈਫਰੀ ਆਰਚਰ	Jeffrey Archer
+ਫਿਲਿਪ ਲਾਰਕਿਨ	Philip Larkin
+ਵਾਸਲੀ ਗਰੋਸਮਾਨ	Vasilij Grossman
+ਆਰਨੋਲਡ ਬੈਨੇਟ	Arnold Bennett
+ਸਲਮਾਨ ਤਾਸੀਰ	Salmaan Taseer
+ਸਦੀਕ ਹਦਾਇਤ	Sadeq Hedayat
+ਸਰਗੇਈ ਅਕਸਾਕੋਵ	Sergej Aksakov
+ਟੈਰੀ ਈਗਲਟਨ	Terry Eagleton
+ਇਰਵਿਨ ਸ਼ਾਅ	Irwin Shaw
+ਬਿੰਦੂਸਾਰ	Bindusara
+ਵਿਲੀਅਮ ਕੂਪਰ	William Cowper
+ਕਾਰਲ ਮਾਰਕਸ ਸਮਾਰਕ	Karl Marx-monumentet
+ਸੈਂਟਾ ਕਲਾਜ਼	Julenissen
+ਥਾਮਸ ਬੈਬਿੰਗਟਨ ਮੈਕਾਲੇ	Thomas Babington Macaulay
+ਨੀਲ ਰਾਬਰਟਸਨ (ਸਨੂਕਰ ਖਿਡਾਰੀ)	Neil Robertson
+ਜੋਨਾਥਨ ਫਰੈਂਸਨ	Jonathan Franzen
+ਜਿਨਸ	Vare
+ਅਬਦੁੱਲ ਸੱਤਾਰ ਈਦੀ	Abdul Sattar Edhi
+ਰਾਵੀ	Ravi (elv)
+ਕ੍ਰੇਵਨ ਕੌਟਿਜ	Craven Cottage
+ਬਹਾਵਲਪੁਰ	Bahawalpur
+ਸਿਲਵਾਸਾ	Silvassa
+ਸਟੈੱਡ ਲੂਈਸ II	Stade Louis II
+ਸੇਂਟ ਮਿਰੇਨ ਫੁੱਟਬਾਲ ਕਲੱਬ	St. Mirren FC
+ਸ਼ਾਹਿਦ ਕਪੂਰ	Shahid Kapoor
+ਬਿਆਸ ਦਰਿਆ	Beas (elv)
+ਕੇਮਨ ਟਾਪੂ ਡਾਲਰ	Caymansk dollar
+ਅਮਰੂਦ	Guavaslekten
+ਪਲੇਗ (ਨਾਵਲ)	Pesten (roman)
+ਅਭਿਨਵ ਬਿੰਦਰਾ	Abhinav Bindra
+ਬੇਨਿਨ ਸ਼ਹਿਰ	Benin City
+ਵੈਨਕੂਵਰ ਕੌਮਾਂਤਰੀ ਹਵਾਈ ਅੱਡਾ	Vancouver internasjonale lufthavn
+ਬੋਧੀ ਰੁੱਖ	Bodhi-treet
+ਰੀਠਾ	Såpebærslekten
+ਭਾਰਤ ਰਤਨ	Bharat Ratna
+ਘਿਉ	Ghi
+ਵਾਲਕਾ	Valka
+ਓਕਲੈਂਡ ਰੈਡਰਜ਼	Oakland Raiders
+ਫਰਾਂਸੀਸੀ ਰਾਸ਼ਟਰੀ ਦਿਵਸ	Frankrikes nasjonaldag
+ਮਹਾਨ ਰੇਤਲਾ ਮਾਰੂਥਲ	Store sandørken
+ਬੁਡਨਬਰੁੱਕਸ	Buddenbrooks
+ਟਾਮ ਸਾਇਅਰ ਦੇ ਕਾਰਨਾਮੇ	Tom Sawyer
+ਮੇਵਨ	MAVEN
+ਅਨੀਸ਼ ਕਪੂਰ	Anish Kapoor
+ਬੇਰੀ	Indiajujube
+ਮੈਰੀ ਕੋਮ	Mary Kom
+ਉਬੇਦਾ	Úbeda
+ਫ਼ਾਕਲੈਂਡ ਟਾਪੂ ਪਾਊਂਡ	Falklandspund
+ਦੀ ਕੂਪ	Feijenoord stadion
+ਕੋਟਾ	Kota (Rajasthan)
+ਮੋਰਾਦਾਬਾਦ	Moradabad
+ਬਾਦਸ਼ਾਹੀ ਮਸਜਿਦ	Badshahimoskeen
+ਮੂਡ (ਮਨੋਵਿਗਿਆਨ)	Humør
+ਰੱਬ	Lord
+ਵਾਧੂ ਮੁੱਲ	Overskuddsverdi
+ਗ੍ਰੋਤੋਵਸਕੀ	Jerzy Grotowski
+ਰਣਜੀਤ ਸਿੰਘ	Ranjit Singh
+ਇਨੋਕ ਪਾਵੇਲ	Enoch Powell
+ਫ਼ਰੀਦ ਜ਼ਕਾਰੀਆ	Fareed Zakaria
+ਊਲਜਲੂਲਵਾਦ	Absurdisme
+ਸੀਆਚਿਨ ਗਲੇਸ਼ੀਅਰ	Siachenbreen
+ਆਰ ਕੇ ਨਰਾਇਣ	R.K. Narayan
+ਸਰੋਗੇਸੀ	Surrogati
+ਕਾਜ਼ੀ ਨਜ਼ਰੁਲ ਇਸਲਾਮ	Nazrul Islam
+ਗਿਆਨੀ ਜ਼ੈਲ ਸਿੰਘ	Giani Zail Singh
+ਭਗਤ ਜੈਦੇਵ ਜੀ	Jayadeva
+ਭਰਥਰੀ ਹਰੀ	Bhartṛhari
+ਲਾਰਡ ਵੈਲਜਲੀ	Richard Wellesley, 1. marki Wellesley
+ਡਨਡੀ ਫੁੱਟਬਾਲ ਕਲੱਬ	Dundee FC
+ਅਬੂਗੀਦਾ	Abugida
+ਸਲੋ ਫੂਡ	Slow Food
+ਇਲਤੁਤਮਿਸ਼	Iltutmish
+ਏਲਮੋਰ ਲਿਓਨਾਰਦ	Elmore Leonard
+ਨੀਲਮ ਸੰਜੀਵ ਰੈਡੀ	Neelam Sanjiva Reddy
+ਕੁੰਡਨਕੁਲਮ ਨਿਉਕਲੀਅਰ ਪਾਵਰ ਪਲਾਂਟ	Kudankulam kjernekraftverk
+ਗੁਰਦੁਆਰਾ	Gurdwara
+ਫਗਵਾੜਾ	Phagwara
+ਮੀਨਾਮਾਤਾ ਰੋਗ	Minamata-sykdom
+ਇੰਗਲੈਂਡ ਵਿੱਚ ਮਜ਼ਦੂਰ ਜਮਾਤ ਦੀ ਹਾਲਤ	Arbeiderklassens forhold i England i 1844
+ਹਿੱਪੀ	Hippie
+ਕੂਕਾਬਰਾ	Kokaburraer
+ਡੇਵਿਡ ਹਾਰਵੇ	David Harvey
+ਹਸਨ ਰੂਹਾਨੀ	Hassan Rouhani
+ਅਹਿਮਦ ਰਸ਼ੀਦ	Ahmed Rashid
+ਘਰੇਲੂ ਰਸੋਈ ਗੈਸ	LPG
+ਐਲਨ ਵਿਲਸਨ ਵਾਟਸ	Alan Wilson Watts
+ਜਰਨੈਲ ਸਿੰਘ ਭਿੰਡਰਾਂਵਾਲਾ	Jarnail Singh Bhindranwale
+ਬਾਰਿਸ ਨਿਮਤਸੋਫ਼	Boris Nemtsov
+ਫ਼ਾਰਸੀ ਸਾਹਿਤ	Persisk litteratur
+ਬੈਂਡ ਇੱਟ ਲਾਈਕ ਬੈਕਮ	Skru'n som Beckham
+ਗਰਾਹਮ ਹੈਂਕੋਕ	Graham Hancock
+ਜਾਨ ਵਿਲੀਅਮਜ਼ (ਗਿਟਾਰਿਸਟ)	John Williams (gitarist)
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਮਹਿਲਾਵਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੫੫ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil kvinner 55 kg
+ਮਹੰਮਦ ਹਾਮਿਦ ਅੰਸਾਰੀ	Mohammad Hamid Ansari
+ਕਿਊਬਾ ਦੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Det kubanske kommunistpartiet
+ਰਾਇਪੁਰ	Raipur
+ਦ ਕਿੱਡ (1921ਫਿਲਮ)	Småen
+ਜੱਦਾ	Jeddah
+ਬਹਿਮਨੀ ਸਲਤਨਤ	Bahmani-sultanatet
+ਏਰਜੁਰਮ	Erzurum (provins)
+ਰਾਜਿੰਦਰ ਕੁਮਾਰ ਪਚੌਰੀ	Rajendra Pachauri
+ਬੰਕਿਮਚੰਦਰ ਚੱਟੋਪਾਧਿਆਏ	Bankim Chandra Chattopadhyay
+ਵਿਕਰਮ ਸੇਠ	Vikram Seth
+ਕਿਰਿਆ-ਵਿਸ਼ੇਸ਼ਣ	Adverb
+ਹੋਵਾਰਡ ਫਾਸਟ	Howard Fast
+ਬਾਤਸਾਇਨ	Vatsayayana Mallanaga
+ਆਂਦਰੇ ਬ੍ਰਿੰਕ	André Brink
+ਅਡੋਨਿਸ	Ali Ahmad Said Asbar
+ਮੋਲਿਨੀਉ ਸਟੇਡੀਅਮ	Molineux Stadium
+ਸਿਮੇਨ ਅਗਦੇਸਤੀਨ	Simen Agdestein
+ਧਿਆਨ ਚੰਦ	Dhyan Chand
+ਫ਼ੈਜ਼ ਅਹਿਮਦ ਫ਼ੈਜ਼	Faiz Ahmed Faiz
+ਏਰੋਜੈੱਲ	Aerogel
+ਇਬਰਾਹਿਮ ਲੋਧੀ	Ibrahim Lodhi
+ਹਿੰਦਕੋ	Hindko
+ਬਿਰਤਾਂਤ-ਸ਼ਾਸਤਰ	Narratologi
+ਨੇਵਸਕੀ ਪ੍ਰਾਸਪੈਕਟ	Nevskij prospekt
+ਜੌਨ ਬਰਗਰ	John Berger (forfatter)
+ਟੰਬਲਰ	Tumblr
+ਅਹਲ ਅਲਬੈਤ	Ahl al-Bayt
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਮਹਿਲਾਵਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੪੮ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil kvinner 48 kg
+ਡਾਕਟਰ ਫ਼ੌਸਟਸ	Doktor Faustus (Thomas Mann)
+ਸ਼ਾਬਾਂ-ਡੈਲਮਾ ਸਟੇਡੀਅਮ	Stade Chaban-Delmas
+ਕੁਰੁਕਸ਼ੇਤਰ ਯੁਧ	Kurukshetrakrigen
+ਚਾਰਲਸ ਬ੍ਰੈਡਲੋ	Charles Bradlaugh
+ਸਵਾਤ ਜ਼ਿਲ੍ਹਾ	Swat (Pakistan)
+ਗੀਤ ਗੋਵਿੰਦ	Gitagobinda
+ਸਰ੍ਹੀ, ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ	Surrey (British Columbia)
+ਜਾਬਜ਼ (ਫ਼ਿਲਮ)	Jobs
+ਰੇਮੰਡ ਵਿਲੀਅਮਸ	Raymond Williams
+ਅਗਨੀ	Agni
+ਇਵਾਨ ਇਲੀਅਚ ਦੀ ਮੌਤ	Ivan Iljitsj' død
+300: ਰਾਈਜ਼ ਆਫ਼ ਐਨ ਐਮਪਾਇਰ	300: Rise of an Empire
+ਅਹਿਮਦਨਗਰ ਜ਼ਿਲ੍ਹਾ	Ahmadnagar (distrikt)
+ਮਾਤਾਰਾਮ ਰਾਜਵੰਸ਼	Kongedømmet Mataram
+ਜੂਨੋ ਦਿਆਜ਼	Junot Díaz
+ਓਵਰਕੋਟ	Kappen
+ਯੂਟੋਪੀਆ (ਕਿਤਾਬ)	Utopia
+ਕਾਰਗਿਲ ਜੰਗ	Kargilkrigen
+ਵਜੂਦ ਅਤੇ ਵਕਤ	Væren og tid
+ਨਿਊ ਯਾਰਕ ਸ਼ਹਿਰ ਸਿੱਖਿਆ ਵਿਭਾਗ	New York City Department of Education
+ਏਜਕਰੌਕਲ	Aizkraukle
+ਅਜਮੇਰ ਜ਼ਿਲ੍ਹਾ	Ajmer (distrikt)
+ਬੈਂਗਣੀ (ਰੰਗ)	Lilla
+ਕ੍ਰਿਸ਼ਨ ਜੈਅੰਤੀ	Krishna Janmashtami
+ਨਵਸੇਹਰ	Nevşehir (provins)
+ਦੁਜ਼ਗੇ	Düzce (provins)
+ਈ ਪੀ ਥਾਮਪਸਨ	Edward Palmer Thompson
+ਬਜ਼ੁਰਗਾਂ ਦੀ ਸੰਭਾਲ	Eldreomsorg
+ਮਿੰਬਰ	Minbar
+ਜਾਨ ਸ਼ੇਰਮਾਨ	John Sherman
+ਬੋਸਤਾਨ (ਸਾਦੀ)	Frukthagen
+ਅਲਵਰ ਜ਼ਿਲ੍ਹਾ	Alwar (distrikt)
+ਪੋਪ ਫ਼ਰਾਂਸਿਸ	Frans (pave)
+ਏ ਓ ਹਿਊਮ	Allan Octavian Hume
+ਅੰਬਾਲਾ	Ambala
+ਆਮੇਰ ਦਾ ਕਿਲਾ	Fort Amber
+ਸਿਧਾਰਥ (ਨਾਵਲ)	Siddhartha
+ਸਾਹਿਤ ਸਿਧਾਂਤ	Litterær teori
+ਉਲਹਾਸਨਗਰ	Ulhasnagar
+ਦ ਪਿਕਵਿਕ ਪੇਪਰਜ਼	Pickwick-klubben
+ਰੇਈਨਾ ਸੋਫ਼ੀਆ ਕੌਮੀ ਕਲਾ ਕੇਂਦਰ ਅਜਾਇਬਘਰ	Museo Reina Sofía
+ਕਾਜ਼ਾ ਬਾਤੀਓ	Casa Batlló
+ਪੈਰਿਸ ਕਲੱਬ	Parisklubben
+ਜਜ਼ੀਆ	Jizya
+ਦਮਨ	Daman (by)
+ਬੁਲਕੀਜ਼	Bulqizë
+﻿ਚਾਦਰ	Chador
+ਜੀਵ ਵੰਨ-ਸੁਵੰਨਤਾ ਦਿਹਾੜਾ	Internasjonal dag for biologisk mangfold
+ਸਾਇਨਾ ਨੇਹਵਾਲ	Saina Nehwal
+ਐਨੀ ਬੇਸੈਂਟ	Annie Besant
+ਫ਼ਾਰੂਕ ਫ਼ਰੂਖ਼ਜ਼ਾਦ	Forugh Farrokhzad
+ਈਦ ਉਲ-ਫ਼ਿਤਰ	Id al-fitr
+ਅਮਰੀਕਨ ਫ਼੍ਰੈਂਡਜ਼ ਸਰਵਿਸ ਕਮੇਟੀ	American Friends Service Committee
+ਗਾਰਾਖ਼ੋਨਾਈ ਕੌਮੀ ਪਾਰਕ	Garajonay nasjonalpark
+ਬੋਹੜ	Banyan
+ਹਿਲੇਰੀ ਮਾਂਟੇਲ	Hilary Mantel
+ਸਨਾਤਮ ਕੌਰ	Snatam Kaur
+ਮੀਰਾ ਬਾਈ	Mirabai
+ਪੱਲਵ ਰਾਜਵੰਸ਼	Pallava-dynastiet
+ਅਲਕਾ ਯਾਗਨਿਕ	Alka Yagnik
+ਬ੍ਰਾਹਮੀ ਪਰਵਾਰ ਦੀਆਂ ਲਿਪੀਆਂ	Indisk skrift
+ਇਰੋਮ ਸ਼ਰਮੀਲਾ	Irom Chanu Sharmila
+ਇਲਾ ਭੱਟ	Ela Bhatt
+ਜਹਾਂਗੀਰ ਰਤਨਜੀ ਦਾਦਾਭਾਈ ਟਾਟਾ	J. R. D. Tata
+ਦ ਸੈਕੰਡ ਸੈਕਸ	Det annet kjønn
+ਜਰਮਨ ਵਿਚਾਰਧਾਰਾ	Den tyske ideologi
+ਵਜਿੰਦਰ ਸਿੰਘ	Vijender Singh
+ਸੋਨੂੰ ਨਿਗਮ	Sonu Nigam
+ਵਿਨਾਇਕ ਦਮੋਦਰ ਸਾਵਰਕਰ	Vinayak Damodar Savarkar
+ਇੰਸਪੈਕਟਰ ਜਨਰਲ (ਨਾਟਕ)	Revisoren
+ਬਾਲਕਨੀਕਰਨ	Balkanisering
+ਦ ਸਕਰੀਮ	Skrik
+ਢਿਲਕ (ਭੌਤਿਕ ਵਿਗਿਆਨ)	Plastisitet
+ਕੈਪ੍ਰੀਵੀ	Caprivi (region)
+ਕੈਮਲੂਪਸ	Kamloops
+ਐਸਤਾਦੀ ਕੌਰਨੇਯਾ-ਐੱਲ ਪ੍ਰਾਤ	Estadi Cornellà-El Prat
+ਪਿੱਛਲਝਾਤ (ਬਿਰਤਾਂਤ)	Flashback (fortellerteknikk)
+ਸਰਾਫ਼ਾ ਬਜ਼ਾਰ	Aksjemarked
+ਕਾਲ ਆਫ ਦ ਵਾਈਲਡ	Når villdyret våkner
+ਭਾਰਤੀ ਸੰਵਿਧਾਨ	Indias grunnlov
+ਖਰਬੂਜਾ	Cantaloupe
+ਚਾਰਵਾਕ ਦਰਸ਼ਨ	Charvakaer
+ਤਿੰਨ ਭੈਣਾਂ (ਨਾਟਕ)	Tre søstre
+ਚੈਰੀ ਦਾ ਬਗੀਚਾ	Kirsebærhagen
+ਸ਼ਰੀਆ	Sharia
+ਪਾਰੀ ਸਾਂ-ਜਰਮਾਂ ਫੁੱਟਬਾਲ ਕਲੱਬ	Paris Saint-Germain FC
+ਸਾਮਸੂਨ ਸੂਬਾ	Samsun (provins)
+ਬੇਬੁਰਤ ਸੂਬਾ	Bayburt (provins)
+ਓਰਦੂ	Ordu (provins)
+ਕਾਸਤਾਮੋਨੋ ਸੂਬਾ	Kastamonu (provins)
+ਵਰਤਾਰਾ	Fenomen
+ਵਿਧਾ	Sjanger
+ਏਸ਼ੀਆਈ ਖੇਡਾਂ	Asialekene
+ਕਾਇਸੇਰੀ	Kayseri (provins)
+ਕਲਾਕਾਰ	Kunstner
+ਆਈਸਾਡੋਰਾ ਡੰਕਨ	Isadora Duncan
+ਸੁੰਨੀ ਇਸਲਾਮ	Sunniislam
+ਪਾਰਕੋਰ	Parkour
+ਅਜ਼ਰਬਾਈਜਾਨੀ ਮਨਾਤ	Aserbajdsjansk manat
+ਸ਼ਿੰਡਲਰਜ਼ ਲਿਸਟ	Schindlers liste
+ਪੁੰਜ ਸੁਰੱਖਿਅਣ ਦਾ ਨਿਯਮ	Massens bevarelse
+ਡ੍ਰੋਨ ਜਹਾਜ	Drone
+ਮੁਹੰਮਦ ਇਕਬਾਲ	Muhammad Iqbal
+ਆਕਸੀਕਰਨ ਸੰਖਿਆ	Oksidasjonstall
+ਫ਼ਿਕਾ	Fiqh
+ਚੰਗੇਜ਼ ਆਇਤਮਾਤੋਵ	Tsjingiz Ajtmatov
+ਸਪਾਈਡਰ-ਮੈਨ (ਫ਼ਿਲਮ)	Spider-Man (film)
+ਅਨੁਪਰਾਸ ਅਲੰਕਾਰ	Allitterasjon
+ਵੈਂਟਵਰਦ ਮਿੱਲਰ	Wentworth Miller
+ਭਾਸ਼ਾ ਦਾ ਦਰਸ਼ਨ	Språkfilosofi
+ਔਰੰਗਜ਼ੇਬ	Aurangzeb
+ਰਾਣੀ ਮੁਖਰਜੀ	Rani Mukerji
+ਆਣੰਦ ਜ਼ਿਲ੍ਹਾ	Anand (distrikt)
+ਇਸਲਾਮੋਫ਼ੋਬੀਆ	Islamofobi
+ਤੁਰਕਮੇਨਿਸਤਾਨੀ ਮਨਦ	Turkmensk manat
+ਇਡ, ਈਗੋ ਅਤੇ ਸੁਪਰ-ਈਗੋ	Id, ego, og super-ego
+ਅਤੁਰੌ	Atyrau
+ਰੈੱਕਵੀਅਮ ਫ਼ਾਰ ਅ ਡਰੀਮ	Requiem for a Dream
+ਅੰਦਿਜਨ	Andijon
+ਉਜ਼ਬੇਕਿਸਤਾਨੀ ਸੋਮ	Usbekisk sum
+ਬੈਂਕ ਆਫ਼ ਅਮਰੀਕਾ	Bank of America
+ਅਲੀ ਬਾਬਾ	Ali Baba
+ਸ਼੍ਰੀ ਗੰਗਾਨਗਰ	Ganganagar
+ਸ਼ਾਹਕਾਰ	Magnum opus
+ਸਮੋਸਾ	Samosa
+ਤਿਰਮਿਜ਼	Termez
+ਭਾਰਤ ਦੇ ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਦੀ ਸੂਚੀ	Liste over Indias statsministere
+ਡੀ.ਡਬਲਿਊ. ਸਟੇਡੀਅਮ	DW Stadium
+ਵਿਸ਼ੇਸ਼ ਆਰਥਕ ਜ਼ੋਨ	Spesiell økonomisk sone
+ਕਾਇਨ	Karen (stat)
+ਏਸ਼ੀਆਈ ਖੇਡਾਂ 2014	Asialekene 2014
+ਬੌਸਕਾ	Bauska
+ਹੈਮਿਲਟਨ ਅਕੈਡਮੀਕਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Hamilton Academical FC
+ਬ੍ਰਿਟਾਨੀਆ ਸਟੇਡੀਅਮ	Britannia Stadium
+ਫਿਲਿਪਸ ਸਟੇਡੀਅਮ	Philips Stadion
+ਲੁੰਪਨ ਪ੍ਰੋਲਤਾਰੀ	Filleproletariat
+ਵਾਹਗਾ	Wagah
+ਆਦਿਗਰਹ ਚੱਕਰ	Protoplanetarisk skive
+ਨੰਗੀ ਅੱਖ	Blotte øye
+ਰੋਮਾਂ ਆ ਕਲੇ	Nøkkelroman
+ਅਰਜੁਨ (ਟੈਂਕ)	Arjun
+ਆਈਸੋਟੋਨ	Isoton
+ਅਕੋਲਾ ਜ਼ਿਲ੍ਹਾ	Akola (distrikt)
+ਨੀਦਰਲੈਂਡ ਐਂਟੀਲੀਆਈ ਗਿਲਡਰ	Antilliansk gylden
+ਅਰੀਫ਼ ਦੀ ਜੰਨਤ	Generalife
+ਹੋਲੋਗ੍ਰਾਮ	Holografi
+ਅਲ-ਅਨਫਾਲ ਮੁਹਿੰਮ	Anfal
+ਅਜਮਾਨ (ਸ਼ਹਿਰ)	Ajman (by)
+ਇਸਤਾਂਬੁਲ ਸੂਬਾ	İstanbul (provins)
+ਦਸ਼ਰਥ ਮੌਰੀਆ	Dasaratha
+ਇਲੈਕਟਰਾ (ਯੂਰੀਪਿਡੀਸ)	Elektra (Evripides)
+ਦੱਖਣੀ ਭਾਰਤ	Sør-India
+ਲਕਸ਼ਦੀਪ ਸਮੁੰਦਰ	Lakkadivhavet
+ਸਿਉਂਕ	Termitter
+ਨਾਟ-ਸ਼ਾਸਤਰ	Natyashastra
+ਵਿਲੀਅਮ ਅਰਨੈਸਟ ਹੇਨਲੇ	William Ernest Henley
+ਫਿਰੋਜ਼ ਗਾਂਧੀ	Feroze Gandhi
+ਕਲਾਡੀਅਸ	Leslie Claudius
+ਸੇਗੋਵੀਆ ਦਾ ਕਿਲਾ	Alcázar av Segovia
+ਫ਼ਿਫ਼ਟੀ ਸ਼ੇਡਜ਼ ਔਫ਼ ਗ੍ਰੇ	Fifty shades
+ਐਮ. ਐਫ਼. ਹੁਸੈਨ	Maqbool Fida Husain
+ਬੇਈ ਦਾਓ	Bei Dao
+ਜਗਦੀਸ਼ ਨਟਵਰਲਾਲ ਭਗਵਤੀ	Jagdish Bhagwati
+ਜਨਰਲ ਡਾਇਰ	Reginald Dyer
+ਪੀ ਸੀ ਮਹਾਲਨੋਬਿਸ	Prasanta Chandra Mahalanobis
+ਸੇਂਟ ਮੈਰੀ ਸਟੇਡੀਅਮ	St. Mary's Stadium
+ਅੰਤਮ ਨਿਆਂ (ਮੀਕੇਲਾਂਜਲੋ)	Dommedag (Michelangelo)
+ਬਾਓਟੂ	Baotou
+ਹੱਦੋਂ ਵੱਧ ਵਾਰਵਾਰਤਾ	Ekstremt høy frekvens
+ਜੈਂਗੋ ਅਨਚੇਨਡ	Django Unchained
+ਪੂਰਬੀ ਤਿਮੋਰ ਸਿੰਤਾਵੋ ਸਿੱਕੇ	Østtimoresisk centavo
+ਜੰਗੀ ਯਾਦਗਾਰ	Krigsminnesmerke
+ਚੋਣ ਪੇਟੀ	Stemmeurne
+ਲਿਬਰਟੀ ਸਟੇਡੀਅਮ	Liberty Stadium
+੧੯੩੨ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1932
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੧੨੦ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 120 kg
+ਕਾਂਡਲਾ	Kandla
+ਪਹਿਲੀ ਐਂਗਲੋ ਸਿੱਖ ਜੰਗ	Den første anglo-sikh-krigen
+ਸਿੱਖ	Sikher
+Baskin-Robbins	Baskin-Robbins
+ਮਿਲਖਰਾਜ	Timokrati
+ਸਿਰਜਣਾਤਮਕ ਲੇਖਣੀ	Skrivekunst
+ਕਿਮ (ਨਾਵਲ)	Kim (roman)
+ਔਰੰਗਾਬਾਦ ਜ਼ਿਲ੍ਹਾ	Aurangabad (distrikt i Maharashtra)
+ਸਿਟੀ ਗਰਾਂਊਂਡ	City Ground
+ਮਾਰ ਆਦੇਨਤਰੋ	Havet innenfor
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਗ੍ਰੈਕੋ-ਰੋਮਨ ੧੨੦ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Gresk-romersk stil 120 kg
+੧੯੭੬ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1976
+ਲੈਕਚਰ	Forelesning
+ਪਾਣੀਪਤ ਦੀ ਪਹਿਲੀ ਲੜਾਈ (1526)	Det første slaget ved Panipat
+ਹਿਤੋਪਦੇਸ਼	Hitopadesha
+ਗ਼ੈਰ-ਬਟੇਨੁਮਾ ਸੰਖਿਆ	Irrasjonalt tall
+ਕਰਨਾਲ ਜ਼ਿਲਾ	Karnal (distrikt)
+ਸਟੇਡੀਓ ਇਨਿਓ ਟਰਦਿਨਿ	Stadio Ennio Tardini
+ਕੈਥਲ ਜ਼ਿਲਾ	Kaithal (distrikt)
+ਬੁਰਸ਼	Børste
+ਡੇਨਸ ਪਾਰਕ	Dens Park
+ਫ਼ਾਲਮਰ ਸਟੇਡੀਅਮ	Falmer Stadium
+ਐਲੰਡ ਰੋਡ	Elland Road
+ਪੋਰਟਮਾਨ ਰੋਡ	Portman Road
+ਕਿੰਗ ਪਾਵਰ ਸਟੇਡੀਅਮ	King Power Stadium
+ਵਿਚੋਲਗੀ	Kirsten Giftekniv
+ਥਿੰਗਸ ਫ਼ੌਲ ਅਪਾਰਟ	Mønsteret rakner
+ਨਾਈਟ ਕਲੱਬ	Nattklubb
+ਸਵੈ-ਹਾਨੀ	Selvskading
+ਦਹੀ	Ostemasse
+ਮੈਨ ਆਫ਼ ਸਟੀਲ	Man of Steel
+ਫਾਇਰਬਾਖ ਬਾਰੇ ਥੀਸਿਸ	Teser om Feuerbach
+ਨੁਮਾਨਸੀਆ	Numantia
+ਇਨਵਿਕਟਸ	Invictus
+ਹਿੰਦ ਅਧਿਐਨ	Indologi
+ਸੈਂਟਰੀਫ਼ਿਊਗਲ ਪੰਪ	Sentrifugalpumpe
+ਪਾਰਲੀ ਵਾਰਵਾਰਤਾ	Ultrahøy frekvens
+ਰੱਖ (ਸਦਾਚਾਰ)	Naturvern
+ਸੁਨੇਹਾ	Budskap
+ਕੇ.ਸੀ. ਸਟੇਡੀਅਮ	Kingston Communications Stadium
+ਸਾਂਚੋ ਪਾਂਜਾ	Sancho Panza
+ਕਾਮਰੇਡ	Kamerat
+ਭੁੱਖੀ ਪੀੜ੍ਹੀ	Hungryalisme
+ਦ ਕਾਈਟ ਰਨਰ	Drageløperen
+ਨਾਦਿਰ ਦੀ ਸੀਮੀਨ ਤੋਂ ਜੁਦਾਈ	Nader og Simin – et brudd
+ਸ਼ਖ਼ਸੀਅਤ	Personlighet
+ਭਾਰਤ ਦਾ ਗਵਰਨਰ ਜਰਨਲ	Generalguvernører og visekonger av India
+ਇਸਲਾਮ ਦਾ ਇਤਿਹਾਸ	Islams historie
+ਹਿਲਸਬਰੋ ਸਟੇਡੀਅਮ	Hillsborough Stadium
+ਸਿਆਲਕੋਟ	Sialkot
+ਮੁਰਦਾ ਰੂਹਾਂ	Døde sjeler
+ਟੈੱਸ	Tess av slekten D'Urberville
+ਸਮੁੰਦਰੀ ਮੁਰਗਾਬੀ	Måken
+ਬਹੀਰਾ ਸਮੁੰਦਰ	Skjærgårdshavet
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਮਹਿਲਾਵਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੭੨ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil kvinner 72 kg
+ਆਲ ਇੰਡੀਆ ਅੰਨਾ ਦ੍ਰਾਵਿੜ ਮੁਨੇਤਰ ਕੜਗਮ	All India Anna Dravida Munnetra Kazhagam
+ਸਪੇਨੀ ਅਮਰੀਕਾ	Hispanoamerika
+ਰੰਗ ਦ੍ਰਿਸ਼	Frekvensspekter
+ਸਿਰਮੌਰ ਜ਼ਿਲਾ	Sirmaur (distrikt)
+ਵਿਜੇ ਕੁਮਾਰ	Vijay Kumar
+ਸਾਧ-ਸੰਤ	Sadhu
+ਰੁਜ਼ਗਾਰ	Ansettelse
+ਦਾ ਫਾਲਟ ਇਨ ਆਵਰ ਸਟਾਰਸ (ਨਾਵਲ)	Faen ta skjebnen
+ਹਿਜੜਾ	Hijra (transperson)
+ਕੈਰੀਬੀਆ	Karibia
+ਦਿੱਲੀ ਯੂਨੀਵਰਸਿਟੀ	Delhi-universitetet
+ਯਥਾਰਥਵਾਦ (ਸਾਹਿਤ)	Realisme (litteratur)
+ਮਸੂਰੀ	Mussoorie
+ਦੱਖਿਨੀ	Dakhini
+ਗੁੱਡੀ ਦਾ ਘਰ	Et dukkehjem
+ਹਾਇਲ	Ha'il
+ਮਾਚੂ ਪਿਕਚੂ	Machu Picchu
+ਤੇਲੰਗਾਨਾ	Telangana
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੬੬ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 66 kg
+ਟ੍ਰਾਂਸਪੋਰਟ ਫ਼ਾਰ ਲੰਡਨ	Transport for London
+ਟਰਫ਼ ਮੂਰ	Turf Moor
+ਮਹਿੰਦਰਗੜ੍ਹ ਜ਼ਿਲਾ	Mahendragarh (distrikt)
+ਹੈਤੀ ਇਨਕ਼ਲਾਬ	Den haitiske revolusjon
+ਰਾਸ਼ਟਰਮੰਡਲ ਖੇਡਾਂ 2010	Samveldelekene 2010
+ਭਾਰਤੀ ਸੰਸਦ	Indias parlament
+ਵਗਾਰ	Straffarbeid
+ਜੇਮਜ਼ ਰੈਡਫ਼ੀਲਡ	James Redfield
+ਦ ਰਾਈਮ ਆਫ਼ ਦੀ ਏਨਸੀਐਂਟ ਮੇਰੀਨਰ	The Rime of the Ancient Mariner
+ਬਟਾਲਾ	Batala
+ਬਠਿੰਡਾ	Bathinda
+ਅੰਗ (ਸਰੀਰੀ ਬਣਤਰ)	Organ
+ਦੁਨੀਆਂ ਦੇ ਨਵੇਂ ਸੱਤ ਅਜੂਬੇ	Verdens sju nye underverk
+ਇਲਿਆਸ ਖੌਰੀ	Elias Khoury
+ਪਾਲ ਸਵੀਜੀ	Paul Sweezy
+ਵਾਲਮੀਕ	Valmiki
+ਬੇਗਾਡਾਨ	Bégadan
+ਨੋਰਮਨ ਪ੍ਰਿਚਰਡ	Norman Pritchard
+ਆਰੀਆ ਸਮਾਜ	Arya Samaj
+ਕਾਬੀਲ ਅਤੇ ਹਾਬੀਲ	Kain og Abel
+ਏਸ਼ੀਆ ਦੇ ਝੰਡੇ	Asiatiske flagg
+ਵਿਲੀਅਮ ਰੋਜੇੱਟੀ	William Michael Rossetti
+ਦ ਹੌਬਿਟ: ਦ ਡੈਸੋਲੇਸ਼ਨ ਆਫ਼ ਸਮੌਗ	Hobbiten – Smaugs ødemark
+ਜੇਟ ਏਅਰਵੇਜ਼	Jet Airways (India) Ltd
+ਕਾਂਗੜਾ ਜ਼ਿਲਾ	Kangra (distrikt)
+ਡੀ ਗ੍ਰੋਲਸਛ ਵੇਸਤੇ	De Grolsch Veste
+ਲਾਰਡ ਜਿਮ	Lord Jim
+ਰਿਗਵੇਦ	Rigveda
+ਕਮਿਊਨਿਟੀ	Community (TV-serie)
+ਸ਼ੁਜੀ ਨਾਕਾਮੁਰਾ	Shuji Nakamura
+ਫੁਮਲਹੌਤ ਬੀ	Fomalhaut b
+ਮੁਹੰਮਦ ਤਾਹਿਰ ਉਲ-ਕਾਦਰੀ	Mohammad Tahir ul-Qadri
+ਰੈਨੇ ਵੈਲਕ	René Wellek
+ਇਲੈਕਟਰਾ (ਸੋਫੋਕਲੀਜ)	Elektra (Sofokles)
+ਉਖਰੁਲ ਜ਼ਿਲਾ	Ukhrul (distrikt)
+ਦਾਰਸ਼ਨਕ ਯਥਾਰਥਵਾਦ	Realisme (ontologi)
+ਲਸ਼ਕਰ-ਏ-ਤਈਬਾ	Lashkar-e-Taiba
+ਸੰਧੂਰ	Sinober (farge)
+ਵਿਨੋਦ ਖੋਸਲਾ	Vinod Khosla
+ਯੂਨੀਸੈਫ਼	UNICEF
+ਨੈਸ਼ਨਲ ਪਾਰਟੀ (ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ)	Nasjonalistpartiet (Sør-Afrika)
+ਖਲੀਲੁੱਲਾਹ ਖਲੀਲੀ	Khalilullah Khalili
+ਨਵੀਨ ਆਲੋਚਨਾ	Nykritikk
+ਫ਼ਾਰਸੀ ਲਿਪੀ	Det persiske alfabetet
+ਸਾਲਦੁਸ	Saldus
+ਬੁਰਗੋਸ ਵੱਡਾ ਗਿਰਜਾਘਰ	Burgoskatedralen
+ਲੋਂਜਾਈਨਸ	Longinos
+ਕਾਸਾ ਵਿਸੇਂਸ	Casa Vicens
+ਬ੍ਰਹਮ	Brahman
+ਸਾਰਾਂਦੇ ਜ਼ਿਲਾ	Sarandë (distrikt)
+ਗਲੋਕਲੀਕਰਨ	Glokalisering
+ਧੱਮਪਦ	Dhammapada
+ਯਾਸਨਾਇਆ ਪੋਲੀਆਨਾ	Jasnaja Poljana
+ਮਮਿਤ ਜ਼ਿਲਾ	Mamit (distrikt)
+ਅੰਕਲ ਵਾਨਿਆ	Onkel Vanja
+ਚਾਰ ਮਹਾਨ ਕਲਾਸੀਕਲ ਨਾਵਲ	De fire store klassiske romaner
+ਲੁਸਿਸਤਰਾਤੇ	Lysistrata
+ਉੱਤਰੀ ਅਮਰੀਕਾ ਦੇ ਝੰਡੇ	Nordamerikanske flagg
+ਵਿਸ਼ਵ ਸ਼ਰਨਾਰਥੀ ਦਿਵਸ	Verdens flyktningdag
+ਕੁੱਕਰੇ	Keratitt
+ਓਮੁਸਾਟੀ	Omusati (region)
+ਅਜੀਬ ਫ਼ਲ	Strange Fruit (sang)
+ਅਲੀਗੜ ਜ਼ਿਲ੍ਹਾ	Aligarh (distrikt)
+ਦੇਸੀ	Desi (Asia)
+ਦੱਖਣੀ ਏਸ਼ੀਆ	Sør-Asia
+ਕਲਾ ਕਲਾ ਲਈ	L’art pour l’art
+ਛਾਂਦੋਗਯ ਉਪਨਿਸ਼ਦ	Chāndogya upanishad
+ਰਮੋਨ ਮੈਗਸੇਸੇ ਇਨਾਮ	Ramon Magsaysay-prisen
+ਟੇਨੇਦੈਸ ਪਾਰਕ	Tannadice Park
+ਅਸੀਰ ਰਿਆਸਤ	'Asir (provins)
+ਹੱਕ	Rettighet
+ਨੱਕ (ਗੋਗੋਲ)	Nesen
+ਇਕਪਾਸੜਵਾਦ	Unilateralisme
+ਨਿਊਜ਼ੀਲੈਂਡ ਦੇ ਤੋਤੇ	New Zealand papegøyer
+ਆਜ਼ਮਗੜ੍ਹ ਜ਼ਿਲਾ	Azamgarh (distrikt)
+ਵਿਅਕਤੀ	Individ
+ਬਾਬਰ	Babur
+ਬਾਲਤਿਸਤਾਨ	Baltistan
+ਬਾਂਸਵਾੜਾ ਜ਼ਿਲ੍ਹਾ	Banswara (distrikt)
+ਬਾਰਟੈਂਡਰ	Bartender
+ਜ਼ੋਰਬਾ ਦ ਗਰੀਕ (ਫ਼ਿਲਮ)	Zorba the Greek
+ਓਪੇਰਾ ਮਿਨੀ	Opera Mini
+ਸੇਂਟ ਐਂਡਰਿਊਜ਼ ਸਟੇਡੀਅਮ	St Andrews (Birmingham)
+ਭਾਰਤੀ ਰੇਲ	Indian Railways
+ਇੱਕ ਸੇਲਜਮੈਨ ਦੀ ਮੌਤ	En handelsreisendes død
+ਪ੍ਰਗਤੀਵਾਦ	Progressivisme
+ਪੈਟ੍ਰਿਕ ਥਿਸਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Partick Thistle FC
+ਰਿਵਰਸਾਈਡ ਸਟੇਡੀਅਮ	Riverside Stadium
+ਸਲਵਾਰ ਕਮੀਜ਼	Salvar kamíz
+ਐਗਜ਼ਿੱਟ ਪੋਲਜ਼	Valgdagsmåling
+ਲੱਸੀ	Lassi
+ਆਤਮ (ਦਰਸ਼ਨ)	Subjekt (filosofi)
+ਗਲਪ ਲਈ ਪੁਲਿਤਜ਼ਰ ਪੁਰਸਕਾਰ	Pulitzerprisen for skjønnlitteratur
+ਕਾਵਿ ਸ਼ਾਸਤਰ	Poetikk
+ਖਰਖਰੀ	Falsk krupp
+ਹਵਾ ਮਹਿਲ	Hawa Mahal
+ਸਮਾਜਕ ਯਥਾਰਥਵਾਦ	Sosialrealisme
+ਭਾਰਤੀ ਕਮਿਊਨਿਸਟ ਪਾਰਟੀ	Communist Party of India
+ਲਾਹੌਲ ਅਤੇ ਸਪੀਤੀ ਜ਼ਿਲ੍ਹਾ	Lahul and Spiti (distrikt)
+ਪੱਛਮੀ ਦਰਸ਼ਨ	Vestlig filosofi
+ਅਬਾਦੀ ਪੱਖੋਂ ਢੁਕਵੇਂ ਸ਼ਹਿਰਾਂ ਦੀ ਸੂਚੀ	Liste over verdens mest befolkede byer
+ਸਾਇਆਨੇਟ	Cyanat
+ਤਨੀਂਥਾਰਾਈ ਮੰਡਲ	Tanintharyi
+ਏਸ਼ੀਆਈ ਓਲੰਪਿਕ ਪਰਿਸ਼ਦ	Asias olympiske råd
+ਦੱਖਣੀ ਕੈਲੀਫ਼ੋਰਨੀਆ	Sør-California
+ਕੱਛ ਦੀ ਖਾੜੀ	Kutchbukta
+ਚੇਪੀ	Klistremerke
+ਗ਼ੁਲਾਮ ਖ਼ਾਨਦਾਨ	Mamlukdynastiet
+ਮੀਮਾਂਸਾ	Mīmāṃsā
+ਮਹਾਂ ਸ਼ਿਵਰਾਤਰੀ	Shivanatten
+ਅਲਬਾਹਾ ਸੂਬਾ	Al Bahah (provins)
+ਨੈੱਟ ਨਿਰਪੱਖਤਾ	Nettnøytralitet
+ਪੰਜਾਬੀ ਲੋਕ	Punjabier
+ਨੰਦੇੜ	Nanded
+ਰੁਦਰ	Rudra
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਨ੍ਰਿਤ ਦਿਵਸ	Dansens dag
+ਰਾਸ਼ਟਰਕੂਟ ਰਾਜਵੰਸ਼	Rashtrakuta-dynastiet
+ਬ੍ਰਹਮੋਸ	BrahMos
+ਰੁਮਾਂਸ ਨਾਵਲ	Kjærlighetsroman
+ਬੀਜੂ ਜਨਤਾ ਦਲ	Biju Janata Dal
+ਦੁਪਾਸੜਵਾਦ	Bilateral
+ਅ ਥਾਊਜੈਂਡ ਸਪਲੈਨਡਿਡ ਸਨਜ਼	Tusen strålende soler
+ਘਣ	Kube (aritmetikk)
+ਈਸਪ ਦੀਆਂ ਕਹਾਣੀਆਂ	Æsops fabler
+ਖ਼ੋਆਨ ਮੀਰੋ ਸੰਸਥਾ	Fundació Joan Miró
+ਕਾਰਡਿਫ਼ ਸਿਟੀ ਸਟੇਡੀਅਮ	Cardiff City Stadium
+ਬਲੂਮਫ਼ੀਲਡ ਰੋਡ	Bloomfield Road
+ਹਿੰਦੂ ਮਿਥਿਹਾਸ	Hinduistisk mytologi
+ਆਧੁਨਿਕਤਾਵਾਦ	Modernisme
+ਕਾਲੀ ਮੱਛਰੀ	Nebbteger
+ਬੋਰਿਸ ਗੋਦੂਨੋਵ (ਨਾਟਕ)	Boris Godunov (drama)
+੨੦੦੭-੨੦੦੮ ਦਾ ਮਾਲੀ ਸੰਕਟ	Finanskrisen 2007–2010
+ਚੋਣ ਪਰਚੀ	Stemmeseddel
+ਟਰਾਂਸਨਿਸਤਰੀਆ	Transnistria
+ਦ ਡੈਨ	The Den
+ਨਕਸਲੀ	Naxalitter
+ਮਦਦ:ਵਿਸ਼ਾ-ਵਸਤੂ	Hjelp:Portal
+ਵਧਾਈ ਪੱਤਰ	Gratulasjonskort
+ਗਿਆਨਪੀਠ ਇਨਾਮ	Jnanpith-prisen
+ਦੋਸਾ	Dosa
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੮੪ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 84 kg
+ਆਤਾਪੁਐਰਕਾ ਪਹਾੜ	Atapuerca
+ਗੁਜਰਾਤ (ਪਾਕਿਸਤਾਨ)	Gujrat
+ਫ਼ੋਨਸੇਕਾ ਦੀ ਖਾੜੀ	Fonsecagolfen
+ਬਿਸ਼ਣੁਪੁਰ ਜ਼ਿਲਾ	Bishnupur (distrikt)
+ਭਾਰਤੀ ਰਿਜ਼ਰਵ ਬੈਂਕ	Indias sentralbank
+ਕੀ ਕਰਨਾ ਲੋੜੀਏ?	Hva må gjøres?
+ਲੱਖ	Lakh
+ਉਜਰਤੀ ਕਿਰਤ	Lønnsarbeid
+ਰਾਹੂ	Rahu
+ਕ੍ਰਿਸਟੋਫਰ ਕਾਡਵੈੱਲ	Christopher Caudwell
+ਆਲਦੋ ਮੋਨਤਾਨੋ	Aldo Montano (fekter)
+ਅਲਿਸਟੇਅਰ ਹੋਰਨ	Alistair Horne
+ਸਾਂਤਾ ਬਾਰਬਰਾ	Santa Barbara (andre betydninger)
+ਦ ਵੈਲੀ (ਲੰਡਨ)	The Valley (London)
+ਰੋਹਤਕ ਜ਼ਿਲਾ	Rohtak (distrikt)
+ਗੂਡੀਸਨ ਪਾਰਕ	Goodison Park
+ਕੀਮੋਥੇਰੇਪੀ	Kjemoterapi
+ਕੁਰਕਸ਼ੇਤਰ ਜ਼ਿਲਾ	Kurukshetra (distrikt)
+ਰਘੁਰਾਮ ਰਾਜਨ	Raghuram Rajan
+ਤੋਮਾਂ ਪਿਕੇਤੀ	Thomas Piketty
+ਊਧਮ ਸਿਘ ਕੁਲਾਰ	Udham Singh
+ਲੋਕ ਸਾਹਿਤ	Muntlig litteratur
+ਲਹੂ ਨਾੜ	Blodåre
+ਚੋਣਵੀਂ ਨਸਲਕਸ਼ੀ	Avl
+ਉਬਾਲ ਦਰਜਾ	Kokepunkt
+ਫ਼ਾਰਸ ਸੂਬਾ	Fars
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੫੫ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 55 kg
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਗ੍ਰੈਕੋ-ਰੋਮਨ ੫੫ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Gresk-romersk stil 55 kg
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਗ੍ਰੈਕੋ-ਰੋਮਨ ੬੬ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Gresk-romersk stil 60 kg
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਗ੍ਰੈਕੋ-ਰੋਮਨ ੭੪ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Gresk-romersk stil 74 kg
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੭੪ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil menn 74 kg
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਗ੍ਰੈਕੋ-ਰੋਮਨ ੮੪ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Gresk-romersk stil 84 kg
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਪੁਰਸ਼ਾਂ ਦੀ ਗ੍ਰੈਕੋ-ਰੋਮਨ ੯੬ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Gresk-romersk stil 96 kg
+ਗ਼ਾਜ਼ੀਪੁਰ	Ghazipur
+ਗੰਧਾਰ ਕਲਾ	Gresk-buddhistisk kunst
+ਗੋਲਡਨ ਗਲੋਬ ਇਨਾਮ	Golden Globe
+ਮਧਾਣੀ	Kinne
+ਮੁਲਕ ਅਤੇ ਸਰਕਾਰ ਦੇ ਵਰਤਮਾਨ ਮੁਖੀਆਂ ਦੀ ਸੂਚੀ	Liste over nåværende statsledere
+ਕੈਲੀਡੋਨੀਆਈ ਸਟੇਡੀਅਮ	Caledonian Stadium
+ਕਾਲਕਾ	Kalka
+ਫ਼ਾਲਕਰਕ ਸਟੇਡੀਅਮ	Falkirk Stadium
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸ੍ਰੀਲੰਕਾ	Mal:Kartposisjon Sri Lanka
+ਹਾਈਪੋਥਰਮੀਆ	Hypotermi
+ਸ਼ਾਰਲੀ ਐਬਦੋ	Charlie Hebdo
+ਗਨ ਦਰਿਆ	Gan Jiang
+ਵਟਸਐਪ	WhatsApp
+ਗੈਲਾਡੈੱਟ ਯੂਨੀਵਰਸਿਟੀ	Gallaudet University
+ਮਨੁੱਖੀ ਸੰਸਾਧਨ ਪ੍ਰਬੰਧਨ	HRM
+ਦ ਕਾਈਟ ਰਨਰ (ਫ਼ਿਲਮ)	Drageløperen (film)
+ਚੰਬਾ ਜ਼ਿਲ੍ਹਾ	Chamba (distrikt)
+ਸੈੱਲਹਰਸਟ ਪਾਰਕ	Selhurst Park
+ਕੁਰੁ	Kongedømmet Kuru
+ਲੋਕ ਮੱਤ	Folketro
+ਯੋਗਸੂਤਰ	Yogasutra
+ਦ ਬਲੂਇਸਟ ਆਈ	De blåeste øyne
+ਮਿਸਰ ਦੇ ਆਰਮਡ ਫੋਰਸਿਜ਼	Egypts forsvar
+ਕੁਬਲਾ ਖਾਨ (ਕਵਿਤਾ)	Kubla Khan
+ਭਾਰਤ ਦਾ ਆਜ਼ਾਦੀ ਸੰਗਰਾਮ	Indisk selvstyrekamp
+ਕੈਨੇਡੀਆਈ ਡਾਲਰ	Canadisk dollar
+ਅਲ-ਕਸੀਮ ਸੂਬਾ	Al Qasim (provins)
+ਕਠ ਉਪਨਿਸ਼ਦ	Katha upanishad
+ਪੇਸ਼ਾਵਰ	Peshawar
+ਮਿੱਥ ਆਫ਼ ਸਿਸੀਫਸ	Myten om Sisyfos
+ਲੀਡਸ ਯੁਨਾਈਟਡ ਫੁੱਟਬਾਲ ਕਲੱਬ	Leeds United AFC
+ਲਿਵਰਪੂਲ ਫੁੱਟਬਾਲ ਕਲੱਬ	Liverpool FC
+ਨਸਤਾਲੀਕ ਲਿਪੀ	Nastaliqskrift
+ਤਰਾਈ ਖੇਤਰ	Tarai
+ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2009	Indias nasjonalvalg 2009
+ਸਦਮਾ ਸਿਧਾਂਤ	Sjokkdoktrinen
+ਗੋਗੜ	Bukfett
+ਪਿਟੋਡਰੀ ਸਟੇਡੀਅਮ	Pittodrie Stadium
+ਕਾਮਤ ਪਹਾੜ	Kamet
+ਨਾੜੀ ਗਰੰਥੀ ਪੁਟੀ	Ganglion (cyste)
+ਊਮਿਓ ਯੂਨੀਵਰਸਿਟੀ	Umeå universitet
+ਕੋਲਕਾਤਾ ਯੂਨੀਵਰਸਿਟੀ	Universitetet i Calcutta
+ਜਵਾਹਰ ਲਾਲ ਨਹਿਰੂ ਯੂਨੀਵਰਸਿਟੀ	Jawaharlal Nehru-universitetet
+ਸ਼ੈਲੇਂਦਰ ਰਾਜਵੰਸ਼	Sailendra
+ਐਰੋਬਿਕਸ (ਕਸਰਤ)	Aerob trening
+ਪ੍ਰੋਗਰਾਮਿੰਗ ਸਿੰਟੈਕਸ	Syntaks (programmering)
+ਦਾਜਤੀ ਪਹਾੜ	Dajti
+ਦਵਾਤ	Blekkhus
+ਖਰੋਸ਼ਠੀ	Kharoṣṭhī
+ਸਗਰਾਤ ਕੁਰ	Sagrat Cor
+ਇਕਾਂਗੀ	Enakter
+ਪ੍ਰਿਥਵੀ (ਮਿਸਾਇਲ)	Prithvi (missil)
+੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ – ਮਹਿਲਾਵਾਂ ਦੀ ਫ੍ਰੀਸਟਾਇਲ ੬੩ ਕਿਲੋਗਰਾਮ	Bryting under Sommer-OL 2008 – Fri stil kvinner 63 kg
+ਕਥਾਸਰਿਤਸਾਗਰ	Kathasaritsagara
+ਕਾਤਿਆਇਨ	Kātyāyana
+ਨਵਾਬ	Nawab
+ਜਰਮਨੀ ਦੇ ਰਾਜ	Tysklands delstater
+ਓਪੇਰਾ (ਗੁੰਝਲ ਖੋਲ੍ਹ)	Opera (andre betydninger)
+ਊਮਿਓ ਸਕੂਲ ਆਫ਼ ਬਿਜ਼ਨਸ	Handelshøyskolen i Umeå
+ਹੈਦਰਾਬਾਦ ਸਟੇਟ	Hyderabad (fyrstestat)
+ਬਟੇਨੁਮਾ ਸੰਖਿਆ	Rasjonalt tall
+ਹਵਾਈ ਅੱਡਾ	Flyplass
+ਰਾ	Ra (gud)
+ਹਬੀਬੀ	Habibi
+ਮੀਨ	Fiskene (stjernetegn)
+ਪਾਣੀਪਤ ਦੀ ਤੀਜੀ ਲੜਾਈ (1761)	Det tredje slaget ved Panipat
+ਗੋਂਡ ਲੋਕ	Gond
+ਈਸਟਰ ਰੋਡ	Easter Road
+ਗੁਆਟੇਮਾਲਾ ਘਰੇਲੂ ਯੁੱਧ	Borgerkrigen i Guatemala
+ਰਾਸ਼ਟਰੀਆ ਸਵੈਮ ਸੇਵਕ ਸੰਘ	Rashtriya Swayamsevak Sangh
+ਪਾਲਮਾ ਵੱਡਾ ਗਿਰਜਾਘਰ	La Seu
+ਕੰਪਿਊਟਰੀ ਜਾਲ	Datanett
+ਤੁਰਕਿਸਤਾਨ	Turkestan
+ਤਬੂਕ ਸੂਬਾ	Tabuk (provins)
+ਬਿਰਤਾਂਤ	Narrativ
+ਹਰੇ ਕ੍ਰਿਸ਼ਨ ਮੰਤਰ	Hare Krishna
+ਤ੍ਰਿਪਿਟਕ	Tripitaka
+ਭਾਰਤੀ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ	Klassisk indisk musikk
+ਟਾਈਨਕਾਸਲ ਸਟੇਡੀਅਮ	Tynecastle Stadium
+ਇਰਾਨ ਦੀ ਤੂਦੇ ਪਾਰਟੀ	Tudeh-partiet
+ਫਲਿਪਡ (ਫ਼ਿਲਮ)	Flipped
+ਇਰਾਨ ਦੇ ਸੂਬੇ	Irans provinser
+ਐਰਿਕ ਬੈੱਟਸਿਸ਼	Eric Betzig
+ਇਨਸਾਸ ਬੰਦੂਕ	INSAS
+ਏਰਨਾਕੁਲਮ ਜ਼ਿਲਾ	Ernakulam (distrikt)
+ਹਨੁਮਾਨਗੜ੍ਹ ਜ਼ਿਲ੍ਹਾ	Hanumangarh (distrikt)
+ਖ਼ਿਲਾਫ਼ਤ ਅੰਦੋਲਨ	Kalifat-bevegelsen
+ਨਿਯੰਤਰਨ ਰੇਖਾ	Line of Control
+ਪਾਰਲੀਮੈਂਟ ਸਕੁਏਅਰ	Parliament Square
+ਹਰੀਲਾਲ ਗਾਂਧੀ	Harilal Gandhi
+ਜੈਪੁਰ ਸਾਹਿਤ ਸੰਮੇਲਨ	Jaipur Literature Festival
+ਮਨੋਜ ਕੁਮਾਰ	Manoj Kumar
+ਚਾਲੁਕੀਆ ਰਾਜਵੰਸ਼	Chalukya-dynastiet
+ਸ਼ੰਕਾਵਾਦ	Skeptisisme
+ਐਨੀਮਲ ਫ਼ਾਰਮ	Kamerat Napoleon
+ਨਾਂਵ ਵਾਕੰਸ਼	Nominalfrase
+ਸ਼੍ਰੇਣੀ:ਇਟਲੀ	Kategori:Italia
+ਸ਼੍ਰੇਣੀ:ਰੂਸ	Kategori:Russland
+ਸ਼੍ਰੇਣੀ:ਕੈਨੇਡਾ	Kategori:Canada
+ਸ਼੍ਰੇਣੀ:ਸਪੇਨ	Kategori:Spania
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤ	Kategori:India
+ਬਹੁਪਾਸੜਵਾਦ	Multilateralisme
+ਭਾਰਤ ਦੇ ਵਿੱਤ ਮੰਤਰੀ	Indias finansminister
+ਫ਼ਿਰਹਿਲ ਸਟੇਡੀਅਮ	Firhill Stadium
+ਗੰਗਾਨਗਰ ਜ਼ਿਲਾ	Ganganagar (distrikt)
+ਟਿਊਬਵੈੱਲ	Abessinerbrønn
+ਪੈਦਾਵਾਰੀ ਤਾਕਤਾਂ	Produktivkrefter
+ਪ੍ਰੇਤ (ਨਾਟਕ)	Gengangere
+ਸ਼੍ਰੇਣੀ:ਅਫਗਾਨਿਸਤਾਨ	Kategori:Afghanistan
+ਸ਼੍ਰੇਣੀ:ਪਾਕਿਸਤਾਨ	Kategori:Pakistan
+ਸ਼੍ਰੇਣੀ:ਰਸਾਇਣ ਵਿਗਿਆਨ	Kategori:Kjemi
+ਸ਼੍ਰੇਣੀ:ਇਤਿਹਾਸ	Kategori:Historie
+ਸ਼੍ਰੇਣੀ:ਭੂਗੋਲ	Kategori:Geografi
+ਸ਼੍ਰੇਣੀ:ਸਮਾਜ	Kategori:Samfunn
+ਸ਼੍ਰੇਣੀ:ਧਰਮ	Kategori:Religion
+ਸ਼੍ਰੇਣੀ:ਵਿਗਿਆਨ	Kategori:Vitenskap
+ਸ਼੍ਰੇਣੀ:ਧਰਤੀ	Kategori:Jorden
+ਸਕਾਟਲੈਂਡ ਦੀ ਆਜ਼ਾਦੀ ਬਾਰੇ ਰਾਏਸ਼ੁਮਾਰੀ, 2014	Folkeavstemningen om skotsk uavhengighet 2014
+ਤਹਿਰੀਕ-ਏ-ਤਾਲਿਬਾਨ ਪਾਕਿਸਤਾਨ	Tehreek-e-Taliban Pakistan
+ਜੌਫ਼ ਸੂਬਾ	Al Jawf (provins)
+ਬਿਲਾਸਪੁਰ ਜ਼ਿਲ੍ਹਾ, ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼	Bilaspur (distrikt i Himachal Pradesh)
+ਸਮਾਜਕ ਪਰਿਵਰਤਨ	Sosial endring
+ਯੂਨਾਨੀ ਇਲਾਜ	Unani
+ਆਮਦਨ	Inntekt
+ਗ੍ਰਿਫ਼ਿਨ ਪਾਰਕ	Griffin Park
+ਪੰਜਾਬ ਯੂਨੀਵਰਸਿਟੀ, ਲਹੌਰ	University of the Punjab
+ਕੋਡਗੁ	Kodagu (distrikt)
+ਗੁਲਾਬ ਜਾਮਨ	Gulab jamun
+ਵਸੀਲਾ	Ressurs
+ਹੈਦਰ ਅਲੀ	Haider Ali
+ਮਨੁੱਖੀ ਚਿੜੀਆ ਘਰ	Menneskelig menasjeri
+ਖੰਡਾ	Khanda
+ਵਿਸ਼ਵ ਭਾਰਤੀ ਯੂਨੀਵਰਸਿਟੀ	Visva-Bharati-universitetet
+ਵਿਜੈਨਗਰ	Vijayanagara
+ਹਾਕੀ	Hockey
+ਰਜਨੀ ਪਾਮ ਦੱਤ	Rajani Palme Dutt
+ਰਗਬੀ ਪਾਰਕ	Rugby Park
+ਸਲਾਮ ਬੰਬੇ!	Salaam Bombay!
+ਹੈਦਰਾਬਾਦ, ਸਿੰਧ	Hyderabad (Sind)
+ਉਸਮਾਨਾਬਾਦ ਜ਼ਿਲਾ	Osmanabad (distrikt)
+ਆਈ.ਕੇ.ਐਸ.ਯੂ.	IKSU
+ਇੰਡੀਅਨ ਇੰਸਟੀਚਿਊਟ ਆਫ਼ ਟੈਕਨਾਲੋਜੀ, ਮੁੰਬਈ	Indian Institute of Technology Mumbai
+ਅੰਤਰਰਾਸ਼ਟਰੀ ਬਾਲੜੀ ਦਿਵਸ	Den internasjonale jentedagen
+ਇਸਾਮੂ ਅਕਾਸਾਕੀ	Isamu Akasaki
+ਜਾਨ ਓਕੀਫ਼	John O'Keefe
+ਪਤੰਗਾ	Nattsvermere
+ਵਰਗ ਸੰਘਰਸ਼	Klassekamp
+ਪ੍ਰਾਚੀਨ ਰੋਮ	Romerriket
+ਵਿਸ਼ਵ ਧਰਮ ਸੰਸਦ	Verdensreligionenes parlament
+ਇਤਿਹਾਸ ਕੀ ਹੈ?	What is History?
+ਬਚਪਨ (ਨਾਵਲ)	Barndom (roman)
+ਮਰੀਅਮ ਮਿਰਜ਼ਾਖ਼ਾਨੀ	Maryam Mirzakhani
+ਰਾਮਨੌਮੀ	Ramanavami
+ਚਾਰ ਮੀਨਾਰ	Charminar
+ਅਮਰਾਵਤੀ ਜ਼ਿਲ੍ਹਾ	Amravati (distrikt)
+ਫ਼ੌਜੀ ਜੁੰਡੀ	Militærjunta
+﻿ਨੋਬਲ ਫ਼ਾਊਂਡੇਸ਼ਨ	Nobelstiftelsen
+ਕਾਰਬਨੀ ਪਦਾਰਥ	Organisk materiale
+ਕੋਵਲਮ	Kovalam
+ਵਿਕਟੋਰੀਆ ਪਾਰਕ, ਡਿਙਗਵਲ	Victoria Park (Dingwall)
+ਆਣੰਦ, ਗੁਜਰਾਤ	Anand (Gujarat)
+ਸਰਗੁਜਾ	Surguja (distrikt)
+ਡੂਡਲ	Drodling
+ਦੇਹਰਾਦੂਨ ਜ਼ਿਲ੍ਹਾ	Dehradun (distrikt)
+ਗੁੜਗਾਂਵ ਜ਼ਿਲਾ	Gurgaon (distrikt)
+ਹਿਸਾਰ ਜ਼ਿਲਾ	Hisar (distrikt)
+ਸ੍ਰੀਹਰੀਕੋਟਾ	Sriharikota
+ਜਲੰਧਰ ਜ਼ਿਲ੍ਹਾ	Jalandhar (distrikt)
+ਪ੍ਰੋਸਰਪੀਨਾ ਬੰਨ੍ਹ	Proserpina-demningen
+ਸਇਹਾ ਜ਼ਿਲਾ	Saiha (distrikt)
+ਇੰਫਾਲ ਪੱਛਮ ਜ਼ਿਲਾ	Imphal West (distrikt)
+ਯੁਗੇਸ਼ਵਰ ਦੱਤ	Yogeshwar Dutt
+ਅਸਲ ਨਿਯੰਤਰਨ ਰੇਖਾ	Line of Actual Control
+ਮਿਕਡਾਇਰਮਿਡ ਪਾਰਕ	McDiarmid Park
+ਭਿਵਾਨੀ ਜ਼ਿਲਾ	Bhiwani (distrikt)
+ਕੁਨੂ	Qunu
+ਸਾਲਾਰ ਜੰਗ ਮਿਊਜ਼ੀਅਮ	Salar Jung Museum
+ਅਨੀਂਦਰਾ	Søvnløshet
+ਯਮਨਾ ਨਗਰ ਜ਼ਿਲਾ	Yamuna Nagar (distrikt)
+ਮੰਡੀ ਜ਼ਿਲਾ	Mandi (distrikt)
+ਪੰਚਕੁਲਾ ਜ਼ਿਲਾ	Panchkula (distrikt)
+ਇੰਫਾਲ ਪੂਰਵ ਜ਼ਿਲਾ	Imphal East (distrikt)
+ਸ਼ਿਮਲਾ ਜ਼ਿਲਾ	Shimla (distrikt)
+ਵਿਉਂਤਬੱਧ ਵਿਆਹ	Arrangert ekteskap
+ਪੱਤਰਕਾਰ	Journalist
+ਉਂਨਾਵ ਜ਼ਿਲਾ	Unnao (distrikt)
+ਸੰਗਰੂਰ ਜ਼ਿਲ੍ਹਾ	Sangrur (distrikt)
+ਮੰਥਲੀ ਰਿਵਿਊ	Monthly Review
+ਮੋਗਾ ਜ਼ਿਲ੍ਹਾ	Moga (distrikt)
+ਊਧਮਪੁਰ ਜ਼ਿਲਾ	Udhampur (distrikt)
+ਆਇਜੋਲ ਜ਼ਿਲਾ	Aizawl (distrikt)
+ਕੋਲਾਸਿਬ ਜ਼ਿਲਾ	Kolasib (distrikt)
+ਲੁੰਗਲੇਈ ਜ਼ਿਲਾ	Lunglei (distrikt)
+ਸ੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ ਜ਼ਿਲ੍ਹਾ	Muktsar (distrikt)
+ਝੱਜਰ ਜ਼ਿਲ੍ਹਾ	Jhajjar (distrikt)
+ਚੰਬਾ, ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼	Chamba
+ਚੰਫਾਈ ਜ਼ਿਲਾ	Champhai (distrikt)
+ਨਿਊ ਡਗਲਸ ਪਾਰਕ	New Douglas Park
+ਸ਼੍ਰੇਣੀ:ਇਸਾਈ ਧਰਮ	Kategori:Kristendom
+ਸ਼੍ਰੇਣੀ:ਹਿੰਦੂ ਧਰਮ	Kategori:Hinduisme
+ਸ਼੍ਰੇਣੀ:ਇਸਲਾਮ	Kategori:Islam
+ਸ਼੍ਰੇਣੀ:ਯਹੂਦੀ ਧਰਮ	Kategori:Jødedom
+ਡਰਨਾ	Fugleskremsel
+ਨੋਰਲੰਦ ਦਾ ਯੂਨੀਵਰਸਿਟੀ ਹਸਪਤਾਲ	Norrlands universitetssjukhus
+ਸਿਆਚਿਨ ਬਖੇੜਾ	Siachen-konflikten
+ਇਲਾਹਾਬਾਦ ਯੂਨੀਵਰਸਿਟੀ	Allahabad-universitetet
+ਖਸਖਸ	Valmuefrø
+ਉੱਤਰੀ ਅਮਰੀਕਾ (ਖੇਤਰ)	Det nordlige Amerika
+S ਬੈਂਡ	S-båndet
+ਨਾਰੰਗੀ (ਗੁੰਝਲ ਖੋਲ੍ਹ ਸਫ਼ਾ)	Orange
+ਇੰਦਰਾ ਗਾਂਧੀ ਨੈਸ਼ਨਲ ਓਪਨ ਯੂਨੀਵਰਸਿਟੀ	Indira Gandhi National Open University
+ਸ਼ਿਵ ਥਾਪਾ	Shiva Thapa
+ਅਜੀਤਗੜ੍ਹ ਜ਼ਿਲ੍ਹਾ	Mohali (distrikt)
+ਨਿਰੁਕਤ ਸ੍ਰੀ ਗੁਰੂ ਗਰੰਥ ਸਾਹਿਬ	Nirukta
+ਕਾਲਾ ਸ਼ੁਕਰਵਾਰ	Svarte fredag (1978)
+ਕੋਡਰਮਾ ਜਿਲ੍ਹਾ	Koderma (distrikt)
+ਪਾਣੀਪੱਤ ਜ਼ਿਲਾ	Panipat (distrikt)
+ਫਰੀਦਾਬਾਦ ਜ਼ਿਲਾ	Faridabad (distrikt)
+ਹਮੀਰਪੁਰ ਜ਼ਿਲਾ, ਹਿਮਾਚਲ ਪ੍ਰਦੇਸ਼	Hamirpur (distrikt i Himachal Pradesh)
+ਸੇਰਛਿਪ ਜ਼ਿਲਾ	Serchhip (distrikt)
+ਥੌਬਲ ਜ਼ਿਲਾ	Thoubal (distrikt)
+ਲਾਂਗਤਲਾਈ ਜ਼ਿਲਾ	Lawngtlai (distrikt)
+ਅੰਬਾਲਾ ਜ਼ਿਲਾ	Ambala (distrikt)
+ਚਿਤਰਕੂਟ ਜ਼ਿਲ੍ਹਾ	Chitrakoot (distrikt)
+ਕਾਨਪੁਰ ਜ਼ਿਲ੍ਹਾ	Kanpur Nagar (distrikt)
+ਰੋਡਾਸਲ	Rödåsel
+ਉਕਾਬ	Ørner
+ਜਾਰਜ ਅਬਰਾਹਮ ਗਰੀਅਰਸਨ	George Abraham Grierson
+ਸੇਂਟ ਮਿਰੇਨ ਪਾਰਕ	New St. Mirren Park
+ਮੰਗਲ ਉਪਗ੍ਰਹਿ ਮਿਸ਼ਨ	Mars Orbiter Mission
+੧੯੫੬ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1956
+ਧਨੂ ਰਾਸ਼ੀ	Skytten (stjernetegn)
+ਸੰਗਿਆਨ	Kognisjon
+ਮੇਵਾਤ ਜ਼ਿਲਾ	Mewat (distrikt)
+ਵੈਸਟਰਬੌਟਨ-ਕੁਰੀਰੈਨ	Västerbottens-Kuriren
+ਪਰਿੰਦਿਆਂ ਦੀ ਕਾਨਫਰੰਸ	Fuglenes forsamling
+ਕਿਨੌਰ ਜ਼ਿਲਾ	Kinnaur (distrikt)
+ਊਮੇਡਾਲੇਨ ਸਕਲਪਚਰਪਾਰਕ	Umedalen Skulptur
+ਬੋਕਾਰੋ ਜਿਲਾ	Bokaro (distrikt)
+ਤਰਨ ਤਾਰਨ ਜ਼ਿਲਾ	Tarn Taran (distrikt)
+ਸੇਨਾਪਤੀ ਜ਼ਿਲਾ	Senapati (distrikt)
+ਤਮੇਂਗਲਾਂਗ ਜ਼ਿਲਾ	Tamenglong (distrikt)
+ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ	Nawanshahr
+ਉਨਾ ਜ਼ਿਲਾ	Una (distrikt)
+ਫ਼ਤੇਹਾਬਾਦ ਜ਼ਿਲਾ	Fatehabad (distrikt)
+ਰੇਵਾੜੀ ਜ਼ਿਲਾ	Rewari (distrikt)
+ਚੰਡੇਲ ਜ਼ਿਲਾ	Chandel (distrikt)
+ਦ ਵਾਈਟ ਟਾਈਗਰ	Hvit tiger
+ਨਾਗ	Kobraslanger
+ਕਾਂਕੇਰ ਜ਼ਿਲਾ	Kanker (distrikt)
+ਬਾਰਾਂ ਜ਼ਿਲ੍ਹਾ	Baran (distrikt)
+ਪੀਰ ਪੰਜਾਲ	Pir Panjal
+ਸਪਰੇਟਾ	Skummet melk
+ਬਰਨਾਲਾ ਜ਼ਿਲ੍ਹਾ	Barnala (distrikt)
+੧੯੭੨ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1972
+ਦਸਮ ਗ੍ਰੰਥ	Dasam Granth
+ਆਈਲੈਂਡ (ਨਾਵਲ)	Island (roman)
+ਸਚਿਦਾਨੰਦ ਵਾਤਸਾਇਨ	Sachchidananda Hirananda Vatsyayan
+ਬਾਗੜੀ	Bagri
+ਇਰਾਕ ਅਤੇ ਅਲ ਸ਼ਾਮ ਵਿੱਚ ਇਸਲਾਮੀ ਰਾਜ	Den islamske staten Irak og Levanten
+ਵਿੱਦਿਆਪਤੀ	Vidyapati
+ਸ਼ੌਰਸੇਨੀ	Sauraseni
+ਅਖਰੋਟ (ਰੁੱਖ)	Valnøttslekta
+ਲੇਡੀ ਮੈਕਬਥ	Lady Macbeth
+ਵਿਸਾਖੀ	Baisaki
+ਉਸਮਾਨਾਬਾਦ	Osmanabad
+ਹਰਕਤ-ਉਲ-ਮੁਜਾਹਿਦੀਨ	Harakat ul-Mujahidin
+ਸੁਭਾਸ਼ ਘਈ	Subhash Ghai
+ਪੋਰਟਰੇਟ (ਗੋਗੋਲ ਦੀ ਕਹਾਣੀ)	Portrettet (Gogol)
+ਕੋਲਾਰ ਜ਼ਿਲ੍ਹਾ	Kolar (distrikt)
+ਵੇਦਾਂਤ	Vedanta
+ਫਿਲਮ ਨਿਰਦੇਸ਼ਕ	Filmregissør
+ਵਿਸ਼ਵ ਹਿੰਦੂ ਪਰਿਸ਼ਦ	Vishwa Hindu Parishad
+ਲਿਪਾਂਕ	Grafem
+ਚੁਰਾਚਾਂਦਪੁਰ ਜ਼ਿਲ੍ਹਾ	Churachandpur (distrikt)
+ਗਰੈਵਿਟੀ	Gravity (film)
+੧੯੬੪ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1964
+੧੯੬੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਭਾਰਤ	India under Sommer-OL 1968
+ਪੇਰੀਯਾਰ ਨਦੀ	Periyar (elv)
+ਚੰਡੀਦਾਸ	Chandidas
+ਹਰਿਆਣੇ ਦੇ ਜ਼ਿਲੇ	Distrikter i Haryana
+ਅਣਖ ਖ਼ਾਤਰ ਕਤਲ	Æresdrap
+ਰਾਜਿੰਦਰ ਸ਼ਾਹ	Rajendra Keshavlal Shah
+ਪਲਵਲ ਜ਼ਿਲਾ	Palwal (distrikt)
+ਐਮਰਜੈਂਸੀ (ਭਾਰਤ)	Unntakstilstanden (India)
+ਸਮੀਹ ਅਲ-ਕਾਸਿਮ	Samih al-Qasim
+ਸਾਗ	Sag panir
+ਤਿਲ	Sesam
+ਅਬੂ ਬੱਕਰ ਅਲ ਬਗਦਾਦੀ	Abu Bakr al-Baghdadi
+ਦਾਗ਼ ਦਿਹਲਵੀ	Daagh Dehlvi
+ਕਲੀਨਥ ਬਰੁਕਸ	Cleanth Brooks
+ਸ਼੍ਰੇਣੀ:ਅਧਾਰ	Kategori:Stubber
+ਸ਼੍ਰੇਣੀ:ਸੱਭਿਆਚਾਰ	Kategori:Kultur
+ਸ਼੍ਰੇਣੀ:ਸਾਲ	Kategori:Årstall
+ਕੁੱਲੂ ਜ਼ਿਲਾ	Kullu (distrikt)
+ਸੋਲਨ ਜ਼ਿਲਾ	Solan (distrikt)
+ਓਪਰੇਸ਼ਨ ਪੋਲੋ	Operasjon Polo
+ਪਿੱਪਲ	Gudefiken
+ਬਾਈਂਡਿੰਗ ਸਿਧਾਂਤ	Bindingsteori
+ਕੋਲਿੰਦਾ ਗਰਾਬਾਰ-ਕਿਤਾਰੋਵਿਚ	Kolinda Grabar-Kitarović
+ਫਰਮਾ:ਸੂਰਜ ਮੰਡਲ	Mal:Solsystem
+ਸਮਾਜਿਕ ਮੇਲ-ਜੋਲ ਸੇਵਾ	Nettsamfunn
+ਗਵਰਨਮੈਂਟ ਆਫ਼ ਇੰਡੀਆ ਐਕਟ 1935	Government of India Act 1935
+ਭਾਰਤੀ ਜਨ ਸੰਘ	Bharatiya Jana Sangh
+ਦੋਆਬਾ	Doaba
+ਲੋਨ ਸਰਵਾਇਵਰ	Lone Survivor
+ਫਾਟਕ:ਭੂਗੋਲ	Portal:Geografi
+ਫ਼ਿਲਮ ਨਿਰਮਾਤਾ	Filmprodusent
+ਚੁੰਬਕਤਾ	Magnetisme
+ਕਾਸਿਮ ਰਜ਼ਵੀ	Kasim Razvi
+ਸੈਂਜ਼ੋ ਮੇਈਵਾ	Senzo Meyiwa
+ਹਾਊਸ ਆਫ਼ ਕਾਰਡਜ਼ (ਅਮਰੀਕੀ ਟੀਵੀ ਲੜੀਵਾਰ)	House of Cards (USA)
+ਰੇਨਬੋ ਨੇਸ਼ਨ	Regnbuenasjonen
+ਕਾਦੰਬਨੀ ਗੰਗੁਲੀ	Kadambini Ganguly
+ਲਾਲਨ ਸ਼ਾਹ ਫ਼ਕੀਰ	Lalan Fakir
+ਸਾਹਿਤ ਅਕਾਦਮੀ	Sahitya Akademi
+ਬੁੱਲ੍ਹੇ ਸ਼ਾਹ	Bulleh Shah
+ਭਾਰਤੀ ਸ਼ਾਂਤੀ ਰੱਖਿਆ ਸੈਨਾ	Indian Peace Keeping Force
+ਮਾਈਕ੍ਰੋਨੇਸ਼ੀਆ	Mikronesia
+ਖੜੀ ਬੋਲੀ	Khariboli
+ਕੁੰਵਰ ਨਰਾਇਣ	Kunwar Narayan
+ਅਮਨ ਹੇਅਰ	Aman Hayer
+ਊਮਿਓ ਸੈਂਟਰਲ ਸਟੇਸ਼ਨ	Umeå sentralstasjon
+ਰਾਲਫ਼ ਲਿੱਲੀ ਟਰਨਰ	Ralph Lilley Turner
+ਰੇਡੀਓ ਵਾਰਵਾਰਤਾ	Radiofrekvens
+ਵਿਕੀਪੀਡੀਆ:HotCat	Wikipedia:HotCat
+ਨੀਤੀਸ਼ਤਕ	Śatakatraya
+ਮ੍ਰਿੱਛਕਟਿਕਮ	Mricchakatika
+ਕੈਲਾਸ਼ ਸਤਿਆਰਥੀ	Kailash Satyarthi
+1984 ਸਿੱਖ ਵਿਰੋਧੀ ਦੰਗੇ	Antisikh-opptøyene i 1984
+ਭਾਰਤ ਦੇ ਉਪ-ਰਾਸ਼ਟਰਪਤੀਆਂ ਦੀ ਸੂਚੀ	Liste over Indias visepresidenter
+ਤੇਲੰਗਾਨਾ ਰਾਸ਼ਟਰੀ ਸਮਿਤੀ	Telangana Rashtra Samithi
+﻿ਜਸਵੰਤ ਸਿੰਘ	Jaswant Singh
+ਇਤਿਹਾਸ ਅਜਾਇਬ-ਘਰ ਬਾਰਸੀਲੋਨਾ	Museu d'Història de la Ciutat
+ਵਸਤਰਬੋਟਨ ਮਿਊਜ਼ੀਅਮ	Västerbottens museum
+ਕਿਰਕਬਰੋਨ, ਊਮਿਓ	Kyrkbron (Umeå)
+ਗਾਮਲਾ ਬਰੋਨ	Gamla bron
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਬਿਹਾਰ	Mal:Kartposisjon Bihar
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਜੰਮੂ ਅਤੇ ਕਸ਼ਮੀਰ	Mal:Kartposisjon Jammu og Kashmir
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਪੰਜਾਬ	Mal:Kartposisjon Punjab (India)
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਰਾਜਸਥਾਨ	Mal:Kartposisjon Rajasthan
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਤਾਮਿਲ ਨਾਡੂ	Mal:Kartposisjon Tamil Nadu
+ਫਰਮਾ:Location map ਭਾਰਤ ਪੱਛਮੀ ਬੰਗਾਲ	Mal:Kartposisjon Vest-Bengal
+ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ	Banda Singh Bahadur
+ਕੁਰਨੂਲ	Kurnool
+ਬੀਜਾਪੁਰ	Bijapur
+ਚਿਹਨ	Tegn
+﻿ਉਸਤਾਦ ਬੜੇ ਫ਼ਤਿਹ ਅਲੀ ਖ਼ਾਨ	Ustad Fateh Ali Khan
+ਫਾਟਕ:ਸਮਾਜ	Portal:Samfunn
+ਚਾਲ	Fart
+ਬਤਖ਼	Ender
+ਪਰਮਾਣਵੀ ਭਾਰ	Atommasse
+ਵਿਕੀਪੀਡੀਆ:ਪੁੱਛ-ਗਿੱਛ/ਸਿਰਲੇਖ	Wikipedia:Orakelet
+ਸ਼ਲਗਮ	Vanlig nepe
+ਫਰਮਾ:Cquote	Mal:Sitat
+ਫਰਮਾ:Chess diagram	Mal:Sjakkstilling
+ਸ਼੍ਰੇਣੀ:ਯੂਰਪ ਦੇ ਦਰਿਆ	Kategori:Elver i Europa
+ਫਰਮਾ:Tl	Mal:Mal
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਸਕਾਟਲੈਂਡ	Mal:Kartposisjon Skottland
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਇੰਗਲੈਂਡ	Mal:Kartposisjon England
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਵੇਲਜ਼	Mal:Kartposisjon Wales
+ਫਰਮਾ:ਮੁੱਖ ਸਫ਼ੇ ਦੀਆਂ ਖ਼ਬਰਾਂ	Mal:Aktuelt
+ਸ਼੍ਰੇਣੀ:ਲੋਕ	Kategori:Personer
+ਸ਼੍ਰੇਣੀ:ਸਮਾਂ	Kategori:Tid
+ਸ਼੍ਰੇਣੀ:ਕੁਦਰਤ	Kategori:Natur
+ਸ਼੍ਰੇਣੀ:ਬਨਸਪਤੀ ਵਿਗਿਆਨ	Kategori:Botanikk
+ਫਰਮਾ:Paraphyletic group	Mal:Taksoboks-kunstig-gruppe
+ਮਿਸਰ	Egypt
+ਵਿਕੀਪੀਡੀਆ:ਕਠਪੁਤਲੀ	Wikipedia:Sokkedukker
+ਰਵਿੰਦਰ ਪ੍ਰਭਾਤ	Ravindra Prabhat
+ਸੈਫੁੱਦੀਨ ਕਿਚਲੂ	Saifuddin Kitchlew
+ਵਿਕੀਪੀਡੀਆ:ਵਿਕੀਪ੍ਰੋਜੈਕਟ	Wikipedia:Underprosjekter
+ਫਰਮਾ:ਬੋਟ	Mal:Bot
+ਆਵਾਜਾਈ	Trafikk
+ਊਮਿਓ ਸ਼ਹਿਰ ਦਾ ਗਿਰਜਾ	Umeå stads kyrka
+ਕੈਨੇਡਾ	Canada
+ਸ਼੍ਰੇਣੀ:ਆਈਸਲੈਂਡ	Kategori:Island
+ਵਿਕੀਪੀਡੀਆ:ਬਾਰੇ	Wikipedia:Om
+ਕੌਮਾਂਤਰੀ ਕਨੂੰਨ	Folkerett
+ਪਸਾਰ	Dimensjon
+ਊਮਿਓ ਦੀ ਪੁਰਾਣੀ ਜੇਲ	Umeå gamla fängelse
+ਫਾਟਕ:ਵਿਗਿਆਨ	Portal:Vitenskap
+ਫਰਮਾ:Documentation	Mal:Dokumentasjon
+ਸ਼੍ਰੇਣੀ:ਬਬੇਲ - ਭਾਸ਼ਾ ਮੁਤਾਬਕ ਯੂਜ਼ਰ	Kategori:Wikipedia-brukere etter språk
+ਵਿਕੀਪੀਡੀਆ:ਪੰਜ ਥੰਮ੍ਹ	Wikipedia:Fem søyler
+ਵਿਕੀਪੀਡੀਆ:ਨਿਰਪੱਖ ਨਜ਼ਰੀਆ	Wikipedia:Objektivitet
+ਵਿਕੀਪੀਡੀਆ:ਫਾਟਕ	Wikipedia:Portaler
+ਲਲਿਤ ਕਲਾਵਾਂ ਦੀ ਅਕੈਡਮੀ, ਊਮਿਓ	Konsthögskolan i Umeå
+ਆਲ ਇੰਡੀਆ ਸਟੇਟਸ ਪੀਪੁਲਸ ਕਾਨਫਰੰਸ	All-India States' Peoples' Conference
+ਅਮੀਰ ਮੀਨਾਈ	Amir Meenai
+ਅਪੋਲੋ ਥੀਏਟਰ (ਲੰਦਨ)	Apollo Theatre
+ਫਰਮਾ:Softredirect	Mal:Softredirect
+ਫਰਮਾ:ਮਿਟਾਓ	Mal:Hurtigsletting
+ਸ਼੍ਰੇਣੀ:ਸ਼ਿਲਪ ਵਿਗਿਆਨ	Kategori:Teknologi
+ਬੀਲਦਮੁਸੀਟ	Bildmuseet
+ਸ਼੍ਰੇਣੀ:ਭਾਸ਼ਾਵਾਂ	Kategori:Språk
+ਵਿਕੀਪੀਡੀਆ:General disclaimer	Wikipedia:Generelle forbehold
+ਸ਼੍ਰੇਣੀ:Pages with broken file links	Kategori:Sider med brutte fillenker
+ਸਮਾਰਕ	Monument
+ਯਾਦਗਾਰ	Minnesmerke
+ਫਰਮਾ:Navbox	Mal:Navboks
+ਫਰਮਾ:ਕੁੱਲ-ਚਿੰਨ	Mal:Våpenskjold
+ਐਦਵਾਤ ਮੂਸਰ	Edvard Moser
+ਫਰਮਾ:!	Mal:!
+ਫਰਮਾ:=	Mal:=
+ਫਰਮਾ:Tnavbar	Mal:Tnavbar
+ਫਰਮਾ:Unicode	Mal:Unicode
+ਫਰਮਾ:E	Mal:E
+ਫਰਮਾ:Clear	Mal:Clear
+ਫਰਮਾ:Col-break	Mal:Col-break
+ਫਰਮਾ:Col-begin	Mal:Col-begin
+ਫਰਮਾ:Col-end	Mal:Col-end
+ਫਰਮਾ:Color	Mal:Farve
+ਫਰਮਾ:Nowrap	Mal:Nowrap
+ਫਰਮਾ:Abbr	Mal:Abbr
+ਫਰਮਾ:Anchor	Mal:Anchor
+ਘੋਲ	Løsning (kjemi)
+ਵਿਕੀਪੀਡੀਆ:ਕੁਝ ਜ਼ਰੂਰੀ ਲੇਖ ਜੋ ਹਰ ਭਾਸ਼ਾ ਦੇ ਵਿਕੀਪੀਡੀਆ ਉੱਤੇ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ	Wikipedia:Liste over artikler vi bør ha
+ਸ਼੍ਰੇਣੀ:ਅਫ਼ਰੀਕਾ	Kategori:Afrika
+ਸ਼੍ਰੇਣੀ:ਜੁਲਾਈ	Kategori:Dager i juli
+ਸ਼੍ਰੇਣੀ:ਅੰਕ	Kategori:Tall
+ਸ਼੍ਰੇਣੀ:ਜੂਨ	Kategori:Dager i juni
+ਸ਼੍ਰੇਣੀ:ਮਹੀਨੇ	Kategori:Måneder
+ਫਰਮਾ:Babel	Mal:Babel
+ਫਰਮਾ:ਹਵਾਲੇ	Mal:Referanser
+ਫਰਮਾ:Chess diagram small	Mal:Sjakkstilling liten
+ਫਰਮਾ:ਅਧਾਰ	Mal:Stubb
+ਫਰਮਾ:User af-1	Mal:Bruker af-1
+ਫਰਮਾ:User ar-1	Mal:Bruker ar-1
+ਫਰਮਾ:User az	Mal:Bruker az
+ਫਰਮਾ:User bar-1	Mal:Bruker bar-1
+ਫਰਮਾ:User eo-1	Mal:Bruker eo-1
+ਫਰਮਾ:See also	Mal:Se også
+ਫਰਮਾ:User da-2	Mal:Bruker da-2
+ਫਰਮਾ:User da	Mal:Bruker da
+ਫਰਮਾ:User ca-1	Mal:Bruker ca-1
+ਫਰਮਾ:User ca-4	Mal:Bruker ca-4
+ਫਰਮਾ:User be-2	Mal:Bruker be-2
+ਫਰਮਾ:User da-1	Mal:Bruker da-1
+ਫਰਮਾ:User cs-1	Mal:Bruker cs-1
+ਫਰਮਾ:User eo-3	Mal:Bruker eo-3
+ਫਰਮਾ:User de	Mal:Bruker de
+ਫਰਮਾ:ਮੈਂਬਰ ਜਰਮਨ-੧	Mal:Bruker de-1
+ਫਰਮਾ:User eu	Mal:Bruker eu
+ਫਰਮਾ:User et-1	Mal:Bruker et-1
+ਫਰਮਾ:User el	Mal:Bruker el
+ਫਰਮਾ:User es	Mal:Bruker es
+ਫਰਮਾ:User de-3	Mal:Bruker de-3
+ਫਰਮਾ:User en-3	Mal:Bruker en-3
+ਫਰਮਾ:User el-1	Mal:Bruker el-1
+ਫਰਮਾ:User en-1	Mal:Bruker en-1
+ਫਰਮਾ:ਮੈਂਬਰ ਅੰਗਰੇਜ਼ੀ-੨	Mal:Bruker en-2
+ਫਰਮਾ:ਮੈਂਬਰ ਫ਼ਾਰਸੀ-੧	Mal:Bruker fa-1
+ਫਰਮਾ:User eo-2	Mal:Bruker eo-2
+ਫਰਮਾ:User en-4	Mal:Bruker en-4
+ਫਰਮਾ:User fi	Mal:Bruker fi
+ਫਰਮਾ:User en-0	Mal:Bruker en-0
+ਫਰਮਾ:ਵਰਤੋਂਕਾਰ en	Mal:Bruker en
+ਫਰਮਾ:User de-2	Mal:Bruker de-2
+ਫਰਮਾ:User es-1	Mal:Bruker es-1
+ਫਰਮਾ:User fa	Mal:Bruker fa
+ਫਰਮਾ:User fr-1	Mal:Bruker fr-1
+ਫਰਮਾ:User ia-2	Mal:Bruker ia-2
+ਫਰਮਾ:User hr	Mal:Bruker hr
+ਫਰਮਾ:User id-3	Mal:Bruker id-3
+ਫਰਮਾ:User io-3	Mal:Bruker io-3
+ਫਰਮਾ:ਮੈਂਬਰ ਇਤਾਲਵੀ-੩	Mal:Bruker it-3
+ਫਰਮਾ:User ja-4	Mal:Bruker ja-4
+ਫਰਮਾ:User tr-2	Mal:Bruker tr-2
+ਫਰਮਾ:ਮੈਂਬਰ ਫ਼ਰਾਂਸਿਸੀ-੨	Mal:Bruker fr-2
+ਫਰਮਾ:User tr	Mal:Bruker tr
+ਫਰਮਾ:User ja	Mal:Bruker ja
+ਫਰਮਾ:User ja-1	Mal:Bruker ja-1
+ਫਰਮਾ:User it-1	Mal:Bruker it-1
+ਫਰਮਾ:User hr-1	Mal:Bruker hr-1
+ਫਰਮਾ:User fr	Mal:Bruker fr
+ਸ਼੍ਰੇਣੀ:ਫ਼ਰਵਰੀ	Kategori:Dager i februar
+ਸ਼੍ਰੇਣੀ:ਏਸ਼ੀਆ	Kategori:Asia
+ਸ਼੍ਰੇਣੀ:ਚਿਲੇ	Kategori:Chile
+ਸ਼੍ਰੇਣੀ:21ਵੀਂ ਸਦੀ	Kategori:2000-tallet
+ਸ਼੍ਰੇਣੀ:੧੯੫੪	Kategori:1954
+ਫਰਮਾ:Mod	Mal:Mod
+ਫਰਮਾ:User it	Mal:Bruker it
+ਫਰਮਾ:User uk	Mal:Bruker uk
+ਫਰਮਾ:User es-2	Mal:Bruker es-2
+ਫਰਮਾ:ਜੀ ਆਇਆਂ ਨੂੰ	Mal:Reg-velkommen
+ਸ਼੍ਰੇਣੀ:ਭਾਸ਼ਾ ਵਿਗਿਆਨ	Kategori:Lingvistikk
+ਫਰਮਾ:Image label	Mal:Image label
+ਫਰਮਾ:ਦਫ਼ਤਰੀ ਵੈੱਬਸਾਈਟ	Mal:Offisielt nettsted
+ਫਰਮਾ:Rotten-tomatoes	Mal:Rotten-tomatoes
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਲਿਖਾਰੀ	Mal:Infoboks forfatter
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਟੀਵੀ	Mal:Infobox Television
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸੰਗੀਤ ਕਲਾਕਾਰ	Mal:Infoboks musiker
+ਫਰਮਾ:ਸੰਯੁਕਤ ਰਾਜ ਦੇ ਰਾਜਸੀ ਵਿਭਾਗ	Mal:USAs delstater
+ਫਰਮਾ:Collapsible list	Mal:Sammenleggbar liste
+ਫਰਮਾ:Ambox	Mal:Amboks
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਗੀਤ	Mal:Infoboks hymne
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਕੂਲ	Mal:Infoboks skole
+ਫਰਮਾ:Userboxbottom	Mal:Brukerboksbunn
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸ਼ਤਰੰਜ ਖਿਡਾਰੀ	Mal:Infoboks sjakkspiller
+ਫਰਮਾ:Rnd	Mal:Rnd
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ	Mal:Infoboks FN
+ਗੁਰਵਿੰਦਰ ਸਿੰਘ ਚੰਦੀ	Gurwinder Singh Chandi
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਦੇਸ਼	Mal:Infoboks land2
+ਫਰਮਾ:Max	Mal:Max
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਾਫ਼ਟਵੇਅਰ	Mal:Infoboks programvare
+ਫਰਮਾ:Link FL	Mal:Link GLP
+ਫਰਮਾ:Collapsible option	Mal:Collapsible option
+ਫਰਮਾ:FlagIOCmedalist	Mal:FlaggIOCmedaljør
+ਫਰਮਾ:Infobox political party	Mal:Infoboks parti
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਵੀਡੀਓ ਖੇਡ	Mal:Infoboks videospill
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਵਿਗਿਆਨੀ	Mal:Infoboks vitenskapsmann
+ਫਰਮਾ:ਵਿਕੀਬੁਕਸ	Mal:Wikibøker
+ਫਰਮਾ:Xpd	Mal:Xpd
+ਫਰਮਾ:Lang-ar	Mal:Ar
+ਫਰਮਾ:ਖ਼ਬਰ ਦਾ ਹਵਾਲਾ	Mal:Kilde avis
+ਫਰਮਾ:Featured article	Mal:Utmerket
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ	Mal:Infoboks
+ਫਰਮਾ:ਇਰਾਨ ਦੇ ਸੂਬੇ	Mal:Irans provinser
+ਫਰਮਾ:Main other	Mal:Main other
+ਫਰਮਾ:RankedMedalTable	Mal:Medaljestatistikk
+ਫਰਮਾ:User zh	Mal:Bruker zh
+ਫਰਮਾ:Infobox writing system	Mal:Infoboks skriftsystem
+ਫਰਮਾ:Lx	Mal:Lx
+ਫਰਮਾ:User ru-4	Mal:Bruker ru-4
+ਫਰਮਾ:Won	Mal:Vant
+ਫਰਮਾ:Tnavbar-collapsible	Mal:Navbar-collapsible
+ਫਰਮਾ:Pp-template	Mal:Beskyttet side
+ਫਰਮਾ:User nl-1	Mal:Bruker nl-1
+ਫਰਮਾ:ਵਿਕਸ਼ਨਰੀ	Mal:Wiktionary
+ਫਰਮਾ:User nl-2	Mal:Bruker nl-2
+ਫਰਮਾ:Wikibreak	Mal:Wikibreak
+ਫਰਮਾ:MongolUnicode	Mal:MongolUnicode
+ਫਰਮਾ:ਮੈਂਬਰ ਤਾਜ਼ਾ ਤਬਦੀਲੀਆਂ	Mal:Bruker patroller
+ਫਰਮਾ:Babel-9	Mal:Babel-9
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਫ਼ਿਲਮਾਂ	Kategori:Indiske filmer
+ਫਰਮਾ:ਦੁਨੀਆਂ ਦੇ ਪ੍ਰਾਚੀਨ ਸੱਤ ਅਜੂਬੇ	Mal:Verdens syv underverker
+ਹੀਨਾ ਸਿੱਧੂ	Heena Sidhu
+ਆਰਬੋਰੇਟਮ ਨੌਰ	Arboretum Norr
+ਫਰਮਾ:User ru	Mal:Bruker ru
+ਸ਼੍ਰੇਣੀ:20ਵੀਂ ਸਦੀ	Kategori:1900-tallet
+ਫਰਮਾ:IPA	Mal:IPA
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਟੀਵੀ ਚੈਨਲ	Mal:Infoboks tv-kanal
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਨਸਲੀ ਵਰਗ	Mal:Infoboks folk
+ਫਰਮਾ:MONTHNAME	Mal:MONTHNAME
+ਫਰਮਾ:Infobox officeholder	Mal:Infoboks person med verv
+ਫਰਮਾ:ਨੋਬਲ ਇਨਾਮ	Mal:Nobelprisen
+ਫਰਮਾ:Namespace detect	Mal:Namespace detect
+ਫਰਮਾ:ਓਸ਼ੇਨੀਆ ਦੇ ਦੇਸ਼	Mal:Oseania
+ਸ਼੍ਰੇਣੀ:ਲੇਖਕ	Kategori:Forfattere
+ਫਰਮਾ:Infobox election	Mal:Infoboks presidentvalg
+ਫਰਮਾ:Lang-he	Mal:Lang-he
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਕਿਤਾਬ	Mal:Infoboks bok
+ਫਰਮਾ:User pt-1	Mal:Bruker pt-1
+ਫਰਮਾ:Lang-ku	Mal:Lang-ku
+ਸ਼੍ਰੇਣੀ:ਜਨਵਰੀ	Kategori:Dager i januar
+ਫਰਮਾ:ਕਾਲਕ ਸਾਰਨੀ	Mal:Periodesystemet
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਨਾਗਰਿਕ ਹੱਲਾ	Mal:Infoboks terroristangrep
+ਫਰਮਾ:User nl	Mal:Bruker nl
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਵੈੱਬਸਾਈਟ	Mal:Infoboks nettsted
+ਫਰਮਾ:User no-2	Mal:Bruker no-2
+ਫਰਮਾ:ਲੁਕਵੀਂਸ਼੍ਰੇਣੀ	Mal:Skjult kategori
+ਫਰਮਾ:Documentation subpage	Mal:Dokumentasjonsunderside
+ਫਰਮਾ:ਆਸਟਰੇਲੀਆ ਦੇ ਰਾਜ ਅਤੇ ਰਾਜਖੇਤਰ	Mal:Australske delstater
+ਫਰਮਾ:ਗੱਲਬਾਤ ਸਿਰਲੇਖ	Mal:Diskusjonsside
+ਫਰਮਾ:CcTLD	Mal:CcTLD
+ਫਰਮਾ:8TeamBracket-with third	Mal:8lagssluttspill
+ਫਰਮਾ:Tlx	Mal:Malp
+ਫਰਮਾ:ਮੈਕਸੀਕੋ ਦੇ ਰਾਜ	Mal:Mexicos delstater
+ਫਰਮਾ:Infobox sportsperson	Mal:Infoboks sportsbiografi
+ਫਰਮਾ:ਗਿਆਨਸੰਦੂਕ ਇਮਾਰਤ	Mal:Infoboks bygning
+ਫਰਮਾ:Goal	Mal:Goal
+ਫਰਮਾ:ਚੀਨ ਦੇ ਸੂਬਾ-ਪੱਧਰੀ ਵਿਭਾਗ	Mal:Kinas provinser
+ਫਰਮਾ:ਨਿਊਯਾਰਕ ਸਰਾਫ਼ਾ ਬਜ਼ਾਰ	Mal:Nyse
+ਫਰਮਾ:Infobox church	Mal:Infoboks kirke
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਇਸਾਈ ਆਗੂ	Mal:Infoboks pave
+ਫਰਮਾ:ਸਪਸ਼ਟੀਕਰਨ	Mal:Klargjør
+ਫਰਮਾ:Lorem Ipsum	Mal:Lorem ipsum
+ਫਰਮਾ:Emergency-bot-shutoff	Mal:Emergency-bot-shutoff
+ਫਰਮਾ:User pl-1	Mal:Bruker pl-1
+ਫਰਮਾ:User fr-3	Mal:Bruker fr-3
+ਫਰਮਾ:ਹਿਸਾਬ	Mal:Matte
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਾਬਕਾ ਦੇਸ਼	Mal:Infoboks tidligere land2
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਖਾੜਕੂ ਜੱਥੇਬੰਦੀ	Mal:Infoboks militant organisasjon
+ਫਰਮਾ:User lt	Mal:Bruker lt
+ਫਰਮਾ:User nds-1	Mal:Bruker nds-1
+ਫਰਮਾ:Infobox tennis biography	Mal:Infoboks tennisspiller
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਐੱਫ਼ ਵਨ ਚਾਲਕ	Mal:F1 fører
+ਫਰਮਾ:Mbox	Mal:Mbox
+ਫਰਮਾ:Infobox artwork	Mal:Infoboks kunstverk
+ਫਰਮਾ:ਗੁਣਕ/ਕੜੀ	Mal:Koord/lenke
+ਫਰਮਾ:Date	Mal:ISOtilNorskdato
+ਫਰਮਾ:User SUL	Mal:SUL-boks
+ਫਰਮਾ:ਹਫ਼ਤੇ ਦੇ ਦਿਨ	Mal:Ukedager
+ਉਪਨਿਸ਼ਦ	Upanishadene
+ਸ਼੍ਰੇਣੀ:ਹੇਠਲਾ ਜ਼ਾਕਸਨ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Niedersachsen
+ਫਰਮਾ:Infobox game	Mal:Infoboks spill
+ਫਰਮਾ:Lang-ru	Mal:Lang-ru
+ਫਰਮਾ:Sort	Mal:Sorter
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸੰਤ	Mal:Infoboks helgen
+ਫਰਮਾ:ਗੁੰਝਲ ਖੋਲ੍ਹ	Mal:Peker
+ਫਰਮਾ:Tick	Mal:Hake
+ਫਰਮਾ:Penmiss	Mal:Strbom
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਫ਼ਿਨਲੈਂਡੀ ਸ਼ਹਿਰ	Mal:Infoboks Finland kommune
+ਫਰਮਾ:Para	Mal:Para
+ਫਰਮਾ:Fb	Mal:Fotballflagg
+ਫਰਮਾ:User no	Mal:Bruker no
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਫ਼ਿਲਮ	Mal:Infoboks film
+ਫਰਮਾ:Ordomag	Mal:Ordomag
+ਫਰਮਾ:ਅੰਗਰੇਜ਼ੀ	Mal:Lang-en
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਖ਼ੁਰਾਕੀ ਗੁਣ	Mal:Næringsinnhold
+ਫਰਮਾ:Lower	Mal:Senke
+ਖੁਰਾਸਾਨ	Khorasan
+ਸ਼੍ਰੇਣੀ:ਫ਼ਲੌਰਿਡਾ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Florida
+ਫਰਮਾ:Lang-uk	Mal:Lang-uk
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਜੱਥੇਬੰਦੀ	Mal:Infoboks organisasjon
+ਸ਼੍ਰੇਣੀ:ਪੰਜਾਬ (ਭਾਰਤ) ਦੇ ਜ਼ਿਲ੍ਹੇ	Kategori:Distrikter i Punjab (India)
+ਫਰਮਾ:User sv-2	Mal:Bruker sv-2
+ਫਰਮਾ:Infobox museum	Mal:Infoboks museum
+ਫਰਮਾ:ਦੱਖਣੀ ਅਮਰੀਕੀ ਦੇਸ਼ਾਂ ਦੀਆਂ ਰਾਜਧਾਨੀਆਂ	Mal:Hovedsteder i Sør-Amerika
+ਫਰਮਾ:ਉਮਰ	Mal:Alder
+ਫਰਮਾ:IPNI	Mal:IPNI
+ਫਰਮਾ:Harvard citation no brackets	Mal:Harvnb
+ਫਰਮਾ:Pending	Mal:Pending
+ਫਰਮਾ:Infobox person	Mal:Infoboks biografi
+ਸ਼੍ਰੇਣੀ:ਮੰਗੋਲੀਆ	Kategori:Mongolia
+ਫਰਮਾ:Nts	Mal:Sorterbart tall
+ਫਰਮਾ:ਯੂਰਪੀ ਦੇਸ਼ਾਂ ਦੀਆਂ ਰਾਜਧਾਨੀਆਂ	Mal:Hovedsteder i Europa
+ਫਰਮਾ:Convert	Mal:Konverter
+ਫਰਮਾ:Infobox rail line	Mal:Infoboks jernbanelinje
+ਫਰਮਾ:ਗੁਣਕ	Mal:Koord
+ਫਰਮਾ:User lb-1	Mal:Bruker lb-1
+ਫਰਮਾ:User fr-4	Mal:Bruker fr-4
+ਫਰਮਾ:User la-1	Mal:Bruker la-1
+ਫਰਮਾ:Country flag IOC alias DEN	Mal:FlagIOCathlete/flagg/DEN
+ਫਰਮਾ:Country flag IOC alias ARG	Mal:FlagIOCathlete/flagg/ARG
+ਫਰਮਾ:ਯੂਰਪ ਦੇ ਦੇਸ਼	Mal:Europa
+ਸ਼੍ਰੇਣੀ:ਲਿਪੀਆਂ	Kategori:Skriftsystem
+ਫਰਮਾ:User pdc-1	Mal:Bruker pdc-1
+ਫਰਮਾ:Country flag IOC alias BAH	Mal:FlagIOCathlete/flagg/BAH
+ਖ਼ਾਲਿਦ ਹੁਸੈਨ	Khalid Hussain
+ਖਟਕੜ ਕਲਾਂ	Khatkar Kalan
+ਫਰਮਾ:N/a	Mal:N/a
+ਸ਼੍ਰੇਣੀ:ਉੱਤਰੀ ਰਾਈਨ-ਪੱਛਮੀ ਫ਼ਾਲਨ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Nordrhein-Westfalen
+ਫਰਮਾ:User la-3	Mal:Bruker la-3
+ਫਰਮਾ:Multiple image	Mal:Flere bilder
+ਫਰਮਾ:Legend0	Mal:Legend0
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਰੋਗ	Mal:Infoboks sykdom
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਮੁੱਦਰਾ	Mal:Infoboks valuta
+ਫਰਮਾ:ਵੱਖਰਾ	Mal:Forveksles
+ਸ਼੍ਰੇਣੀ:ਖੇਤੀਬਾੜੀ ਦੀ ਮਸ਼ੀਨਰੀ	Kategori:Landbruksredskaper
+ਸ਼੍ਰੇਣੀ:ਇਰਾਨ ਦੇ ਸੂਬੇ	Kategori:Irans provinser
+ਸ਼੍ਰੇਣੀ:ਨਵੰਬਰ	Kategori:Dager i november
+ਸ਼੍ਰੇਣੀ:ਕੁਸ਼ਤੀ	Kategori:Bryting
+ਫਰਮਾ:TOC limit	Mal:TOClimit
+ਫਰਮਾ:Country flag IOC alias HUN	Mal:FlagIOCathlete/flagg/HUN
+ਫਰਮਾ:Country flag IOC alias BLR	Mal:FlagIOCathlete/flagg/BLR
+ਫਰਮਾ:User sv-1	Mal:Bruker sv-1
+ਸ਼੍ਰੇਣੀ:ਰਸਾਇਣਕ ਯੋਗ	Kategori:Kjemiske forbindelser
+ਸ਼੍ਰੇਣੀ:ਮਾਰਚ	Kategori:Dager i mars
+ਫਰਮਾ:Country flag IOC alias BRA	Mal:FlagIOCathlete/flagg/BRA
+ਸ਼੍ਰੇਣੀ:ਸਤੰਬਰ	Kategori:Dager i september
+ਸ਼੍ਰੇਣੀ:ਅਕਤੂਬਰ	Kategori:Dager i oktober
+ਸ਼੍ਰੇਣੀ:ਦਸੰਬਰ	Kategori:Dager i desember
+ਸ਼੍ਰੇਣੀ:ਅਗਸਤ	Kategori:Dager i august
+ਸ਼੍ਰੇਣੀ:ਮਈ	Kategori:Dager i mai
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਨਹਿਰ	Mal:Infoboks kanal
+ਸ਼੍ਰੇਣੀ:ਅਪ੍ਰੈਲ	Kategori:Dager i april
+ਸ਼੍ਰੇਣੀ:ਸੂਰਜ ਮੰਡਲ	Kategori:Solsystemet
+ਸ਼੍ਰੇਣੀ:ਪਾਣੀ	Kategori:Vann
+ਈਰਖਾ	Sjalusi
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਗਲੇਸ਼ੀਅਰ	Mal:Infoboks isbre
+ਫਾਟਕ:ਖੇਡਾਂ	Portal:Sport
+ਫਰਮਾ:User sw-1	Mal:Bruker sw-1
+ਮਸਨਵੀ	Mathnawi
+ਫਰਮਾ:ਕੈਨੇਡਾ ਦੇ ਸੂਬੇ ਅਤੇ ਰਾਜਖੇਤਰ	Mal:Canadas provinser og territorier
+ਫਰਮਾ:!wrap	Mal:!wrap
+ਫਰਮਾ:Country flag IOC alias AUT	Mal:FlagIOCathlete/flagg/AUT
+ਫਰਮਾ:MedalistTable	Mal:Medaljetabell
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਰਕਾਰੀ ਏਜੰਸੀ	Mal:Infoboks myndighet
+ਫਰਮਾ:User ru-2	Mal:Bruker ru-2
+ਫਰਮਾ:User es-3	Mal:Bruker es-3
+ਫਰਮਾ:User ko-3	Mal:Bruker ko-3
+ਸ਼੍ਰੇਣੀ:ਸਾਹਿਤ ਆਲੋਚਕ	Kategori:Litteraturhistorikere og litteraturkritikere
+ਫਰਮਾ:Gallery/aux	Mal:Bildegalleri/aux
+ਫਰਮਾ:User ro-1	Mal:Bruker ro-1
+ਸ਼੍ਰੇਣੀ:੧੮੫੯ ਵਿਚ ਜਨਮੇ	Kategori:Fødsler i 1859
+ਸ਼੍ਰੇਣੀ:ਕੈਲੀਫ਼ੋਰਨੀਆ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i California
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਛੱਤੀਸਗੜ੍ਹ	Mal:Kartposisjon Chhattisgarh
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਭਾਰਤ ਮੇਘਾਲਿਆ	Mal:Kartposisjon Meghalaya
+ਸ਼੍ਰੇਣੀ:ਤੀਸਰੀ ਸਦੀ	Kategori:200-tallet
+ਸ਼੍ਰੇਣੀ:11ਵੀਂ ਸਦੀ	Kategori:1000-tallet
+ਸ਼੍ਰੇਣੀ:17ਵੀਂ ਸਦੀ	Kategori:1600-tallet
+ਸ਼੍ਰੇਣੀ:10ਵੀਂ ਸਦੀ	Kategori:900-tallet
+ਸ਼੍ਰੇਣੀ:7ਵੀਂ ਸਦੀ	Kategori:600-tallet
+ਫਰਮਾ:Refbegin	Mal:Refstart
+ਫਰਮਾ:As of	Mal:As of
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਸਾਈਕਲ ਦੌੜ	Mal:Infoboks sykkelritt
+ਫਰਮਾ:User sv-3	Mal:Bruker sv-3
+ਮਨਦੀਪ ਕੌਰ	Mandeep Kaur
+ਸ਼੍ਰੇਣੀ:ਵਿਟਾਮਿਨ	Kategori:Vitaminer
+ਮਾਈ-ਬ੍ਰਿਤ ਮੂਸਰ	May-Britt Moser
+ਫਰਮਾ:Coord/dec2dms/dm	Mal:Koord/dec2dms/dm
+ਸ਼੍ਰੇਣੀ:Pages containing cite templates with deprecated parameters	Kategori:Sider med kildemaler som inneholder utgåtte parametere
+ਫਰਮਾ:Country flag IOC alias ZZX	Mal:FlagIOCathlete/flagg/ZZX
+ਫਰਮਾ:DetailsLink	Mal:Detaljer
+ਸ਼੍ਰੇਣੀ:ਕਾਰਬਨੀ ਰਸਾਇਣਕ ਯੋਗ	Kategori:Organiske forbindelser
+ਸ਼੍ਰੇਣੀ:ਨੋਬਲ ਗੈਸਾਂ	Kategori:Edelgasser
+ਫਰਮਾ:IUCNlink	Mal:IUCNlink
+ਸ਼੍ਰੇਣੀ:ਕਜਾਖਸਤਾਨ ਦੇ ਰਾਜ	Kategori:Kasakhstans oblaster
+ਸ਼੍ਰੇਣੀ:ਰੂਸੀ ਲੇਖਕ	Kategori:Russiske forfattere
+ਸ਼੍ਰੇਣੀ:ਅਮਰੀਕੀ ਲੇਖਕ	Kategori:Forfattere fra USA
+ਮੁਹੰਮਦ ਸ਼ਾਹਿਦ	Muhammad Shahid
+ਸ਼੍ਰੇਣੀ:ਨਾਮੀਬੀਆ	Kategori:Namibia
+ਫਰਮਾ:Side box	Mal:Sideboks
+ਫਰਮਾ:Citation	Mal:Citation
+ਫਰਮਾ:ਫ਼ਰਾਂਸ ਦੇ ਖੇਤਰ	Mal:Frankrikes regioner
+ਸ਼੍ਰੇਣੀ:੨੦੦੨	Kategori:2002
+ਫਰਮਾ:Country flag IOC alias AFG	Mal:FlagIOCathlete/flagg/AFG
+ਫਰਮਾ:User ca-3	Mal:Bruker ca-3
+ਫਰਮਾ:User la-2	Mal:Bruker la-2
+ਫਰਮਾ:User mk-1	Mal:Bruker mk-1
+ਫਰਮਾ:User nn-2	Mal:Bruker nn-2
+ਫਰਮਾ:User no-1	Mal:Bruker no-1
+ਫਰਮਾ:User pt	Mal:Bruker pt
+ਫਰਮਾ:User ru-1	Mal:Bruker ru-1
+ਫਰਮਾ:User sk-2	Mal:Bruker sk-2
+ਫਰਮਾ:User sr-1	Mal:Bruker sr-1
+ਫਰਮਾ:User sxu-1	Mal:Bruker sxu-1
+ਫਰਮਾ:User uk-4	Mal:Bruker uk-4
+ਫਰਮਾ:User zh-1	Mal:Bruker zh-1
+ਫਰਮਾ:User zh-2	Mal:Bruker zh-2
+ਫਰਮਾ:Tcmdb title	Mal:Tcmdb tittel
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀ ਕਵੀ	Kategori:Engelske lyrikere
+ਸ਼੍ਰੇਣੀ:ਅਮਰੀਕੀ ਕਵੀ	Kategori:Lyrikere fra USA
+ਸ਼੍ਰੇਣੀ:ਕੌਮਾਂਤਰੀ ਵਪਾਰ	Kategori:Internasjonal handel
+ਫਰਮਾ:Tnavbar-header	Mal:Tnavbar-header
+ਸ਼੍ਰੇਣੀ:ਦੂਰਦਰਸ਼ਨ	Kategori:TV
+ਸ਼੍ਰੇਣੀ:ਫਰਾਂਸੀਸੀ ਕਵੀ	Kategori:Franske lyrikere
+ਸ਼੍ਰੇਣੀ:ਪਹਿਲੀ ਸਦੀ	Kategori:0-tallet
+ਸ਼੍ਰੇਣੀ:14ਵੀਂ ਸਦੀ	Kategori:1300-tallet
+ਸ਼੍ਰੇਣੀ:13ਵੀਂ ਸਦੀ	Kategori:1200-tallet
+ਸ਼੍ਰੇਣੀ:16ਵੀਂ ਸਦੀ	Kategori:1500-tallet
+ਸ਼੍ਰੇਣੀ:12ਵੀਂ ਸਦੀ	Kategori:1100-tallet
+ਸ਼੍ਰੇਣੀ:ਦੂਸਰੀ ਸਦੀ	Kategori:100-tallet
+ਸ਼੍ਰੇਣੀ:ਚੌਥੀ ਸਦੀ	Kategori:300-tallet
+ਸ਼੍ਰੇਣੀ:5ਵੀਂ ਸਦੀ	Kategori:400-tallet
+ਸ਼੍ਰੇਣੀ:18ਵੀਂ ਸਦੀ	Kategori:1700-tallet
+ਸ਼੍ਰੇਣੀ:6ਵੀਂ ਸਦੀ	Kategori:500-tallet
+ਸ਼੍ਰੇਣੀ:8ਵੀਂ ਸਦੀ	Kategori:700-tallet
+ਸ਼੍ਰੇਣੀ:ਸਿਆਸੀ ਸ਼ਬਦਾਵਲੀ	Kategori:Politisk terminologi
+ਸ਼੍ਰੇਣੀ:ਅਮਰੀਕੀ ਨਾਵਲ	Kategori:Romaner fra USA
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀ ਨਾਵਲ	Kategori:Engelske romaner
+ਸ਼੍ਰੇਣੀ:ਰੂਸੀ ਨਾਵਲ	Kategori:Russiske romaner
+ਸ਼੍ਰੇਣੀ:ਅਫਗਾਨਿਸਤਾਨ ਦੇ ਸੂਬੇ	Kategori:Afghanistans provinser
+ਸ਼੍ਰੇਣੀ:ਬਿਰਤਾਂਤ-ਸ਼ਾਸਤਰ	Kategori:Narratologi
+ਸ਼੍ਰੇਣੀ:ਤਿਕੋਣਮਿਤੀ	Kategori:Trigonometri
+ਸ਼੍ਰੇਣੀ:ਹਵਾਈ ਅੱਡੇ	Kategori:Flyplasser
+ਸ਼੍ਰੇਣੀ:ਰਸਾਇਣਕ ਤੱਤ	Kategori:Grunnstoffer
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਗਾਇਕ	Kategori:Indiske sangere
+ਨੋਰਲੰਦਜ਼ ਓਪੇਰਾ	Norrlandsoperan
+ਸ਼੍ਰੇਣੀ:15ਵੀਂ ਸਦੀ	Kategori:1400-tallet
+ਸ਼੍ਰੇਣੀ:ਨੇਪਾਲ	Kategori:Nepal
+ਸ਼੍ਰੇਣੀ:ਸ੍ਰੀਲੰਕਾ	Kategori:Sri Lanka
+ਸ਼੍ਰੇਣੀ:9ਵੀਂ ਸਦੀ	Kategori:800-tallet
+ਸ਼੍ਰੇਣੀ:ਵਾਯੂਮੰਡਲ	Kategori:Atmosfære
+ਸ਼੍ਰੇਣੀ:ਬੈਲੇ	Kategori:Ballett
+ਸ਼੍ਰੇਣੀ:ਅਲਬੇਨੀਆ	Kategori:Albania
+ਸ਼੍ਰੇਣੀ:ਸਬਜੀ	Kategori:Grønnsaker
+ਸ਼੍ਰੇਣੀ:ਫਲ	Kategori:Frukt
+ਸ਼੍ਰੇਣੀ:ਕੰਪਿਊਟਰ ਭਾਸ਼ਾਵਾਂ	Kategori:Dataspråk
+ਸ਼੍ਰੇਣੀ:ਮੈਕਸੀਕੋ ਦੇ ਰਾਜ	Kategori:Mexicos delstater
+ਸ਼੍ਰੇਣੀ:ਪੰਜਾਬ, ਭਾਰਤ	Kategori:Punjab (India)
+ਸ਼੍ਰੇਣੀ:ਜੈਨ ਧਰਮ	Kategori:Jainisme
+ਸ਼੍ਰੇਣੀ:ਪਾਰਸੀ ਧਰਮ	Kategori:Zoroastrisme
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀ ਨਾਟਕ	Kategori:Engelske skuespill
+ਸ਼੍ਰੇਣੀ:ਕਿਰਿਆਸ਼ੀਲ ਸਮੂਹ	Kategori:Funksjonelle grupper
+ਕਾਲਕਾ–ਸ਼ਿਮਲਾ ਰੇਲਵੇ	Kalka-Shimla Railway
+ਫਰਮਾ:ਗੋਲਡ-ਬੁੱਕ-ਹਵਾਲਾ	Mal:GoldBookRef
+ਸ਼੍ਰੇਣੀ:ਪ੍ਰੋਟੀਨ	Kategori:Proteiner
+ਸ਼੍ਰੇਣੀ:ਮਹਾਨ ਝੀਲਾਂ	Kategori:De store sjøer
+ਸ਼੍ਰੇਣੀ:ਜੀਵ ਟੈਕਨਾਲੋਜੀ	Kategori:Bioteknologi
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i India
+ਸ਼੍ਰੇਣੀ:ਇੰਡੀਆਨਾ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Indiana
+ਸ਼੍ਰੇਣੀ:ਐਰੀਜ਼ੋਨਾ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Arizona
+ਸ਼੍ਰੇਣੀ:ਓਲੰਪਿਕ ਖੇਡਾਂ	Kategori:Sommer-OL
+ਸ਼੍ਰੇਣੀ:੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ	Kategori:Sommer-OL 2008
+ਫਰਮਾ:Infobox language	Mal:Infoboks språk
+ਫਰਮਾ:Country flag IOC alias SUD	Mal:FlagIOCathlete/flagg/SUD
+ਫਰਮਾ:Country flag IOC alias MEX	Mal:FlagIOCathlete/flagg/MEX
+ਸ਼੍ਰੇਣੀ:ਚੀਨ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Kina
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਫ਼ਿਲਮ ਨਿਰਦੇਸ਼ਕ	Kategori:Indiske regissører
+ਗਾਜਰ	Gulrot
+ਪ੍ਰਿਥੀਪਾਲ ਸਿੰਘ	Prithipal Singh
+ਸ਼੍ਰੇਣੀ:੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਕੁਸ਼ਤੀ	Kategori:Bryting under Sommer-OL 2008
+ਸਰਦਾਰਾ ਸਿੰਘ	Sardara Singh
+ਫਰਮਾ:Country flag IOC alias IRI	Mal:FlagIOCathlete/flagg/IRI
+ਫਰਮਾ:Fb-rt	Mal:Fotballflagg-h
+ਫਰਮਾ:User sl-1	Mal:Bruker sl-1
+ਫਰਮਾ:Pad	Mal:Pad
+ਉਪ-ਖੇਤਰ	Subregion
+ਫਰਮਾ:ਖਮੇਰ ਲਿਖਤ	Mal:Inneholder khmertekst
+ਫਰਮਾ:Convert/list of units	Mal:Konverter/liste over enheter
+ਫਰਮਾ:Country flag IOC alias BEL	Mal:FlagIOCathlete/flagg/BEL
+ਫਰਮਾ:Country flag IOC alias BOH	Mal:FlagIOCathlete/flagg/BOH
+ਫਰਮਾ:Country flag IOC alias CUB	Mal:FlagIOCathlete/flagg/CUB
+ਫਰਮਾ:Country flag IOC alias HKG	Mal:FlagIOCathlete/flagg/HKG
+ਫਰਮਾ:Country flag IOC alias IND	Mal:FlagIOCathlete/flagg/IND
+ਫਰਮਾ:Country flag IOC alias KEN	Mal:FlagIOCathlete/flagg/KEN
+ਫਰਮਾ:EventsAt1920SummerOlympics	Mal:OL 1920 øvelser
+ਫਰਮਾ:Country flag IOC alias LTU	Mal:FlagIOCathlete/flagg/LTU
+ਫਰਮਾ:Country flag IOC alias PER	Mal:FlagIOCathlete/flagg/PER
+ਫਰਮਾ:Country flag IOC alias RSA	Mal:FlagIOCathlete/flagg/RSA
+ਫਰਮਾ:Country flag IOC alias SIN	Mal:FlagIOCathlete/flagg/SIN
+ਫਰਮਾ:Country flag IOC alias SRB	Mal:FlagIOCathlete/flagg/SRB
+ਫਰਮਾ:Country flag IOC alias TRI	Mal:FlagIOCathlete/flagg/TRI
+ਫਰਮਾ:Country flag IOC alias VIE	Mal:FlagIOCathlete/flagg/VIE
+ਫਰਮਾ:Country flag IOC alias ZAM	Mal:FlagIOCathlete/flagg/ZAM
+ਫਰਮਾ:ਏਸ਼ੀਆ ਦੀਆਂ ਮੁਦਰਾਵਾਂ	Mal:Asiatiske valuta
+ਇਸ਼ਤਾਦਿਊ ਦਾ ਲੂਸ਼	Estádio da Luz
+ਊਮਿਓ ਡਿਜ਼ਾਇਨ ਸੰਸਥਾ	Designhøgskolen i Umeå
+ਵੈਸਟਰਬੌਟਨ ਫੋਲਕਬਲਾਦ	Västerbottens Folkblad
+ਵੈਸਟਰਬੌਟਨ ਰੈਜੀਮੈਂਟ	Västerbottens regemente
+ਫਰਮਾ:ਜੀ20	Mal:G20
+ਫਰਮਾ:ਬਰਮੀ ਚਿੰਨ੍ਹ	Mal:Inneholder burmesisk
+ਫਰਮਾ:Infobox Country Olympics	Mal:Infoboks OL-land
+ਫਰਮਾ:EventsAt2008SummerOlympics	Mal:OL 2008 øvelser
+ਫਰਮਾ:UF-hcard-geo	Mal:UF-hcard-geo
+ਫਰਮਾ:Lang-ka	Mal:Lang-ka
+ਫਰਮਾ:Lang-et	Mal:Lang-et
+ਫਰਮਾ:Infobox top level domain	Mal:Infoboks toppnivådomene
+ਫਰਮਾ:Communism sidebar	Mal:Kommunisme
+ਸ਼੍ਰੇਣੀ:੨੦੦੮ ਓਲੰਪਿਕ ਖੇਡਾਂ ਦੇ ਵਿੱਚ ਬੈਡਮਿੰਟਨ	Kategori:Badminton under Sommer-OL 2008
+ਸ਼੍ਰੇਣੀ:ਨਵਾਡਾ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Nevada
+ਸ਼੍ਰੇਣੀ:ਉੱਤਰੀ ਕੈਰੋਲੀਨਾ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Nord-Carolina
+ਫਰਮਾ:TOC left	Mal:TOC left
+ਸ਼੍ਰੇਣੀ:ਅੰਗਰੇਜ਼ੀਆਂ	Kategori:Engelske dialekter
+ਫਰਮਾ:Lang-sv	Mal:Lang-sv
+ਸ਼੍ਰੇਣੀ:ਰੂਸੀ ਨਾਟਕ	Kategori:Russiske skuespill
+ਸ਼੍ਰੇਣੀ:ਸ਼ੈਤਾਨੀ ਧਰਮ	Kategori:Satanisme
+ਸ਼੍ਰੇਣੀ:ਸਾਮੀ ਭਾਸ਼ਾਵਾਂ	Kategori:Semittiske språk
+ਸ਼੍ਰੇਣੀ:ਕਹਾਣੀਆਂ	Kategori:Noveller
+ਸ਼੍ਰੇਣੀ:ਸਿੱਖੀ	Kategori:Sikhisme
+ਸ਼੍ਰੇਣੀ:ਭਾਰਤੀ ਪੰਜਾਬੀ ਫ਼ਿਲਮਾਂ	Kategori:Punjabispråklige filmer
+ਸ਼੍ਰੇਣੀ:ਐਲਡੀਹਾਈਡ	Kategori:Aldehyder
+ਸ਼੍ਰੇਣੀ:ਚੀਨੀ ਦਰਸ਼ਨ	Kategori:Kinesisk filosofi
+ਸ਼੍ਰੇਣੀ:ਚੀਨ ਦੇ ਸੂਬੇ	Kategori:Provinser i Kina
+ਫਰਮਾ:Infobox single	Mal:Infoboks single
+ਸ਼੍ਰੇਣੀ:ਇਲੀਨਾਏ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Illinois
+ਸ਼੍ਰੇਣੀ:ਮਿਸ਼ੀਗਨ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Michigan
+ਸ਼੍ਰੇਣੀ:ਓਹਾਇਓ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Ohio
+ਸ਼੍ਰੇਣੀ:ਪੈੱਨਸਿਲਵੇਨੀਆ ਦੇ ਸ਼ਹਿਰ	Kategori:Byer i Pennsylvania
+ਸ਼੍ਰੇਣੀ:ਥਾਇਓਲਾਂ	Kategori:Tioler
+ਸਬਵੇ ਸਰਫ਼ਰਜ਼	Subway Surfers
+ਫਰਮਾ:ਗਿਆਨਸੰਦੂਕ ਪਾਤਰ	Mal:Infoboks figur
+ਫਰਮਾ:ArcheryAt2008SummerOlympics	Mal:Bueskyting under Sommer-OL 2008
+ਫਰਮਾ:WrestlingAt2008SummerOlympics	Mal:Bryting under Sommer-OL 2008
+ਸ਼੍ਰੇਣੀ:User da-N	Kategori:Bruker da-N
+ਫਰਮਾ:ਵਿਆਹ	Mal:Ekteskap
+ਫਰਮਾ:FootballAt2008SummerOlympics	Mal:Fotball under Sommer-OL 2008
+ਡੋਬੇਲਨਜ਼ ਪਾਰਕ	Döbelns park
+ਗਾਮਲਾ ਬਾਂਖੂਸੈਟ	Gamla bankhuset
+ਗਰਾਨ ਐਲਡ	Grön eld
+ਫਰਮਾ:User vls-1	Mal:Bruker vls-1
+ਉੱਤਰੀ ਨੌਰਲੰਡ ਦੀ ਕਚਹਿਰੀ	Hovrätten för Övre Norrland
+ਇਬੋਲਾ ਵਾਇਰਸ	Ebola
+ਫਰਮਾ:ਉਸਾਰੀ ਹੇਠ	Mal:Arbeid pågår
+ਫਰਮਾ:Bo	Mal:Bo
+ਨੌਰਾ ਹੂਏਨੈਤ	Norra skenet
+ਊਮਿਓ ਯੂਨੀਵਰਸਿਟੀ ਦਾ ਰੈਸਤੋਰਾਂ ਅਤੇ ਕੁਲੀਨਰੀ ਆਰਟ ਸਕੂਲ	Restauranghögskolan vid Umeå universitet
+ਫਰਮਾ:Country flag IOC alias GRE	Mal:FlagIOCathlete/flagg/GRE
+ਸਚਾਰਿੰਸਕਾ ਵਿਲਾਨ	Scharinska villan
+ਸਪਾਰਕਨ	Sparken
+ਸਤੋਰਗਾਤਾਂ, ਊਮਿਓ	Storgatan (Umeå)
+ਫਰਮਾ:Country flag IOC alias SUI	Mal:FlagIOCathlete/flagg/SUI
+ਫਰਮਾ:Country flag IOC alias CAN	Mal:FlagIOCathlete/flagg/CAN
+ਫਰਮਾ:Country flag IOC alias NED	Mal:FlagIOCathlete/flagg/NED
+ਟੋਟਲਫੋਰਸਵਾਰੇਟਸ ਸਕਾਈਡਸੈਂਟਰਮ	Totalförsvarets skyddscentrum
+ਉਮੇਸਟਾਨ	Umestan
+ਊਮਿਓ ਐਨਰਜੀ	Umeå Energi
+ਊਮਿਓ ਟਾਊਨ ਹਾਲ	Umeå rådhus
+ਊਮਿਓ ਯੂਨੀਵਰਸਿਟੀ ਲਾਇਬ੍ਰੇਰੀ	Umeå universitetsbibliotek
+ਯੂਨੀਵਰਸਮ (ਇਮਾਰਤ)	Universumhuset
+ਵੋਨ ਅਹੰਸਕਾ ਮਾਗਾਸੀਨੈਟ	Von Ahnska magasinet
+ਵਾਨੋਰਟਪਾਰਕਸੇਨ, ਊਮਿਓ	Vänortsparken
+ਫਰਮਾ:Country flag IOC alias UGA	Mal:FlagIOCathlete/flagg/UGA
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਪੱਥਰ	Mal:Bergart
+ਫਰਮਾ:ਜਾਣਕਾਰੀਡੱਬਾ ਪੁਲਾੜ ਅੱਡਾ	Mal:Infoboks romstasjon
+ਫਰਮਾ:Start date	Mal:Startdato
+ਯਥਾਰਥਵਾਦ (ਕਲਾ)	Realisme (kunst)
+ਫਰਮਾ:Country flag IOC alias IRL	Mal:FlagIOCathlete/flagg/IRL
+ਫਰਮਾ:Country flag IOC alias TUR	Mal:FlagIOCathlete/flagg/TUR
+ਫਰਮਾ:Country flag IOC alias TUN	Mal:FlagIOCathlete/flagg/TUN
+ਫਰਮਾ:Country flag IOC alias ISL	Mal:FlagIOCathlete/flagg/ISL
+ਫਰਮਾ:Country flag IOC alias VEN	Mal:FlagIOCathlete/flagg/VEN
+ਫਰਮਾ:Country flag IOC alias NZL	Mal:FlagIOCathlete/flagg/NZL
+ਫਰਮਾ:Country flag IOC alias FIN	Mal:FlagIOCathlete/flagg/FIN
+ਫਰਮਾ:Country flag IOC alias SEY	Mal:FlagIOCathlete/flagg/SEY
+ਫਰਮਾ:Country flag IOC alias MGL	Mal:FlagIOCathlete/flagg/MGL
+ਫਰਮਾ:Country flag IOC alias EGY	Mal:FlagIOCathlete/flagg/EGY
+ਫਰਮਾ:Country flag IOC alias POR	Mal:FlagIOCathlete/flagg/POR
+ਫਰਮਾ:Country flag IOC alias CMR	Mal:FlagIOCathlete/flagg/CMR
+ਫਰਮਾ:Shades of color	Mal:Shades of color
+ਫਰਮਾ:Tim	Mal:Tim
+ਫਰਮਾ:Country flag IOC alias NGR	Mal:FlagIOCathlete/flagg/NGR
+ਫਰਮਾ:User sh-2	Mal:Bruker sh-2
+ਫਰਮਾ:Country flag IOC alias JAM	Mal:FlagIOCathlete/flagg/JAM
+ਫਰਮਾ:Country flag IOC alias ETH	Mal:FlagIOCathlete/flagg/ETH
+ਫਰਮਾ:Country flag IOC alias ROU	Mal:FlagIOCathlete/flagg/ROU
+ਫਰਮਾ:Country flag IOC alias ALB	Mal:FlagIOCathlete/flagg/ALB
+ਫਰਮਾ:2008 Summer Olympics	Mal:Sommer-OL 2008
+ਫਰਮਾ:ਸਥਿਤੀ ਨਕਸ਼ਾ ਤ੍ਰਿਪੁਰਾ	Mal:Kartposisjon Tripura
+ਫਰਮਾ:Infobox Olympics India	Mal:Infoboks India under OL
+ਫਰਮਾ:BadmintonAt2008SummerOlympics	Mal:Badminton under Sommer-OL 2008
+ਹਿਰੋਸ਼ੀ ਅਮਾਨੋ	Hiroshi Amano
+ਤਿਤਲੀ	Rhopalocera
+ਫਰਮਾ:ਸੂਰਜ	Mal:Stjerneinfo/Solen
+ਬਰਡਮੈਨ	Birdman (film)
+ਫਰਮਾ:Style/ril	Mal:Style/ril
+ਐਡਵਰਡ ਸਨੋਡੇਨ	Edward Snowden
+ਫਰਮਾ:Style/yid	Mal:Style/yid
+Module:Convert	Modul:Convert
+ਫਰਮਾ:Infobox cocktail	Mal:Infoboks cocktail
+ਫਰਮਾ:Ambox/core	Mal:Amboks/core
+ਫਰਮਾ:ਦੇਸ਼ ਸਮੱਗਰੀ ਕੈਮਰੂਨ	Mal:Flagg/Kamerun
+Module:Yesno	Modul:Yesno
+Module:Message box/configuration	Modul:Message box/configuration
+Module:Arguments	Modul:Arguments
+ਖ਼ਾਸ:ਹਾਲੀਆ ਤਬਦੀਲੀਆਂ	Spesial:Siste endringer
+Module:Citation/CS1	Modul:Citation/CS1
+Module:Citation/CS1/Configuration	Modul:Citation/CS1/Configuration
+ਪੋਂਬੀਆ ਸਫ਼ਾਰੀ ਪਾਰਕ	Pombia Safari Park
+Module:HtmlBuilder	Modul:HtmlBuilder
+Module:Navbar	Modul:Navbar
+Module:Navbox	Modul:Navbox
+ਗਿਟਾਰਜ਼ - ਅਜਾਇਬ ਘਰ	Guitars – the Museum
+ਕੁਲਟੂਰਵਾਵੇਨ	Kulturväven
+ਹੁਸੈਨ ਸ਼ਹਾਬੀ	Hossein Shahabi
+ਅਪਭ੍ਰੰਸ਼	Apabhramsha
+2014 ਬਦਖ਼ਸ਼ਾਂ ਭੌਂ-ਖਿਸਕਾਅ	Jordskredene i Badakhshan 2014
+ਪੇਗਿਡਾ	PEGIDA
+2014 ਪਿਸ਼ਾਵਰ ਸਕੂਲ ਹਮਲਾ	Skoleangrepet i Peshawar

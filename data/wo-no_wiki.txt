@@ -1,0 +1,1270 @@
+Afrig	Afrika
+Sapoŋ	Japan
+Bëj-saalumu Aamerig	Sør-Amerika
+Noorwees	Norge
+Irlaand	Irland
+Ongiri	Ungarn
+Ispaañ	Spania
+Diiwaan yu Bennoo	USA
+Belsik	Belgia
+Luksambuur	Luxembourg
+Suuf	Jorden
+Finlaand	Finland
+Suweed	Sverige
+Danmaark	Danmark
+Poloñ	Polen
+Lituwaani	Litauen
+Itaali	Italia
+Suwis	Sveits
+Otris	Østerrike
+Girees	Hellas
+Tirki	Tyrkia
+Portugaal	Portugal
+Tugal	Europa
+Asi	Asia
+Bëj-gànnaaru Aamerig	Nord-Amerika
+Goxub Dottub Bëj-saalum	Antarktika
+Wikipedia	Wikipedia
+Olaand	Nederland
+PHP	PHP
+Berlin	Berlin
+Nosukaay	Datamaskin
+Bern	Bern
+Zurich	Zürich
+Internet	Internett
+Uruguwaay	Uruguay
+Londar	London
+Xayra	Kairo
+Alegsàndiri	Alexandria
+Pari	Paris
+Meksik	Mexico
+Mbàmbulaanug Atlas	Atlanterhavet
+Mbàmbulaan Gu-Dal	Stillehavet
+Altine	Mandag
+Samwie	Januar
+Fewirie	Februar
+Maars (weer)	Mars (måned)
+Maas	Mars (planet)
+Keeñaa	Kenya
+Ecoopi	Etiopia
+Gana	Ghana
+Awril	April
+Mee	Mai
+Suwe	Juni
+Sulet	Juli
+Waxset	August
+Satumbar	September
+Oktoobar	Oktober
+Nowembar	November
+Disambar	Desember
+Talaata	Tirsdag
+Àllarba	Onsdag
+Alxames	Torsdag
+Àjjuma	Fredag
+Gaawu	Lørdag
+Dibéer	Søndag
+Gaynde	Løve
+Faraas	Frankrike
+Esperanto	Esperanto
+Xaj	Tamhund
+Nguur-Yu-Bennoo	Storbritannia
+Muus	Tamkatt
+Réewum Popileer bu Siin	Folkerepublikken Kina
+Wu-faraas	Fransk
+Wikbaatukaay	Wiktionary
+Breesil	Brasil
+Riisi	Russland
+Géej	Hav
+São Paulo	São Paulo
+Almaañ	Tyskland
+Belaarus	Hviterussland
+Islaand	Island
+Yàlla	Gud
+Estooni	Estland
+Benn	1 (tall)
+Ñaar	2 (tall)
+Ñatt	3 (tall)
+Ñent	4 (tall)
+Juroom	5 (tall)
+Tus	Null
+Letóoni	Latvia
+Ukreen	Ukraina
+Réewum Cek	Tsjekkia
+Eslowaaki	Slovakia
+Esloweeni	Slovenia
+Wilniyus	Vilnius
+Moldaawi	Moldova
+Romaani	Romania
+Bulgaari	Bulgaria
+Rom	Roma
+Réewum Maseduwaan	Republikken Makedonia
+Albaani	Albania
+Groenlaand	Grønland
+Korwaasi	Kroatia
+Bosni	Bosnia-Hercegovina
+Aserbayjaan	Aserbajdsjan
+Andoor	Andorra
+Ciipër	Republikken Kypros
+Jeoorji	Georgia
+Kasakistaan	Kasakhstan
+Malt	Malta
+Monaako	Monaco
+Montenegro	Montenegro
+Watikaa	Vatikanstaten
+San Marino	San Marino
+Kubaa	Cuba
+Beliis	Belize
+Barbados	Barbados
+Endoneesi	Indonesia
+Afrig gu Bëj-saalum	Sør-Afrika
+Alseeri	Algerie
+Usbekistaan	Usbekistan
+Warsaw	Warszawa
+Ndox	Vann
+Sili	Chile
+Yéesu-kristaa	Jesus Kristus
+Merkuur	Merkur
+Taariix	Historie
+Weenus	Venus
+Kàllaama	Språk
+Yupiter	Jupiter
+Uraanus	Uranus
+Neptuun	Neptun (planet)
+Saytubiddiw	Astronomi
+Singapoor	Singapore
+Xam-xam	Vitenskap
+Pluton	Pluto
+Liechtenstein	Liechtenstein
+Xareb Àdduna bu Njëkk	Første verdenskrig
+Ñaareelu Xareb Àdduna	Andre verdenskrig
+Skopje	Skopje
+Xayma	Matematikk
+Bahrayni	Bahrain
+Armeeni	Armenia
+Seerbi	Serbia
+Óstraali	Australia
+Jëmm	Fysikk
+Arsantin	Argentina
+Peru	Peru
+Kore gu Bëj-gànnaar	Nord-Korea
+Kamboodi	Kambodsja
+Alxuraan	Koranen
+Lislaam	Islam
+Jubaljana	Ljubljana
+Jimbulang bu waa-Brëtaañ	Encyclopædia Britannica
+World Wide Web	World Wide Web
+Jigéen	Kvinne
+Sofiya	Sofia
+Jant	Solen
+Oseyaani	Oseania
+Nosteg jant	Solsystemet
+Bés	Dag
+Timoor gu Penku	Øst-Timor
+Guddi	Natt
+At	År
+Oslo	Oslo
+Lisbon	Lisboa
+Way	Musikk
+Mosku	Moskva
+Cadd	Tsjad
+Seland-Gu-Bees	New Zealand
+End	India
+Tuvalu	Tuvalu
+Tonga	Tonga
+Samowaa	Samoa
+Duni Solomon	Salomonøyene
+Wanuatu	Vanuatu
+Papuwaasi-Gine-Gu-Bees	Papua Ny-Guinea
+Palau	Palau
+Nauru	Nauru
+Réew yu Bennoo yu Mikronesi	Mikronesiaføderasjonen
+Duni Marshall	Marshalløyene
+Kiribati	Kiribati
+Mongoli	Mongolia
+Fiiji	Fiji
+Benesuwela	Venezuela
+Amsterdam	Amsterdam
+Rab	Dyr
+Surinaam	Surinam
+Paraguwaay	Paraguay
+Guyaana	Guyana
+Fànn	Kunst
+Ekwadoor	Ecuador
+Koloombi	Colombia
+Boliibi	Bolivia
+Tirinidaad ak Tobaago	Trinidad og Tobago
+Gàncax	Planter
+Saint Vincent and the Grenadines	Saint Vincent og Grenadinene
+Saint Lucia	Saint Lucia
+Saint Kitts and Nevis	Saint Kitts og Nevis
+Jamayka	Jamaica
+Grenada	Grenada
+Guwaatemala	Guatemala
+Bahamas	Bahamas
+Ganaar	Tamhøns
+Antigua ak Barbuda	Antigua og Barbuda
+Onduras	Honduras
+Dominika	Dominica
+Réewum Dominik	Den dominikanske republikk
+Mbaam	Gris
+Mbàmbulaan gu Bëj-gànnaar	Nordishavet
+Ayiti	Haiti
+Salbadoor	El Salvador
+Iraan	Iran
+Iraak	Irak
+Kosta Riika	Costa Rica
+Israayil	Israel
+Panamaa	Panama
+Yaman	Jemen
+Jordaani	Jordan
+Nikaraaguwa	Nicaragua
+Kirgistaan	Kirgisistan
+Kowet	Kuwait
+Réewum Lawos	Laos
+Libaa	Libanon
+Maldiif	Maldivene
+Aamerig	Amerika
+Maleesi	Malaysia
+Miyanmaar	Myanmar
+Nepaal	Nepal
+Omaan	Oman
+Pakistaan	Pakistan
+Kataar	Qatar
+Araabi Sawdit	Saudi-Arabia
+Siri Laanka	Sri Lanka
+Siri	Syria
+Tajikistaan	Tadsjikistan
+Taaywaan	Republikken Kina
+Taaylaand	Thailand
+Ceññeer-mbej	Radio
+Turkumenistaan	Turkmenistan
+Imaaraat yu Araab yu Bennoo yi	De forente arabiske emirater
+Wiyetnaam	Vietnam
+Kore gu Bëj-saalum	Sør-Korea
+Afganistaan	Afghanistan
+Banglaades	Bangladesh
+Mali	Mali
+Angolaa	Angola
+Butaan	Bhutan
+Tansani	Tanzania
+Filipiin	Filippinene
+Réewum Diggu Afrig	Den sentralafrikanske republikk
+Dottub Bëj-saalum	Sydpolen
+Dottub Bëj-gànnaar	Nordpolen
+Albert Einstein	Albert Einstein
+Mboq	Gul
+Togóo	Togo
+Tiniisi	Tunisia
+Saambi	Zambia
+Simbaawee	Zimbabwe
+Bene	Benin
+Botswana	Botswana
+Burkinaa Faaso	Burkina Faso
+Buruundi	Burundi
+Komoor	Komorene
+Kongóo-Brasaawiil	Republikken Kongo
+Kongóo-Kinshasa	Den demokratiske republikken Kongo
+Jibuti	Djibouti
+Gineg yamoo	Ekvatorial-Guinea
+Eritere	Eritrea
+Tibilisi	Tbilisi
+Gaboŋ	Gabon
+Gàmbi	Gambia
+Gine	Guinea
+Gine Bisaawóo	Guinea-Bissau
+Kodiwaar	Elfenbenskysten
+Kamerun	Kamerun
+Kap Weert	Kapp Verde
+Lesoto	Lesotho
+Libeeria	Liberia
+Libi	Libya
+Madagaskaar	Madagaskar
+Malawi	Malawi
+Gànnaar	Mauritania
+Móoris	Mauritius
+Marok	Marokko
+Mosambik	Mosambik
+Namibi	Namibia
+Niseer	Niger
+Charles Darwin	Charles Darwin
+Ugandaa	Uganda
+Ruwandaa	Rwanda
+Saw Tome ak Preesip	São Tomé og Príncipe
+Senegaal	Senegal
+Seysel	Seychellene
+Siraa Leyoon	Sierra Leone
+Somali	Somalia
+Julius Caesar	Julius Cæsar
+Sudaan	Sudan
+Suwaasilaand	Swaziland
+Kureelu Mbootayu Xeet yi	De forente nasjoner
+Melosuuf	Geografi
+Melo	Farge
+Prag	Praha
+Baxa	Blå
+Yanu mbëj	Elektrisk ladning
+Poortorikoo	Puerto Rico
+Mbàmbulaanug End	Indiahavet
+Wàll:Xët wu njëkk	Kategori:Kategorier
+Golo	Apekatter
+Koppar	Penger
+Gunóor	Insekter
+Niccolò Machiavelli	Niccolò Machiavelli
+Uetersen	Uetersen
+Jibraltaar	Gibraltar
+Sagreb	Zagreb
+Astana	Astana
+Aten	Athen
+Bagdad	Bagdad
+Caracas	Caracas
+Wiyen	Wien
+Kopenagen	København
+Stokolm	Stockholm
+Elsinki	Helsingfors
+Dublin	Dublin
+Reykjawik	Reykjavík
+Talin	Tallinn
+Riga	Riga
+Baratislawa	Bratislava
+Budapest	Budapest
+Luksambuur (péy)	Luxembourg (by)
+Wadus	Vaduz
+Biibël	Bibelen
+San Marino (péy)	San Marino by
+Ho Chi Minh City	Ho Chi Minh-byen
+Wu-angalteer	Engelsk
+Andorra la Vella	Andorra la Vella
+Đồng Hới	Dong Hoi
+Concepción (Ciili)	Concepción
+Kiyew	Kiev
+Końskowola	Końskowola
+Xartum	Khartoum
+Sharles Degóol	Charles de Gaulle
+Mbëjfepp	Elektron
+Minsk	Minsk
+Feppsaal	Proton
+Kurów	Kurów
+Feppmaandu	Nøytron
+Mogadisu	Mogadishu
+Football	Fotball
+Madrid	Madrid
+Wert	Grønn
+Xonq	Rød
+Safara	Ild
+Lourdes	Lourdes
+Rabat	Rabat
+Alse	Alger
+Dexub Senegaal	Senegal (elv)
+Tunis	Tunis
+Tripoli (Libi)	Tripoli
+Jibuti (dëkk)	Djibouti (by)
+Addis-Abeba	Addis Abeba
+Ankara	Ankara
+Asmara	Asmara
+Njamena	N'Djamena
+Nouakchott	Nouakchott
+Belgrad	Beograd
+Ndakaaru	Dakar
+Banjul	Banjul
+Wàll:Royuwaay	Kategori:Maler
+Praia	Praia
+Guyaana gu Faraas	Fransk Guyana
+Amman	Amman
+Yaunde	Yaoundé
+Malabo	Malabo
+Libarwil	Libreville
+Bangi	Bangui
+Kinshasa	Kinshasa
+Brasawil	Brazzaville
+Bujumbura	Bujumbura
+Kigali	Kigali
+Dodoma	Dodoma
+Nairobi	Nairobi
+Lilongwe	Lilongwe
+Lusaka	Lusaka
+Maputo	Maputo
+Kampala	Kampala
+Luanda	Luanda
+Moroni	Moroni
+Antananariwo	Antananarivo
+Arare	Harare
+Wiktoria (Seysel)	Victoria (Seychellene)
+Kër	Hus
+Lonkoyoon	Kart
+Dex	Elv
+Osasco	Osasco
+Curitiba	Curitiba
+Sowwu Afrig	Vest-Afrika
+Confucius	Konfucius
+Corbin Bleu	Corbin Bleu
+Wàll:Xayma	Kategori:Matematikk
+Duni Faarow	Færøyene
+Géej gu Diggu	Middelhavet
+Gox	Kontinent
+Monzón	Monzón
+Weer	Måned
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Almazán	Almazán
+Jimbulang	Encyklopedi
+Xët wu njëkk	Portal:Forside
+Dëgërlukaay	Motstand (resistor)
+Fattalukaay(mbëj)	Kondensator (elektrisk)
+Xiirtalukaay	Spole (induktans)
+Tugalasi	Eurasia
+Babilon	Babylon
+Dunu Aland	Åland
+Betleyem	Betlehem
+Duni Kanaari	Kanariøyene
+Xeltu	Filosofi
+Rap	Rapping
+Hebe Camargo	Hebe Camargo
+Sahara gu Sowwu	Vest-Sahara
+Atali	Antalya
+Wàll:Saytubiddiw	Kategori:Astronomi
+Saara	Sahara
+Niels Bohr	Niels Bohr
+Politig	Politikk
+Qin Shi Huang	Qin Shi Huangdi
+Penku gu Diggu	Midtøsten
+Réew	Stat
+Mbàmbulaan gu Bëj-saalum	Sørishavet
+Bët	Øye
+Ñay	Elefanter
+Melentaan	Maur
+Simili	Minutt
+Taariixu Itaali	Italias historie
+Mburu	Brød
+Kiswahili	Swahili
+Dereet	Blod
+Toulouse	Toulouse
+Xam-xamu suuf si ak jawwu ji	Geovitenskap
+Doj	Bergart
+Jawwu ji	Atmosfære
+Koom-koom	Samfunnsøkonomi
+Yewwute gu ndefar	Industri
+Wàll:Bulgaari	Kategori:Bulgaria
+Njàngat	Litteratur
+Wàll:Faraas	Kategori:Frankrike
+Wàll:Woy	Kategori:Musikk
+Wàll:Njàngat	Kategori:Litteratur
+.ac	.ac
+Xay	Sivilisasjon
+Gόor	Mann
+Tangor	Fjell
+Yay	Ørken
+Ooŋ Koŋ	Hongkong
+HTML	HTML
+Xarefulwoon	Atom
+Nosteg doxiin	Operativsystem
+Baku	Baku
+Mbàmbulaan	Verdenshav
+Budda	Buddha
+Premier League	Premier League
+Mohammed	Muhammed
+Dunu Falkland	Falklandsøyene
+Ronald Reagan	Ronald Reagan
+Gordon Brown	Gordon Brown
+Wàll:Benesuwela	Kategori:Venezuela
+Pitax	Duer
+Garab	Tre
+Wuutuloxo	Maskin
+Xibaar	Informasjon
+Paj	Medisin
+Saarayego	Sarajevo
+Wàll:Breesil	Kategori:Brasil
+Wàll:Romaani	Kategori:Romania
+Xeet	Grunnstoff
+Kàttan	Energi
+Hip-hop	Hiphop
+Mbëjbijjaakon	Elektromagnetisme
+Toolu bijjaakon	Magnetfelt
+Dooley ñoddi	Tyngdekraft
+Bijjaan	Magnet
+Yolaakon	Væske
+Féex	Vakuum
+Yaatuwaay	Areal
+Saa	Sekund
+Cuub	Malerkunst
+Nataal	Fotografi
+Yatt	Skulptur
+Mbëjfeppal	Elektronikk
+Dawaanu mbëj	Elektrisk strøm
+Baraay	Frekvens
+Soppalikaay	Transformator
+Xaralay xibaar ak jokkoo	Informasjons- og kommunikasjonsteknologi
+Duni Virgin (us)	De amerikanske jomfruøyene
+Bëj-saalum-penku Asi	Sørøst-Asia
+Limu réewi àdduna bi	Liste over stater
+Njëkk-taariix	Forhistorisk tid
+Réewum ñaari dex yi	Mesopotamia
+Las Palmasu Kanaari gu Mag	Las Palmas de Gran Canaria
+Arminaat	Kalender
+Xarey jóoñe	Korstog
+Mbëj	Elektrisitet
+Montserrat	Montserrat
+Ndajem Berlin	Berlin-konferansen
+Adiratig	Adriaterhavet
+Ngiste	Optikk
+Makaaw	Macao
+Soviet Yi Benno	Sovjetunionen
+Queen	Queen
+Wikipedia:Pénc mi	Wikipedia:Tinget
+Guam	Guam
+Samoa gu Aamerig	Amerikansk Samoa
+Northern Mariana Islands	Nord-Marianene
+United States Minor Outlying Islands	USAs ytre småøyer
+Guwaadalup	Guadeloupe
+Martinik	Martinique
+Mayoot	Mayotte
+Reiñõo	Réunion
+Turks and Caicos Islands	Turks- og Caicosøyene
+Manchester United	Manchester United FC
+Juróom ñent	9 (tall)
+Bien Hoa	Bien Hoa
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Bukarest	București
+Louvre	Louvre
+Kureelu tembte bu Poortorikoo	Partido Independentista Puertorriqueño
+Tirana	Tirana
+Nowel	Jul
+Breinigerberg	Breinigerberg
+Ségg	Tiger
+Kisinawu	Chișinău
+Xam-xamu nosukaay	Informatikk
+Şalom	Şalom
+Aruba	Aruba
+Juróom ñaar	7 (tall)
+Juróom ñett	8 (tall)
+Ayubés	Ukedager
+Ngéej	Innsjø
+Jeexiituwaay bu Orsay	Musée d'Orsay
+Dunu Buwet	Bouvetøya
+Dun	Øy
+Juróom benn	6 (tall)
+Moshchena	Mosjtsjena
+Yamoo	Ekvator
+Mérida, Benesuwela	Mérida (Venezuela)
+Podgorika	Podgorica
+Baatukaay	Ordbok
+Bermuda	Bermuda
+Palestiin	Palestina (område)
+Waleta	Valletta
+Fukk	10 (tall)
+Tene	Gepard
+Looy	Ugler
+Angila	Anguilla
+Waxtu	Time (tidsenhet)
+Pichilemu	Pichilemu
+Duni Virgin (angalteer)	De britiske jomfruøyene
+Phan Thiet	Phan Thiet
+Goxub Dottub Bëj-gànnaar	Arktis
+Ngóora (jëmm)	Effekt
+Ndëgërlu gu mbëj	Motstand (resistans)
+Dendu mbëj	Elektrisk spenning
+Niccolò Cusano University	Università degli Studi Niccolò Cusano
+Mbëjtekkaaral	Lakkelektrisitet
+Anet	Dill
+Dunu Kook	Cookøyene
+Penku Asi	Øst-Asia
+Diggu Asi	Sentral-Asia
+Bëj-gànnaaru Afrig	Nord-Afrika
+Bëj-saalumu Afrig	Sørlige Afrika
+Penku Afrig	Øst-Afrika
+Diggu Afrig	Sentral-Afrika
+Bëj-saalumu Tugal	Syd-Europa
+Penku Tugal	Øst-Europa
+Bëj-gànnaaru Tugal	Nord-Europa
+Sowwu Tugal	Vest-Europa
+Afritugalasi	Afrika-Eurasia
+Diggu Aamerig	Mellom-Amerika
+Maghreb	Maghreb
+Weeri wolof	Islamsk kalender
+Ecser	Ecser
+Akas	Akas av Juda
+Polineesi gu Faraas	Fransk Polynesia
+Dunu Norfolk	Norfolkøya
+Dunu Christmas	Christmasøya
+Arabi	Den arabiske halvøy
+Paaka	Kniv
+Pullaar	Fulfulde
+Kaledooni-Gu-Bees	Ny-Caledonia
+Way-dëkk	Befolkning
+Niwe	Niue
+Tus-wu-gaar	Breddegrad
+Wolof (làkk)	Wolof (språk)
+Gëstubiddiw	Astrologi
+Seent Eleen	St. Helena
+Saint Pierre ak Miquelon	Saint-Pierre og Miquelon
+Njëkk-xaymà	Landsnumre for telefon
+Tequixquiac	Tequixquiac
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	Sør-Georgia og Sør-Sandwichøyene
+Dalub web	Nettsted
+Araab	Arabere
+Wallis ak Futuna	Wallis- og Futunaøyene
+Pitkeern	Pitcairnøyene
+Ne-ne	Materie
+Al Bayda	Al Bayda
+Gaal	Båt
+Polineesi	Polynesia
+Dunu Kokos	Kokosøyene
+Thanh Hoa	Thanh Hoa
+Siligo	Siligo
+Tus-wu-taxaw	Lengdegrad
+Dàngin	Gorilla
+Ben Tre	Bến Tre
+Xëtu web	Nettside
+Tokelau	Tokelau
+Tembte	Uavhengighet
+Melaneesi	Melanesia
+Téeméer	100 (tall)
+Besançon	Besançon
+Jinax	Mus (slekt)
+Suraas	Oransje
+Artemis	Artemis
+Esaas	Bensin
+Radio Studio 54 Network	Radio Studio 54 Network
+Tëriinuw nosukaay	Dataprogram
+Jëf ya	Apostlenes gjerninger
+Bejjenu Afrig	Afrikas horn
+Fatt-jawwu	Troposfæren
+Al Pacino	Al Pacino
+Doolerandu	Mekanikk
+Sinemaa	Kino
+Jum	Rakett
+Daawuda	David av Israel
+Seere	Shahadah
+Liggéey (jëmm)	Arbeid (fysikk)
+Penku gu Sori	Det fjerne østen
+Gëwéel	Tropene
+Junni	1000 (tall)
+Xaralaymbëj	Elektroteknikk
+Waañ	Kjøkken
+Andare	Apostelen Andreas
+Bartelemi	Apostelen Bartolomeus
+Alex Ferguson	Alex Ferguson
+The Doors	The Doors
+Toolu mbëj	Elektrisk felt
+Kàttanug imbiku	Kinetisk energi
+Mbootaayu Réewi Jullit yi	Organisasjonen for islamsk samarbeid
+Penku gu Jege	Det nære østen
+Almasi bi	Messias
+Bànni Israyil	Israelitter
+Aaroona	Aron
+Locri	Locri
+Wàll:Filmi	Kategori:Filmer
+Aset	Tallerken
+Truong Tan Sang	Trương Tấn Sang
+Duran Duran	Duran Duran
+Ron-goxu End	Det indiske subkontinent
+Sahel	Sahel
+Doxalukaay bu mbëj	Elektrisk motor
+Ametist	Ametyst
+Coronel Fabriciano	Coronel Fabriciano
+Junj	Symbol
+1 Korent	Paulus' første brev til korinterne
+Furset	Gaffel
+Kuddu	Skje
+Lepton	Lepton
+Bundesliga	Bundesligaen i fotball for menn
+Dencukaay	Datafil
+Cosaan	Tradisjon
+Jéeri ji	Litosfære
+Ba Don	Ba Don
+Lëkkalekaay	Hyperlenke
+Nukleon	Nukleon
+Beril	Beryll
+Xarey àdduna	Verdenskrig
+Abdulaay Wàdd	Abdoulaye Wade
+Dëgërluwiin	Resistivitet
+Yolom-jawwu	Stratosfæren
+Melosuufug Tugal	Europas geografi
+Dawaan bu safaanu	Vekselstrøm
+Disc jockey	Disc jockey
+2 Piyeer	Peters andre brev
+Heard Island and McDonald Islands	Heard- og McDonaldøyene
+IMMAGINE&POESIA	IMMAGINE&POESIA
+Jurukaayu mbëj	Generator
+Ndombo gu mbëj	Elektronisk krets
+Mamudsu	Mamoudzou
+Afrig gu bëj-saalumu-Sahara	Afrika sør for Sahara
+Sawara	Forbrenning
+Raaya wu Senegaal	Senegals flagg
+Albaatar	Alabast
+Leopool Sedaar Sengoor	Léopold Sédar Senghor
+Dóox	Hertugdømme
+Bennoo gu Almaañ	Tysklands samling
+Dawaan bu wéy	Likestrøm
+Digg bu mbëj	Kraftverk
+Kom-kom	Økonomi
+Pachuca de Soto	Pachuca de Soto
+Iyon-jawwu	Ionosfæren
+Break dancing	Breakdance
+Biti-jawwu	Eksosfæren
+Asot	Ashdod
+Amiin	Amen
+Amos	Amos (bok)
+Bunt: taariix	Portal:Historie
+Ponki Lislaam	Islams fem søyler
+Xiirtalu	Induktans
+Mbëjbijjaan	Elektromagnet
+ASP.NET	ASP.NET
+Diiwaanu Ndar	Saint-Louis (region)
+Ayóoba	Job
+Dalu Archimède	Arkimedes' prinsipp
+Imbraatóor gu Mali	Maliriket
+Barnabas	Barnabas
+Armagedon	Harmageddon
+Njël	Soloppgang
+Ancos ci Siri	Antiokia ved Orontes
+Areyopas	Areopagos (Athen)
+Beelsebul	Beelzebub
+Pël	Fulani
+Imbraatóor gu Songaay	Songhai
+Vesoul	Vesoul
+Akayi	Achaea
+Alisa	Elisja
+Imbraatóor gu Gana	Ghanariket
+Piipa	Gulflankedelfin
+Duusub sin	Sinuskurve
+Yuusu Nduur	Youssou N'Dour
+Bowas	Boas
+Ajara	Hagar
+Wolof (askan)	Wolof
+Amfipolis	Amfipolis
+Turu Way-Dëkk	Innbyggernavn
+Sao Tome (dun)	São Tomé (øy)
+Haj	Hajj
+Arkelawus	Herodes Arkhelaos
+Beer	Gorée
+Ndar	Saint-Louis (Senegal)
+Yoonu Eŋaca	Via Egnatia
+Abadon	Abaddon
+Aretas	Aretas IV
+Wommat wu mbëj	Konduktans
+Asaf	Asa av Juda
+Barabas	Barabbas
+Agaripa	Herodes Agrippa II
+Amon	Amon av Juda
+Aristobul	Aristobulos I
+Bëer	Ørnefisk
+Bitini	Bitynia
+Yolet	Lilla
+Arpagsàdd	Arpaksjad
+Ben-yamin	Benjamin (bibelsk person)
+Berenis	Berenike
+Arkib	Arkippus
+Saamóori Ture	Samory Touré
+Planoise	Planoise
+Bisub Tabaski	Id al-adha
+Seex Anta Jóob	Cheikh Anta Diop
+Dalmasi	Dalmatia
+Max	Termitter
+Ancos ci Pisidi	Antiokia i Pisidia
+Diiwaanu Séeju	Sédhiou (region)
+Baal	Baal
+Taariixu Aamerig	Amerikas historie
+Diiwaanu Luga	Louga (region)
+Diiwaanu Koldaa	Kolda (region)
+Séeréer	Serer
+Bawol	Baolriket
+Barag	Barak
+Beliyar	Belial
+Diiwaanu Siggcoor	Ziguinchor (region)
+Betani	Betania
+Swalbard ak Jan Mayen	Svalbard og Jan Mayen
+Limub njiiti Senegaal yil	Liste over Senegals presidenter
+Doxalukaay bu demandoo	Synkronmotor
+Diiwaani Senegaal	Senegals regioner
+Diiwaanu Kawlax	Kaolack (region)
+Diiwaanu Cees	Thiès (region)
+Diiwaanu Njaaréem	Diourbel (region)
+Diiwaanu Ndakaaru	Dakar (region)
+Diiwaanu Maatam	Matam (region)
+Diiwaanu Fatik	Fatick (region)
+Kaabu	Kaabu
+Oiapoque	Oiapoque
+Xiirtalug mbëjbijjaakon	Elektromagnetisk induksjon
+Diiwaanu Kéedugu	Kédougou (region)
+Diiwaanu Kafrin	Kaffrine (region)
+Wersun	Havkaruss
+Abilen	Abilene (bibelsk)
+Wàll:Gόor	Kategori:Menn
+Wàll:Almaañ	Kategori:Tyskland
+Wàll:Itaali	Kategori:Italia
+Wàll:Riisi	Kategori:Russland
+Wàll:Kanadaa	Kategori:Canada
+Wàll:Nguur-Yu-Bennoo	Kategori:Storbritannia
+Wàll:Ispaañ	Kategori:Spania
+Wàll:Sapoŋ	Kategori:Japan
+Wàll:Óstraali	Kategori:Australia
+Wàll:Meksik	Kategori:Mexico
+Wàll:End	Kategori:India
+Wàll:Araabi Sawdit	Kategori:Saudi-Arabia
+Wàll:Israayil	Kategori:Israel
+Wàll:Watikaa	Kategori:Vatikanstaten
+Wàll:Tirki	Kategori:Tyrkia
+Wàll:Afrig gu Bëj-saalum	Kategori:Sør-Afrika
+Wàll:Isipt	Kategori:Egypt
+Wàll:Iraan	Kategori:Iran
+Wàll:Arsantin	Kategori:Argentina
+Wàll:Afganistaan	Kategori:Afghanistan
+Wàll:Alseeri	Kategori:Algerie
+Wàll:Banglaades	Kategori:Bangladesh
+Wàll:Kubaa	Kategori:Cuba
+Wàll:Ecoopi	Kategori:Etiopia
+Wàll:Endoneesi	Kategori:Indonesia
+Wàll:Iraak	Kategori:Irak
+Wàll:Niseeria	Kategori:Nigeria
+Wàll:Poloñ	Kategori:Polen
+Wàll:Portugaal	Kategori:Portugal
+Wàll:Kore gu Bëj-saalum	Kategori:Sør-Korea
+Wàll:Sudaan	Kategori:Sudan
+Wàll:Suwis	Kategori:Sveits
+Wàll:Tansani	Kategori:Tanzania
+Wàll:Ukreen	Kategori:Ukraina
+Wàll:Wiyetnaam	Kategori:Vietnam
+Wàll:Picc	Kategori:Fugler
+Wàll:Gàncax	Kategori:Planter
+Wàll:Jëmm	Kategori:Fysikk
+Wàll:Taariix	Kategori:Historie
+Wàll:Melosuuf	Kategori:Geografi
+Wàll:Diine	Kategori:Religion
+Wàll:Sport	Kategori:Sport
+Wàll:Xam-xam	Kategori:Vitenskap
+Wàll:Sinemaa	Kategori:Film
+Wàll:Suuf	Kategori:Jorden
+Wàll:Xibaar	Kategori:Informasjon
+Melosuufug Afrig gu Bëj-saalum	Sør-Afrikas geografi
+Aser	Asjer
+Tamxarit	Muharram
+Wàll:Xeltu	Kategori:Filosofi
+Wàll:Lislaam	Kategori:Islam
+Aminadab	Amminadab
+Betfase	Betfage
+Benedicta Boccoli	Benedicta Boccoli
+Arimate	Arimatea
+Wàll:Junj	Kategori:Stubber
+Wàll:Gox yi	Kategori:Kontinenter
+Bunt:Melosuuf	Portal:Geografi
+Mikroneesi	Mikronesia
+Royuwaay:M	Mal:Mal
+Wàll:Réew	Kategori:Land
+Wàll:Koom-koom	Kategori:Nasjonaløkonomi
+Wikipedia:Yorkat	Wikipedia:Administratorer
+Wàll:Kasakistaan	Kategori:Kasakhstan
+Wikipedia:Bot	Wikipedia:Roboter
+Wàll:Paj	Kategori:Medisin
+Wàll:Politig	Kategori:Politikk
+Wàll:Fànn	Kategori:Kunst
+Isipt	Egypt
+Royuwaay:Bot	Mal:Bot
+Kanadaa	Canada
+Wàll:Beljik	Kategori:Belgia
+Wàll:Ciipër	Kategori:Kypros
+Wàll:Réewum Cek	Kategori:Tsjekkia
+Wàll:Danmaark	Kategori:Danmark
+Wàll:Estooni	Kategori:Estland
+Wàll:Finlaand	Kategori:Finland
+Wàll:Girees	Kategori:Hellas
+Wàll:Letóoni	Kategori:Latvia
+Wàll:Islaand	Kategori:Island
+Wàll:Luksambuur	Kategori:Luxembourg
+Wàll:Lituwaani	Kategori:Litauen
+Wàll:Malt	Kategori:Malta
+Wàll:Suweed	Kategori:Sverige
+Wàll:Eslowaaki	Kategori:Slovakia
+Wàll:Esloweeni	Kategori:Slovenia
+Wàll:Xare	Kategori:Kriger
+Bunt: Xarala	Portal:Vitenskap
+Wàll:Tugal	Kategori:Europa
+Wommatiinu mbëj	Elektrisk konduktivitet
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Kategori:Wikipedia-brukere etter språk
+Royuwaay:Softredirect	Mal:Softredirect
+Royuwaay:Far	Mal:Hurtigsletting
+Wàll:Xarala	Kategori:Teknologi
+Wàll:Làkk	Kategori:Språk
+Wàll:Arminaat	Kategori:Kalendere
+Wàll:Wikipedia	Kategori:Wikipedia
+Royuwaay:!	Mal:!
+Wàll:Afrig	Kategori:Afrika
+Wàll:Sulet	Kategori:Dager i juli
+Wàll:Suwe	Kategori:Dager i juni
+Wàll:Mbëjfeppal	Kategori:Elektronikk
+Wàll:Leeral Biibël	Kategori:Bibelen
+Wàll:Weeri at mi	Kategori:Måneder
+Royuwaay:Babel	Mal:Babel
+Royuwaay:Commons	Mal:Commons
+Wàll:Xaralaymbëj	Kategori:Elektroteknikk
+Royuwaay:Junj	Mal:Stubb
+Royuwaay:Jëfandikukat af-1	Mal:Bruker af-1
+Royuwaay:Jëfandikukat ar-1	Mal:Bruker ar-1
+Royuwaay:Jëfandikukat eo-1	Mal:Bruker eo-1
+Royuwaay:Jëfandikukat da	Mal:Bruker da
+Royuwaay:Jëfandikukat ca-4	Mal:Bruker ca-4
+Royuwaay:Jëfandikukat da-1	Mal:Bruker da-1
+Royuwaay:Jëfandikukat eo-3	Mal:Bruker eo-3
+Royuwaay:Jëfandikukat eu	Mal:Bruker eu
+Royuwaay:Jëfandikukat et-1	Mal:Bruker et-1
+Royuwaay:Jëfandikukat es	Mal:Bruker es
+Royuwaay:Jëfandikukat en-3	Mal:Bruker en-3
+Royuwaay:Jëfandikukat el-1	Mal:Bruker el-1
+Royuwaay:Jëfandikukat en-1	Mal:Bruker en-1
+Royuwaay:Jëfandikukat en-2	Mal:Bruker en-2
+Royuwaay:Jëfandikukat eo-2	Mal:Bruker eo-2
+Royuwaay:Jëfandikukat en-4	Mal:Bruker en-4
+Royuwaay:Jëfandikukat fi	Mal:Bruker fi
+Royuwaay:Jëfandikukat en-0	Mal:Bruker en-0
+Royuwaay:Jëfandikukat es-4	Mal:Bruker es-4
+Royuwaay:Jëfandikukat en	Mal:Bruker en
+Royuwaay:Jëfandikukat es-1	Mal:Bruker es-1
+Royuwaay:Jëfandikukat fr-1	Mal:Bruker fr-1
+Wàll:Dundat yi	Kategori:Livet
+Royuwaay:Jëfandikukat ia-2	Mal:Bruker ia-2
+Royuwaay:Jëfandikukat hu	Mal:Bruker hu
+Royuwaay:Jëfandikukat id-3	Mal:Bruker id-3
+Royuwaay:Jëfandikukat io-3	Mal:Bruker io-3
+Royuwaay:Jëfandikukat it-3	Mal:Bruker it-3
+Royuwaay:Jëfandikukat ja-4	Mal:Bruker ja-4
+Royuwaay:Jëfandikukat sk	Mal:Bruker sk
+Royuwaay:Jëfandikukat tr	Mal:Bruker tr
+Royuwaay:Jëfandikukat ja	Mal:Bruker ja
+Royuwaay:Jëfandikukat ja-1	Mal:Bruker ja-1
+Royuwaay:Jëfandikukat it-1	Mal:Bruker it-1
+Royuwaay:Jëfandikukat fr	Mal:Bruker fr
+Wàll:Fewirie	Kategori:Dager i februar
+Wàll:Gunóor	Kategori:Insekter
+Wàll:Moldaawi	Kategori:Moldova
+Wàll:Aserbayjaan	Kategori:Aserbajdsjan
+Wàll:Asi	Kategori:Asia
+Wàll:Ciili	Kategori:Chile
+Wàll:Lesoto	Kategori:Lesotho
+Wàll:Jëfandikukat uk	Kategori:Bruker uk
+Wàll:Jëfandikukat uk-N	Kategori:Bruker uk-N
+Wàll:Maleesi	Kategori:Malaysia
+Wàll:Football	Kategori:Fotball
+Royuwaay:Mod	Mal:Mod
+Royuwaay:Jëfandikukat sv	Mal:Bruker sv
+Royuwaay:Jëfandikukat it	Mal:Bruker it
+Royuwaay:Jëfandikukat uk	Mal:Bruker uk
+Royuwaay:Jëfandikukat es-2	Mal:Bruker es-2
+Wàll:Jimbulang	Kategori:Oppslagsverk
+Royuwaay:Bataaxalu dalal-jàmm	Mal:Reg-velkommen
+Wàll:Jëfandikukat fr-1	Kategori:Bruker fr-1
+Royuwaay:ISBN	Mal:ISBN
+Royuwaay:Infobox Réew	Mal:Infoboks land2
+Royuwaay:Max	Mal:Max
+Wàll:Gana	Kategori:Ghana
+Wàll:Jëfandikukat en-4	Kategori:Bruker en-4
+Wàll:Togóo	Kategori:Togo
+Wàll:Jëfandikukat en	Kategori:Bruker en
+Wàll:Jëfandikukat zh	Kategori:Bruker zh
+Wàll:Korwaasi	Kategori:Kroatia
+Wàll:Jëfandikukat zh-N	Kategori:Bruker zh-N
+Wàll:Jëfandikukat en-2	Kategori:Bruker en-2
+Royuwaay:Jëfandikukat zh	Mal:Bruker zh
+Royuwaay:Jëfandikukat ru-4	Mal:Bruker ru-4
+Royuwaay:Coord/URL	Mal:Koor URL
+Royuwaay:Jëfandikukat nl-1	Mal:Bruker nl-1
+Royuwaay:Jëfandikukat nl-2	Mal:Bruker nl-2
+Wàll:Jëfandikukat hi	Kategori:Bruker hi
+Royuwaay:Jëfandikukat ru	Mal:Bruker ru
+Wàll:Aamerig	Kategori:Amerika
+Royuwaay:Boyutu Babel 1	Mal:Babel1
+Royuwaay:Jëfandikukat pt-1	Mal:Bruker pt-1
+Wàll:Samwie	Kategori:Dager i januar
+Royuwaay:Jëfandikukat nl	Mal:Bruker nl
+Royuwaay:Jëfandikukat no-2	Mal:Bruker no-2
+Royuwaay:CcTLD	Mal:CcTLD
+Wàll:Cuub	Kategori:Malerkunst
+Royuwaay:Jëfandikukat	Mal:Brukerside
+Royuwaay:Boyutu Babel 4	Mal:Babel4
+Royuwaay:Jëfandikukat pl-1	Mal:Bruker pl-1
+Royuwaay:Jëfandikukat fr-3	Mal:Bruker fr-3
+Wàll:Tiniisi	Kategori:Tunisia
+Wàll:Suti	Kategori:Verktøy
+Royuwaay:Coord/link	Mal:Koord/lenke
+Wàll:Poortorikoo	Kategori:Puerto Rico
+Wàll:Jëfandikukat ja-N	Kategori:Bruker ja-N
+Wàll:Royuwaay jëfëndikookat	Kategori:Maler for brukersider
+Wàll:Suwaasilaand	Kategori:Swaziland
+Wàll:Infobox	Kategori:Infobokser
+Royuwaay:Boyutu Babel 3	Mal:Babel3
+Royuwaay:Jëfandikukat it-2	Mal:Bruker it-2
+Wàll:Mongoli	Kategori:Mongolia
+Royuwaay:Jëfandikukat lb-1	Mal:Bruker lb-1
+Royuwaay:Jëfandikukat fr-4	Mal:Bruker fr-4
+Royuwaay:Jëfandikukat lv	Mal:User lv
+Royuwaay:Jëfandikukat la-1	Mal:Bruker la-1
+Wàll:Réewum Maseduwaan	Kategori:Republikken Makedonia
+Wàll:Jëfandikukat sk	Kategori:Bruker sk
+Wàll:Jëfandikukat eo	Kategori:Bruker eo
+Wàll:Jëfandikukat et	Kategori:Bruker et
+Wàll:Jëfandikukat fr	Kategori:Bruker fr
+Wàll:Jëfandikukat hu-N	Kategori:Bruker hu-N
+Wàll:Jëfandikukat id	Kategori:Bruker id
+Wàll:Jëfandikukat ia	Kategori:Bruker ia
+Wàll:Jëfandikukat ja	Kategori:Bruker ja
+Wàll:Jëfandikukat la	Kategori:Bruker la
+Wàll:Jëfandikukat li	Kategori:Bruker li
+Wàll:Jëfandikukat pt	Kategori:Bruker pt
+Wàll:Jëfandikukat ro	Kategori:Bruker ro
+Wàll:Jëfandikukat sv	Kategori:Bruker sv
+Wàll:Jëfandikukat sw	Kategori:Bruker sw
+Wàll:Jëfandikukat vo	Kategori:Bruker vo
+Wàll:Jëfandikukat fr-3	Kategori:Bruker fr-3
+Wàll:Jëfandikukat it-3	Kategori:Bruker it-3
+Wàll:Jëfandikukat da-1	Kategori:Bruker da-1
+Wàll:Jëfandikukat et-1	Kategori:Bruker et-1
+Wàll:Jëfandikukat hi-1	Kategori:Bruker hi-1
+Wàll:Jëfandikukat li-1	Kategori:Bruker li-1
+Wàll:Jëfandikukat nl-1	Kategori:Bruker nl-1
+Wàll:Jëfandikukat pl-1	Kategori:Bruker pl-1
+Wàll:Jëfandikukat ar-1	Kategori:Bruker ar-1
+Wàll:Jëfandikukat fr-4	Kategori:Bruker fr-4
+Wàll:Jëfandikukat it-4	Kategori:Bruker it-4
+Wàll:Jëfandikukat ar-4	Kategori:Bruker ar-4
+Wàll:Jëfandikukat fr-2	Kategori:Bruker fr-2
+Wàll:Jëfandikukat ia-2	Kategori:Bruker ia-2
+Wàll:Jëfandikukat it-2	Kategori:Bruker it-2
+Wàll:Jëfandikukat la-2	Kategori:Bruker la-2
+Wàll:Jëfandikukat nl-2	Kategori:Bruker nl-2
+Wàll:Jëfandikukat cs-N	Kategori:Bruker cs-N
+Wàll:Jëfandikukat fr-N	Kategori:Bruker fr-N
+Wàll:Jëfandikukat it-N	Kategori:Bruker it-N
+Wàll:Jëfandikukat lv-N	Kategori:Bruker lv-N
+Wàll:Jëfandikukat li-N	Kategori:Bruker li-N
+Wàll:Jëfandikukat nl-N	Kategori:Bruker nl-N
+Wàll:Jëfandikukat ru-N	Kategori:Bruker ru-N
+Wàll:Jëfandikukat sw-N	Kategori:Bruker sw-N
+Wàll:Jëfandikukat eu-N	Kategori:Bruker eu-N
+Wàll:Jëfandikukat af	Kategori:Bruker af
+Wàll:Jëfandikukat af-1	Kategori:Bruker af-1
+Wàll:Jëfandikukat ar	Kategori:Bruker ar
+Wàll:Jëfandikukat bm	Kategori:Bruker bm
+Wàll:Jëfandikukat bm-1	Kategori:Bruker bm-1
+Wàll:Jëfandikukat ca	Kategori:Bruker ca
+Wàll:Jëfandikukat ca-4	Kategori:Bruker ca-4
+Wàll:Jëfandikukat cs	Kategori:Bruker cs
+Wàll:Jëfandikukat da	Kategori:Bruker da
+Wàll:Jëfandikukat sk-N	Kategori:Bruker sk-N
+Wàll:Jëfandikukat de	Kategori:Bruker de
+Wàll:Jëfandikukat de-0	Kategori:Bruker de-0
+Wàll:Jëfandikukat de-2	Kategori:Bruker de-2
+Wàll:Jëfandikukat de-3	Kategori:Bruker de-3
+Wàll:Jëfandikukat de-4	Kategori:Bruker de-4
+Wàll:Jëfandikukat de-N	Kategori:Bruker de-N
+Wàll:Jëfandikukat el	Kategori:Bruker el
+Wàll:Jëfandikukat el-1	Kategori:Bruker el-1
+Wàll:Jëfandikukat en-0	Kategori:Bruker en-0
+Wàll:Jëfandikukat en-3	Kategori:Bruker en-3
+Wàll:Jëfandikukat en-N	Kategori:Bruker en-N
+Wàll:Jëfandikukat eo-1	Kategori:Bruker eo-1
+Wàll:Jëfandikukat eo-2	Kategori:Bruker eo-2
+Wàll:Jëfandikukat eo-3	Kategori:Bruker eo-3
+Wàll:Jëfandikukat es	Kategori:Bruker es
+Wàll:Jëfandikukat es-1	Kategori:Bruker es-1
+Wàll:Jëfandikukat es-2	Kategori:Bruker es-2
+Wàll:Jëfandikukat es-3	Kategori:Bruker es-3
+Wàll:Jëfandikukat es-4	Kategori:Bruker es-4
+Wàll:Jëfandikukat es-N	Kategori:Bruker es-N
+Wàll:Jëfandikukat eu	Kategori:Bruker eu
+Wàll:Jëfandikukat fi	Kategori:Bruker fi
+Wàll:Jëfandikukat fi-N	Kategori:Bruker fi-N
+Wàll:Jëfandikukat fr-0	Kategori:Bruker fr-0
+Wàll:Jëfandikukat hu	Kategori:Bruker hu
+Wàll:Jëfandikukat id-3	Kategori:Bruker id-3
+Wàll:Jëfandikukat io	Kategori:Bruker io
+Wàll:Jëfandikukat io-1	Kategori:Bruker io-1
+Wàll:Jëfandikukat io-3	Kategori:Bruker io-3
+Wàll:Jëfandikukat is	Kategori:Bruker is
+Wàll:Jëfandikukat is-1	Kategori:Bruker is-1
+Royuwaay:Jëfandikukat la-3	Mal:Bruker la-3
+Wàll:Jëfandikukat pt-3	Kategori:Bruker pt-3
+Wàll:Yonenti Lislaam	Kategori:Islams profeter
+Wàll:Jëfandikukat pl-N	Kategori:Bruker pl-N
+Wàll:Jëfandikukat pt-1	Kategori:Bruker pt-1
+Wàll:Jëfandikukat ka-1	Kategori:Bruker ka-1
+Wàll:Jëfandikukat it	Kategori:Bruker it
+Wàll:Jëfandikukat it-1	Kategori:Bruker it-1
+Wàll:Jëfandikukat ja-1	Kategori:Bruker ja-1
+Wàll:Jëfandikukat ka	Kategori:Bruker ka
+Wàll:Jëfandikukat ko	Kategori:Bruker ko
+Wàll:Jëfandikukat ko-3	Kategori:Bruker ko-3
+Wàll:Jëfandikukat ksh	Kategori:Bruker ksh
+Wàll:Jëfandikukat ksh-N	Kategori:Bruker ksh-N
+Wàll:Jëfandikukat la-1	Kategori:Bruker la-1
+Wàll:Jëfandikukat la-3	Kategori:Bruker la-3
+Wàll:Jëfandikukat lb	Kategori:Bruker lb
+Wàll:Jëfandikukat lb-1	Kategori:Bruker lb-1
+Wàll:Nowembar	Kategori:Dager i november
+Wàll:Jëfandikukat ru-1	Kategori:Bruker ru-1
+Royuwaay:Jëfandikukat sv-1	Mal:Bruker sv-1
+Wàll:Maars	Kategori:Dager i mars
+Wàll:Sattumbar	Kategori:Dager i september
+Wàll:Jëfandikukat lv	Kategori:Bruker lv
+Wàll:Oktoobar	Kategori:Dager i oktober
+Royuwaay:Boyutu Babel 2	Mal:Babel2
+Wàll:Géej	Kategori:Hav
+Wàll:Disambar	Kategori:Dager i desember
+Wàll:Ut	Kategori:Dager i august
+Wàll:Mee	Kategori:Dager i mai
+Wàll:Awril	Kategori:Dager i april
+Wàll:Angila	Kategori:Anguilla
+Wàll:Endustri	Kategori:Industri
+Wàll:Ndox	Kategori:Vann
+Wàll:Belaarus	Kategori:Hviterussland
+Royuwaay:Jëfandikukat cs	Mal:User cs
+Royuwaay:Jëfandikukat ru-2	Mal:Bruker ru-2
+Royuwaay:Jëfandikukat es-3	Mal:Bruker es-3
+Royuwaay:Jëfandikukat ko-3	Mal:Bruker ko-3
+Wàll:Jëfandikukat pt-0	Kategori:Bruker pt-0
+Wàll:Jëfandikukat pt-2	Kategori:Bruker pt-2
+Wàll:Jëfandikukat pt-N	Kategori:Bruker pt-N
+Wàll:Jëfandikukat ro-2	Kategori:Bruker ro-2
+Wàll:Jëfandikukat ru	Kategori:Bruker ru
+Wàll:Jëfandikukat ru-2	Kategori:Bruker ru-2
+Wàll:Jëfandikukat ru-4	Kategori:Bruker ru-4
+Wàll:Jëfandikukat sk-1	Kategori:Bruker sk-1
+Wàll:Jëfandikukat sv-1	Kategori:Bruker sv-1
+Wàll:Jëfandikukat sv-N	Kategori:Bruker sv-N
+Wàll:Jëfandikukat tr	Kategori:Bruker tr
+Wàll:Jëfandikukat tr-N	Kategori:Bruker tr-N
+Wàll:Jëfandikukat yi	Kategori:Bruker yi
+Wàll:Jëfandikukat yi-2	Kategori:Bruker yi-2
+Royuwaay:Jëfandikukat ca	Mal:Bruker ca
+Wàll:Melosuufug Tugal	Kategori:Europas geografi
+Royuwaay:Xóotal	Mal:Utdypende artikkel
+Royuwaay:Coord/dec2dms/dm	Mal:Koord/dec2dms/dm
+Wàll:Angolaa	Kategori:Angola
+Wàll:Bene	Kategori:Benin
+Wàll:Botswana	Kategori:Botswana
+Wàll:Burkinaa Faaso	Kategori:Burkina Faso
+Wàll:Buruundi	Kategori:Burundi
+Wàll:Jibuti	Kategori:Djibouti
+Wàll:Gineg yamoo	Kategori:Ekvatorial-Guinea
+Wàll:Eritere	Kategori:Eritrea
+Wàll:Gaboŋ	Kategori:Gabon
+Wàll:Gàmbi	Kategori:Gambia
+Wàll:Kamerun	Kategori:Kamerun
+Wàll:Keeñaa	Kategori:Kenya
+Wàll:Komoor	Kategori:Komorene
+Wàll:Libi	Kategori:Libya
+Wàll:Madagaskaar	Kategori:Madagaskar
+Wàll:Malawi	Kategori:Malawi
+Wàll:Marok	Kategori:Marokko
+Wàll:Gànnaar	Kategori:Mauritania
+Wàll:Mosambik	Kategori:Mosambik
+Wàll:Namibi	Kategori:Namibia
+Wàll:Ruwandaa	Kategori:Rwanda
+Wàll:Taariixu senegaal	Kategori:Senegals historie
+Wàll:Diiney Senegaal	Kategori:Religion i Senegal
+Wàll:Melosuufug Afrig gu Bëj-saalum	Kategori:Sør-Afrikas geografi
+Royuwaay:Jëfandikukat ar-4	Mal:Bruker ar-4
+Wàll:Melosuufug Alseeri	Kategori:Algeries geografi
+Royuwaay:Jëfandikukat la-2	Mal:Bruker la-2
+Royuwaay:Jëfandikukat pt	Mal:Bruker pt
+Royuwaay:Jëfandikukat ru-1	Mal:Bruker ru-1
+Royuwaay:Jëfandikukat zh-1	Mal:Bruker zh-1
+Royuwaay:Jëfandikukat zh-2	Mal:Bruker zh-2
+Wàll:Saambi	Kategori:Zambia
+Wàll:Senegaal	Kategori:Senegal
+Wàll:Seysel	Kategori:Seychellene
+Wàll:Simbaawee	Kategori:Zimbabwe
+Wàll:Melosuufug Kamerun	Kategori:Kameruns geografi
+Wàll:Somali	Kategori:Somalia
+Wàll:Cadd	Kategori:Tsjad
+Wàll:Ugandaa	Kategori:Uganda
+Wàll:Réewum Diggu Afrig	Kategori:Den sentralafrikanske republikk
+Wàll:Filipiin	Kategori:Filippinene
+Wàll:Jëfandikukat nl	Kategori:Bruker nl
+Wàll:Jëfandikukat no-2	Kategori:Bruker no-2
+Wàll:Jëfandikukat no	Kategori:Bruker no
+Wàll:Jëfandikukat zh-1	Kategori:Bruker zh-1
+Wàll:Jëfandikukat zh-4	Kategori:Bruker zh-4
+Wàll:Jëfandikukat zh-2	Kategori:Bruker zh-2
+Wàll:Doolerandu	Kategori:Mekanikk
+Wàll:Armeeni	Kategori:Armenia
+Wàll:Bahrayni	Kategori:Bahrain
+Wàll:Siri	Kategori:Syria
+Wàll:Melosuufug Senegaal	Kategori:Senegals geografi
+Wàll:Jeoorji	Kategori:Georgia
+Wàll:Jamayka	Kategori:Jamaica
+Wàll:Kataar	Kategori:Qatar
+Wàll:Maldiif	Kategori:Maldivene
+Wàll:Nepaal	Kategori:Nepal
+Wàll:Omaan	Kategori:Oman
+Wàll:Usbekistaan	Kategori:Usbekistan
+Wàll:Taariixu Tugal	Kategori:Europas historie
+Wàll:San Marino	Kategori:San Marino
+Wàll:Jordaani	Kategori:Jordan
+Wàll:Nikaraaguwa	Kategori:Nicaragua
+Wàll:Bosni	Kategori:Bosnia-Hercegovina
+Wàll:Noorwees	Kategori:Norge
+Wàll:Paraguwaay	Kategori:Paraguay
+Wàll:Liechtenstein	Kategori:Liechtenstein
+Wàll:Onduras	Kategori:Honduras
+Wàll:Uruguwaay	Kategori:Uruguay
+Wàll:Andoor	Kategori:Andorra
+Wàll:Seerbi	Kategori:Serbia
+Wàll:Salbadoor	Kategori:El Salvador
+Wàll:Ayiti	Kategori:Haiti
+Wàll:Ekwadoor	Kategori:Ecuador
+Wàll:Yaman	Kategori:Jemen
+Wàll:Peru	Kategori:Peru
+Wàll:Boliibi	Kategori:Bolivia
+Wàll:Albaani	Kategori:Albania
+Wàll:Monaako	Kategori:Monaco
+Wàll:Cosaan	Kategori:Tradisjon
+Wàll:Jén	Kategori:Fisk
+Wàll:Làkki Afrig	Kategori:Språk i Afrika
+Wàll:Dëkki Benesuwela	Kategori:Byer i Venezuela
+Wàll:Rab	Kategori:Dyr
+Wàll:Nauru	Kategori:Nauru
+Wàll:Antigua ak Barbuda	Kategori:Antigua og Barbuda
+Wàll:Guyaana	Kategori:Guyana
+Wàll:Koloombi	Kategori:Colombia
+Wàll:Hip Hop	Kategori:Hiphop
+Wàll:Mbëjtekkaaral	Kategori:Elektrostatikk
+Wàll:Mbëj	Kategori:Elektrisitet
+Wàll:Jëfandikukat pl	Kategori:Bruker pl
+Royuwaay:Coord/dec2dms/d	Mal:Koord/dec2dms/d
+Wàll:Oseyaani	Kategori:Oseania
+Wàll:Montenegro	Kategori:Montenegro
+Wàll:Moto	Kategori:Kjøretøyer
+Wàll:Dëkki Senegaal	Kategori:Byer i Senegal
+Wàll:Làkki senegaal	Kategori:Språk i Senegal
+Ngelaw	Luft
+Royuwaay:Coord/dec2dms	Mal:Koord/dec2dms
+Royuwaay:Coord/display/inline	Mal:Koord/vis/tekst
+Royuwaay:Coord/input/d	Mal:Koord/innputt/d
+Royuwaay:Coord/input/dec	Mal:Koord/innputt/dec
+Royuwaay:Coord/input/dm	Mal:Koord/innputt/dm
+Royuwaay:Coord/input/dms	Mal:Koord/innputt/dms
+Trojany	Trojany
+Wàll:Njiiti Senegaal	Kategori:Senegalesiske presidenter
+Wàll:Wallis ak Futuna	Kategori:Wallis- og Futunaøyene
+Wàll:Jëfandikukat it-0	Kategori:Bruker it-0
+Wàll:Mbëjbijjaakon	Kategori:Elektromagnetisme
+Wàll:Kàttan	Kategori:Energi
+Royuwaay:Precision1	Mal:Precision1
+Wàll:Melo	Kategori:Farge
+Wàll:Jamono	Kategori:Tidsenheter
+Wàll:Làkki Niseer-Cóngoo	Kategori:Nigerkongo-språk
+Wàll:Njëkk-taariix	Kategori:Forhistorisk tid
+Wàll:Saari alxuraan	Kategori:Sura
+Wàll:Jëfandikukat nl-0	Kategori:Bruker nl-0
+Wàll:Jëfandikukat ru-0	Kategori:Bruker ru-0
+Wàll:Jëfandikukat es-0	Kategori:Bruker es-0
+Royuwaay:Coord/display/title	Mal:Koord/vis/tittel
+Royuwaay:Coord/input/ERROR	Mal:Koord/innputt/FEIL
+Wàll:Jëfandikukat en-1	Kategori:Bruker en-1
+Wàll:Jëfandikukat de-1	Kategori:Bruker de-1
+Wàll:Jëfandikukat da-N	Kategori:Bruker da-N
+Wàll:Taariixu Afrig	Kategori:Afrikas historie
+Fajar	Demring
+Tan	Ekte gribber
+Royuwaay:Style/IPA	Mal:Style/IPA
+Royuwaay:Style/yid	Mal:Style/yid
+Jagleel:Coppite yu mujj	Spesial:Siste endringer
+Wàll:Jëfandikukat ja-4	Kategori:Bruker ja-4

@@ -1,0 +1,364 @@
+Abĩrika	Afrika
+Japan	Japan
+Amerika ya Kuthini	Sør-Amerika
+Ngeretha	England
+Macartsa	Ungarn
+United States	USA
+Binirandi	Finland
+Cuindeni	Sverige
+Ndenimaki	Danmark
+Rithuĩnia	Litauen
+Itari	Italia
+Ngiriki	Hellas
+Takĩ	Tyrkia
+Wikipedia	Wikipedia
+Netharandi	Nederland
+Los Angeles	Los Angeles
+Kenya	Kenya
+Ethiopia	Etiopia
+Ghana	Ghana
+Baranja	Frankrike
+Esperanto	Esperanto
+China	Folkerepublikken Kina
+Wiktionary	Wiktionary
+Brazil	Brasil
+Racia	Russland
+Wikimedia	Wikimedia Foundation
+Jimmy Wales	Jimmy Wales
+Njĩrĩmani	Tyskland
+Azerbaijan	Aserbajdsjan
+Canimarino	San Marino
+Intel	Intel
+Indonesia	Indonesia
+Abĩrika ya Kuthini	Sør-Afrika
+Algeria	Algerie
+Mai	Vann
+Terebiceni	Fjernsyn
+Singapore	Singapore
+Wikibooks	Wikibøker
+Bahrain	Bahrain
+Armenia	Armenia
+İstanbul	Istanbul
+Australia	Australia
+Physics	Fysikk
+Argentina	Argentina
+Peru	Peru
+Bayorojĩ	Biologi
+Mount Everest	Mount Everest
+Napoleon	Napoléon Bonaparte
+Hydrogen	Hydrogen
+Helium	Helium
+Lithium	Litium
+Beryllium	Beryllium
+Carbon	Karbon
+Nitrogen	Nitrogen
+Oxygen	Oksygen
+Chad	Tsjad
+Sodium	Natrium
+Magnesium	Magnesium
+Aluminium	Aluminium
+Silicon	Silisium
+Phosphorous	Fosfor
+Iron	Jern
+Potasium	Kalium
+Calcium	Kalsium
+Titanium	Titan (grunnstoff)
+Ecuador	Ecuador
+Copper	Kobber
+Mĩmera	Planter
+Zinc	Sink
+Fungi	Sopper
+Jamaica	Jamaica
+Haiti	Haiti
+Iraq	Irak
+Panama	Panama
+Yemen	Jemen
+Virus	Virus
+Laos	Laos
+Malaysia	Malaysia
+Burma	Myanmar
+Pakistan	Pakistan
+Sri Lanka	Sri Lanka
+Syria	Syria
+Thailand	Thailand
+United Arab Emirates	De forente arabiske emirater
+Platinum	Platina
+Vietnam	Vietnam
+South Korea	Sør-Korea
+Afghanistan	Afghanistan
+Gold	Gull
+Bangladesh	Bangladesh
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Tanzania	Tanzania
+Isaac Newton	Isaac Newton
+Zimbabwe	Zimbabwe
+Sũdana ya Kuthini	Sør-Sudan
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Republic of the Congo	Republikken Kongo
+Democratic Republic of the Congo	Den demokratiske republikken Kongo
+Djibouti	Djibouti
+Gabon	Gabon
+Gambia	Gambia
+Côte d'Ivoire	Elfenbenskysten
+Cameroon	Kamerun
+Lesotho	Lesotho
+Madagascar	Madagaskar
+Malawi	Malawi
+Namibia	Namibia
+Nigeria	Nigeria
+Uganda	Uganda
+Rwanda	Rwanda
+Somalia	Somalia
+Julius Caesar	Julius Cæsar
+Sũdana	Sudan
+Usain Bolt	Usain Bolt
+Piemonte	Piemonte
+Valle d'Aosta	Aostadalen
+Emilia-Romagna	Emilia-Romagna
+Chicago	Chicago
+Uetersen	Uetersen
+Augustus	Augustus
+Campania	Campania
+Puglia	Puglia
+Biblia	Bibelen
+Dong Hoi	Dong Hoi
+Concepción	Concepción
+Microsoft	Microsoft
+Kemu	Kjemi
+Ankara	Ankara
+Nairobi	Nairobi
+Osasco	Osasco
+Curitiba	Curitiba
+Monzón	Monzón
+Almazán	Almazán
+Bill Gates	Bill Gates
+Main Page	Portal:Forside
+Cipiyu	CPU
+Penza	Penza
+Frank Lloyd Wright	Frank Lloyd Wright
+Category:Candidates for speedy deletion	Kategori:Sider som er foreslått raskt slettet
+Niels Bohr	Niels Bohr
+Bengi ya Thĩ	Verdensbanken
+Ndemookirathĩ	Demokrati
+Kĩheo ya Nobero	Nobelprisen
+Mount Kilimajaro	Kilimanjaro
+Mammal	Pattedyr
+WHO	Verdens helseorganisasjon
+Thayathi cia ndũire	Naturvitenskap
+Tsunami	Tsunami
+Logic	Logikk
+Algorithm	Algoritme
+Thomas Edison	Thomas Edison
+Michael Faraday	Michael Faraday
+Henry Ford	Henry Ford
+Cancún	Cancún
+Atomu	Atom
+Erwin Schrodinger	Erwin Schrödinger
+Ronald Reagan	Ronald Reagan
+Metha Njokereri	Periodesystemet
+Bacteria	Bakterier
+Robot	Robot
+Macini	Maskin
+Injiniarini	Ingeniørvitenskap
+Gatheti	Avis
+Microsoft obici	Microsoft Office
+AIDS	Aids
+Thiori ya Seti	Mengdelære
+Abacus	Abakus (kuleramme)
+Piacenza	Piacenza
+Taranto	Taranto
+ISO	ISO
+Province ya Piacenza	Provinsen Piacenza
+Province ya Taranto	Provinsen Taranto
+Wikipedia:Community Portal	Wikipedia:Tinget
+GPS	NAVSTAR Global Positioning System
+Friedrich Schiller	Friedrich Schiller
+Moshchena	Mosjtsjena
+Kihuruta	Sommerfugler
+Paradigm	Paradigme
+Gĩgĩkũyũ	Kikuyu (språk)
+Linus Torvalds	Linus Torvalds
+Thayathi cia social	Samfunnsvitenskap
+İzmir	Izmir
+Siligo	Siligo
+Markup languages	Markeringsspråk
+IBM	International Business Machines
+John Michael Talbot	John Michael Talbot
+Mawatho matano ma Newton	Newtons bevegelseslover
+Radio Studio 54 Network	Radio Studio 54 Network
+Montehermoso	Montehermoso
+Ford	Ford Motor Company
+Template:Commonscat	Mal:Commonscat
+Toyota	Toyota
+Cartesian Coordinates	Kartesisk koordinatsystem
+RFID	Radiofrekvensidentifikasjon
+Cybernetics	Kybernetikk
+Bioinformatics	Bioinformatikk
+Gĩlĩdenevĩ	Lydnevi
+Euclidean Geometry	Euklidsk geometri
+Macini ya Turing	Turingmaskin
+Silicon Valley	Silicon Valley
+Maywood	Maywood (Illinois)
+Kĩrĩnyaga	Mount Kenya
+Boolean Logic	Boolsk algebra
+Jomo Kenyatta	Jomo Kenyatta
+Thomas Kuhn	Thomas Kuhn
+Fujitsu	Fujitsu
+Tectonics	Tektonikk
+Microscope	Mikroskop
+Tigranes II	Tigranes I av Armenia
+Cyberspace	Cyberspace
+Palestine	Palestina (stat)
+Anggun	Anggun
+Fuzzy Logic	Fuzzylogikk
+Gatagati mkoa, Kenya	Central Province (Kenya)
+Bengi ya Gũkũria Abĩrika	Afrikabanken
+Hithitorĩ ya Kemu	Kjemiens historie
+Caribbean	Karibia
+Kikuyu	Kikuyu (by)
+Category:German	Kategori:Tyskland
+Category:Italy	Kategori:Italia
+Category:USA	Kategori:USA
+Category:Urusi	Kategori:Russland
+Category:Spain	Kategori:Spania
+Category:Turkey	Kategori:Tyrkia
+Ngima	Ugali
+Category:South Korea	Kategori:Sør-Korea
+Category:Thayathi cia ndũire	Kategori:Naturvitenskap
+Category:Kemu	Kategori:Kjemi
+Category:Sport	Kategori:Sport
+Category:Thayathi	Kategori:Vitenskap
+Wikipedia:Administrators	Wikipedia:Administratorer
+Category:Medicine	Kategori:Medisin
+Category:Politics	Kategori:Politikk
+Egypt	Egypt
+Template:Bot	Mal:Bot
+Canada	Canada
+Category:Rũraya	Kategori:Europa
+Template:Documentation	Mal:Dokumentasjon
+Template:Softredirect	Mal:Softredirect
+Template:Delete	Mal:Hurtigsletting
+Wikipedia:Statistics	Wikipedia:Statistikk
+Template:Navbox	Mal:Navboks
+Template:!	Mal:!
+Category:Abĩrika	Kategori:Afrika
+Template:Babel	Mal:Babel
+Template:Commons	Mal:Commons
+Template:User af-1	Mal:Bruker af-1
+Template:User als-1	Mal:Bruker als-1
+Template:User ar-1	Mal:Bruker ar-1
+Template:User az	Mal:Bruker az
+Template:User bar-1	Mal:Bruker bar-1
+Template:User eo-1	Mal:Bruker eo-1
+Template:User da-2	Mal:Bruker da-2
+Template:User ca-4	Mal:Bruker ca-4
+Template:User be-2	Mal:Bruker be-2
+Template:User da-1	Mal:Bruker da-1
+Template:User cs-1	Mal:Bruker cs-1
+Template:User eo-3	Mal:Bruker eo-3
+Template:User de	Mal:Bruker de
+Template:User de-1	Mal:Bruker de-1
+Template:User eu	Mal:Bruker eu
+Template:User et-1	Mal:Bruker et-1
+Template:User el	Mal:Bruker el
+Template:User es	Mal:Bruker es
+Template:User de-3	Mal:Bruker de-3
+Template:User en-3	Mal:Bruker en-3
+Template:User el-1	Mal:Bruker el-1
+Template:User en-1	Mal:Bruker en-1
+Template:User en-2	Mal:Bruker en-2
+Template:User eo-2	Mal:Bruker eo-2
+Template:User en-4	Mal:Bruker en-4
+Template:User fi	Mal:Bruker fi
+Template:User en-0	Mal:Bruker en-0
+Template:User en	Mal:Bruker en
+Template:User de-2	Mal:Bruker de-2
+Template:User es-1	Mal:Bruker es-1
+Template:User fa	Mal:Bruker fa
+Template:User fi-1	Mal:Bruker fi-1
+Template:User fr-1	Mal:Bruker fr-1
+Template:User ia-2	Mal:Bruker ia-2
+Template:User hr	Mal:Bruker hr
+Template:User he-1	Mal:Bruker he-1
+Template:User hu	Mal:Bruker hu
+Template:User id-3	Mal:Bruker id-3
+Template:User io-3	Mal:Bruker io-3
+Template:User it-3	Mal:Bruker it-3
+Template:User ja-4	Mal:Bruker ja-4
+Template:User sk	Mal:Bruker sk
+Template:User tr-2	Mal:Bruker tr-2
+Template:User fr-2	Mal:Bruker fr-2
+Template:User ja	Mal:Bruker ja
+Template:User ja-1	Mal:Bruker ja-1
+Template:User it-1	Mal:Bruker it-1
+Template:User hr-1	Mal:Bruker hr-1
+Template:User fr	Mal:Bruker fr
+Category:Amerika ya Kuthini	Kategori:Sør-Amerika
+Category:Football	Kategori:Fotball
+Template:Mod	Mal:Mod
+Template:User uk	Mal:Bruker uk
+Template:User es-2	Mal:Bruker es-2
+Template:Welcome	Mal:Reg-velkommen
+Template:Bururi wa Abĩrika	Mal:Afrikaland
+Template:User zh	Mal:Bruker zh
+Template:Legend	Mal:Legend
+Template:User ru-4	Mal:Bruker ru-4
+Template:Pp-template	Mal:Beskyttet side
+Template:User nl-1	Mal:Bruker nl-1
+Template:User nl-2	Mal:Bruker nl-2
+Category:America	Kategori:Amerika
+Template:Mikoa cia Italy	Mal:Italias regioner
+Template:User pt-1	Mal:Bruker pt-1
+Template:ICD10	Mal:ICD10
+Template:User nl	Mal:Bruker nl
+Template:User no-2	Mal:Bruker no-2
+Template:Emergency-bot-shutoff	Mal:Emergency-bot-shutoff
+Template:User pl-1	Mal:Bruker pl-1
+Template:User lt	Mal:Bruker lt
+Template:User nds-1	Mal:Bruker nds-1
+Template:User ar	Mal:Bruker ar
+Template:User no	Mal:Bruker no
+Template:User sv-2	Mal:Bruker sv-2
+Template:User lb-1	Mal:Bruker lb-1
+Template:User la-1	Mal:Bruker la-1
+Category:Template documentation	Kategori:Maldokumentasjonssider
+Category:User be-2	Kategori:Bruker be-2
+Template:User pdc-1	Mal:Bruker pdc-1
+Category:User sk-N	Kategori:Bruker sk-N
+Template:User la-3	Mal:Bruker la-3
+Category:Province ya Piacenza	Kategori:Provinsen Piacenza
+Template:User sv-1	Mal:Bruker sv-1
+Template:User sw-1	Mal:Bruker sw-1
+Category:Thayathi cia social	Kategori:Samfunnsvitenskap
+Template:User ru-2	Mal:Bruker ru-2
+Template:User es-3	Mal:Bruker es-3
+Template:User ko-3	Mal:Bruker ko-3
+Template:ICD9	Mal:ICD9
+Category:Kenya	Kategori:Kenya
+Template:User ca-3	Mal:Bruker ca-3
+Template:User la-2	Mal:Bruker la-2
+Template:User mk-1	Mal:Bruker mk-1
+Template:User nn-2	Mal:Bruker nn-2
+Template:User no-1	Mal:Bruker no-1
+Template:User pt	Mal:Bruker pt
+Template:User ru-1	Mal:Bruker ru-1
+Template:User sk-2	Mal:Bruker sk-2
+Template:User sr-1	Mal:Bruker sr-1
+Template:User sxu-1	Mal:Bruker sxu-1
+Template:User uk-4	Mal:Bruker uk-4
+Template:User vo-1	Mal:Bruker vo-1
+Template:User zh-1	Mal:Bruker zh-1
+Template:User zh-2	Mal:Bruker zh-2
+Category:Mirimu	Kategori:Sykdommer
+Template:User sl-1	Mal:Bruker sl-1
+Trojany	Trojany
+Category:Mikoa cia Kenya	Kategori:Kenyas provinser
+Template:User vls-1	Mal:Bruker vls-1
+Ebola	Ebola
+Template:User sh-2	Mal:Bruker sh-2
+Special:RecentChanges	Spesial:Siste endringer

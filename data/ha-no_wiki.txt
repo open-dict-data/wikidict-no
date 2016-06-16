@@ -1,0 +1,490 @@
+Afirka	Afrika
+Japan	Japan
+Norway	Norge
+Ireland	Irland
+Hungariya	Ungarn
+An Spàinn	Spania
+Amurika	USA
+Beljik	Belgia
+Luksamburg	Luxembourg
+Duniya	Jorden
+Yan-adam	Menneske
+Finland	Finland
+Sweden	Sverige
+Denmark	Danmark
+Poland	Polen
+Lithuania	Litauen
+Italiya	Italia
+Switzerland	Sveits
+Austriya	Østerrike
+Greek	Hellas
+Turkiyya	Tyrkia
+Portugal	Portugal
+Turai	Europa
+Asiya	Asia
+Amirka ta Arewa	Nord-Amerika
+Wikipedia	Wikipedia
+Berlin	Berlin
+Airbus	Airbus
+Na'ura	Datamaskin
+Yanar gizo	Internett
+Barack Obama	Barack Obama
+Pariis	Paris
+Kenya	Kenya
+Ethiopia	Etiopia
+Zaki	Løve
+Faransa	Frankrike
+Esperanto	Esperanto
+Kare	Tamhund
+Birtaniya	Storbritannia
+Kyanwa	Tamkatt
+Sin	Folkerepublikken Kina
+Kifi	Fisk
+Rasha	Russland
+Teku	Hav
+São Paulo	São Paulo
+Jamus	Tyskland
+Iceland	Island
+Istoniya	Estland
+Jirgin sama	Fly
+Ɗaya	1 (tall)
+Biyu	2 (tall)
+Uku	3 (tall)
+Huɗu	4 (tall)
+Biyar	5 (tall)
+Laitfiya	Latvia
+Ukraniya	Ukraina
+Kazech	Tsjekkia
+Slofakiya	Slovakia
+Sloveniya	Slovenia
+MOldufiniya	Moldova
+Romainiya	Romania
+Bulgairiya	Bulgaria
+Masadoiniya	Republikken Makedonia
+Albaniya	Albania
+Kroatiya	Kroatia
+Azerbaijan	Aserbajdsjan
+Andorra	Andorra
+Cyprus	Republikken Kypros
+Georgia (country)	Georgia
+Kazakystan	Kasakhstan
+Malta	Malta
+Monaco	Monaco
+Montenegro	Montenegro
+Vatican	Vatikanstaten
+San Marino	San Marino
+Indonesiya	Indonesia
+Afirka ta kudu	Sør-Afrika
+Aljeriya	Algerie
+Uzbekistan	Usbekistan
+Ruwa	Vann
+Chile	Chile
+Isa Almasihu	Jesus Kristus
+Singafora	Singapore
+Ilmi	Vitenskap
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahrain
+Armeniya	Armenia
+Serbiya	Serbia
+Wata	Månen
+Santanbul	Istanbul
+Asturaliya	Australia
+Koriya ta Arewa	Nord-Korea
+Kambodiya	Kambodsja
+Musulunci	Islam
+Rana	Solen
+Angela Merkel	Angela Merkel
+Timor-Leste	Øst-Timor
+Duniyoyi	Planet
+Cadi	Tsjad
+Indiya	India
+Mangolia	Mongolia
+Dabba	Dyr
+Shuka	Planter
+Kaza	Tamhøns
+Jersey	Jersey
+Aladu	Gris
+Iran	Iran
+Irak	Irak
+Isra'ila	Israel
+Yemen	Jemen
+Jordan	Jordan
+Kyrgystan	Kirgisistan
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Libanon
+Maldives	Maldivene
+Maleziya	Malaysia
+Myanmar	Myanmar
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudiyya	Saudi-Arabia
+Sri Lanka	Sri Lanka
+Siriya	Syria
+Tajikistan	Tadsjikistan
+Thailand	Thailand
+Turkmenistan	Turkmenistan
+Taraiyar larabawa	De forente arabiske emirater
+Vietnam	Vietnam
+Koriya ta Kudu	Sør-Korea
+Da Simpsons	Simpsons
+Afghanistan	Afghanistan
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Filipin	Filippinene
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	Den demokratiske republikken Kongo
+Gine	Guinea
+Kameru	Kamerun
+Libya	Libya
+Muritaniya	Mauritania
+Nijar	Niger
+Nijeriya	Nigeria
+Uganda	Uganda
+Senegal	Senegal
+Julius Caesar	Julius Cæsar
+Sudan	Sudan
+Majalisar Ɗinkin Duniya	De forente nasjoner
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Biri	Apekatter
+Augustus	Augustus
+Gibraltar	Gibraltar
+Mota	Bil
+Buenos Aires	Buenos Aires
+Zinedine Yazid Zidane	Zinedine Zidane
+Baibûl	Bibelen
+Concepción, Chile	Concepción
+Końskowola	Końskowola
+Maciji	Slanger
+Kimiya	Kjemi
+Lima	Lima
+Santiago de Chile	Santiago de Chile
+Osasco	Osasco
+Dong Hoi Filin	Dong Hoi lufthavn
+Curitiba	Curitiba
+Confucius	Konfucius
+Kiristancìì	Kristendom
+Nahiya	Kontinent
+Tsuntsu	Fugler
+Main Page	Portal:Forside
+Saratov	Saratov
+Bus	Buss
+Åland	Åland
+Makkah	Mekka
+Canary Islands	Kanariøyene
+Category:Candidates for speedy deletion	Kategori:Sider som er foreslått raskt slettet
+Sahara	Sahara
+Kyautar Nobel	Nobelprisen
+Sauro	Stikkemygg
+Raƙumi	Kameler
+Giwa	Elefanter
+Ƙudan zuma	Bier
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Kategori:Frankrike
+Hakkokin Yan-adam	Menneskerettigheter
+Hong Kong	Hongkong
+Rio de Janeiro	Rio de Janeiro
+Addini	Religion
+Muhammad	Muhammed
+Isle of Man	Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Tre
+APACHE	Apache (webserver)
+Lissafi	Tall
+Masara	Mais
+Ƙasashen Duniya	Liste over stater
+Dabbar beya	Bjørnefamilien
+Sankara	Kreft
+Kurãme	Døvhet
+Polio	Poliomyelitt
+Makaman nukiliya	Kjernefysiske våpen
+Macau	Macao
+Raƙumin dawa	Sjiraff
+Wikipedia:Community Portal	Wikipedia:Tinget
+Jimina	Struts
+Tara	9 (tall)
+Jaki	Afrikansk villesel
+Tuje	Trapper
+Jamhuriyar Sin	Taiwan
+Bakwai	7 (tall)
+Takwas	8 (tall)
+Dabbar rendiya	Hjortedyr
+Tafarnuwa	Hvitløk
+Shida	6 (tall)
+Moshchena	Mosjtsjena
+Selena	Selena
+Goma	10 (tall)
+Guernsey	Guernsey
+Kahuhu	Hærfugl
+Kyankyaso	Kakerlakker
+Galantoyi	Stork
+Kada	Krokodiller
+Kurciya	Streptopelia
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmoud Ahmadinejad
+Dokokin nan goma	De ti bud
+Damisa	Leopard
+Ido	Ido
+Larabawa	Arabere
+Madinah	Medina
+Gyaɗa	Peanøtt
+Ɗari	100 (tall)
+Hawainiya	Kameleoner
+Firinji	Kjøleskap
+Khomeini	Ruhollah Khomeini
+Ɗaɗɗoya	Basilikum
+Zirin Gaza	Gazastripen
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (tall)
+Arbaʼin	40 (tall)
+Palestin autonomija	Den palestinske selvstyremyndigheten
+Talatin	30 (tall)
+Dubu	1000 (tall)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Bermudatriangelet
+Dabgi	Jordsvin
+Kotun Shari'ar Miyagun Laifuka	Den internasjonale straffedomstolen
+Template:Commonscat	Mal:Commonscat
+Afirnawan Amirka	Afrikansk-amerikanere
+Hausa	Hausa
+Ali Khamenei	Ali Khamenei
+Sao Vang Filin	Sao Vang lufthavn
+Sittin	60 (tall)
+Rogo	Maniok
+Karkandan	Spissneshorn
+Cutar murar aladu	Influensa A(H1N1)-pandemien 2009
+Umaru Musa Yar'Adua	Umaru Yar'Adua
+Dila	Gullsjakal
+Balbela	Kuhegre
+Rimi	Ceiba pentandra
+Zamfara	Zamfara
+Zirman	Ricinus
+Kuka	Adansonia digitata
+Kwari	Husflue
+Gweba	Guava
+Zabo	Perlehøns
+Dage	Honninggrevling
+Herzegovina	Hercegovina
+CFA franc ( sefar yammaci Afirka)	CFA-franc
+Gwaggon biri	Olivenbavian
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Skilpadder
+Gwaza	Taro
+Casaʼin	90 (tall)
+Benik Afobe	Benik Afobe
+43 (adadan)	43 (tall)
+Zawo	Gymnarchus niloticus
+Dadis Mousa Camara	Moussa Dadis Camara
+Agadez	Agadez
+Kumurci	Svarthalset spyttekobra
+Matiyu	Evangeliet etter Matteus
+Kwara	Kwara
+Tan Son Nhat Filin	Tan Son Nhat internasjonale lufthavn
+Babba da jaka	Marabustork
+Carki	Oksehakkere
+Jihar Katsina	Katsina (delstat)
+Kano	Kano (delstat)
+Ybe	Yobe
+Tamanin	80 (tall)
+Sabaʼin	70 (tall)
+Hamsin	50 (tall)
+Yanyawa	Blassrev
+Da Nang Filin	Da Nang internasjonale lufthavn
+Yankan Allah	Blodstrupeamadin
+VietJet Air	VietJet Air
+Hazbiya	Spragledue
+51 (adadan)	51 (tall)
+Ca Mau Filin	Ca Mau lufthavn
+Help:Contents	Hjelp:Portal
+Alan A'Court	Alan A'Court
+Hankaka	Hvitbrystkråke
+C. W. Alcock	Charles Alcock
+Sisita	Rødkinnastrild
+Kwango	Kwango
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Category:Turkiyya	Kategori:Tyrkia
+Category:Afirka ta kudu	Kategori:Sør-Afrika
+Category:Nijeriya	Kategori:Nigeria
+Category:Vietnam	Kategori:Vietnam
+Category:Tsuntsu	Kategori:Fugler
+Category:Shuka	Kategori:Planter
+Category:Addini	Kategori:Religion
+Category:Duniya	Kategori:Jorden
+Duniyar Computer	Computerworld
+Shaho	Ørner
+Tommy Banks (footballer)	Tommy Banks
+Albert Adomah	Albert Adomah
+Riɗi	Sesam
+Category:Stubs	Kategori:Stubber
+Colin Addison	Colin Addison
+Template:Tl	Mal:Mal
+Template:Userbox	Mal:Userbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Category:Ƙasā̀shē	Kategori:Land
+Wikipedia:Administrators	Wikipedia:Administratorer
+Misra	Egypt
+Template:Bot	Mal:Bot
+Kanada	Canada
+Category:Slovakia	Kategori:Slovakia
+Category:Tūrai	Kategori:Europa
+Template:Documentation	Mal:Dokumentasjon
+Wikipedia:Community portal	Wikipedia:Portal
+Category:User languages	Kategori:Wikipedia-brukere etter språk
+Template:Softredirect	Mal:Softredirect
+Template:Delete	Mal:Hurtigsletting
+Category:Wikipedia	Kategori:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Generelle forbehold
+Wikipedia:Statistics	Wikipedia:Statistikk
+Template:Navbox	Mal:Navboks
+Template:!	Mal:!
+Template:=	Mal:=
+Template:Navbar	Mal:Tnavbar
+Template:Unicode	Mal:Unicode
+Template:Col-break	Mal:Col-break
+Template:Col-begin	Mal:Col-begin
+Template:Col-end	Mal:Col-end
+Wikipedia:Vital articles	Wikipedia:Liste over artikler vi bør ha
+Category:Afirka	Kategori:Afrika
+Category:Adadan	Kategori:Tall
+Template:Babel	Mal:Babel
+Template:Reflist	Mal:Referanser
+Template:Stub	Mal:Stubb
+Template:User af-1	Mal:Bruker af-1
+Template:User als-1	Mal:Bruker als-1
+Template:User ar-1	Mal:Bruker ar-1
+Template:User ast-1	Mal:Bruker ast-1
+Template:User az	Mal:Bruker az
+Template:User bar-1	Mal:Bruker bar-1
+Template:See also	Mal:Se også
+Template:User da-2	Mal:Bruker da-2
+Template:User da	Mal:Bruker da
+Template:User ca-1	Mal:Bruker ca-1
+Template:User ca-4	Mal:Bruker ca-4
+Template:User be-2	Mal:Bruker be-2
+Template:User da-1	Mal:Bruker da-1
+Template:User cs-1	Mal:Bruker cs-1
+Template:User de	Mal:Bruker de
+Template:User de-1	Mal:Bruker de-1
+Template:User el	Mal:Bruker el
+Template:User de-3	Mal:Bruker de-3
+Template:User en-3	Mal:Bruker en-3
+Template:User el-1	Mal:Bruker el-1
+Template:User en-1	Mal:Bruker en-1
+Template:User en-2	Mal:Bruker en-2
+Template:User en-4	Mal:Bruker en-4
+Template:User en	Mal:Bruker en
+Template:User de-2	Mal:Bruker de-2
+Template:User tr-2	Mal:Bruker tr-2
+Template:User tr	Mal:Bruker tr
+Category:Asiya	Kategori:Asia
+Category:User uk	Kategori:Bruker uk
+Category:User uk-N	Kategori:Bruker uk-N
+Template:Mod	Mal:Mod
+Template:User uk	Mal:Bruker uk
+Template:Wikivar	Mal:Wikivar
+Template:Country showdata	Mal:Country showdata
+Template:Image label	Mal:Image label
+Template:Ambox	Mal:Amboks
+Template:Infobox Country	Mal:Infoboks land2
+Template:Tmbox	Mal:Tmbox
+Category:User en-4	Kategori:Bruker en-4
+Category:User en	Kategori:Bruker en
+Category:User en-2	Kategori:Bruker en-2
+Template:Infobox	Mal:Infoboks
+Template:Cite web	Mal:Kilde www
+Template:Ombox	Mal:Pmboks
+Template:Pp-template	Mal:Beskyttet side
+Template:Mbox templates	Mal:Mboks-maler
+Template:IPA	Mal:IPA
+Category:Amurika	Kategori:Amerika
+Template:MONTHNAME	Mal:MONTHNAME
+Template:Namespace detect	Mal:Namespace detect
+Template:Tlx	Mal:Malp
+Template:Purge	Mal:Oppdater
+Template:Sportivo	Mal:Infoboks sportsbiografi
+Kungiyar Agaji Ta Red Cross Ta Duniya	Den internasjonale Røde Kors-komiteen
+Template:Image label small	Mal:Image label small
+Template:Mbox	Mal:Mbox
+Template:Disambig	Mal:Peker
+Category:User az	Kategori:Bruker az
+Category:User be	Kategori:Bruker be
+Category:User cs-1	Kategori:Bruker cs-1
+Category:User da-1	Kategori:Bruker da-1
+Category:User ar-1	Kategori:Bruker ar-1
+Category:User be-2	Kategori:Bruker be-2
+Category:User da-2	Kategori:Bruker da-2
+Category:User tr-2	Kategori:Bruker tr-2
+Category:User af	Kategori:Bruker af
+Category:User af-1	Kategori:Bruker af-1
+Category:User als	Kategori:Bruker als
+Category:User als-1	Kategori:Bruker als-1
+Category:User ar	Kategori:Bruker ar
+Category:User ast	Kategori:Bruker ast
+Category:User ast-1	Kategori:Bruker ast-1
+Category:User az-N	Kategori:Bruker az-N
+Category:User bar	Kategori:Bruker bar
+Category:User bar-1	Kategori:Bruker bar-1
+Category:User bg	Kategori:Bruker bg
+Category:User bg-1	Kategori:Bruker bg-1
+Category:User ca	Kategori:Bruker ca
+Category:User ca-1	Kategori:Bruker ca-1
+Category:User ca-4	Kategori:Bruker ca-4
+Category:User cs	Kategori:Bruker cs
+Category:User da	Kategori:Bruker da
+Category:User de	Kategori:Bruker de
+Category:User de-2	Kategori:Bruker de-2
+Category:User de-3	Kategori:Bruker de-3
+Category:User el	Kategori:Bruker el
+Category:User el-1	Kategori:Bruker el-1
+Category:User el-N	Kategori:Bruker el-N
+Category:User en-3	Kategori:Bruker en-3
+Category:User en-N	Kategori:Bruker en-N
+Category:User ha	Kategori:Bruker ha
+Category:User ha-N	Kategori:Bruker ha-N
+Category:User tr	Kategori:Bruker tr
+Category:User tr-N	Kategori:Bruker tr-N
+Category:Bishiya	Kategori:Tresorter
+Template:As of	Mal:As of
+Category:Kudi	Kategori:Valuta
+Category:Ingila kwallon kafa players	Kategori:Engelske fotballspillere
+Category:Kifi	Kategori:Fisk
+Category:Amfani	Kategori:Frukt
+Category:Dabba	Kategori:Dyr
+Iska	Luft
+Template:FULLROOTPAGENAME	Mal:FULLROOTPAGENAME
+Trojany	Trojany
+Template:Image label begin	Mal:Image label begin
+Category:User en-1	Kategori:Bruker en-1
+Category:User de-1	Kategori:Bruker de-1
+Category:User da-N	Kategori:Bruker da-N
+Template:Start date	Mal:Startdato
+Module:Citation/CS1/Whitelist	Modul:Citation/CS1/Whitelist
+Malan boɗe ido	Rhopalocera
+Module:Convert	Modul:Convert
+Template:Ambox/core	Mal:Amboks/core
+Template:Tmbox/core	Mal:Tmbox/core
+Special:RecentChanges	Spesial:Siste endringer
+Module:Citation/CS1	Modul:Citation/CS1
+Module:Citation/CS1/Configuration	Modul:Citation/CS1/Configuration
+Module:InfoboxImage	Modul:InfoboxImage
+Module:Infobox	Modul:Infoboks
+Module:Citation/CS1/Date validation	Modul:Citation/CS1/Date validation
+Adam Armstrong (footballer)	Adam Armstrong
